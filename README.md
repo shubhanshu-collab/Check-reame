@@ -2,6 +2,10 @@
   This text has a yellow background.
 </div>
 
+<font color="yellow">This text will be yellow</font>
+<span style="color: yellow">This text will be yellow</span>
+This text will be yellow [yellow](#)
+
 
 # Safety Features
 #### Machine Safety Features
