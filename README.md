@@ -539,25 +539,23 @@ and components sourced from suppliers that is not reproduced in this
 operator's manual."
 Operator’s Station,Radio Types (Optional),"**Features**
 
-**Header:**
-Main Features | Radio | Connection of External Devices | USB |  | Satellite Radio Ready
+| --- | --- | --- | --- | --- | --- |
+| Main Features | Radio | Connection of External Devices | USB |  | Satellite Radio Ready |
 
-**Rows:**
-(A)—Touch Screen Radio | X | X | X | X | United States
-(B)—AM Radio | X | X |  | X | Not Available"
+| (A)—Touch Screen Radio | X | X | X | X | United States |
+| (B)—AM Radio | X | X |  | X | Not Available |"
 Operator’s Station,After Market Radios,"If installing or replacing an aftermarket radio,
 see your John Deere dealer for further information."
 Operator’s Station,Program Radio for Local Area Frequency,"If a different tuner frequency is needed for the radio,
 see your John Deere dealer for further information.
 **Frequency**
 
-**Header:**
-Wave Bands (United States) | Wave Bands (All Other Countries)
+| --- | --- |
+| Wave Bands (United States) | Wave Bands (All Other Countries) |
 
-**Rows:**
-FM | 87.7—107.9 MHz | UKW (FM) | 87.5—108.0 MHz
-AM | 530—1710 kHz | MW | 522—1629 kHz
-WX | 162.4—162.55 MHz | LW | 153—279 kHz"
+| FM | 87.7—107.9 MHz | UKW (FM) | 87.5—108.0 MHz |
+| AM | 530—1710 kHz | MW | 522—1629 kHz |
+| WX | 162.4—162.55 MHz | LW | 153—279 kHz |"
 Operator’s Station,Radio Controls,
 Operator’s Station,Radio Antenna,"To prevent damage, screw the radio antenna into the
 base so it is finger tight.
@@ -982,10 +980,9 @@ to START position.
 Key positions are:
 **Key Positions**
 
-**Rows:**
-First Position
-Second Position
-Third Position"
+| First Position |
+| Second Position |
+| Third Position |"
 Operating the Engine,Stopping the Engine,"Move multi-function lever
 (A) to neutral position.
 Press slow speed engine
@@ -1229,9 +1226,8 @@ Residue Management Application,Total Loss Measurement,"Total Loss Measurement dr
 loss measurement with the premium residue configuration.
 **Total Loss Measurement Prerequisites**
 
-**Rows:**
-Separator Status | Disengaged
-Chopper Position | Fully Raised"
+| Separator Status | Disengaged |
+| Chopper Position | Fully Raised |"
 Header Application,Access Header,
 Header Application,Header Main Page,"Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
@@ -1914,12 +1910,11 @@ or backshaft speed.
 Only for
 **Feeder House Speeds**
 
-**Header:**
-Feeder House Lower Shaft Speeds
+| --- |
+| Feeder House Lower Shaft Speeds |
 
-**Rows:**
-Fixed Speed (if equipped) | 520 rpm
-Variable Speed (if equipped) | 520-780 rpm"
+| Fixed Speed (if equipped) | 520 rpm |
+| Variable Speed (if equipped) | 520-780 rpm |"
 Header Application,Cutterbar Position,"Cutterbar Position adjusts allows you to control the position
 of the cutterbar.
 Only works on European Extendable Platform Headers.
@@ -2927,11 +2922,10 @@ Machine can be towed for emergency situations
 up to 10 min at maximum speed of 10 km/h (6.2 mph).
 **Tow Mode Requirements**
 
-**Rows:**
-Engine State | Running
-Wheel Speed | 0 km (0 mph)
-Operator | In Seat
-Machine State | Park Brake Engaged"
+| Engine State | Running |
+| Wheel Speed | 0 km (0 mph) |
+| Operator | In Seat |
+| Machine State | Park Brake Engaged |"
 Lights Application,Access Lights,
 Lights Application,Lights Main Page,"Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
@@ -2979,22 +2973,19 @@ Crop type being harvested has changed.
 Mass Flow Sensor has been replaced.
 **Requirements**
 
-**Rows:**
-Recommended Interval | See “Perform Calibration When” section for more information.
-Estimated Time Required | Approximately 1 min"
+| Recommended Interval | See “Perform Calibration When” section for more information. |
+| Estimated Time Required | Approximately 1 min |"
 Calibrations Application,Mass Flow Vibration Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Moisture Sensor,"The moisture sensor has been installed, replaced, or adjusted.
 The moisture sensor accuracy needs to be improved."
 Calibrations Application,Moisture Sensor Procedure,"This procedure performs the calibration for the Moisture Sensor.
 **Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Yield Calibration,"This procedure calibrates the estimated yield. Calibration is
 done by matching recorded samples with corresponding scale weight
 measurements.
@@ -3093,10 +3084,9 @@ Manual Yield Calibration is unavailable while
 Example:
 **Requirements**
 
-**Rows:**
-Crop Type | Corn
-Accepted Samples | 10
-Last Accepted | 32 min ago"
+| Crop Type | Corn |
+| Accepted Samples | 10 |
+| Last Accepted | 32 min ago |"
 Calibrations Application,ActiveYield™ | Status Indicator,"A sample is not a complete grain tank. Recording of a
 sample starts when the
 Status Indicator displays the status of record samples and a
@@ -3158,14 +3148,12 @@ associated components are replaced/adjusted.
 Unloading auger engagement is more difficult than expected.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1-2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1-2 min |"
 Calibrations Application,Unloading Auger Engage Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Unloading auger disengaged"
+| Engine State | Running at high idle |
+| Operating State | Unloading auger disengaged |"
 Calibrations Application,Chopper Vane,"This procedure calibrates the position of the tailboard vanes.
 The physical vane position doesn't match the displayed
 position.
@@ -3173,13 +3161,11 @@ Control unit LC2, chopper vane, or associated components
 have been replaced.
 **Details Displayed on Page**
 
-**Rows:**
-Estimated Time Required | Approximately 5 min"
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Chopper Vane Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Deck Plate Spacing,"This procedure calibrates the deck plate opening by identifying
 the fully opened and closed positions of the deck plates. Properly
 calibrated deck plates provide the best results for the harvest setting
@@ -3192,14 +3178,12 @@ Deck plate opening does not appear to match what is being
 displayed in the cab.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1-2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1-2 min |"
 Calibrations Application,Deck Plate Spacing Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Feeder House Raise Speed,"This procedure calibrates Feeder House Raise Speed by providing
 the rate of response at which the feeder house raise or lower reacts.
 A properly calibrated Feeder House Raise Speed provides smooth feeder
@@ -3211,14 +3195,12 @@ Attachments of significant weight are added to or removed
 from header.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 3-4 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 3-4 min |"
 Calibrations Application,Feeder House Raise Speed Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Header Calibration,"This procedure calibrates the coarse and fine movement of the
 header. Calibration is done by raising and lowering the header to
 set sensor ranges.
@@ -3231,14 +3213,12 @@ The first time each header type (except for hinged drapers)
 is connected to an S700 Series Combine.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1 min |"
 Calibrations Application,Header Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Feeder House Tilt Fore/Aft Range,"This procedure calibrates Feeder House Tilt Fore/Aft Range by
 measuring current commanded and associated range of the feeder house
 tilt. Performing this calibration improves feeder house tilt range
@@ -3248,14 +3228,12 @@ Feeder house fore/aft tilt sensor or associated components
 are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 5 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Feeder House Tilt Fore/Aft Range Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Feeder House Lateral Tilt Range,"This procedure calibrates Feeder House Lateral Tilt Range by
 measuring current commanded and associated range of the feeder house
 tilt. Performing this calibration improves feeder house tilt range
@@ -3265,14 +3243,12 @@ Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 5 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Feeder House Lateral Tilt Range Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Feeder House Lateral Tilt Speed,"This procedure calibrates Feeder House Lateral Tilt Speed by
 measuring current commanded and associated speed of the feeder house
 tilting. Performing this calibration improves feeder house tilt response
@@ -3282,14 +3258,12 @@ Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 3-4 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 3-4 min |"
 Calibrations Application,Feeder House Lateral Tilt Speed Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Parked on a level surface"
+| Engine State | Running at high idle |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Wings (Folding Corn Head),"This procedure calibrates Folding Corn Head by folding and unfolding
 the wings of the corn head and measuring associated sensor voltage
 at each position. This allows the system to detect the position of
@@ -3302,14 +3276,12 @@ Folding corn head wing position sensor, or associated
 components are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 3-4 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 3-4 min |"
 Calibrations Application,Wings (Folding Corn Head) Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running at high idle
-Operating State | Separator disengaged"
+| Engine State | Running at high idle |
+| Operating State | Separator disengaged |"
 Calibrations Application,Reel and Cutterbar Position,"This procedure calibrates Reel and Cutterbar by extending/retracting
 the cutterbar and moving the reel to the minimum and maximum positions
 to associate the mechanical limits with sensor voltages. Performing
@@ -3319,34 +3291,29 @@ Reel/Cutterbar position sensors or associated components
 are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 3-4 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 3-4 min |"
 Calibrations Application,Reel and Cutterbar Position Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Combine in field mode
-Operating State | Parked on a level surface
+| Engine State | Combine in field mode |
+| Operating State | Parked on a level surface |
 **Recommended Measurements**
 
-**Rows:**
-622X, 625X, 722X, and 725X Extendable Platforms | 5 cm (2 in)
-630X, 640X, 730X, and 740X Extendable Platforms | 6 cm (2-3/8 in)
-635X and 735X Extendable Platforms | 7 cm (2-13/16 in)"
+| 622X, 625X, 722X, and 725X Extendable Platforms | 5 cm (2 in) |
+| 630X, 640X, 730X, and 740X Extendable Platforms | 6 cm (2-3/8 in) |
+| 635X and 735X Extendable Platforms | 7 cm (2-13/16 in) |"
 Calibrations Application,Amber Flasher,"This calibration measures current demands of the amber lights.
 A normal current is used to compare the current demands when lights
 are used to detect if the trailer is attached or for bad bulb detection.
 Amber Flasher bulbs or associated components are replaced/adjusted.
 **Requirements**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1-2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1-2 min |"
 Calibrations Application,Amber Flasher Calibration Procedure,"**Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Left Concave Leveling,"This procedure calibrates the left concave to ensure a level
 and even flow of grain during harvest. Performing this calibration
 will reduce risk of damage.
@@ -3355,14 +3322,12 @@ replaced/adjusted.
 Left concave has recently been installed or replaced.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 4min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 4min |"
 Calibrations Application,Left Concave Leveling Calibration Procedure,"**Procedure Requirement:**
 
-**Rows:**
-Engine State | OFF
-Operating State | Parked on a level surface"
+| Engine State | OFF |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Right Concave Leveling,"This procedure calibrates the right concave to ensure a level
 and even flow of grain during harvest. Performing this calibration
 will reduce risk of damage.
@@ -3371,42 +3336,36 @@ replaced/adjusted.
 Right concave has recently been installed or replaced.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 4 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 4 min |"
 Calibrations Application,Right Concave Leveling Calibration Procedure,"**Procedure Requirement:**
 
-**Rows:**
-Engine State | OFF
-Operating State | Parked on a level surface"
+| Engine State | OFF |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Chaffer Position,"This procedure calibrates the chaffer position.
 Chaffer element or chaffer actuator has been replaced/adjusted.
 Element clearance on –the left side and right side are
 not matched.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 5 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Chaffer Position Calibration Procedure,"**Procedure Requirement:**
 
-**Rows:**
-Engine State | Not running
-Operating State | Parked on a level surface"
+| Engine State | Not running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Sieve Position,"This procedure calibrates the sieve position.
 Sieve element or sieve actuator has been replaced/adjusted.
 Element clearance on the left side and right side are
 not matched.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 5 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Sieve Position Calibration Procedure,"**Procedure Requirement:**
 
-**Rows:**
-Engine State | Not running
-Operating State | Parked on a level surface"
+| Engine State | Not running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Header Suspension Service Mode,"This procedure can be used to release hydraulic pressure from
 the hinged draper suspension systems. Releasing hydraulic load makes
 service and maintenance possible and can be controlled for either
@@ -3426,17 +3385,15 @@ Service or maintenance is required on front end equipment
 suspension systems.
 **Details Displayed on Page**
 
-**Rows:**
-Recommendations | Ensure that the machine is in park.
-"
+| Recommendations | Ensure that the machine is in park. |
+|  |"
 Calibrations Application,Header Suspension Service Mode | Procedure,"**Procedure Requirements**
 
-**Header:**
-Engine State | Running
+| --- | --- |
+| Engine State | Running |
 
-**Rows:**
-Machine State | Parked on a level surface
-Header State | Not engaged"
+| Machine State | Parked on a level surface |
+| Header State | Not engaged |"
 Calibrations Application,Header Suspension Service Mode | Pressure Control,"Header Suspension Service Mode allows you to use the controls
 to manipulate hydraulic pressures on front end equipment suspension
 systems.
@@ -3460,9 +3417,8 @@ is in question.
 A grain loss sensor or system component is replaced.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Last Run | Displays Date When Procedure Was Last Performed"
+| Recommended Interval | As Needed |
+| Last Run | Displays Date When Procedure Was Last Performed |"
 Calibrations Application,Grain Loss Monitor Tap Test Procedure,"This procedure can be used to verify that various grain loss
 monitor sensors are functioning normally and detecting loss strikes.
 After the procedure begins, physically tapping each sensor should
@@ -3472,9 +3428,8 @@ before beginning the procedure. Ensure that accidental activation
 of machinery is not possible.
 **Procedure Requirements**
 
-**Rows:**
-Operating State | Harvesting and separating functions are stopped.
-Engine State | Key switch in the RUN position is required. Can also be performed with the engine running."
+| Operating State | Harvesting and separating functions are stopped. |
+| Engine State | Key switch in the RUN position is required. Can also be performed with the engine running. |"
 Calibrations Application,Gauge Wheel Speed,"This procedure calibrates the extension and retraction rates
 of the gauge wheels to ensure optimal performance of cut height adjustments.
 A hydraulic gauge wheel proportional valve or related
@@ -3483,39 +3438,33 @@ Mechanical adjustments have been made to the head.
 Items Accessible on Gauge Wheel Speed Page:
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 5 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 5 min |"
 Calibrations Application,Gauge Wheel Speed Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Machine in field mode
-Operating State | Parked on a level surface"
+| Engine State | Machine in field mode |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Hinged Draper Wing Position,"This procedure calibrates the Hinged Draper Wing Position. This
 procedure also calibrates the position of the frame wings.
 A wing position sensor or related component is changed.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 2 min |"
 Calibrations Application,Hinged Draper Wing Position Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Machine in field mode
-Operating State | Header must be disengaged"
+| Engine State | Machine in field mode |
+| Operating State | Header must be disengaged |"
 Calibrations Application,Windscreen Position,"This procedure calibrates the Windscreen Position.
 The windscreen position sensor or related components are
 replaced/adjusted.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 2 min |"
 Calibrations Application,Windscreen Position Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Machine in field mode"
+| Engine State | Machine in field mode |"
 Calibrations Application,Tailings Calibration,"This procedure calibrates the empty level of the tailings elevator.
 Performing this calibration may improve tailings system performance.
 Control unit, tailings sensors, elevator chain, or related
@@ -3523,14 +3472,12 @@ components are replaced or adjusted.
 Lower auger or return auger is replaced.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1 min |"
 Calibrations Application,Tailings Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Set to high idle
-Operating State | Header must be disengaged"
+| Engine State | Set to high idle |
+| Operating State | Header must be disengaged |"
 Calibrations Application,Left Threshing Clearance,"This procedure calibrates left threshing clearance by identifying
 the fully opened and closed portions of the concaves. A properly calibrated
 threshing clearance provides the best results for the harvest setting
@@ -3545,14 +3492,12 @@ Threshing clearance sensor or associated components are
 replaced/adjusted.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1—2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1—2 min |"
 Calibrations Application,Left Threshing Clearance Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Calibrations Application,Right Threshing Clearance,"This procedure calibrates right threshing clearance by identifying
 the fully opened and closed positions of the concaves. A properly
 calibrated threshing clearance provides the best results for the harvest
@@ -3567,14 +3512,12 @@ Threshing clearance sensor or associated components are
 replaced/adjusted.
 **Details Displayed on Page**
 
-**Rows:**
-Recommended Interval | As Needed
-Estimated Time Required | Approximately 1—2 min"
+| Recommended Interval | As Needed |
+| Estimated Time Required | Approximately 1—2 min |"
 Calibrations Application,Right Threshing Clearance Calibration Procedure,"**Procedure Requirements**
 
-**Rows:**
-Engine State | Running
-Operating State | Parked on a level surface"
+| Engine State | Running |
+| Operating State | Parked on a level surface |"
 Combine Advisor™ Application,Access Combine Advisor™,
 Combine Advisor™ Application,Combine Advisor™ Main Page,"Combine Advisor™, formerly Integrated Combine Adjustment 2,
 is where you can access Optimize Performance,
@@ -4167,23 +4110,21 @@ with the John Deere touchscreen radio. The call answer function works
 with all John Deere radios that support
 Native means voice recognition
 (VR) is running through radio.
-**Rows:**
- | 
- | 
- | Start Native VR Session
- | Start Native VR Session | Start Device VR (
- | Accept Phone Call | –
- | Start Native VR Session
- | – | Aborts Native VR Session
-
- | Interrupts Voice Prompt
-**Rows:**
- | 
- | 
- | Talk to
- | Accept Phone Call
- | –
- | Ends VR Session"
+|  |  |
+|  |  |
+|  | Start Native VR Session |
+|  | Start Native VR Session | Start Device VR ( |
+|  | Accept Phone Call | – |
+|  | Start Native VR Session |
+|  | – | Aborts Native VR Session |
+|  |
+|  | Interrupts Voice Prompt |
+|  |  |
+|  |  |
+|  | Talk to |
+|  | Accept Phone Call |
+|  | – |
+|  | Ends VR Session |"
 Combine Overview,Engine and Ground Drive,"Machine will not enter road mode if separator is engaged.
 Warning alarm message appears indicating separator is engaged. Shut
 OFF separator to engage the road transport disconnect switch."
@@ -4559,10 +4500,9 @@ sensors related to the system showing the error. See your Operator's
 Manual for VisionTrak operational checks and sensor inspection procedures.
 **System Requirements**
 
-**Rows:**
-Engine State | Running
-Road Transport Disconnect Switch | Field Position
-Header and Separator Switch | Engaged"
+| Engine State | Running |
+| Road Transport Disconnect Switch | Field Position |
+| Header and Separator Switch | Engaged |"
 Lights and Signals,Lighting Locations (Front and Rear View Lights),"Lights must be turned ON when transporting.
 Controls beacon lights (A and L).
 Two beacon lights are at the front (left and right) and
@@ -5041,23 +4981,21 @@ Separator,Rotor Gear Case—Changing Speed,"Change the rotor gear
 case speed into desired position (B—E) using handle (A).
 **Rotor Speed**
 
-**Header:**
-Gear | Factory Belt Speed Ranges | Optimal Belt Life Speed Ranges
+| --- | --- | --- |
+| Gear | Factory Belt Speed Ranges | Optimal Belt Life Speed Ranges |
 
-**Rows:**
-First (Low Range) | 300—520 rpm | 300—450 rpm
-Second (Medium Range) | 420—800 rpm | 450—720 rpm
-Third (High Range) | 720—1300 rpm | 720—1300 rpm"
+| First (Low Range) | 300—520 rpm | 300—450 rpm |
+| Second (Medium Range) | 420—800 rpm | 450—720 rpm |
+| Third (High Range) | 720—1300 rpm | 720—1300 rpm |"
 Separator,Concave Recommendations,"For recommended machine settings for various crops, see
 the Crop Setting section for further information.
 **Concave Types**
 
-**Rows:**
-Concave Type | Corn | Soybeans | Wheat | Popcorn | Sorghum (Milo) | Sunflowers (Oil) | Canola
-Small Wire | NR | NR | Best | NR | NR | Average | Best
-Large Wire | Good | Good | Good | NR | Best | Best | Good
-Round Bar | Best | Best | Average | Best | Average | Best | Average
-Best = Provides best level of performance."
+| Concave Type | Corn | Soybeans | Wheat | Popcorn | Sorghum (Milo) | Sunflowers (Oil) | Canola |
+| Small Wire | NR | NR | Best | NR | NR | Average | Best |
+| Large Wire | Good | Good | Good | NR | Best | Best | Good |
+| Round Bar | Best | Best | Average | Best | Average | Best | Average |
+| Best = Provides best level of performance. |"
 Separator,Concave Types,"Round bar multiple crop concave is used for corn and soybeans.
 Large wire concave is used for soybeans and grain sorghum.
 Small wire concave is used for small grains."
@@ -5174,15 +5112,14 @@ or tine using previously removed cap screws.
 Threshing Element and Separator Tine Cap Screws"
 Separator,Threshing Element and Separator Tine Location,"**Rotor Configurations**
 
-**Rows:**
- | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | "
+|  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |"
 Separator,Discharge Beater Wear Strip—Replacing,"Discharge beater wings and wear strips can be replaced
 without removing the discharge beater. Replace discharge beater wings
 in sets of two and opposite of each other to maintain proper balance.
@@ -6465,14 +6402,13 @@ Machine Light Angles (Detailed Adjustment) for further information
 on adjusting the various lights around the machine.
 **Light Angles**
 
-**Header:**
-Position | Right-Hand Cab Lights | Left-Hand Cab Lights
-Light 1 | Light 2 | Light 3 | Light 4 | Light 5 | Light 6 | Light 7 | Light 8 | Light 9 | Light 10
+| --- | --- | --- |
+| Position | Right-Hand Cab Lights | Left-Hand Cab Lights |
+| Light 1 | Light 2 | Light 3 | Light 4 | Light 5 | Light 6 | Light 7 | Light 8 | Light 9 | Light 10 |
 
-**Rows:**
-Horizontal | -76° | -34° | -10° | 0° | 0° | 0° | 0° | 10° | 34° | 76°
-Vertical | 20° | 15° | 35° | 8° | 6° | 6° | 8° | 35° | 15° | 20°
-Positive value indicates a counterclockwise direction for the horizontal value."
+| Horizontal | -76° | -34° | -10° | 0° | 0° | 0° | 0° | 10° | 34° | 76° |
+| Vertical | 20° | 15° | 35° | 8° | 6° | 6° | 8° | 35° | 15° | 20° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |"
 Service—Electrical System,Adjust Machine Light Angles (Detailed Adjustment),"Move machine away from any obstructions using dimensions
 (A and B).
 A traffic cone, for example, can be used as an object
@@ -6499,79 +6435,70 @@ Adjust the left-hand cab headlight (low-beam) to specification.
 See information later in this section on adjusting the cab headlights.
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Cab Headlight (low-beam) | 0° | 8°
+| Left-Hand Cab Headlight (low-beam) | 0° | 8° |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Right-Hand Cab Headlight (low-beam) | 0° | 8°
+| Right-Hand Cab Headlight (low-beam) | 0° | 8° |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Cab Headlight (high-beam) | 0° | 6°
+| Left-Hand Cab Headlight (high-beam) | 0° | 6° |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Right-Hand Cab Headlight (high-beam) | 0° | 6°
+| Right-Hand Cab Headlight (high-beam) | 0° | 6° |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Cab Worklight (inner) (C1) | 10° | 35°
-Right-Hand Cab Worklight (inner) (C1) | -10° | 35°
-Left-Hand Cab Worklight (outer) (C2) | 34° | 15°
-Right-Hand Cab Worklight (outer) (C2) | -34° | 15°
-Positive value indicates a counterclockwise direction for the horizontal value.
+| Left-Hand Cab Worklight (inner) (C1) | 10° | 35° |
+| Right-Hand Cab Worklight (inner) (C1) | -10° | 35° |
+| Left-Hand Cab Worklight (outer) (C2) | 34° | 15° |
+| Right-Hand Cab Worklight (outer) (C2) | -34° | 15° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Row Finder Light | 76° | 20°
-Right-Hand Row Finder Light | -76° | 20°
-Positive value indicates a counterclockwise direction for the horizontal value.
+| Left-Hand Row Finder Light | 76° | 20° |
+| Right-Hand Row Finder Light | -76° | 20° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Stubble Light | 86° | 25°
-Right-Hand Stubble Light | -86° | 25°
-Positive value indicates a counterclockwise direction for the horizontal value.
+| Left-Hand Stubble Light | 86° | 25° |
+| Right-Hand Stubble Light | -86° | 25° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand 360° Side Light | 124° | 25°
-Right-Hand 360° Side Light | -120° | 25°
-Positive value indicates a counterclockwise direction for the horizontal value.
+| Left-Hand 360° Side Light | 124° | 25° |
+| Right-Hand 360° Side Light | -120° | 25° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |
 **Light Angles**
 
-**Header:**
-Location | Horizontal Specification | Vertical Specification
+| --- | --- | --- |
+| Location | Horizontal Specification | Vertical Specification |
 
-**Rows:**
-Left-Hand Rear Discharge Light | 145° | 28°
-Right-Hand Rear Discharge Light | -145° | 28°
-Positive value indicates a counterclockwise direction for the horizontal value."
+| Left-Hand Rear Discharge Light | 145° | 28° |
+| Right-Hand Rear Discharge Light | -145° | 28° |
+| Positive value indicates a counterclockwise direction for the horizontal value. |"
 Service—Electrical System,Cab Headlights—Replacing,"Disconnect the wiring harness connector (A) from the
 headlight assembly.
 Remove nut (B) and cap
@@ -6690,28 +6617,27 @@ See Care and Service of Tires in this section for further
 information.
 **Tire Chart**
 
-**Header:**
-Configuration | Transport Speed | Harvest Speed
-Approximate Header Mass | No Head/ Transport | 4500—5500 | 1500—2500 | 3500—4500 | 4500—5500 | 5500—6200
-9900—12 100 | 3300—5500 | 7700—9900 | 9900—12 100 | 12 100—13 700
-Belt Pickup Heads | Not Applicable | Not Applicable | BP15 | RD30F | HD35R | HD40F
-Corn Heads | Not Applicable | C12F | Not Applicable | C12R | C12F | C16F
-Front Tire Size | Tire Pressure - bar (psi)
+| --- | --- | --- |
+| Configuration | Transport Speed | Harvest Speed |
+| Approximate Header Mass | No Head/ Transport | 4500—5500 | 1500—2500 | 3500—4500 | 4500—5500 | 5500—6200 |
+| 9900—12 100 | 3300—5500 | 7700—9900 | 9900—12 100 | 12 100—13 700 |
+| Belt Pickup Heads | Not Applicable | Not Applicable | BP15 | RD30F | HD35R | HD40F |
+| Corn Heads | Not Applicable | C12F | Not Applicable | C12R | C12F | C16F |
+| Front Tire Size | Tire Pressure - bar (psi) |
 
-**Rows:**
-IF 800/60R38 CFO+193A8 R-1W | 1.2/120 | 2.6/260 | 2.1/210 | 2.4/240 | 2.6/260 | 2.8/280
-VF 900/60R38 CFO+ 193A8 R-1W | 1.2/120 | 2.6/260 | 2.1/210 | 2.4/240 | 2.6/260 | 2.8/280
-IF 1100/50R42 CFO 197B R-1W | 1.2/120 | 2.4/240 | 1.8/180 | 2.0/200 | 2.4/240 | 2.4/240
-LSW 1100/45R46 CFO 201D R-1W | 1.2/120 | 2.4/240 | 1.8/180 | 2.0/200 | 2.4/240 | 2.4/240
-VF 580/85R42 CFO 183B R-2 Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220
-VF 580/85R42 CFO 183B R-1W Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220
-IF 580/85R42 CFO 178A8 R-1W Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220
-650/85R38 173A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240
-650/85R38 173A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240
-650/85R38 173D R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240
-650/85R38 176A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240
-VF 710/70R42 CFO 184B R-1W Duals | 1.2/120 | 1.6/160 | 1.4/140 | 1.6/160 | 1.8/180 | 2.0/200
-VF 710/70R42 CFO 193B R-1W Duals | 1.2/120 | 1.6/160 | 1.4/140 | 1.6/160 | 1.8/180 | 2.0/200"
+| IF 800/60R38 CFO+193A8 R-1W | 1.2/120 | 2.6/260 | 2.1/210 | 2.4/240 | 2.6/260 | 2.8/280 |
+| VF 900/60R38 CFO+ 193A8 R-1W | 1.2/120 | 2.6/260 | 2.1/210 | 2.4/240 | 2.6/260 | 2.8/280 |
+| IF 1100/50R42 CFO 197B R-1W | 1.2/120 | 2.4/240 | 1.8/180 | 2.0/200 | 2.4/240 | 2.4/240 |
+| LSW 1100/45R46 CFO 201D R-1W | 1.2/120 | 2.4/240 | 1.8/180 | 2.0/200 | 2.4/240 | 2.4/240 |
+| VF 580/85R42 CFO 183B R-2 Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220 |
+| VF 580/85R42 CFO 183B R-1W Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220 |
+| IF 580/85R42 CFO 178A8 R-1W Duals | 1.2/120 | 1.8/180 | 1.6/160 | 1.8/180 | 2.0/200 | 2.2/220 |
+| 650/85R38 173A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240 |
+| 650/85R38 173A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240 |
+| 650/85R38 173D R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240 |
+| 650/85R38 176A8 R-1W Duals | 1.2/120 | 1.7/170 | 1.7/170 | 2.1/210 | 2.4/240 | 2.4/240 |
+| VF 710/70R42 CFO 184B R-1W Duals | 1.2/120 | 1.6/160 | 1.4/140 | 1.6/160 | 1.8/180 | 2.0/200 |
+| VF 710/70R42 CFO 193B R-1W Duals | 1.2/120 | 1.6/160 | 1.4/140 | 1.6/160 | 1.8/180 | 2.0/200 |"
 Ground Drive and Rear Axle,Rear Tire Pressure,"All road transportation MUST be done at pressure
 shown in No Head/Transport column. Improper pressure during transport
 may decrease vehicle stability. Proper pressure results in better
@@ -6720,52 +6646,50 @@ See Care and Service of Tires in this section for further
 information.
 **Tire Chart**
 
-**Header:**
-Configuration | Transport Speed | Harvest Speed
-Approximate Header Mass | No Head/ Transport | 4500—5500 | 1500—2500 | 3500—4500 | 4500—5500 | 5500—6200
-9900—12 100 | 3300—5500 | 7700—9900 | 9900—12 100 | 12 100—13 700
-Belt Pickup Heads | Not Applicable | Not Applicable | BP15 | RD30F | HD35R | HD40F
-Corn Heads | Not Applicable | C12F | Not Applicable | C12R | C12F | C16F
-Rear Tire Size | Tire Pressure - bar (psi)
+| --- | --- | --- |
+| Configuration | Transport Speed | Harvest Speed |
+| Approximate Header Mass | No Head/ Transport | 4500—5500 | 1500—2500 | 3500—4500 | 4500—5500 | 5500—6200 |
+| 9900—12 100 | 3300—5500 | 7700—9900 | 9900—12 100 | 12 100—13 700 |
+| Belt Pickup Heads | Not Applicable | Not Applicable | BP15 | RD30F | HD35R | HD40F |
+| Corn Heads | Not Applicable | C12F | Not Applicable | C12R | C12F | C16F |
+| Rear Tire Size | Tire Pressure - bar (psi) |
 
-**Rows:**
-500/85R30 IMP 179A8/160A8 | 3.2/320 | 2.0/200 | 2.6/260 | 2.0/200 | 2.0/200 | 2.0/200
-VF 620/70R26 CFO+ 173A8 | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140
-VF 620/75R26 CFO 172B | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140
-VF 620/75R26 CFO 178D | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140
-VF 710/65R26 177D R-2 | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140
-VF 750/60R30 CFO 180D | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120
-VF 750/65R26 CFO+ 180A8 | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120
-VF 750/65R26 177B | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120
-VF 750/65R26 177D | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120
-VF 750/65R26 CFO 180B | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120"
+| 500/85R30 IMP 179A8/160A8 | 3.2/320 | 2.0/200 | 2.6/260 | 2.0/200 | 2.0/200 | 2.0/200 |
+| VF 620/70R26 CFO+ 173A8 | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 |
+| VF 620/75R26 CFO 172B | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 |
+| VF 620/75R26 CFO 178D | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 |
+| VF 710/65R26 177D R-2 | 2.4/240 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 | 1.4/140 |
+| VF 750/60R30 CFO 180D | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120 |
+| VF 750/65R26 CFO+ 180A8 | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120 |
+| VF 750/65R26 177B | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120 |
+| VF 750/65R26 177D | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120 |
+| VF 750/65R26 CFO 180B | 1.8/180 | 1.4/140 | 1.4/140 | 1.4/140 | 1.2/120 | 1.2/120 |"
 Ground Drive and Rear Axle,Front Tire Selection,"See Care and Service of Tires in this section for further
 information.
 **Tires**
 
-**Header:**
-Tire Spacing
-Tires | Width | Default Spacer | Centerline Width | Outside Width | Inside Width
+| --- |
+| Tire Spacing |
+| Tires | Width | Default Spacer | Centerline Width | Outside Width | Inside Width |
 
-**Rows:**
-IF 800/60R38 CFO+ 193A8 R-1W | 790 (31.1) | 0 (0.0) | 3010 (118.5) | 3800 (149.6) | 2220 (87.4)
-VF 900/60R38 CFO+ 193A8 R-1W | 880 (34.6) | 0 (0.0) | 3148 (123.9) | 4028 (158.6) | 2268 (89.3)
-IF 1100/50R42 CFO 197B R-1W | 1110 (43.7) | 254 (10.0) | 3480 (137.0) | 4590 (180.7) | 2370 (93.3)
-LSW 1100/45R46 CFO 201D R-1W | 1029 (40.5) | 254 (10.0) | 3480 (137.0) | 4509 (177.5) | 2451 (96.5)
-VF 580/85R42 CFO 183B R-2 Duals | 1317 (51.9) | 348 (13.7) | 3778 (148.7) | 5095 (200.6) | 2461 (96.9)
-VF 580/85R42 CFO 183B R-1W Duals | 1330 (52.4) | 348 (13.7) | 3778 (148.7) | 5108 (201.1) | 2448 (96.4)
-IF 580/85R42 CFO 178A8 R-1W Duals | 1337 (52.6) | 348 (13.7) | 3778 (148.7) | 5115 (201.4) | 2441 (96.1)
-650/85R38 173A8 R-1W Duals | 1476 (58.1) | 348 (13.7) | 3778 (148.7) | 5254 (206.9) | 2302 (90.6)
-650/85R38 173A8 R-1W Duals | 1496 (58.9) | 348 (13.7) | 3778 (148.7) | 5274 (207.6) | 2282 (89.8)
-650/85R38 173D R-1W Duals | 1498 (59.0) | 348 (13.7) | 3778 (148.7) | 5276 (207.7) | 2280 (89.8)
-650/85R38 176A8 R-1W Duals | 1490 (58.7) | 348 (13.7) | 3778 (148.7) | 5268 (207.4) | 2288 (90.1)
-VF 710/70R42 CFO 184B R-1W Duals | 1682 (66.2) | 399 (15.7) | 3932 (154.8) | 5614 (221.0) | 2250 (88.6)
-VF 710/70R42 CFO 193B R-1W Duals | 1674 (65.9) | 399 (15.7) | 3932 (154.8) | 5606 (220.7) | 2258 (88.9)
-24 in Tracks - 3.5 m outside width | 610 (24.0) | 0 (0.0) | 2854 (112.4) | 3464 (136.4) | 2244 (88.3)
-24 in Tracks - 3.0 m CTF | 610 (24.0) | 76 (3.0) | 3006 (118.3) | 3616 (142.4) | 2396 (94.3)
-30 in Tracks - 3.0 m CTF | 762 (30.0) | 76 (3.0) | 3006 (118.3) | 3768 (148.3) | 2244 (88.3)
-30 in Tracks | 762 (30.0) | 405 (15.9) | 3664 (144.3) | 4426 (174.3) | 2902 (114.3)
-36 in Tracks | 914 (36.0) | 405 (15.9) | 3664 (144.3) | 4578 (180.2) | 2750 (108.3)"
+| IF 800/60R38 CFO+ 193A8 R-1W | 790 (31.1) | 0 (0.0) | 3010 (118.5) | 3800 (149.6) | 2220 (87.4) |
+| VF 900/60R38 CFO+ 193A8 R-1W | 880 (34.6) | 0 (0.0) | 3148 (123.9) | 4028 (158.6) | 2268 (89.3) |
+| IF 1100/50R42 CFO 197B R-1W | 1110 (43.7) | 254 (10.0) | 3480 (137.0) | 4590 (180.7) | 2370 (93.3) |
+| LSW 1100/45R46 CFO 201D R-1W | 1029 (40.5) | 254 (10.0) | 3480 (137.0) | 4509 (177.5) | 2451 (96.5) |
+| VF 580/85R42 CFO 183B R-2 Duals | 1317 (51.9) | 348 (13.7) | 3778 (148.7) | 5095 (200.6) | 2461 (96.9) |
+| VF 580/85R42 CFO 183B R-1W Duals | 1330 (52.4) | 348 (13.7) | 3778 (148.7) | 5108 (201.1) | 2448 (96.4) |
+| IF 580/85R42 CFO 178A8 R-1W Duals | 1337 (52.6) | 348 (13.7) | 3778 (148.7) | 5115 (201.4) | 2441 (96.1) |
+| 650/85R38 173A8 R-1W Duals | 1476 (58.1) | 348 (13.7) | 3778 (148.7) | 5254 (206.9) | 2302 (90.6) |
+| 650/85R38 173A8 R-1W Duals | 1496 (58.9) | 348 (13.7) | 3778 (148.7) | 5274 (207.6) | 2282 (89.8) |
+| 650/85R38 173D R-1W Duals | 1498 (59.0) | 348 (13.7) | 3778 (148.7) | 5276 (207.7) | 2280 (89.8) |
+| 650/85R38 176A8 R-1W Duals | 1490 (58.7) | 348 (13.7) | 3778 (148.7) | 5268 (207.4) | 2288 (90.1) |
+| VF 710/70R42 CFO 184B R-1W Duals | 1682 (66.2) | 399 (15.7) | 3932 (154.8) | 5614 (221.0) | 2250 (88.6) |
+| VF 710/70R42 CFO 193B R-1W Duals | 1674 (65.9) | 399 (15.7) | 3932 (154.8) | 5606 (220.7) | 2258 (88.9) |
+| 24 in Tracks - 3.5 m outside width | 610 (24.0) | 0 (0.0) | 2854 (112.4) | 3464 (136.4) | 2244 (88.3) |
+| 24 in Tracks - 3.0 m CTF | 610 (24.0) | 76 (3.0) | 3006 (118.3) | 3616 (142.4) | 2396 (94.3) |
+| 30 in Tracks - 3.0 m CTF | 762 (30.0) | 76 (3.0) | 3006 (118.3) | 3768 (148.3) | 2244 (88.3) |
+| 30 in Tracks | 762 (30.0) | 405 (15.9) | 3664 (144.3) | 4426 (174.3) | 2902 (114.3) |
+| 36 in Tracks | 914 (36.0) | 405 (15.9) | 3664 (144.3) | 4578 (180.2) | 2750 (108.3) |"
 Ground Drive and Rear Axle,Rear Axle Positions,See Care and Service of Tires in this section for further information.
 Ground Drive and Rear Axle,Rear Tire Selection,"See Rear Axle Positions for further information on the
 rear axle positions.
@@ -6773,48 +6697,47 @@ See Care and Service of Tires in
 this section for further information.
 **Tires**
 
-**Header:**
-Tire Spacing
-Rear Tire Size | Rear Axle Position | Steering Stop Washers | Tire Width | Center to Center | Outside to Outside | Inside to Inside
+| --- |
+| Tire Spacing |
+| Rear Tire Size | Rear Axle Position | Steering Stop Washers | Tire Width | Center to Center | Outside to Outside | Inside to Inside |
 
-**Rows:**
-500 | A2 | 1 | 500 (20) | 3050 (120) | 3550 (140) | 2550 (100)
-B | None | 500 (20) | 3150 (124) | 3650 (144) | 2650 (104)
-B2 | None | 500 (20) | 3250 (128) | 3750 (148) | 2750 (108)
-C | None | 500 (20) | 3360 (132) | 3860 (152) | 2860 (113)
-C2 | None | 500 (20) | 3460 (136) | 3960 (156) | 2960 (117)
-D | None | 500 (20) | 3560 (140) | 4060 (160) | 3060 (120)
-D2 | None | 500 (20) | 3660 (144) | 4160 (164) | 3160 (124)
-E | None | 500 (20) | 3760 (148) | 4260 (168) | 3260 (128)
-E2 | None | 500 (20) | 3860 (152)) | 4360 (172) | 3360 (132)
-620 | A2 | 2 | 620 (24) | 3280 (129) | 3900 (154) | 2660 (105)
-B | None | 620 (24) | 3380 (133) | 4000 (157) | 2760 (109)
-B2 | None | 620 (24) | 3480 (137) | 4100 (161) | 2860 (113)
-C | None | 620 (24) | 3590 (141) | 4210 (166) | 2970 (117)
-C2 | None | 620 (24) | 3690 (145) | 4310 (170) | 3070 (121)
-D | None | 620 (24) | 3790 (149) | 4410 (174) | 3170 (125)
-D2 | None | 620 (24) | 3890 (153) | 4510 (178) | 3270 (129)
-E | None | 620 (24) | 3990 (157) | 4610 (181) | 3370 (133)
-E2 | None | 620 (24) | 4090 (161) | 4710 (185) | 3470 (137)
-710 | A2 | NR | 710 (28) | 3340 (131) | 4050 (159) | 2630 (104)
-B | 1 | 710 (28) | 3440 (135) | 4150 (163) | 2730 (107)
-B2 | None | 710 (28) | 3540 (139) | 4250 (167) | 2830 (111)
-C | None | 710 (28) | 3650 (144) | 4360 (172) | 2940 (116)
-C2 | None | 710 (28) | 3750 (148) | 4460 (176) | 3040 (120)
-D | None | 710 (28) | 3850 (152) | 4560 (180) | 3140 (124)
-D2 | None | 710 (28) | 3950 (156) | 4660 (183) | 3240 (128)
-E | None | 710 (28) | 4050 (159) | 4760 (187) | 3340 (131)
-E2 | None | 710 (28) | 4150 (163) | 4860 (191) | 3440 (135)
-750 | A2 | NR | 750 (30) | 3340 (131) | 4090 (161) | 2590 (102)
-B | NR | 750 (30) | 3440 (135) | 4190 (165) | 2690 (106)
-B2 | 2 | 750 (30) | 3540 (139) | 4290 (169) | 2790 (110)
-C | None | 750 (30) | 3650 (144) | 4400 (173) | 2900 (114)
-C2 | None | 750 (30) | 3750 (148) | 4500 (177) | 3000 (118)
-D | None | 750 (30) | 3850 (152) | 4600 (181) | 3100 (122)
-D2 | None | 750 (30) | 3950 (156) | 4700 (185) | 3200 (126)
-E | None | 750 (30) | 4050 (159) | 4800 (189) | 3300 (130)
-E2 | None | 750 (30) | 4150 (163) | 4900 (193) | 3400 (134)
-NR= This configuration is not recommended due to tire interference with the machine frame."
+| 500 | A2 | 1 | 500 (20) | 3050 (120) | 3550 (140) | 2550 (100) |
+| B | None | 500 (20) | 3150 (124) | 3650 (144) | 2650 (104) |
+| B2 | None | 500 (20) | 3250 (128) | 3750 (148) | 2750 (108) |
+| C | None | 500 (20) | 3360 (132) | 3860 (152) | 2860 (113) |
+| C2 | None | 500 (20) | 3460 (136) | 3960 (156) | 2960 (117) |
+| D | None | 500 (20) | 3560 (140) | 4060 (160) | 3060 (120) |
+| D2 | None | 500 (20) | 3660 (144) | 4160 (164) | 3160 (124) |
+| E | None | 500 (20) | 3760 (148) | 4260 (168) | 3260 (128) |
+| E2 | None | 500 (20) | 3860 (152)) | 4360 (172) | 3360 (132) |
+| 620 | A2 | 2 | 620 (24) | 3280 (129) | 3900 (154) | 2660 (105) |
+| B | None | 620 (24) | 3380 (133) | 4000 (157) | 2760 (109) |
+| B2 | None | 620 (24) | 3480 (137) | 4100 (161) | 2860 (113) |
+| C | None | 620 (24) | 3590 (141) | 4210 (166) | 2970 (117) |
+| C2 | None | 620 (24) | 3690 (145) | 4310 (170) | 3070 (121) |
+| D | None | 620 (24) | 3790 (149) | 4410 (174) | 3170 (125) |
+| D2 | None | 620 (24) | 3890 (153) | 4510 (178) | 3270 (129) |
+| E | None | 620 (24) | 3990 (157) | 4610 (181) | 3370 (133) |
+| E2 | None | 620 (24) | 4090 (161) | 4710 (185) | 3470 (137) |
+| 710 | A2 | NR | 710 (28) | 3340 (131) | 4050 (159) | 2630 (104) |
+| B | 1 | 710 (28) | 3440 (135) | 4150 (163) | 2730 (107) |
+| B2 | None | 710 (28) | 3540 (139) | 4250 (167) | 2830 (111) |
+| C | None | 710 (28) | 3650 (144) | 4360 (172) | 2940 (116) |
+| C2 | None | 710 (28) | 3750 (148) | 4460 (176) | 3040 (120) |
+| D | None | 710 (28) | 3850 (152) | 4560 (180) | 3140 (124) |
+| D2 | None | 710 (28) | 3950 (156) | 4660 (183) | 3240 (128) |
+| E | None | 710 (28) | 4050 (159) | 4760 (187) | 3340 (131) |
+| E2 | None | 710 (28) | 4150 (163) | 4860 (191) | 3440 (135) |
+| 750 | A2 | NR | 750 (30) | 3340 (131) | 4090 (161) | 2590 (102) |
+| B | NR | 750 (30) | 3440 (135) | 4190 (165) | 2690 (106) |
+| B2 | 2 | 750 (30) | 3540 (139) | 4290 (169) | 2790 (110) |
+| C | None | 750 (30) | 3650 (144) | 4400 (173) | 2900 (114) |
+| C2 | None | 750 (30) | 3750 (148) | 4500 (177) | 3000 (118) |
+| D | None | 750 (30) | 3850 (152) | 4600 (181) | 3100 (122) |
+| D2 | None | 750 (30) | 3950 (156) | 4700 (185) | 3200 (126) |
+| E | None | 750 (30) | 4050 (159) | 4800 (189) | 3300 (130) |
+| E2 | None | 750 (30) | 4150 (163) | 4900 (193) | 3400 (134) |
+| NR= This configuration is not recommended due to tire interference with the machine frame. |"
 Ground Drive and Rear Axle,Remove Rear Axle Stop,"Remove cap screw (A) and add or remove washers (B)
 as needed.
 Reinstall the cap screw
@@ -7096,24 +7019,23 @@ Tires requiring fluid must be filled to
 75%.
 **Ballast Chart**
 
-**Header:**
-Approximate Header Mass | 1500— | 3500— | 4500— | 5000— | 5500—
-3300— | 7700— | 9900— | 11 000— | 12 100—
-Belt Pickup Heads | BP15 | RD30F | HD35R | HD40R | HD40F
-Corn Heads | Not Applicable | C12R | C12F | Not Applicable | C16F
-Model | Configuration | Normal Slopes (Flat to 15%)
+| --- | --- | --- | --- | --- | --- |
+| Approximate Header Mass | 1500— | 3500— | 4500— | 5000— | 5500— |
+| 3300— | 7700— | 9900— | 11 000— | 12 100— |
+| Belt Pickup Heads | BP15 | RD30F | HD35R | HD40R | HD40F |
+| Corn Heads | Not Applicable | C12R | C12F | Not Applicable | C16F |
+| Model | Configuration | Normal Slopes (Flat to 15%) |
 
-**Rows:**
-X9 1000 | Two-Wheel Drive | No | No | No | Yes | Yes
-Four-Wheel Drive
-X9 1100 | Two-Wheel Drive | No | No | No | Yes | Yes
-Four-Wheel Drive
- |  | 
-X9 1000 | Two-Wheel Drive | No | No | Yes | Yes | Yes
-Four-Wheel Drive
-X9 1100 | Two-Wheel Drive | No | No | Yes | Yes | Yes
-Four-Wheel Drive
-No = Ballast not required for any size tires."
+| X9 1000 | Two-Wheel Drive | No | No | No | Yes | Yes |
+| Four-Wheel Drive |
+| X9 1100 | Two-Wheel Drive | No | No | No | Yes | Yes |
+| Four-Wheel Drive |
+|  |  |  |
+| X9 1000 | Two-Wheel Drive | No | No | Yes | Yes | Yes |
+| Four-Wheel Drive |
+| X9 1100 | Two-Wheel Drive | No | No | Yes | Yes | Yes |
+| Four-Wheel Drive |
+| No = Ballast not required for any size tires. |"
 Transporting,Driving Machine on Roads,"Verify that grain tank is unloaded before transporting
 machine on road.
 Verify that folding unloading auger and
@@ -7304,30 +7226,29 @@ lever for 2 seconds to enter desired modes into memory.
 A few common modes are shown below, but many combinations exist.
 **Combinations**
 
-**Header:**
-Auto Header Controls (Enabled Modes) | Activation Button 1 | Activation Button 2 | Activation Button 3
+| --- | --- | --- | --- |
+| Auto Header Controls (Enabled Modes) | Activation Button 1 | Activation Button 2 | Activation Button 3 |
 
-**Rows:**
-Height Resume | 
-Height Resume | Height Sensing |  | 
-Height Resume | |  | 
-Height Resume | Height Sensing | HydraFlex™ Height Sensing |  |  | 
-Height Resume | Height Sensing | Active Header Float |  |  | 
-Height Resume | HydraFlex™ Height Sensing | Active Header Float |  |  | 
-Height Resume | Active Header Float |  | 
-Height Sensing | 
-HydraFlex™ Height Sensing | 
-Height Sensing | HydraFlex™ Height Sensing |  | 
-Height Sensing | HydraFlex™ Height Sensing | Active Header Float |  | 
-Height Sensing | Active Header Float |  | 
-HydraFlex™ Height Sensing | Active Header Float |  | 
-Active Header Float | 
-Reel Position Resume | 
-Deck Plate Position Resume | 
-Hydraulic Feeder House Fore Tilt | 
-Cutterbar Fore Position | 
-Auto Reel Speed | 
-Auto Belt Speed | "
+| Height Resume |  |
+| Height Resume | Height Sensing |  |  |
+| Height Resume | |  |  |
+| Height Resume | Height Sensing | HydraFlex™ Height Sensing |  |  |  |
+| Height Resume | Height Sensing | Active Header Float |  |  |  |
+| Height Resume | HydraFlex™ Height Sensing | Active Header Float |  |  |  |
+| Height Resume | Active Header Float |  |  |
+| Height Sensing |  |
+| HydraFlex™ Height Sensing |  |
+| Height Sensing | HydraFlex™ Height Sensing |  |  |
+| Height Sensing | HydraFlex™ Height Sensing | Active Header Float |  |  |
+| Height Sensing | Active Header Float |  |  |
+| HydraFlex™ Height Sensing | Active Header Float |  |  |
+| Active Header Float |  |
+| Reel Position Resume |  |
+| Deck Plate Position Resume |  |
+| Hydraulic Feeder House Fore Tilt |  |
+| Cutterbar Fore Position |  |
+| Auto Reel Speed |  |
+| Auto Belt Speed |  |"
 Harvesting Hints,Change Tire Radius Code,"If tires or final drives are changed from what was originally
 shipped from the factory, it is necessary to recalibrate the system.
 When changing drive wheels, tire radius may also
@@ -7355,493 +7276,476 @@ lb).
 Run at least"
 Crop Settings,Alfalfa and Barley,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Alfalfa | Barley
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Alfalfa | Barley |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth
-Feed Accelerator Speed (North America) | High | High
-Feed Accelerator Speed (Europe) | High | High
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 720—1000 | 800—1150
-Threshing Speed (Europe) (rpm) | 720—1000 | 800—1150
-Threshing Clearance (North America) (mm) | 0—10 | 8—22
-Threshing Clearance (Europe) (mm) | 0—10 | 12—25
-Concave Type (North America) | Small Wire | Small Wire
-Concave Type (Europe) | Small Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 570—700 | 700—1030
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 10—20 | 12—19
-Chaffer Clearance (Europe) (mm) | 10—20 | 13—22
-Sieve Clearance (North America) (mm) | 1—4 | 6—11
-Sieve Clearance (Europe) (mm) | 1—4 | 6—14
-Tailings System Concave Position | Grain | Grain
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 50
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth |
+| Feed Accelerator Speed (North America) | High | High |
+| Feed Accelerator Speed (Europe) | High | High |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 720—1000 | 800—1150 |
+| Threshing Speed (Europe) (rpm) | 720—1000 | 800—1150 |
+| Threshing Clearance (North America) (mm) | 0—10 | 8—22 |
+| Threshing Clearance (Europe) (mm) | 0—10 | 12—25 |
+| Concave Type (North America) | Small Wire | Small Wire |
+| Concave Type (Europe) | Small Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 570—700 | 700—1030 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 10—20 | 12—19 |
+| Chaffer Clearance (Europe) (mm) | 10—20 | 13—22 |
+| Sieve Clearance (North America) (mm) | 1—4 | 6—11 |
+| Sieve Clearance (Europe) (mm) | 1—4 | 6—14 |
+| Tailings System Concave Position | Grain | Grain |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 50 |
+| Chopper Speed | High | High |"
 Crop Settings,Canola (Dry) and Canola (Wet),"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Canola (Dry) | Canola (Wet)
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Canola (Dry) | Canola (Wet) |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 22-Tooth | 22-Tooth
-Feed Accelerator Speed (North America) | High | High
-Feed Accelerator Speed (Europe) | High | High
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 550—850 | 650—900
-Threshing Speed (Europe) (rpm) | 550—850 | 650—900
-Threshing Clearance (North America) (mm) | 15—35 | 10—30
-Threshing Clearance (Europe) (mm) | 15—35 | 10—30
-Concave Type (North America) | Small Wire | Small Wire
-Concave Type (Europe) | Small Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 570—800 | 570—770
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 11—19 | 11—19
-Chaffer Clearance (Europe) (mm) | 11—19 | 11—19
-Sieve Clearance (North America) (mm) | 3—7 | 3—7
-Sieve Clearance (Europe) (mm) | 3—7 | 3—7
-Tailings System Concave Position | Corn | Grain
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 0 | 0
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 22-Tooth | 22-Tooth |
+| Feed Accelerator Speed (North America) | High | High |
+| Feed Accelerator Speed (Europe) | High | High |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 550—850 | 650—900 |
+| Threshing Speed (Europe) (rpm) | 550—850 | 650—900 |
+| Threshing Clearance (North America) (mm) | 15—35 | 10—30 |
+| Threshing Clearance (Europe) (mm) | 15—35 | 10—30 |
+| Concave Type (North America) | Small Wire | Small Wire |
+| Concave Type (Europe) | Small Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 570—800 | 570—770 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 11—19 | 11—19 |
+| Chaffer Clearance (Europe) (mm) | 11—19 | 11—19 |
+| Sieve Clearance (North America) (mm) | 3—7 | 3—7 |
+| Sieve Clearance (Europe) (mm) | 3—7 | 3—7 |
+| Tailings System Concave Position | Corn | Grain |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 0 | 0 |
+| Chopper Speed | High | High |"
 Crop Settings,Chickpeas,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Chickpeas
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Chickpeas |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth
-Feed Accelerator Speed (North America) | Low
-Feed Accelerator Speed (Europe) | Low
-Feed Accelerator Wear Strips (North America) | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated
-Threshing Speed (North America) (rpm) | 300—450
-Threshing Speed (Europe) (rpm) | 300—450
-Threshing Clearance (North America) (mm) | 12—26
-Threshing Clearance (Europe) (mm) | 12—26
-Concave Type (North America) | Round Bar or Large Wire
-Concave Type (Europe) | Round Bar or Large Wire
-Separator Grate Spacers | In Storage Position
-Fan Speed (rpm) | 850—1100
-Front Chaffer Clearance (mm) | 25
-Chaffer Clearance (North America) (mm) | 16—21
-Chaffer Clearance (Europe) (mm) | 16—21
-Sieve Clearance (North America) (mm) | 7—13
-Sieve Clearance (Europe) (mm) | 7—13
-Tailings System Concave Position | Corn
-Knife Bank Engagement | Allowed
-Knife Bank Engagement Percentage | 25
-Chopper Speed | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low |
+| Feed Accelerator Speed (Europe) | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated |
+| Threshing Speed (North America) (rpm) | 300—450 |
+| Threshing Speed (Europe) (rpm) | 300—450 |
+| Threshing Clearance (North America) (mm) | 12—26 |
+| Threshing Clearance (Europe) (mm) | 12—26 |
+| Concave Type (North America) | Round Bar or Large Wire |
+| Concave Type (Europe) | Round Bar or Large Wire |
+| Separator Grate Spacers | In Storage Position |
+| Fan Speed (rpm) | 850—1100 |
+| Front Chaffer Clearance (mm) | 25 |
+| Chaffer Clearance (North America) (mm) | 16—21 |
+| Chaffer Clearance (Europe) (mm) | 16—21 |
+| Sieve Clearance (North America) (mm) | 7—13 |
+| Sieve Clearance (Europe) (mm) | 7—13 |
+| Tailings System Concave Position | Corn |
+| Knife Bank Engagement | Allowed |
+| Knife Bank Engagement Percentage | 25 |
+| Chopper Speed | High |"
 Crop Settings,Corn (Dry) and Corn (Wet),"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Corn (Dry) | Corn (Wet)
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Corn (Dry) | Corn (Wet) |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | Low | Low
-Feed Accelerator Speed (Europe) | Low | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 340—480 | 360—520
-Threshing Speed (Europe) (rpm) | 340—480 | 360—520
-Threshing Clearance (North America) (mm) | 25—40 | 27—42
-Threshing Clearance (Europe) (mm) | 25—40 | 27—42
-Concave Type (North America) | Round Bar | Round Bar
-Concave Type (Europe) | Round Bar | Round Bar
-Separator Grate Spacers | Installed | Installed
-Fan Speed (rpm) | 1250—1430 | 1300—1430
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 15—26 (Deep-Tooth) | 16—24 (Deep-Tooth)
-Chaffer Clearance (Europe) (mm) | 15—26 (Deep-Tooth) | 16—24 (Deep-Tooth)
-Sieve Clearance (North America) (mm) | 11—16 (Deep-Tooth) | 12—17 (Deep-Tooth)
-Sieve Clearance (Europe) (mm) | 11—16 (Deep-Tooth) | 12—17 (Deep-Tooth)
-Tailings System Concave Position | Corn | Corn
-Knife Bank Engagement | Disengaged Only | Disengaged Only
-Knife Bank Engagement Percentage | 0 | 0
-Chopper Speed | Low | Low"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low | Low |
+| Feed Accelerator Speed (Europe) | Low | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 340—480 | 360—520 |
+| Threshing Speed (Europe) (rpm) | 340—480 | 360—520 |
+| Threshing Clearance (North America) (mm) | 25—40 | 27—42 |
+| Threshing Clearance (Europe) (mm) | 25—40 | 27—42 |
+| Concave Type (North America) | Round Bar | Round Bar |
+| Concave Type (Europe) | Round Bar | Round Bar |
+| Separator Grate Spacers | Installed | Installed |
+| Fan Speed (rpm) | 1250—1430 | 1300—1430 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 15—26 (Deep-Tooth) | 16—24 (Deep-Tooth) |
+| Chaffer Clearance (Europe) (mm) | 15—26 (Deep-Tooth) | 16—24 (Deep-Tooth) |
+| Sieve Clearance (North America) (mm) | 11—16 (Deep-Tooth) | 12—17 (Deep-Tooth) |
+| Sieve Clearance (Europe) (mm) | 11—16 (Deep-Tooth) | 12—17 (Deep-Tooth) |
+| Tailings System Concave Position | Corn | Corn |
+| Knife Bank Engagement | Disengaged Only | Disengaged Only |
+| Knife Bank Engagement Percentage | 0 | 0 |
+| Chopper Speed | Low | Low |"
 Crop Settings,Corn Cob Mix and Edible Beans,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Corn Cob Mix (D)* | Edible Beans
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Corn Cob Mix (D)* | Edible Beans |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | Low | Low
-Feed Accelerator Speed (Europe) | Low | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 500—700 | 370—520
-Threshing Speed (Europe) (rpm) | 500—700 | 370—520
-Threshing Clearance (North America) (mm) | 10—30 | 15—30
-Threshing Clearance (Europe) (mm) | 10—30 | 15—30
-Concave Type (North America) | Large Wire | Round Bar or Large Wire
-Concave Type (Europe) | Large Wire | Round Bar or Large Wire
-Separator Grate Spacers | Either | In Storage Position
-Fan Speed (rpm) | 950—1420 | 800—1100
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 20—28 (Deep-Tooth) | 14—19
-Chaffer Clearance (Europe) (mm) | 20—28 (Deep-Tooth) | 14—19
-Sieve Clearance (North America) (mm) | Removed | 10—14
-Sieve Clearance (Europe) (mm) | Removed | 10—14
-Tailings System Concave Position | Corn | Corn
-Knife Bank Engagement | Disengaged Only | Allowed
-Knife Bank Engagement Percentage | 0 | 25
-Chopper Speed | Low | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low | Low |
+| Feed Accelerator Speed (Europe) | Low | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 500—700 | 370—520 |
+| Threshing Speed (Europe) (rpm) | 500—700 | 370—520 |
+| Threshing Clearance (North America) (mm) | 10—30 | 15—30 |
+| Threshing Clearance (Europe) (mm) | 10—30 | 15—30 |
+| Concave Type (North America) | Large Wire | Round Bar or Large Wire |
+| Concave Type (Europe) | Large Wire | Round Bar or Large Wire |
+| Separator Grate Spacers | Either | In Storage Position |
+| Fan Speed (rpm) | 950—1420 | 800—1100 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 20—28 (Deep-Tooth) | 14—19 |
+| Chaffer Clearance (Europe) (mm) | 20—28 (Deep-Tooth) | 14—19 |
+| Sieve Clearance (North America) (mm) | Removed | 10—14 |
+| Sieve Clearance (Europe) (mm) | Removed | 10—14 |
+| Tailings System Concave Position | Corn | Corn |
+| Knife Bank Engagement | Disengaged Only | Allowed |
+| Knife Bank Engagement Percentage | 0 | 25 |
+| Chopper Speed | Low | High |"
 Crop Settings,Flax and Grass Seed,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Flax | Grass Seed
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Flax | Grass Seed |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 22-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth
-Feed Accelerator Speed (North America) | High | High
-Feed Accelerator Speed (Europe) | High | High
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 800—1200 | 450—750
-Threshing Speed (Europe) (rpm) | 800—1200 | 450—750
-Threshing Clearance (North America) (mm) | 0—10 | 12—25
-Threshing Clearance (Europe) (mm) | 0—10 | 12—25
-Concave Type (North America) | Small Wire | Small Wire
-Concave Type (Europe) | Small Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 700—1050 | 350—600
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 12—18 | 9—18
-Chaffer Clearance (Europe) (mm) | 12—18 | 9—18
-Sieve Clearance (North America) (mm) | 6—10 | 5—12
-Sieve Clearance (Europe) (mm) | 6—10 | 5—12
-Tailings System Concave Position | Grain | Grain
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 22-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth |
+| Feed Accelerator Speed (North America) | High | High |
+| Feed Accelerator Speed (Europe) | High | High |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 800—1200 | 450—750 |
+| Threshing Speed (Europe) (rpm) | 800—1200 | 450—750 |
+| Threshing Clearance (North America) (mm) | 0—10 | 12—25 |
+| Threshing Clearance (Europe) (mm) | 0—10 | 12—25 |
+| Concave Type (North America) | Small Wire | Small Wire |
+| Concave Type (Europe) | Small Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 700—1050 | 350—600 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 12—18 | 9—18 |
+| Chaffer Clearance (Europe) (mm) | 12—18 | 9—18 |
+| Sieve Clearance (North America) (mm) | 6—10 | 5—12 |
+| Sieve Clearance (Europe) (mm) | 6—10 | 5—12 |
+| Tailings System Concave Position | Grain | Grain |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Guar (Cluster Beans) and Lentils,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Guar (Cluster Beans) | Lentils
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Guar (Cluster Beans) | Lentils |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | Low | Low
-Feed Accelerator Speed (Europe) | Low | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 500—700 | 420—700
-Threshing Speed (Europe) (rpm) | 500—700 | 420—700
-Threshing Clearance (North America) (mm) | 10—15 | 7—20
-Threshing Clearance (Europe) (mm) | 10—15 | 7—20
-Concave Type (North America) | Round Bar | Round Bar or Large Wire
-Concave Type (Europe) | Round Bar | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 600—750 | 800—1000
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 10—12 | 12—18
-Chaffer Clearance (Europe) (mm) | 10—12 | 12—18
-Sieve Clearance (North America) (mm) | 4—6 | 3—10
-Sieve Clearance (Europe) (mm) | 4—6 | 3—10
-Tailings System Concave Position | Corn | Corn
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low | Low |
+| Feed Accelerator Speed (Europe) | Low | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 500—700 | 420—700 |
+| Threshing Speed (Europe) (rpm) | 500—700 | 420—700 |
+| Threshing Clearance (North America) (mm) | 10—15 | 7—20 |
+| Threshing Clearance (Europe) (mm) | 10—15 | 7—20 |
+| Concave Type (North America) | Round Bar | Round Bar or Large Wire |
+| Concave Type (Europe) | Round Bar | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 600—750 | 800—1000 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 10—12 | 12—18 |
+| Chaffer Clearance (Europe) (mm) | 10—12 | 12—18 |
+| Sieve Clearance (North America) (mm) | 4—6 | 3—10 |
+| Sieve Clearance (Europe) (mm) | 4—6 | 3—10 |
+| Tailings System Concave Position | Corn | Corn |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Lupins and Millet,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Lupins | Millet
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Lupins | Millet |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | Low | High
-Feed Accelerator Speed (Europe) | Low | High
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 420—700 | 420—650
-Threshing Speed (Europe) (rpm) | 420—700 | 420—650
-Threshing Clearance (North America) (mm) | 7—20 | 10—15
-Threshing Clearance (Europe) (mm) | 7—20 | 10—15
-Concave Type (North America) | Round Bar or Large Wire | Small Wire
-Concave Type (Europe) | Round Bar or Large Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 800—1000 | 600—750
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 12—18 | 10—12
-Chaffer Clearance (Europe) (mm) | 12—18 | 10—12
-Sieve Clearance (North America) (mm) | 3—10 | 4—7
-Sieve Clearance (Europe) (mm) | 3—10 | 4—7
-Tailings System Concave Position | Corn | Grain
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low | High |
+| Feed Accelerator Speed (Europe) | Low | High |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 420—700 | 420—650 |
+| Threshing Speed (Europe) (rpm) | 420—700 | 420—650 |
+| Threshing Clearance (North America) (mm) | 7—20 | 10—15 |
+| Threshing Clearance (Europe) (mm) | 7—20 | 10—15 |
+| Concave Type (North America) | Round Bar or Large Wire | Small Wire |
+| Concave Type (Europe) | Round Bar or Large Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 800—1000 | 600—750 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 12—18 | 10—12 |
+| Chaffer Clearance (Europe) (mm) | 12—18 | 10—12 |
+| Sieve Clearance (North America) (mm) | 3—10 | 4—7 |
+| Sieve Clearance (Europe) (mm) | 3—10 | 4—7 |
+| Tailings System Concave Position | Corn | Grain |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Mustard and Navy Beans,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Mustard | Navy Beans
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Mustard | Navy Beans |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | High | Low
-Feed Accelerator Speed (Europe) | High | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 720—1100 | 370—520
-Threshing Speed (Europe) (rpm) | 720—1100 | 370—520
-Threshing Clearance (North America) (mm) | 10—20 | 15—30
-Threshing Clearance (Europe) (mm) | 10—20 | 15—30
-Concave Type (North America) | Small Wire | Round Bar
-Concave Type (Europe) | Small Wire | Round Bar
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 620—800 | 800—1100
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 10—15 | 13—18
-Chaffer Clearance (Europe) (mm) | 10—15 | 13—18
-Sieve Clearance (North America) (mm) | 2—6 | 7—11
-Sieve Clearance (Europe) (mm) | 2—6 | 7—11
-Tailings System Concave Position | Grain | Corn
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | High | Low |
+| Feed Accelerator Speed (Europe) | High | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 720—1100 | 370—520 |
+| Threshing Speed (Europe) (rpm) | 720—1100 | 370—520 |
+| Threshing Clearance (North America) (mm) | 10—20 | 15—30 |
+| Threshing Clearance (Europe) (mm) | 10—20 | 15—30 |
+| Concave Type (North America) | Small Wire | Round Bar |
+| Concave Type (Europe) | Small Wire | Round Bar |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 620—800 | 800—1100 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 10—15 | 13—18 |
+| Chaffer Clearance (Europe) (mm) | 10—15 | 13—18 |
+| Sieve Clearance (North America) (mm) | 2—6 | 7—11 |
+| Sieve Clearance (Europe) (mm) | 2—6 | 7—11 |
+| Tailings System Concave Position | Grain | Corn |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Oats and Peas,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Oats | Peas
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Oats | Peas |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 22-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 22-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | High | Low
-Feed Accelerator Speed (Europe) | High | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 720—1150 | 400—600
-Threshing Speed (Europe) (rpm) | 720—1150 | 400—600
-Threshing Clearance (North America) (mm) | 15—25 | 15—30
-Threshing Clearance (Europe) (mm) | 15—25 | 15—30
-Concave Type (North America) | Small Wire | Round Bar or Large Wire
-Concave Type (Europe) | Small Wire | Round Bar or Large Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 630—850 | 850—1050
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 16—21 | 16—22
-Chaffer Clearance (Europe) (mm) | 16—21 | 16—22
-Sieve Clearance (North America) (mm) | 7—13 | 8—12
-Sieve Clearance (Europe) (mm) | 8—14 | 8—12
-Tailings System Concave Position | Grain | Corn
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 50 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 22-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 22-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | High | Low |
+| Feed Accelerator Speed (Europe) | High | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 720—1150 | 400—600 |
+| Threshing Speed (Europe) (rpm) | 720—1150 | 400—600 |
+| Threshing Clearance (North America) (mm) | 15—25 | 15—30 |
+| Threshing Clearance (Europe) (mm) | 15—25 | 15—30 |
+| Concave Type (North America) | Small Wire | Round Bar or Large Wire |
+| Concave Type (Europe) | Small Wire | Round Bar or Large Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 630—850 | 850—1050 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 16—21 | 16—22 |
+| Chaffer Clearance (Europe) (mm) | 16—21 | 16—22 |
+| Sieve Clearance (North America) (mm) | 7—13 | 8—12 |
+| Sieve Clearance (Europe) (mm) | 8—14 | 8—12 |
+| Tailings System Concave Position | Grain | Corn |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 50 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Popcorn and Rape Seed (Dry),"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Popcorn | Rape Seed (Dry)
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Popcorn | Rape Seed (Dry) |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth
-Feed Accelerator Speed (North America) | Low | Low
-Feed Accelerator Speed (Europe) | Low | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 300—400 | 400—700
-Threshing Speed (Europe) (rpm) | 300—400 | 400—700
-Threshing Clearance (North America) (mm) | 15—30 | 20—40
-Threshing Clearance (Europe) (mm) | 15—30 | 20—40
-Concave Type (North America) | Round Bar | Small Wire
-Concave Type (Europe) | Round Bar | Small Wire
-Separator Grate Spacers | Installed | In Storage Position
-Fan Speed (rpm) | 900—1100 | 570—800
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 14—18 | 13—22
-Chaffer Clearance (Europe) (mm) | 14—18 | 13—22
-Sieve Clearance (North America) (mm) | 7—13 | 3—8
-Sieve Clearance (Europe) (mm) | 7—13 | 3—8
-Tailings System Concave Position | Corn | Corn
-Knife Bank Engagement | Disengaged Only | Allowed
-Knife Bank Engagement Percentage | 0 | 0
-Chopper Speed | Low | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth |
+| Feed Accelerator Speed (North America) | Low | Low |
+| Feed Accelerator Speed (Europe) | Low | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 300—400 | 400—700 |
+| Threshing Speed (Europe) (rpm) | 300—400 | 400—700 |
+| Threshing Clearance (North America) (mm) | 15—30 | 20—40 |
+| Threshing Clearance (Europe) (mm) | 15—30 | 20—40 |
+| Concave Type (North America) | Round Bar | Small Wire |
+| Concave Type (Europe) | Round Bar | Small Wire |
+| Separator Grate Spacers | Installed | In Storage Position |
+| Fan Speed (rpm) | 900—1100 | 570—800 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 14—18 | 13—22 |
+| Chaffer Clearance (Europe) (mm) | 14—18 | 13—22 |
+| Sieve Clearance (North America) (mm) | 7—13 | 3—8 |
+| Sieve Clearance (Europe) (mm) | 7—13 | 3—8 |
+| Tailings System Concave Position | Corn | Corn |
+| Knife Bank Engagement | Disengaged Only | Allowed |
+| Knife Bank Engagement Percentage | 0 | 0 |
+| Chopper Speed | Low | High |"
 Crop Settings,Rape Seed (Green),"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Rape Seed (Green)
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Rape Seed (Green) |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 22-Tooth
-Feeder House Drive Sprocket (Europe) | 22-Tooth
-Feed Accelerator Speed (North America) | Low
-Feed Accelerator Speed (Europe) | High
-Feed Accelerator Wear Strips (North America) | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated
-Threshing Speed (North America) (rpm) | 450—700
-Threshing Speed (Europe) (rpm) | 450—700
-Threshing Clearance (North America) (mm) | 20—40
-Threshing Clearance (Europe) (mm) | 20—40
-Concave Type (North America) | Small Wire
-Concave Type (Europe) | Small Wire
-Separator Grate Spacers | In Storage Position
-Fan Speed (rpm) | 570—770
-Front Chaffer Clearance (mm) | 25
-Chaffer Clearance (North America) (mm) | 13—22
-Chaffer Clearance (Europe) (mm) | 13—22
-Sieve Clearance (North America) (mm) | 3—9
-Sieve Clearance (Europe) (mm) | 3—9
-Tailings System Concave Position | Grain
-Knife Bank Engagement | Allowed
-Knife Bank Engagement Percentage | 0
-Chopper Speed | High"
+| Feeder House Drive Sprocket (North America) | 22-Tooth |
+| Feeder House Drive Sprocket (Europe) | 22-Tooth |
+| Feed Accelerator Speed (North America) | Low |
+| Feed Accelerator Speed (Europe) | High |
+| Feed Accelerator Wear Strips (North America) | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated |
+| Threshing Speed (North America) (rpm) | 450—700 |
+| Threshing Speed (Europe) (rpm) | 450—700 |
+| Threshing Clearance (North America) (mm) | 20—40 |
+| Threshing Clearance (Europe) (mm) | 20—40 |
+| Concave Type (North America) | Small Wire |
+| Concave Type (Europe) | Small Wire |
+| Separator Grate Spacers | In Storage Position |
+| Fan Speed (rpm) | 570—770 |
+| Front Chaffer Clearance (mm) | 25 |
+| Chaffer Clearance (North America) (mm) | 13—22 |
+| Chaffer Clearance (Europe) (mm) | 13—22 |
+| Sieve Clearance (North America) (mm) | 3—9 |
+| Sieve Clearance (Europe) (mm) | 3—9 |
+| Tailings System Concave Position | Grain |
+| Knife Bank Engagement | Allowed |
+| Knife Bank Engagement Percentage | 0 |
+| Chopper Speed | High |"
 Crop Settings,Rye and Safflower,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Rye | Safflower
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Rye | Safflower |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | High | Low
-Feed Accelerator Speed (Europe) | High | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 850—1200 | 450—700
-Threshing Speed (Europe) (rpm) | 850—1200 | 450—700
-Threshing Clearance (North America) (mm) | 13—26 | 15—25
-Threshing Clearance (Europe) (mm) | 13—26 | 15—25
-Concave Type (North America) | Small Wire | Small Wire
-Concave Type (Europe) | Small Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 750—1100 | 700—950
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 15—18 | 13—17
-Chaffer Clearance (Europe) (mm) | 15—18 | 13—17
-Sieve Clearance (North America) (mm) | 6—10 | 4—7
-Sieve Clearance (Europe) (mm) | 6—10 | 4—7
-Tailings System Concave Position | Grain | Corn
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 50 | 25
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | High | Low |
+| Feed Accelerator Speed (Europe) | High | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 850—1200 | 450—700 |
+| Threshing Speed (Europe) (rpm) | 850—1200 | 450—700 |
+| Threshing Clearance (North America) (mm) | 13—26 | 15—25 |
+| Threshing Clearance (Europe) (mm) | 13—26 | 15—25 |
+| Concave Type (North America) | Small Wire | Small Wire |
+| Concave Type (Europe) | Small Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 750—1100 | 700—950 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 15—18 | 13—17 |
+| Chaffer Clearance (Europe) (mm) | 15—18 | 13—17 |
+| Sieve Clearance (North America) (mm) | 6—10 | 4—7 |
+| Sieve Clearance (Europe) (mm) | 6—10 | 4—7 |
+| Tailings System Concave Position | Grain | Corn |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 50 | 25 |
+| Chopper Speed | High | High |"
 Crop Settings,Sorghum and Soybeans,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Sorghum | Soybeans
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Sorghum | Soybeans |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth
-Feed Accelerator Speed (North America) | Low | Low
-Feed Accelerator Speed (Europe) | Low | Low
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 550—850 | 500—800
-Threshing Speed (Europe) (rpm) | 550—850 | 500—800
-Threshing Clearance (North America) (mm) | 10—25 | 12—30
-Threshing Clearance (Europe) (mm) | 10—25 | 12—30
-Concave Type (North America) | Round Bar or Large Wire | Round Bar or Large Wire
-Concave Type (Europe) | Round Bar or Large Wire | Round Bar or Large Wire
-Separator Grate Spacers | In Storage Position | Either
-Fan Speed (rpm) | 900—1100 | 900—1150
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 13—18 | 13—21 (General-Purpose)
-Chaffer Clearance (Europe) (mm) | 13—18 | 13—21 (General-Purpose)
-Sieve Clearance (North America) (mm) | 5—9 | 6—13 (General-Purpose)
-Sieve Clearance (Europe) (mm) | 5—9 | 6—13 (General-Purpose)
-Tailings System Concave Position | Corn | Corn
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 25 | 50
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 18-Tooth |
+| Feed Accelerator Speed (North America) | Low | Low |
+| Feed Accelerator Speed (Europe) | Low | Low |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 550—850 | 500—800 |
+| Threshing Speed (Europe) (rpm) | 550—850 | 500—800 |
+| Threshing Clearance (North America) (mm) | 10—25 | 12—30 |
+| Threshing Clearance (Europe) (mm) | 10—25 | 12—30 |
+| Concave Type (North America) | Round Bar or Large Wire | Round Bar or Large Wire |
+| Concave Type (Europe) | Round Bar or Large Wire | Round Bar or Large Wire |
+| Separator Grate Spacers | In Storage Position | Either |
+| Fan Speed (rpm) | 900—1100 | 900—1150 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 13—18 | 13—21 (General-Purpose) |
+| Chaffer Clearance (Europe) (mm) | 13—18 | 13—21 (General-Purpose) |
+| Sieve Clearance (North America) (mm) | 5—9 | 6—13 (General-Purpose) |
+| Sieve Clearance (Europe) (mm) | 5—9 | 6—13 (General-Purpose) |
+| Tailings System Concave Position | Corn | Corn |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 25 | 50 |
+| Chopper Speed | High | High |"
 Crop Settings,Sunflower and Triticale,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Sunflower | Triticale
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Sunflower | Triticale |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth
-Feed Accelerator Speed (North America) | Low | High
-Feed Accelerator Speed (Europe) | Low | High
-Feed Accelerator Wear Strips (North America) | Serrated | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated | Serrated
-Threshing Speed (North America) (rpm) | 300—400 | 850—1200
-Threshing Speed (Europe) (rpm) | 300—400 | 850—1200
-Threshing Clearance (North America) (mm) | 25—40 | 10—25
-Threshing Clearance (Europe) (mm) | 25—40 | 10—25
-Concave Type (North America) | Round Bar or Large Wire | Small Wire
-Concave Type (Europe) | Round Bar or Large Wire | Small Wire
-Separator Grate Spacers | In Storage Position | In Storage Position
-Fan Speed (rpm) | 650—850 | 750—1000
-Front Chaffer Clearance (mm) | 25 | 25
-Chaffer Clearance (North America) (mm) | 10—15 | 15—20
-Chaffer Clearance (Europe) (mm) | 10—15 | 15—20
-Sieve Clearance (North America) (mm) | 5—10 | 6—11
-Sieve Clearance (Europe) (mm) | 5—10 | 6—11
-Tailings System Concave Position | Corn | Grain
-Knife Bank Engagement | Allowed | Allowed
-Knife Bank Engagement Percentage | 0 | 50
-Chopper Speed | High | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 18-Tooth | 22-Tooth |
+| Feed Accelerator Speed (North America) | Low | High |
+| Feed Accelerator Speed (Europe) | Low | High |
+| Feed Accelerator Wear Strips (North America) | Serrated | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated | Serrated |
+| Threshing Speed (North America) (rpm) | 300—400 | 850—1200 |
+| Threshing Speed (Europe) (rpm) | 300—400 | 850—1200 |
+| Threshing Clearance (North America) (mm) | 25—40 | 10—25 |
+| Threshing Clearance (Europe) (mm) | 25—40 | 10—25 |
+| Concave Type (North America) | Round Bar or Large Wire | Small Wire |
+| Concave Type (Europe) | Round Bar or Large Wire | Small Wire |
+| Separator Grate Spacers | In Storage Position | In Storage Position |
+| Fan Speed (rpm) | 650—850 | 750—1000 |
+| Front Chaffer Clearance (mm) | 25 | 25 |
+| Chaffer Clearance (North America) (mm) | 10—15 | 15—20 |
+| Chaffer Clearance (Europe) (mm) | 10—15 | 15—20 |
+| Sieve Clearance (North America) (mm) | 5—10 | 6—11 |
+| Sieve Clearance (Europe) (mm) | 5—10 | 6—11 |
+| Tailings System Concave Position | Corn | Grain |
+| Knife Bank Engagement | Allowed | Allowed |
+| Knife Bank Engagement Percentage | 0 | 50 |
+| Chopper Speed | High | High |"
 Crop Settings,Wheat,"**Crop Settings**
 
-**Header:**
-* Refer to Footnotes Description Page later in this section for more detailed information.
- | Wheat
+| --- |
+| * Refer to Footnotes Description Page later in this section for more detailed information. |
+|  | Wheat |
 
-**Rows:**
-Feeder House Drive Sprocket (North America) | 18-Tooth
-Feeder House Drive Sprocket (Europe) | 22-Tooth
-Feed Accelerator Speed (North America) | High
-Feed Accelerator Speed (Europe) | High
-Feed Accelerator Wear Strips (North America) | Serrated
-Feed Accelerator Wear Strips (Europe) | Serrated
-Threshing Speed (North America) (rpm) | 900—1300
-Threshing Speed (Europe) (rpm) | 850—1250
-Threshing Clearance (North America) (mm) | 4—20
-Threshing Clearance (Europe) (mm) | 7—28
-Concave Type (North America) | Small Wire
-Concave Type (Europe) | Small Wire
-Separator Grate Spacers | In Storage Position
-Fan Speed (rpm) | 820—1100
-Front Chaffer Clearance (mm) | 25
-Chaffer Clearance (North America) (mm) | 12—20
-Chaffer Clearance (Europe) (mm) | 14—23
-Sieve Clearance (North America) (mm) | 5—11
-Sieve Clearance (Europe) (mm) | 7—14
-Tailings System Concave Position | Grain
-Knife Bank Engagement | Allowed
-Knife Bank Engagement Percentage | 50
-Chopper Speed | High"
+| Feeder House Drive Sprocket (North America) | 18-Tooth |
+| Feeder House Drive Sprocket (Europe) | 22-Tooth |
+| Feed Accelerator Speed (North America) | High |
+| Feed Accelerator Speed (Europe) | High |
+| Feed Accelerator Wear Strips (North America) | Serrated |
+| Feed Accelerator Wear Strips (Europe) | Serrated |
+| Threshing Speed (North America) (rpm) | 900—1300 |
+| Threshing Speed (Europe) (rpm) | 850—1250 |
+| Threshing Clearance (North America) (mm) | 4—20 |
+| Threshing Clearance (Europe) (mm) | 7—28 |
+| Concave Type (North America) | Small Wire |
+| Concave Type (Europe) | Small Wire |
+| Separator Grate Spacers | In Storage Position |
+| Fan Speed (rpm) | 820—1100 |
+| Front Chaffer Clearance (mm) | 25 |
+| Chaffer Clearance (North America) (mm) | 12—20 |
+| Chaffer Clearance (Europe) (mm) | 14—23 |
+| Sieve Clearance (North America) (mm) | 5—11 |
+| Sieve Clearance (Europe) (mm) | 7—14 |
+| Tailings System Concave Position | Grain |
+| Knife Bank Engagement | Allowed |
+| Knife Bank Engagement Percentage | 50 |
+| Chopper Speed | High |"
 Crop Settings,Footnotes Description Page,
 Crop Settings,Concave Recommendations,"**Concave Types**
 
-**Rows:**
-Concave Type | Corn | Soybeans | Wheat | Popcorn | Sorghum (Milo) | Sunflowers (Oil) | Canola
-Small Wire | NR | NR | Best | NR | NR | Average | Best
-Large Wire | Good | Good | Good | NR | Best | Best | Good
-Round Bar | Best | Best | Average | Best | Average | Best | Average
-Best = Provides best level of performance."
+| Concave Type | Corn | Soybeans | Wheat | Popcorn | Sorghum (Milo) | Sunflowers (Oil) | Canola |
+| Small Wire | NR | NR | Best | NR | NR | Average | Best |
+| Large Wire | Good | Good | Good | NR | Best | Best | Good |
+| Round Bar | Best | Best | Average | Best | Average | Best | Average |
+| Best = Provides best level of performance. |"
 Crop Settings,Power Shutdown Procedure,"A power shutdown is used to determine the machine’s performance
 in the threshing and separating areas by taking a ""snapshot""
 of the material in the separator. This is valuable in determining
@@ -7882,55 +7786,53 @@ Once acceptable loss
 levels are attained, calibrate"
 Crop Settings,Payable Moisture and Density Chart,"**Moisture Density Chart**
 
-**Header:**
-Crop | Standard Moisture (%) | Crop Density (lbs) | Crop Density (kg)
+| --- | --- | --- | --- |
+| Crop | Standard Moisture (%) | Crop Density (lbs) | Crop Density (kg) |
 
-**Rows:**
-Alfalfa | 12.0 | 60 | 27
-Barley | 14.0 | 48 | 22
-Barley (Winter) | 14.5 | 48 | 22
-Barley (Spring) | 14.5 | 48 | 22
-Canola | 10.0 | 52 | 24
-Chickpeas | 12.0 | 61 | 27
-Corn (Dry or Wet) | 15.0 | 56 | 25
-Edible Beans | 14.5 | 60 | 27
-Flax | 7.0 | 56 | 25
-Grass Seeds | 12.0 | 22 | 10
-Lentils | 10.5 | 60 | 27
-Lupins | 12.0 | 53 | 24
-Millet | 11.0 | 50 | 23
-Mustard | 8.0 | 60 | 27
-Navy Beans | 14.5 | 62 | 28
-Oats | 14.0 | 32 | 15
-Oats | 15.0 | 32 | 15
-Peas | 10.5 | 60 | 27
-Peas | 12.0 | 60 | 27
-Popcorn | 14.0 | 60 | 27
-Popcorn | 15.5 | 60 | 27
-Rape Seed (Dry or Wet) | 10.0 | 52 | 24
-Rice | 14.0 | 45 | 20
-Rye | 14.0 | 56 | 25
-Safflower | 6.0 | 45 | 20
-Sorghum | 13.0 | 56 | 25
-Soybeans | 13.0 | 60 | 27
-Sunflower | 14.0 | 29 | 11
-Sunflower | 9.0 | 20 | 11
-Triticale | 14.5 | 58 | 26
-Wheat (Spring) | 13.0 | 60 | 27
-Wheat (Winter) | 13.0 | 60 | 27"
+| Alfalfa | 12.0 | 60 | 27 |
+| Barley | 14.0 | 48 | 22 |
+| Barley (Winter) | 14.5 | 48 | 22 |
+| Barley (Spring) | 14.5 | 48 | 22 |
+| Canola | 10.0 | 52 | 24 |
+| Chickpeas | 12.0 | 61 | 27 |
+| Corn (Dry or Wet) | 15.0 | 56 | 25 |
+| Edible Beans | 14.5 | 60 | 27 |
+| Flax | 7.0 | 56 | 25 |
+| Grass Seeds | 12.0 | 22 | 10 |
+| Lentils | 10.5 | 60 | 27 |
+| Lupins | 12.0 | 53 | 24 |
+| Millet | 11.0 | 50 | 23 |
+| Mustard | 8.0 | 60 | 27 |
+| Navy Beans | 14.5 | 62 | 28 |
+| Oats | 14.0 | 32 | 15 |
+| Oats | 15.0 | 32 | 15 |
+| Peas | 10.5 | 60 | 27 |
+| Peas | 12.0 | 60 | 27 |
+| Popcorn | 14.0 | 60 | 27 |
+| Popcorn | 15.5 | 60 | 27 |
+| Rape Seed (Dry or Wet) | 10.0 | 52 | 24 |
+| Rice | 14.0 | 45 | 20 |
+| Rye | 14.0 | 56 | 25 |
+| Safflower | 6.0 | 45 | 20 |
+| Sorghum | 13.0 | 56 | 25 |
+| Soybeans | 13.0 | 60 | 27 |
+| Sunflower | 14.0 | 29 | 11 |
+| Sunflower | 9.0 | 20 | 11 |
+| Triticale | 14.5 | 58 | 26 |
+| Wheat (Spring) | 13.0 | 60 | 27 |
+| Wheat (Winter) | 13.0 | 60 | 27 |"
 Crop Settings,Standard Weights Chart,"**Standard Weights Chart**
 
-**Header:**
-Unit | Weight (lb) | Weight (kg)
+| --- | --- | --- |
+| Unit | Weight (lb) | Weight (kg) |
 
-**Rows:**
-Barrels | 162.0 | 73.5
-Sacks | 100.0 | 45.4
-Hundred Weight | 100.0 | 45.4
-Pounds (lb) | 1.0 | 0.454
-Kilograms (kg) | 2.204 | 1.0
-Metric Tons | 2204.0 | 1000.0
-Tons | 2000.0 | 907.0"
+| Barrels | 162.0 | 73.5 |
+| Sacks | 100.0 | 45.4 |
+| Hundred Weight | 100.0 | 45.4 |
+| Pounds (lb) | 1.0 | 0.454 |
+| Kilograms (kg) | 2.204 | 1.0 |
+| Metric Tons | 2204.0 | 1000.0 |
+| Tons | 2000.0 | 907.0 |"
 Fire Prevention,Recommended Fire Preventions,"The machine must be inspected periodically throughout the harvest
 day. Buildup of crop material and other debris must be removed to
 ensure proper machine function and to reduce the risk of fire.
@@ -8731,16 +8633,15 @@ with different freeze protection limits as shown in the following
 table.
 **COOL-GARD II Pre-Mix—Freeze Protection Limit**
 
-**Header:**
-COOL-GARD II Pre-Mix | Freeze Protection Limit
+| --- | --- |
+| COOL-GARD II Pre-Mix | Freeze Protection Limit |
 
-**Rows:**
-COOL-GARD II 20/80 | -9°C (16°F)
-COOL-GARD II 30/70 | -16°C (3°F)
-COOL-GARD II 50/50 | -37°C (-34°F)
-COOL-GARD II 55/45 | -45°C (-49°F)
-COOL-GARD II PG 60/40 | -49°C (-56°F)
-COOL-GARD II 60/40 | -52°C (-62°F)"
+| COOL-GARD II 20/80 | -9°C (16°F) |
+| COOL-GARD II 30/70 | -16°C (3°F) |
+| COOL-GARD II 50/50 | -37°C (-34°F) |
+| COOL-GARD II 55/45 | -45°C (-49°F) |
+| COOL-GARD II PG 60/40 | -49°C (-56°F) |
+| COOL-GARD II 60/40 | -52°C (-62°F) |"
 Fuels and Lubricants,John Deere COOL-GARD™ II Coolant Extender,"Some coolant additives gradually deplete during engine operation.
 For
 COOL-GARD II Coolant Extender should not be added unless indicated
@@ -8783,25 +8684,23 @@ All water used in the cooling system should meet the following
 minimum specifications for quality:
 **Water Quality**
 
-**Rows:**
-Chlorides | <40 mg
-Sulfates | <100 mg
-Total solids | <340 mg
-Total dissolved I hardness | <170 mg
-pH | 5.5—9.0
+| Chlorides | <40 mg |
+| Sulfates | <100 mg |
+| Total solids | <340 mg |
+| Total dissolved I hardness | <170 mg |
+| pH | 5.5—9.0 |
 **Freeze Protection**
 
-**Header:**
-Ethylene Glycol | Freeze Protection Limit
+| --- | --- |
+| Ethylene Glycol | Freeze Protection Limit |
 
-**Rows:**
-40% | -24°C (-12°F)
-50% | -37°C (-34°F)
-60% | -52°C (-62°F)
- | 
-40% | -21°C (-6°F)
-50% | -33°C (-27°F)
-60% | -49°C (-56°F)"
+| 40% | -24°C (-12°F) |
+| 50% | -37°C (-34°F) |
+| 60% | -52°C (-62°F) |
+|  |  |
+| 40% | -21°C (-6°F) |
+| 50% | -33°C (-27°F) |
+| 60% | -49°C (-56°F) |"
 Fuels and Lubricants,Testing Coolant Freeze Point,"The use of a handheld coolant refractometer is the quickest,
 easiest, and most accurate method to determine coolant freeze point.
 This method is more accurate than a test strip or a float-type hydrometer
@@ -8848,16 +8747,15 @@ meeting any of the following for the initial break-in of a new or
 rebuilt engine:
 **Oils**
 
-**Rows:**
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
- |  | "
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |"
 Fuels and Lubricants,"John Deere Break-In Plus™ Engine Oil — Interim Tier 4, Final
 Tier 4, Stage IIIB, Stage IV, and Stage V","New engines are filled at the factory with John Deere
 Operate the engine under various conditions, particularly heavy
@@ -8936,21 +8834,20 @@ Oil analysis may allow longer service intervals.
 Use only approved oil types.
 **Examples—Diesel Engine Oil Service Interval for Operation at High Altitude**
 
-**Header:**
-Example of Original Hours | Corresponding High Altitude Hours
+| --- | --- |
+| Example of Original Hours | Corresponding High Altitude Hours |
 
-**Rows:**
-125 | 60
-150 | 75
-175 | 85
-200 | 100
-250 | 125
-275 | 135
-300 | 150
-350 | 175
-375 | 185
-400 | 200
-500 | 250"
+| 125 | 60 |
+| 150 | 75 |
+| 175 | 85 |
+| 200 | 100 |
+| 250 | 125 |
+| 275 | 135 |
+| 300 | 150 |
+| 350 | 175 |
+| 375 | 185 |
+| 400 | 200 |
+| 500 | 250 |"
 Fuels and Lubricants,"Engine Oil and Filter Service Intervals — Tier 3 and Stage IIIA
 — PowerTech™ Plus Engines","Recommended oil and filter service intervals are based on a
 combination of oil pan capacity, type of engine oil and filter used,
@@ -8976,20 +8873,19 @@ DO NOT use diesel fuel with sulfur content greater than
 10000 mg/kg (10000 ppm)
 **Tier 3 and Stage III A — PowerTech™ Plus Engines Service Intervals**
 
-**Header:**
-Engine Oil and Filter Service Intervals
+| --- |
+| Engine Oil and Filter Service Intervals |
 
-**Rows:**
- | Less than 1000 mg (1000 ppm)
-Plus-50 Oils | 375 hours
-Other Oils | 250 hours
- | 1000—2000 mg (1000—2000 ppm)
-Plus-50 Oils | 300 hours
-Other Oils | 200 hours
- | 2000—10000 mg (2000—10000 ppm)
-Plus-50 Oils | Contact John Deere dealer
-Other Oils | Contact John Deere dealer
-Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50 Oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 oils is reached."
+|  | Less than 1000 mg (1000 ppm) |
+| Plus-50 Oils | 375 hours |
+| Other Oils | 250 hours |
+|  | 1000—2000 mg (1000—2000 ppm) |
+| Plus-50 Oils | 300 hours |
+| Other Oils | 200 hours |
+|  | 2000—10000 mg (2000—10000 ppm) |
+| Plus-50 Oils | Contact John Deere dealer |
+| Other Oils | Contact John Deere dealer |
+| Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50 Oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 oils is reached. |"
 Fuels and Lubricants,"Engine Oil and Filter Service Intervals — Interim Tier 4, Final
 Tier 4, Stage IIIB, Stage IV, and Stage V Engines","Failure to follow applicable oil standards and drain intervals
 can result in severe engine damage that might not be covered under
@@ -9019,13 +8915,12 @@ Use of John Deere Plus-50™ II oil
 Use of an approved John Deere oil filter
 **Interim Tier 4, Final Tier 4, Stage IIIB, and Stage IV Service Intervals**
 
-**Header:**
-Engine Oil and Filter Service Intervals
+| --- |
+| Engine Oil and Filter Service Intervals |
 
-**Rows:**
-John Deere Plus-50™ II | 500 hours
-Other Oils | 250 hours
-Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50™ II oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 II oils is reached."
+| John Deere Plus-50™ II | 500 hours |
+| Other Oils | 250 hours |
+| Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50™ II oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 II oils is reached. |"
 Fuels and Lubricants,Oilscan™ and CoolScan™,"Oil and coolant samples should be taken from each system before
 its recommended change interval.
 Check with your John Deere dealer for the availability of Oilscan™
@@ -9203,22 +9098,21 @@ Locations and procedures are listed in the section for that
 interval."
 Maintenance—Every 10 Hours,Service Interval Chart—Every 10 Hours,"**Service Interval Chart—Every 10 Hours**
 
-**Header:**
-Legend | Service | Every 10 Hours
+| --- | --- | --- |
+| Legend | Service | Every 10 Hours |
 
-**Rows:**
-A | Check Engine Oil Level | ●
-B | Check Engine Coolant Level | ●
-C | Clean Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condenser, and Fuel Cooler | ●
-D | Check Hydrostatic Oil Engine Gear Case Oil | ●
-E | Drain Water from Air Compressor Reservoir (If Equipped) | ●
-F | Inspect Fuel Precleaner Filter | ●
-G | Grease Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions) | ●
-H | Grease Rear Axle Tie Rods (Muddy Conditions) | ●
-I | Clean Air Conditioner Drain Hose | ●
-J | Check Stone Trap | ●
-K | Clean | ●
-L | Clean | ●"
+| A | Check Engine Oil Level | ● |
+| B | Check Engine Coolant Level | ● |
+| C | Clean Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condenser, and Fuel Cooler | ● |
+| D | Check Hydrostatic Oil Engine Gear Case Oil | ● |
+| E | Drain Water from Air Compressor Reservoir (If Equipped) | ● |
+| F | Inspect Fuel Precleaner Filter | ● |
+| G | Grease Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions) | ● |
+| H | Grease Rear Axle Tie Rods (Muddy Conditions) | ● |
+| I | Clean Air Conditioner Drain Hose | ● |
+| J | Check Stone Trap | ● |
+| K | Clean | ● |
+| L | Clean | ● |"
 Maintenance—Every 10 Hours,Engine Oil Level,"Verify that the dipstick is pushed completely into the
 housing before removing to check the engine oil level.
 For the most accurate oil level reading, check the engine oil when
@@ -9345,22 +9239,21 @@ Maintenance—Every 10 Hours,ActiveVision™ Tailings System Camera (If Equipped
 Maintenance—Every 10 Hours,ActiveVision™ Clean Grain Elevator Camera (If Equipped),Open the latch and clean the
 Maintenance—Every 50 Hours,Service Interval Chart—Every 50 Hours,"**Service Interval Chart—Every 50 Hours**
 
-**Header:**
-Legend | Service | Every 50 Hours
+| --- | --- | --- |
+| Legend | Service | Every 50 Hours |
 
-**Rows:**
-A | Grease Driveshaft Couplers | ●
-B | Grease Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions) | ●
-C | Grease Rear Axle Tie Rods (Normal Conditions) | ●
-D | Check Lateral Tilt Feeder House | ●
-E | Adjust Feeder House Conveyor Drive Chain Tension | ●
-F | Grease Cleaning Fan Variable Driven Sheaves (Severe Conditions) | ●
-G | Inspect Fuel Precleaner Filter | ●
-H | Check Water Separator Primary Fuel Filter | ●
-I | Check Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers, and Fuel Cooler | ●
-J | Check Mass Flow Sensor | ●
-K | Clean Cab Fresh Air Filter | ●
-L | Clean Moisture Sensor | ●"
+| A | Grease Driveshaft Couplers | ● |
+| B | Grease Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions) | ● |
+| C | Grease Rear Axle Tie Rods (Normal Conditions) | ● |
+| D | Check Lateral Tilt Feeder House | ● |
+| E | Adjust Feeder House Conveyor Drive Chain Tension | ● |
+| F | Grease Cleaning Fan Variable Driven Sheaves (Severe Conditions) | ● |
+| G | Inspect Fuel Precleaner Filter | ● |
+| H | Check Water Separator Primary Fuel Filter | ● |
+| I | Check Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers, and Fuel Cooler | ● |
+| J | Check Mass Flow Sensor | ● |
+| K | Clean Cab Fresh Air Filter | ● |
+| L | Clean Moisture Sensor | ● |"
 Maintenance—Every 50 Hours,Driveshaft Couplers,"Clean the excess grease
 that purged from the splines."
 Maintenance—Every 50 Hours,Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions),"Grease the fittings until the grease purges from the top and
@@ -9448,14 +9341,13 @@ Install end cap and retain
 with pins."
 Maintenance—First 100 Hours,Service Interval Chart—First 100 Hours,"**Service Interval Chart—First 100 Hours**
 
-**Header:**
-Legend | Service | First 100 Hours
+| --- | --- | --- |
+| Legend | Service | First 100 Hours |
 
-**Rows:**
-A | Change Final Drives Oil (Wheel Machines) | ●
-B | Replace Transmission Filter | ●
-C | Replace Main Engine Gear Case Lube Filter | ●
-D | Replace Transmission Return Filter | ●"
+| A | Change Final Drives Oil (Wheel Machines) | ● |
+| B | Replace Transmission Filter | ● |
+| C | Replace Main Engine Gear Case Lube Filter | ● |
+| D | Replace Transmission Return Filter | ● |"
 Maintenance—First 100 Hours,Final Drive Oil (Wheel Machines),"Allow the final drive
 oil to drain.
 Install the drain plug
@@ -9495,13 +9387,12 @@ Install previously removed
 hose and retain with clamp."
 Maintenance—Every 100 Hours,Service Interval Chart—Every 100 Hours,"**Service Interval Chart—Every 100 Hours**
 
-**Header:**
-Legend | Service | Every 100 Hours
+| --- | --- | --- |
+| Legend | Service | Every 100 Hours |
 
-**Rows:**
-A | Check Tire Pressure and Wheel Bolt Torque | ●
-B | Grease Cleaning Fan Variable Driven Sheaves (Normal Conditions) | ●
-C | Adjust Feeder House Conveyor Chain | ●"
+| A | Check Tire Pressure and Wheel Bolt Torque | ● |
+| B | Grease Cleaning Fan Variable Driven Sheaves (Normal Conditions) | ● |
+| C | Adjust Feeder House Conveyor Chain | ● |"
 Maintenance—Every 100 Hours,Tire Pressure and Wheel Bolt Torque,
 Maintenance—Every 100 Hours,Cleaning Fan Variable Speed Driven/Driver Sheaves (Normal Conditions),"When operating consistently in hilly conditions, grease
 the cleaning fan variable speed driven/driver sheaves every 50 hours.
@@ -9519,15 +9410,14 @@ Close the access door
 on both sides of the feeder house shield."
 Maintenance—Every 200 Hours,Service Interval Chart—Every 200 Hours,"**Service Interval Chart—Every 200 Hours**
 
-**Header:**
-Legend | Service | Every 200 Hours
+| --- | --- | --- |
+| Legend | Service | Every 200 Hours |
 
-**Rows:**
-A | Clean Recirculating Filter | ●
-B | Grease Separator Variable Speed Driven Sheave | ●
-C | Grease Separator Variable Speed Driver Sheave | ●
-D | Grease Front End Variable Speed Driven Sheave (If Equipped) | ●
-E | Grease Front End Variable Speed Driver Sheave (If Equipped) | ●"
+| A | Clean Recirculating Filter | ● |
+| B | Grease Separator Variable Speed Driven Sheave | ● |
+| C | Grease Separator Variable Speed Driver Sheave | ● |
+| D | Grease Front End Variable Speed Driven Sheave (If Equipped) | ● |
+| E | Grease Front End Variable Speed Driver Sheave (If Equipped) | ● |"
 Maintenance—Every 200 Hours,Recirculating Filter,"Remove the recirculating
 filter (A).
 Clean or replace the
@@ -9562,15 +9452,14 @@ at a constant speed all the time, cycle the separator speed to distribute
 the grease."
 Maintenance—Every 400 Hours,Service Interval Chart—Every 400 Hours,"**Service Interval Chart—Every 400 Hours**
 
-**Header:**
-Legend | Service | Every 400 Hours
+| --- | --- | --- |
+| Legend | Service | Every 400 Hours |
 
-**Rows:**
-A | Grease Unloading Elbow Gear Case | ●
-B | Grease Vertical Unloading Auger Upper Gear Case | ●
-C | Check Final Drive Oil | ●
-D | Change Chopper Gear Case Oil | ●
-E | Grease Feeder House Dust Fan (If Equipped) | ●"
+| A | Grease Unloading Elbow Gear Case | ● |
+| B | Grease Vertical Unloading Auger Upper Gear Case | ● |
+| C | Check Final Drive Oil | ● |
+| D | Change Chopper Gear Case Oil | ● |
+| E | Grease Feeder House Dust Fan (If Equipped) | ● |"
 Maintenance—Every 400 Hours,Unloading Auger Elbow Gear Case,Grease the fitting.
 Maintenance—Every 400 Hours,Vertical Unloading Auger Upper Gear Case,Grease the fittings.
 Maintenance—Every 400 Hours,Final Drive Oil,"The oil level should
@@ -9616,17 +9505,16 @@ Install the access door
 on the feeder house dust fan."
 Maintenance—Every 400 Hours,Service Interval Chart—Every 400 Hours (Continued),"**Service Interval Chart—Every 400 Hours**
 
-**Header:**
-Legend | Service | Every 400 Hours
+| --- | --- | --- |
+| Legend | Service | Every 400 Hours |
 
-**Rows:**
-A | Service Batteries | ●
-B | Inspect Fire Extinguishers | ●
-C | Inspect Seat Belts | ●
-D | Check Loading Auger Fixed Gear Case Oil | ●
-E | Check Air Filter Elements | ●
-F | Clean Moisture Sensor | ●
-G | Replace | ●"
+| A | Service Batteries | ● |
+| B | Inspect Fire Extinguishers | ● |
+| C | Inspect Seat Belts | ● |
+| D | Check Loading Auger Fixed Gear Case Oil | ● |
+| E | Check Air Filter Elements | ● |
+| F | Clean Moisture Sensor | ● |
+| G | Replace | ● |"
 Maintenance—Every 400 Hours,Batteries,"Clean the top of the
 batteries.
 Visually check the water
@@ -9704,15 +9592,14 @@ screws to specification.
 Hex Socket Screws"
 Maintenance—Every 500 Hours,Service Interval Chart—Every 500 Hours,"**Service Interval Chart—Every 500 Hours**
 
-**Header:**
-Legend | Service | Every 500 Hours
+| --- | --- | --- |
+| Legend | Service | Every 500 Hours |
 
-**Rows:**
-A | Change Engine Oil and Filter | ●
-B | Replace Primary and Secondary Fuel Filter | ●
-C | Clean Fuel Precleaner Filter (Style A) | ●
-D | Inspect Fuel Tank Breather | ●
-E | Inspect Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4 V) | ●"
+| A | Change Engine Oil and Filter | ● |
+| B | Replace Primary and Secondary Fuel Filter | ● |
+| C | Clean Fuel Precleaner Filter (Style A) | ● |
+| D | Inspect Fuel Tank Breather | ● |
+| E | Inspect Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4 V) | ● |"
 Maintenance—Every 500 Hours,Engine Oil and Filter,"Change
 the oil every 500 hours when using John Deere
 Final Tier 4/Stage V engines require Plus-50™
@@ -9806,19 +9693,18 @@ Remove the diesel exhaust
 fluid (DEF) tank breather from the hose and clean."
 Maintenance—Every 1000 Hours,Service Interval Chart—Every 1000 Hours,"**Service Interval Chart—Every 1000 Hours**
 
-**Header:**
-Legend | Service | Every 1000 Hours
+| --- | --- | --- |
+| Legend | Service | Every 1000 Hours |
 
-**Rows:**
-A | Replace Transmission Filter | ●
-B | Replace Hydrostatic Cooler Return Filter | ●
-C | Replace Auxiliary Hydraulic Return Filter | ●
-D | Replace Main Engine Gear Case Lube Filter | ●
-E | Replace Hydrostatic Charge Filter | ●
-F | Replace Transmission Return Filter | ●
-G | Replace Main Engine Gear Case Breather | ●
-H | Change Feed Accelerator Gear Case Oil | ●
-I | Change Cleaning Fan Variable Speed Driven Sheave Oil | ●"
+| A | Replace Transmission Filter | ● |
+| B | Replace Hydrostatic Cooler Return Filter | ● |
+| C | Replace Auxiliary Hydraulic Return Filter | ● |
+| D | Replace Main Engine Gear Case Lube Filter | ● |
+| E | Replace Hydrostatic Charge Filter | ● |
+| F | Replace Transmission Return Filter | ● |
+| G | Replace Main Engine Gear Case Breather | ● |
+| H | Change Feed Accelerator Gear Case Oil | ● |
+| I | Change Cleaning Fan Variable Speed Driven Sheave Oil | ● |"
 Maintenance—Every 1000 Hours,Transmission Filter,"Coat the seal on the
 replacement transmission filter with oil.
 Install the transmission
@@ -9908,12 +9794,11 @@ to specification.
 Fill Plug"
 Maintenance—Every 1500 Hours or Three Years,Service Interval Chart—Every 1500 Hours or Three Years,"**Service Interval Chart—Every 1500 Hours or Three Years**
 
-**Header:**
-Legend | Service | Every 1500 Hours or Three Years
+| --- | --- | --- |
+| Legend | Service | Every 1500 Hours or Three Years |
 
-**Rows:**
-A | Replace Diesel Exhaust Fluid (DEF) Dosing Unit Filter | ●
-B | Replace Diesel Exhaust Fluid (DEF) In-Line Filter | ●"
+| A | Replace Diesel Exhaust Fluid (DEF) Dosing Unit Filter | ● |
+| B | Replace Diesel Exhaust Fluid (DEF) In-Line Filter | ● |"
 Maintenance—Every 1500 Hours or Three Years,Change Diesel Exhaust Fluid (DEF) Dosing Unit Filter,"If DEF is spilled or contacts any surface other than
 the storage tank, immediately clean the surface with clear water.
 DEF is corrosive to painted and unpainted metallic surfaces and can
@@ -9990,12 +9875,11 @@ filter cover and tighten to specification.
 Drain Plug"
 Maintenance—Every 2000 Hours,Service Interval Chart—Every 2000 Hours,"**Service Interval Chart—Every 2000 Hours**
 
-**Header:**
-Legend | Service | Every 2000 Hours
+| --- | --- | --- |
+| Legend | Service | Every 2000 Hours |
 
-**Rows:**
-A | Change Final Drives Oil (Both Sides) | ●
-B—K | Change Hydraulic System Oil and Replace Hydraulic Filters | ●"
+| A | Change Final Drives Oil (Both Sides) | ● |
+| B—K | Change Hydraulic System Oil and Replace Hydraulic Filters | ● |"
 Maintenance—Every 2000 Hours,Final Drive Oil,"Allow the final drive
 oil to drain.
 Install the drain plug
@@ -10105,11 +9989,10 @@ Maintenance—Every 6000 Hours or Six Years,Service Interval Chart—Every 6000 
 hours if John Deere
 **Service Interval Chart—Every 6000 Hours or Six Years**
 
-**Header:**
-Legend | Service | Every 6000 Hours or Six Years
+| --- | --- | --- |
+| Legend | Service | Every 6000 Hours or Six Years |
 
-**Rows:**
-A and B | Replace Engine Coolant | ●"
+| A and B | Replace Engine Coolant | ● |"
 Maintenance—Every 6000 Hours or Six Years,Engine Cooling System,"If a coolant other than Cool-Gard™
 II or Cool-Gard™ II PG is used, reduce the drain interval to two years
 or 2000 hours of operation.
@@ -10123,17 +10006,16 @@ level in the surge tank with the engine cold. The level must be up
 to the ""Max Cold"" line."
 Maintenance—As Required,Service Interval Chart—As Required,"**Service Interval Chart—As Required**
 
-**Header:**
-Legend | Service | As Required
+| --- | --- | --- |
+| Legend | Service | As Required |
 
-**Rows:**
-A | Clean Recirculating Filter | ●
-B | Clean Cab Fresh Air Filter | ●
-C | Fill Windshield Washer Reservoir | ●
-D | Clean Alternator Screen | ●
-E | Clean Moisture Sensor | ●
-F | Clean | ●
-G | Inspect Fire Extinguisher Bracket Straps (If Equipped) | ●"
+| A | Clean Recirculating Filter | ● |
+| B | Clean Cab Fresh Air Filter | ● |
+| C | Fill Windshield Washer Reservoir | ● |
+| D | Clean Alternator Screen | ● |
+| E | Clean Moisture Sensor | ● |
+| F | Clean | ● |
+| G | Inspect Fire Extinguisher Bracket Straps (If Equipped) | ● |"
 Maintenance—As Required,Recirculating Filter,"Remove the recirculating
 filter (A).
 Clean or replace the
@@ -10208,8 +10090,7 @@ Cleaner or equivalent is recommended.
 A soft, non-abrasive rag or towel is preferred for cleaning."
 Maintenance—As Required (Engine Fluids and Filters),Required Emission-Related Information,"**Required Emission-Related Information**
 
-**Rows:**
-A qualified repair shop or person of the owner's choosing may maintain, replace, or repair emission control devices and systems with original or equivalent replacement parts. However, warranty, recall, and all other services paid for by John Deere must be performed at an authorized John Deere service center."
+| A qualified repair shop or person of the owner's choosing may maintain, replace, or repair emission control devices and systems with original or equivalent replacement parts. However, warranty, recall, and all other services paid for by John Deere must be performed at an authorized John Deere service center. |"
 Maintenance—As Required (Engine Fluids and Filters),Rear Ladder,"Turn latch (A) to unlock the ladder.
 Use handle (B) to lower/raise
 the ladder fully."
@@ -11854,88 +11735,84 @@ Operating speed specifications and design subject to change
 without notice.
 **Operating Speeds**
 
-**Header:**
-Engine Speeds | 
+| --- | --- |
+| Engine Speeds |  |
 
-**Rows:**
-Slow Speed | 1200 rpm
-Medium Speed | 1550 rpm
-High Speed | 1900 rpm"
+| Slow Speed | 1200 rpm |
+| Medium Speed | 1550 rpm |
+| High Speed | 1900 rpm |"
 Specifications,Specifications,"Specifications and design subject to change without notice.
 **Engine Specifications**
 
-**Header:**
-Engine
+| --- |
+| Engine |
 
-**Rows:**
-Make | John Deere
-Model | 6136HX304 (13.6 L, Single Turbo, Tier 3 IIIA)
-Type | Six-Cylinder, In-Line, Valve-in-Head, Air-to-Air Aftercooled Diesel Turbocharged
- |  | 
-Rated Power | 410 kW (550 hp) | 450 kW (603 hp)
-Rated Speed | 1900 rpm | 1900 rpm
-Power Boost at Rated Speed | 40 kW (54 hp) | 40 kW (54 hp)
-Peak Power | 470 kW (630 hp) | 515 kW (690 hp)
-Peak Power Speed (Rated Speed -200 rpm) | 1700 rpm
-Displacement | 13.6 L (830 in³)
-Firing Order | 1-5-3-6-2-4
-Air Cleaner | Dry Type with Safety Element
+| Make | John Deere |
+| Model | 6136HX304 (13.6 L, Single Turbo, Tier 3 IIIA) |
+| Type | Six-Cylinder, In-Line, Valve-in-Head, Air-to-Air Aftercooled Diesel Turbocharged |
+|  |  |  |
+| Rated Power | 410 kW (550 hp) | 450 kW (603 hp) |
+| Rated Speed | 1900 rpm | 1900 rpm |
+| Power Boost at Rated Speed | 40 kW (54 hp) | 40 kW (54 hp) |
+| Peak Power | 470 kW (630 hp) | 515 kW (690 hp) |
+| Peak Power Speed (Rated Speed -200 rpm) | 1700 rpm |
+| Displacement | 13.6 L (830 in³) |
+| Firing Order | 1-5-3-6-2-4 |
+| Air Cleaner | Dry Type with Safety Element |
 **Specifications**
 
-**Header:**
-Electrical System
+| --- |
+| Electrical System |
 
-**Rows:**
-Battery Voltage | 12 V
-Battery Terminal Grounded | Negative
-Alternator | 330 A"
+| Battery Voltage | 12 V |
+| Battery Terminal Grounded | Negative |
+| Alternator | 330 A |"
 Specifications,Dimensions,"Dimensions are approximate and subject to change without
 notice.
 **Combine Dimensions**
 
-**Header:**
-Legend | Unloading Auger Lengths
-7.9 m (26 ft 0 in) | 8.2 m (26 ft 10 in) | 8.7 m (28 ft 6 in) | 9.4 m (30 ft 10 in)
+| --- | --- |
+| Legend | Unloading Auger Lengths |
+| 7.9 m (26 ft 0 in) | 8.2 m (26 ft 10 in) | 8.7 m (28 ft 6 in) | 9.4 m (30 ft 10 in) |
 
-**Rows:**
-A | Standard Unloading Auger Boot
-11.49 m (37 ft 8 in) | Not Applicable | 12.25 m (40 ft 2 in) | 13.01 m (42 ft 8 in)
-Active Unloading Auger Boot
-11.83 m (38 ft 10 in) | 11.98 m (39 ft 4 in) | 12.59 m (41 ft 4 in) | 13.35 m (43 ft 10 in)
-B | Standard Unloading Auger Boot
-9.71 m (31 ft 10 in) | Not Applicable | 10.47 m (34 ft 4 in) | 11.23 m (36 ft 10 in)
-Active Unloading Auger Boot
-9.71 m (31 ft 10 in) | 9.71 m (31 ft 10 in) | 10.47 m (34 ft 4 in) | 11.23 m (36 ft 10 in)
-C | 9.21 m (30 ft 3 in)
-D | 4.91—4.96 m (16 ft 1 in—16 ft 3 in) with 14 800 L (420 bu) and 16 200 L (460 bu) Covers
-E | Top of Radio Antenna | Top of Position Receiver
-4.03—4.08 m (13 ft 3 in—13 ft 5 in) | 3.86—3.91 m (12 ft 8 in—12 ft 10 in)
-Top of Engine Cooling Package
-3.96—4.00 m (13 ft 0 in—13 ft 2 in)
-Top of Standard Unloading Auger Boot
-3.98 m (13 ft 1 in) | Not Applicable | 4.01 m (13 ft 2 in) | 4.03 m (13 ft 3 in)
-Top of Active Unloading Auger Boot
-4.11 m (13 ft 6 in) | 4.12 m (13 ft 6 in) | 4.14 m (13 ft 7 in) | 4.16 m (13 ft 8 in)
-F | 0.51—0.56 m (1 ft 8 in-—1 ft 10 in)
-G | 4.11 m (13 ft 6 in)
-H | Standard Unloading Auger Boot
-8.68 m (28 ft 6 in) | Not Applicable | 9.39 m (30 ft 10 in) | 10.10 m (33 ft 2 in)
-Active Unloading Auger Boot
-8.77 m (28 ft 9 in) | 8.91 m (29 ft 3 in) | 9.48 m (31 ft 1 in) | 10.19 m (33 ft 5 in)
-I | Standard Unloading Auger Boot
-5.71—5.76 m | Not Applicable | 5.92—5.97 m | 6.13—6.18 m
-Active Unloading Auger Boot
-5.85—5.91 m | 5.89—5.95 m | 6.06—6.12 m | 6.27—6.33 m
-J | Standard Unloading Auger Boot
-4.87—4.92 m | Not Applicable | 5.08—5.13 m | 5.29—5.34 m
-Active Unloading Auger Boot
-5.35—5.40 m | 5.39—5.44 m | 5.56—5.61 m | 5.77—5.82 m
-K | Standard Unloading Auger Boot
-5.10—5.15 m | Not Applicable | 5.31—5.36 m | 5.52—5.57 m
-Active Unloading Auger Boot
-5.13—5.18 m | 5.17—5.22 m | 5.34—5.39 m | 5.55—5.60 m
-L | Front Tires | Rear Tires
-4.03—5.61 m (13 ft 3 in—18 ft 5 in) | 4.15—4.90 m (13 ft 7 in—16 ft 1 in)"
+| A | Standard Unloading Auger Boot |
+| 11.49 m (37 ft 8 in) | Not Applicable | 12.25 m (40 ft 2 in) | 13.01 m (42 ft 8 in) |
+| Active Unloading Auger Boot |
+| 11.83 m (38 ft 10 in) | 11.98 m (39 ft 4 in) | 12.59 m (41 ft 4 in) | 13.35 m (43 ft 10 in) |
+| B | Standard Unloading Auger Boot |
+| 9.71 m (31 ft 10 in) | Not Applicable | 10.47 m (34 ft 4 in) | 11.23 m (36 ft 10 in) |
+| Active Unloading Auger Boot |
+| 9.71 m (31 ft 10 in) | 9.71 m (31 ft 10 in) | 10.47 m (34 ft 4 in) | 11.23 m (36 ft 10 in) |
+| C | 9.21 m (30 ft 3 in) |
+| D | 4.91—4.96 m (16 ft 1 in—16 ft 3 in) with 14 800 L (420 bu) and 16 200 L (460 bu) Covers |
+| E | Top of Radio Antenna | Top of Position Receiver |
+| 4.03—4.08 m (13 ft 3 in—13 ft 5 in) | 3.86—3.91 m (12 ft 8 in—12 ft 10 in) |
+| Top of Engine Cooling Package |
+| 3.96—4.00 m (13 ft 0 in—13 ft 2 in) |
+| Top of Standard Unloading Auger Boot |
+| 3.98 m (13 ft 1 in) | Not Applicable | 4.01 m (13 ft 2 in) | 4.03 m (13 ft 3 in) |
+| Top of Active Unloading Auger Boot |
+| 4.11 m (13 ft 6 in) | 4.12 m (13 ft 6 in) | 4.14 m (13 ft 7 in) | 4.16 m (13 ft 8 in) |
+| F | 0.51—0.56 m (1 ft 8 in-—1 ft 10 in) |
+| G | 4.11 m (13 ft 6 in) |
+| H | Standard Unloading Auger Boot |
+| 8.68 m (28 ft 6 in) | Not Applicable | 9.39 m (30 ft 10 in) | 10.10 m (33 ft 2 in) |
+| Active Unloading Auger Boot |
+| 8.77 m (28 ft 9 in) | 8.91 m (29 ft 3 in) | 9.48 m (31 ft 1 in) | 10.19 m (33 ft 5 in) |
+| I | Standard Unloading Auger Boot |
+| 5.71—5.76 m | Not Applicable | 5.92—5.97 m | 6.13—6.18 m |
+| Active Unloading Auger Boot |
+| 5.85—5.91 m | 5.89—5.95 m | 6.06—6.12 m | 6.27—6.33 m |
+| J | Standard Unloading Auger Boot |
+| 4.87—4.92 m | Not Applicable | 5.08—5.13 m | 5.29—5.34 m |
+| Active Unloading Auger Boot |
+| 5.35—5.40 m | 5.39—5.44 m | 5.56—5.61 m | 5.77—5.82 m |
+| K | Standard Unloading Auger Boot |
+| 5.10—5.15 m | Not Applicable | 5.31—5.36 m | 5.52—5.57 m |
+| Active Unloading Auger Boot |
+| 5.13—5.18 m | 5.17—5.22 m | 5.34—5.39 m | 5.55—5.60 m |
+| L | Front Tires | Rear Tires |
+| 4.03—5.61 m (13 ft 3 in—18 ft 5 in) | 4.15—4.90 m (13 ft 7 in—16 ft 1 in) |"
 Specifications,Dimension Reference Points,
 Specifications,Emissions Control System Certification Label,"Statutes providing severe penalties for tampering with
 emissions controls may apply to the user or dealer.
@@ -11970,56 +11847,50 @@ The first letter of the family number is not utilized
 for family identification on the chart.
 **CO₂ Emissions Output**
 
-**Header:**
-Emissions Label Family | CO₂ Result
+| --- | --- |
+| Emissions Label Family | CO₂ Result |
 
-**Rows:**
-_JDXL02.9323 | 952 g-hr
-_JDXL02.9327 | 784 g-hr
-_JDXL04.5337 | 819 g-hr
-_JDXL04.5338 | 682 g-hr
-_JDXL04.5304 | 1004 g-hr
-_JDXN04.5174 | 792 g-hr
-_JDXL06.8324 | 720 g-hr
-_JDXL06.8328 | 683 g-hr
-_JDXL06.8336 | 701 g-hr
-_JDXN06.8175 | 771 g-hr
-_JDXL09.0319 | 646 g-hr
-_JDXL09.0325 | 695 g-hr
-_JDXL09.0329 | 657 g-hr
-_JDXL09.0333 | 650 g-hr
-_JDXL13.5326 | 684 g-hr
-_JDXL13.6320 | 651 g-hr
-_JDXL13.5340 | 632 g-hr
-_JDXL18.0341 | 683 g-hr
-F28 | 870 g-hr
-F32 | 710 g-hr
-F33 | 677 g-hr"
+| _JDXL02.9323 | 952 g-hr |
+| _JDXL02.9327 | 784 g-hr |
+| _JDXL04.5337 | 819 g-hr |
+| _JDXL04.5338 | 682 g-hr |
+| _JDXL04.5304 | 1004 g-hr |
+| _JDXN04.5174 | 792 g-hr |
+| _JDXL06.8324 | 720 g-hr |
+| _JDXL06.8328 | 683 g-hr |
+| _JDXL06.8336 | 701 g-hr |
+| _JDXN06.8175 | 771 g-hr |
+| _JDXL09.0319 | 646 g-hr |
+| _JDXL09.0325 | 695 g-hr |
+| _JDXL09.0329 | 657 g-hr |
+| _JDXL09.0333 | 650 g-hr |
+| _JDXL13.5326 | 684 g-hr |
+| _JDXL13.6320 | 651 g-hr |
+| _JDXL13.5340 | 632 g-hr |
+| _JDXL18.0341 | 683 g-hr |
+| F28 | 870 g-hr |
+| F32 | 710 g-hr |
+| F33 | 677 g-hr |"
 Specifications,"CARB Non-road Emissions Control Warranty Statement—Compression
 Ignition","**Emissions Control Warranty Statement 2019 through 2021 — 1/2**
 
-**Rows:**
-
-To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and CARB regulations for nonroad diesel engines” also refer to the “California Emissions Control Warranty Statement.”
+|  |
+| To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and CARB regulations for nonroad diesel engines” also refer to the “California Emissions Control Warranty Statement.” |
 **Emissions Control Warranty Statement 2019 through 2021 — 2/2**
 
-**Rows:**
-
+|  |
 **Emissions Control Warranty Statement 2022 through 2024 — 1/2**
 
-**Rows:**
-
-To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and California regulations for nonroad-road diesel engines” also refer to the “California Emissions Control Warranty Statement.”
+|  |
+| To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and California regulations for nonroad-road diesel engines” also refer to the “California Emissions Control Warranty Statement.” |
 **Emissions Control Warranty Statement 2022 through 2024 — 2/2**
 
-**Rows:**
-"
+|  |"
 Specifications,"EPA Non-road Emissions Control Warranty Statement—Compression
 Ignition","**Emissions Control Warranty Statement**
 
-**Rows:**
-
-To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the ""Emissions Control Information"" label located on the engine. If the engine is operated in the United States or Canada and the Emissions Control information label states: ""This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine conforms to US EPA nonroad compression-ignition regulations”, refer to the ""U.S. and Canada Emission Control Warranty Statement."" If the engine is operated in California, and the label states: ""This engine complies with US EPA and CARB regulations for nonroad diesel engines”, or “This engine conforms to US EPA and California nonroad compression-ignition emission regulations”, also refer to the ""California Emission Control Warranty Statement.”"
+|  |
+| To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the ""Emissions Control Information"" label located on the engine. If the engine is operated in the United States or Canada and the Emissions Control information label states: ""This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine conforms to US EPA nonroad compression-ignition regulations”, refer to the ""U.S. and Canada Emission Control Warranty Statement."" If the engine is operated in California, and the label states: ""This engine complies with US EPA and CARB regulations for nonroad diesel engines”, or “This engine conforms to US EPA and California nonroad compression-ignition emission regulations”, also refer to the ""California Emission Control Warranty Statement.” |"
 Specifications,Limited Battery Warranty,"Applicable in North America only. For complete machine
 warranty, reference a copy of the John Deere warranty statement. Contact
 your John Deere dealer to obtain a copy.
@@ -12090,93 +11961,88 @@ for a period of three years after our last shipment of the Software
 by sending a request letter to:
 **Deere Open Source Compliance Team**
 
-**Rows:**
- | Deere Open Source Compliance Team
- | P.O. Box 1202
- | Moline, IL 61266-1202 USA"
+|  | Deere Open Source Compliance Team |
+|  | P.O. Box 1202 |
+|  | Moline, IL 61266-1202 USA |"
 Specifications,Unified Inch Bolt and Screw Torque Values,"**Unified Inch Bolt and Screw Torque Values**
 
-**Header:**
-Bolt or Screw Size | SAE Grade 1 | SAE Grade 2 | SAE Grade 5, 5.1 or 5.2 | SAE Grade 8 or 8.2
-Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head
+| --- | --- | --- | --- | --- |
+| Bolt or Screw Size | SAE Grade 1 | SAE Grade 2 | SAE Grade 5, 5.1 or 5.2 | SAE Grade 8 or 8.2 |
+| Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head |
 
-**Rows:**
- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-1/4 | 3.1 | 27.3 | 3.2 | 28.4 | 5.1 | 45.5 | 5.3 | 47.3 | 7.9 | 70.2 | 8.3 | 73.1 | 11.2 | 99.2 | 11.6 | 103
- |  |  |  |  | 
-5/16 | 6.1 | 54.1 | 6.5 | 57.7 | 10.2 | 90.2 | 10.9 | 96.2 | 15.7 | 139 | 16.8 | 149 | 22.2 | 16.4 | 23.7 | 17.5
- |  |  |  |  |  | 
-3/8 | 10.5 | 93.6 | 11.5 | 102 | 17.6 | 156 | 19.2 | 170 | 27.3 | 20.1 | 29.7 | 21.9 | 38.5 | 28.4 | 41.9 | 30.9
- |  |  |  |  |  |  |  | 
-7/16 | 16.7 | 148 | 18.4 | 163 | 27.8 | 20.5 | 30.6 | 22.6 | 43 | 31.7 | 47.3 | 34.9 | 60.6 | 44.7 | 66.8 | 49.3
- |  |  |  |  | 
-1/2 | 25.9 | 19.1 | 28.2 | 20.8 | 43.1 | 31.8 | 47 | 34.7 | 66.6 | 49.1 | 72.8 | 53.7 | 94 | 69.3 | 103 | 75.8
-9/16 | 36.7 | 27.1 | 40.5 | 29.9 | 61.1 | 45.1 | 67.5 | 49.8 | 94.6 | 69.8 | 104 | 77 | 134 | 98.5 | 148 | 109
-5/8 | 51 | 37.6 | 55.9 | 41.2 | 85 | 62.7 | 93.1 | 68.7 | 131 | 96.9 | 144 | 106 | 186 | 137 | 203 | 150
-3/4 | 89.5 | 66 | 98 | 72.3 | 149 | 110 | 164 | 121 | 230 | 170 | 252 | 186 | 325 | 240 | 357 | 263
-7/8 | 144 | 106 | 157 | 116 | 144 | 106 | 157 | 116 | 370 | 273 | 405 | 299 | 522 | 385 | 572 | 422
-1 | 216 | 159 | 236 | 174 | 216 | 159 | 236 | 174 | 556 | 410 | 609 | 449 | 785 | 579 | 860 | 634
-1-1/8 | 305 | 225 | 335 | 247 | 305 | 225 | 335 | 247 | 685 | 505 | 751 | 554 | 1110 | 819 | 1218 | 898
-1-1/4 | 427 | 315 | 469 | 346 | 427 | 315 | 469 | 346 | 957 | 706 | 1051 | 775 | 1552 | 1145 | 1703 | 1256
-1-3/8 | 564 | 416 | 618 | 456 | 564 | 416 | 618 | 456 | 1264 | 932 | 1386 | 1022 | 2050 | 1512 | 2248 | 1658
-1-1/2 | 743 | 548 | 815 | 601 | 743 | 548 | 815 | 601 | 1665 | 1228 | 1826 | 1347 | 2699 | 1991 | 2962 | 2185
-The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench. | Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.
-
-"
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1/4 | 3.1 | 27.3 | 3.2 | 28.4 | 5.1 | 45.5 | 5.3 | 47.3 | 7.9 | 70.2 | 8.3 | 73.1 | 11.2 | 99.2 | 11.6 | 103 |
+|  |  |  |  |  |  |
+| 5/16 | 6.1 | 54.1 | 6.5 | 57.7 | 10.2 | 90.2 | 10.9 | 96.2 | 15.7 | 139 | 16.8 | 149 | 22.2 | 16.4 | 23.7 | 17.5 |
+|  |  |  |  |  |  |  |
+| 3/8 | 10.5 | 93.6 | 11.5 | 102 | 17.6 | 156 | 19.2 | 170 | 27.3 | 20.1 | 29.7 | 21.9 | 38.5 | 28.4 | 41.9 | 30.9 |
+|  |  |  |  |  |  |  |  |  |
+| 7/16 | 16.7 | 148 | 18.4 | 163 | 27.8 | 20.5 | 30.6 | 22.6 | 43 | 31.7 | 47.3 | 34.9 | 60.6 | 44.7 | 66.8 | 49.3 |
+|  |  |  |  |  |  |
+| 1/2 | 25.9 | 19.1 | 28.2 | 20.8 | 43.1 | 31.8 | 47 | 34.7 | 66.6 | 49.1 | 72.8 | 53.7 | 94 | 69.3 | 103 | 75.8 |
+| 9/16 | 36.7 | 27.1 | 40.5 | 29.9 | 61.1 | 45.1 | 67.5 | 49.8 | 94.6 | 69.8 | 104 | 77 | 134 | 98.5 | 148 | 109 |
+| 5/8 | 51 | 37.6 | 55.9 | 41.2 | 85 | 62.7 | 93.1 | 68.7 | 131 | 96.9 | 144 | 106 | 186 | 137 | 203 | 150 |
+| 3/4 | 89.5 | 66 | 98 | 72.3 | 149 | 110 | 164 | 121 | 230 | 170 | 252 | 186 | 325 | 240 | 357 | 263 |
+| 7/8 | 144 | 106 | 157 | 116 | 144 | 106 | 157 | 116 | 370 | 273 | 405 | 299 | 522 | 385 | 572 | 422 |
+| 1 | 216 | 159 | 236 | 174 | 216 | 159 | 236 | 174 | 556 | 410 | 609 | 449 | 785 | 579 | 860 | 634 |
+| 1-1/8 | 305 | 225 | 335 | 247 | 305 | 225 | 335 | 247 | 685 | 505 | 751 | 554 | 1110 | 819 | 1218 | 898 |
+| 1-1/4 | 427 | 315 | 469 | 346 | 427 | 315 | 469 | 346 | 957 | 706 | 1051 | 775 | 1552 | 1145 | 1703 | 1256 |
+| 1-3/8 | 564 | 416 | 618 | 456 | 564 | 416 | 618 | 456 | 1264 | 932 | 1386 | 1022 | 2050 | 1512 | 2248 | 1658 |
+| 1-1/2 | 743 | 548 | 815 | 601 | 743 | 548 | 815 | 601 | 1665 | 1228 | 1826 | 1347 | 2699 | 1991 | 2962 | 2185 |
+| The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench. | Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original. |
+|  |
+|  |"
 Specifications,Metric Bolt and Screw Torque Values,"**Metric Torque Values**
 
-**Header:**
-Bolt or Screw Size | Class 4.8 | Class 8.8 or 9.8 | Class 10.9 | Class 12.9
-Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head
+| --- | --- | --- | --- | --- |
+| Bolt or Screw Size | Class 4.8 | Class 8.8 or 9.8 | Class 10.9 | Class 12.9 |
+| Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head | Hex Head | Flange Head |
 
-**Rows:**
- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-M6 | 3.6 | 31.9 | 3.9 | 34.5 | 6.7 | 59.3 | 7.3 | 64.6 | 9.8 | 86.7 | 10.8 | 95.6 | 11.5 | 102 | 12.6 | 112
- |  |  |  |  |  |  |  |  | 
-M8 | 8.6 | 76.1 | 9.4 | 83.2 | 16.2 | 143 | 17.6 | 156 | 23.8 | 17.6 | 25.9 | 19.1 | 27.8 | 20.5 | 30.3 | 22.3
- |  |  |  |  |  |  |  | 
-M10 | 16.9 | 150 | 18.4 | 13.6 | 31.9 | 23.5 | 34.7 | 25.6 | 46.8 | 34.5 | 51 | 37.6 | 55 | 40.6 | 60 | 44.3
- |  |  | 
-M12 | — | — | — | — | 55 | 40.6 | 61 | 45 | 81 | 59.7 | 89 | 65.6 | 95 | 70.1 | 105 | 77.4
-M14 | — | — | — | — | 87 | 64.2 | 96 | 70.8 | 128 | 94.4 | 141 | 104 | 150 | 111 | 165 | 122
-M16 | — | — | — | — | 135 | 99.6 | 149 | 110 | 198 | 146 | 219 | 162 | 232 | 171 | 257 | 190
-M18 | — | — | — | — | 193 | 142 | 214 | 158 | 275 | 203 | 304 | 224 | 322 | 245 | 356 | 263
-M20 | — | — | — | — | 272 | 201 | 301 | 222 | 387 | 285 | 428 | 316 | 453 | 334 | 501 | 370
-M22 | — | — | — | — | 365 | 263 | 405 | 299 | 520 | 384 | 576 | 425 | 608 | 448 | 674 | 497
-M24 | — | — | — | — | 468 | 345 | 518 | 382 | 666 | 491 | 738 | 544 | 780 | 575 | 864 | 637
-M27 | — | — | — | — | 683 | 504 | 758 | 559 | 973 | 718 | 1080 | 797 | 1139 | 840 | 1263 | 932
-M30 | — | — | — | — | 932 | 687 | 1029 | 759 | 1327 | 979 | 1466 | 1081 | 1553 | 1145 | 1715 | 1265
-M33 | — | — | — | — | 1258 | 928 | 1398 | 1031 | 1788 | 1319 | 1986 | 1465 | 2092 | 1543 | 2324 | 1714
-M36 | — | — | — | — | 1617 | 1193 | 1789 | 1319 | 2303 | 1699 | 2548 | 1879 | 2695 | 1988 | 2982 | 2199
-The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench. | Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.
-
-"
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| M6 | 3.6 | 31.9 | 3.9 | 34.5 | 6.7 | 59.3 | 7.3 | 64.6 | 9.8 | 86.7 | 10.8 | 95.6 | 11.5 | 102 | 12.6 | 112 |
+|  |  |  |  |  |  |  |  |  |  |
+| M8 | 8.6 | 76.1 | 9.4 | 83.2 | 16.2 | 143 | 17.6 | 156 | 23.8 | 17.6 | 25.9 | 19.1 | 27.8 | 20.5 | 30.3 | 22.3 |
+|  |  |  |  |  |  |  |  |  |
+| M10 | 16.9 | 150 | 18.4 | 13.6 | 31.9 | 23.5 | 34.7 | 25.6 | 46.8 | 34.5 | 51 | 37.6 | 55 | 40.6 | 60 | 44.3 |
+|  |  |  |  |
+| M12 | — | — | — | — | 55 | 40.6 | 61 | 45 | 81 | 59.7 | 89 | 65.6 | 95 | 70.1 | 105 | 77.4 |
+| M14 | — | — | — | — | 87 | 64.2 | 96 | 70.8 | 128 | 94.4 | 141 | 104 | 150 | 111 | 165 | 122 |
+| M16 | — | — | — | — | 135 | 99.6 | 149 | 110 | 198 | 146 | 219 | 162 | 232 | 171 | 257 | 190 |
+| M18 | — | — | — | — | 193 | 142 | 214 | 158 | 275 | 203 | 304 | 224 | 322 | 245 | 356 | 263 |
+| M20 | — | — | — | — | 272 | 201 | 301 | 222 | 387 | 285 | 428 | 316 | 453 | 334 | 501 | 370 |
+| M22 | — | — | — | — | 365 | 263 | 405 | 299 | 520 | 384 | 576 | 425 | 608 | 448 | 674 | 497 |
+| M24 | — | — | — | — | 468 | 345 | 518 | 382 | 666 | 491 | 738 | 544 | 780 | 575 | 864 | 637 |
+| M27 | — | — | — | — | 683 | 504 | 758 | 559 | 973 | 718 | 1080 | 797 | 1139 | 840 | 1263 | 932 |
+| M30 | — | — | — | — | 932 | 687 | 1029 | 759 | 1327 | 979 | 1466 | 1081 | 1553 | 1145 | 1715 | 1265 |
+| M33 | — | — | — | — | 1258 | 928 | 1398 | 1031 | 1788 | 1319 | 1986 | 1465 | 2092 | 1543 | 2324 | 1714 |
+| M36 | — | — | — | — | 1617 | 1193 | 1789 | 1319 | 2303 | 1699 | 2548 | 1879 | 2695 | 1988 | 2982 | 2199 |
+| The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench. | Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original. |
+|  |
+|  |"
 Machine Identification Numbers,Interpreting Machine Serial Number,"**Manufacturer Code**
 
-**Rows:**
-1 | Manufacturer Code | Harvesting Manufacturing Facilities
-CQ - John Deere Horizontina | SA - SABO Maschinenfabrik GmbH
-2 | Machine Model Identifier | 
-3 | Model Identifier Suffix | Example: N, T, W, etc.
-4 | Check Letter | Example: A, B, C, D, etc.
-5 | Calendar Year of Manufacture | Refer to Year of Manufacture Code table
-6 | Additional Information | 
-7 | Manufacturing Serial Number | Example: 000001, 000127, etc.
+| 1 | Manufacturer Code | Harvesting Manufacturing Facilities |
+| CQ - John Deere Horizontina | SA - SABO Maschinenfabrik GmbH |
+| 2 | Machine Model Identifier |  |
+| 3 | Model Identifier Suffix | Example: N, T, W, etc. |
+| 4 | Check Letter | Example: A, B, C, D, etc. |
+| 5 | Calendar Year of Manufacture | Refer to Year of Manufacture Code table |
+| 6 | Additional Information |  |
+| 7 | Manufacturing Serial Number | Example: 000001, 000127, etc. |
 **Year of Manufacture Code**
 
-**Rows:**
-
- |  |  |  |  |  |  | 
-2008 | 8 | 2018 | J | 2028 | W | 2038 | 8
-2009 | 9 | 2019 | K | 2029 | X | 2039 | 9
-2010 | A | 2020 | L | 2030 | Y | 2040 | A
-2011 | B | 2021 | M | 2031 | 1 | 2041 | B
-2012 | C | 2022 | N | 2032 | 2 | 2042 | C
-2013 | D | 2023 | P | 2033 | 3 | 2043 | D
-2014 | E | 2024 | R | 2034 | 4 | 2044 | E
-2015 | F | 2025 | S | 2035 | 5 | 2045 | F
-2016 | G | 2026 | T | 2036 | 6 | 2046 | G
-2017 | H | 2027 | V | 2037 | 7 | 2047 | H"
+|  |
+|  |  |  |  |  |  |  |  |
+| 2008 | 8 | 2018 | J | 2028 | W | 2038 | 8 |
+| 2009 | 9 | 2019 | K | 2029 | X | 2039 | 9 |
+| 2010 | A | 2020 | L | 2030 | Y | 2040 | A |
+| 2011 | B | 2021 | M | 2031 | 1 | 2041 | B |
+| 2012 | C | 2022 | N | 2032 | 2 | 2042 | C |
+| 2013 | D | 2023 | P | 2033 | 3 | 2043 | D |
+| 2014 | E | 2024 | R | 2034 | 4 | 2044 | E |
+| 2015 | F | 2025 | S | 2035 | 5 | 2045 | F |
+| 2016 | G | 2026 | T | 2036 | 6 | 2046 | G |
+| 2017 | H | 2027 | V | 2037 | 7 | 2047 | H |"
 Machine Identification Numbers,Identification Numbers,"Your machine has these various identification plates. The letters
 and numbers stamped on these plates identify a component or assembly.
 ALL of these characters are needed when ordering parts or identifying
@@ -12191,25 +12057,23 @@ The compliance label (A) is located on the right-hand side of
 the machine mainframe."
 Machine Identification Numbers,Interpreting Engine Serial Number,"**Engine Serial Numbers**
 
-**Header:**
-13.6 L Example (RG6136U123456)
+| --- |
+| 13.6 L Example (RG6136U123456) |
 
-**Rows:**
-RG
-6136
-U
-123456
+| RG |
+| 6136 |
+| U |
+| 123456 |
 **Engine Model Number**
 
-**Header:**
-13.6 L Example (6136HFC09)
+| --- |
+| 13.6 L Example (6136HFC09) |
 
-**Rows:**
-6136
-H
-F
-C
-09"
+| 6136 |
+| H |
+| F |
+| C |
+| 09 |"
 Machine Identification Numbers,Engine Serial Number,
 Machine Identification Numbers,Cab Serial Number,
 Machine Identification Numbers,Hydrostatic Drive Pump,
