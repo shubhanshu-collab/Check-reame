@@ -762,14 +762,14 @@ operator's manual.
 #### Radio Types (Optional)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Features</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Main Features</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Radio</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Connection of External Devices</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>USB</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Satellite Radio Ready</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Main Features</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Radio</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Connection of External Devices</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>USB</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Satellite Radio Ready</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -803,10 +803,10 @@ If a different tuner frequency is needed for the radio,
 see your John Deere dealer for further information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Frequency</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Wave Bands (United States)</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Wave Bands (All Other Countries)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Wave Bands (United States)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Wave Bands (All Other Countries)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -2472,9 +2472,9 @@ or backshaft speed.
 Only for
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Feeder House Speeds</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Feeder House Lower Shaft Speeds</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Feeder House Lower Shaft Speeds</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -4732,10 +4732,10 @@ suspension systems.
 #### Header Suspension Service Mode | Procedure
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Engine State</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Running</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Engine State</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Running</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -7018,11 +7018,11 @@ Change the rotor gear
 case speed into desired position (B—E) using handle (A).
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Speed</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Gear</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Factory Belt Speed Ranges</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Optimal Belt Life Speed Ranges</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Gear</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Factory Belt Speed Ranges</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Optimal Belt Life Speed Ranges</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -8932,23 +8932,23 @@ Machine Light Angles (Detailed Adjustment) for further information
 on adjusting the various lights around the machine.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Position</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Right-Hand Cab Lights</th>
-<th colspan='5' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Left-Hand Cab Lights</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Position</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Right-Hand Cab Lights</th>
+<th colspan='5' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Left-Hand Cab Lights</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 1</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 2</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 3</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 4</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 5</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 6</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 7</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 8</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 9</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Light 10</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 1</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 2</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 3</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 4</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 5</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 6</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 7</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 8</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 9</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Light 10</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9012,11 +9012,11 @@ Adjust the left-hand cab headlight (low-beam) to specification.
 See information later in this section on adjusting the cab headlights.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9029,11 +9029,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9046,11 +9046,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9063,11 +9063,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9080,11 +9080,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9115,11 +9115,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9140,11 +9140,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9165,11 +9165,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9190,11 +9190,11 @@ See information later in this section on adjusting the cab headlights.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9379,49 +9379,49 @@ See Care and Service of Tires in this section for further
 information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Configuration</th>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Transport Speed</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Harvest Speed</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Configuration</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Transport Speed</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Harvest Speed</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Approximate Header Mass</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>No Head/ Transport</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>1500—2500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3500—4500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>5500—6200</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Approximate Header Mass</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>No Head/ Transport</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>1500—2500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3500—4500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>5500—6200</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9900—12 100</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3300—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>7700—9900</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9900—12 100</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>12 100—13 700</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9900—12 100</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3300—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>7700—9900</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9900—12 100</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>12 100—13 700</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Belt Pickup Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>BP15</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>RD30F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD35R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD40F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Belt Pickup Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>BP15</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>RD30F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD35R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD40F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C16F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C16F</th>
 </tr>
 <tr>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Front Tire Size</th>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tire Pressure - bar (psi)</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Front Tire Size</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tire Pressure - bar (psi)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9555,49 +9555,49 @@ See Care and Service of Tires in this section for further
 information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Configuration</th>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Transport Speed</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Harvest Speed</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Configuration</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Transport Speed</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Harvest Speed</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Approximate Header Mass</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>No Head/ Transport</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>1500—2500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3500—4500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>5500—6200</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Approximate Header Mass</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>No Head/ Transport</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>1500—2500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3500—4500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>5500—6200</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9900—12 100</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3300—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>7700—9900</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9900—12 100</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>12 100—13 700</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9900—12 100</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3300—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>7700—9900</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9900—12 100</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>12 100—13 700</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Belt Pickup Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>BP15</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>RD30F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD35R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD40F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Belt Pickup Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>BP15</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>RD30F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD35R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD40F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C16F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C16F</th>
 </tr>
 <tr>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rear Tire Size</th>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tire Pressure - bar (psi)</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rear Tire Size</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tire Pressure - bar (psi)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9700,17 +9700,17 @@ See Care and Service of Tires in this section for further
 information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tire Spacing</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tire Spacing</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tires</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Default Spacer</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Centerline Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Outside Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Inside Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tires</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Default Spacer</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Centerline Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Outside Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Inside Width</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -9873,18 +9873,18 @@ See Care and Service of Tires in
 this section for further information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tire Spacing</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tire Spacing</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rear Tire Size</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rear Axle Position</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Steering Stop Washers</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Tire Width</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Center to Center</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Outside to Outside</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Inside to Inside</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rear Tire Size</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rear Axle Position</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Steering Stop Washers</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Tire Width</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Center to Center</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Outside to Outside</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Inside to Inside</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -10505,42 +10505,42 @@ Tires requiring fluid must be filled to
 75%.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Ballast Chart</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Approximate Header Mass</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>1500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>4500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>5000—</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>5500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Approximate Header Mass</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>1500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>4500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>5000—</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>5500—</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>3300—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>7700—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9900—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>11 000—</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>12 100—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>3300—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>7700—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9900—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>11 000—</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>12 100—</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Belt Pickup Heads</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>BP15</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>RD30F</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD35R</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD40R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>HD40F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Belt Pickup Heads</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>BP15</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>RD30F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD35R</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD40R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>HD40F</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn Heads</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12R</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C12F</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>C16F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn Heads</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12R</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C12F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>C16F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Model</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Configuration</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Normal Slopes (Flat to 15%)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Model</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Configuration</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Normal Slopes (Flat to 15%)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -10828,12 +10828,12 @@ lever for 2 seconds to enter desired modes into memory.
 A few common modes are shown below, but many combinations exist.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combinations</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Auto Header Controls (Enabled Modes)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Activation Button 1</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Activation Button 2</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Activation Button 3</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Auto Header Controls (Enabled Modes)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Activation Button 1</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Activation Button 2</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Activation Button 3</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -10968,14 +10968,14 @@ Run at least
 #### Alfalfa and Barley
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Alfalfa</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Barley</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Alfalfa</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Barley</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11101,14 +11101,14 @@ Run at least
 #### Canola (Dry) and Canola (Wet)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Canola (Dry)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Canola (Wet)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Canola (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Canola (Wet)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11234,13 +11234,13 @@ Run at least
 #### Chickpeas
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Chickpeas</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Chickpeas</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11343,14 +11343,14 @@ Run at least
 #### Corn (Dry) and Corn (Wet)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn (Dry)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn (Wet)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn (Wet)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11476,14 +11476,14 @@ Run at least
 #### Corn Cob Mix and Edible Beans
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corn Cob Mix (D)*</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Edible Beans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corn Cob Mix (D)*</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Edible Beans</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11609,14 +11609,14 @@ Run at least
 #### Flax and Grass Seed
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flax</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Grass Seed</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flax</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Grass Seed</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11742,14 +11742,14 @@ Run at least
 #### Guar (Cluster Beans) and Lentils
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Guar (Cluster Beans)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Lentils</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Guar (Cluster Beans)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Lentils</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -11875,14 +11875,14 @@ Run at least
 #### Lupins and Millet
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Lupins</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Millet</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Lupins</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Millet</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12008,14 +12008,14 @@ Run at least
 #### Mustard and Navy Beans
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Mustard</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Navy Beans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Mustard</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Navy Beans</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12141,14 +12141,14 @@ Run at least
 #### Oats and Peas
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Oats</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Peas</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Oats</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Peas</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12274,14 +12274,14 @@ Run at least
 #### Popcorn and Rape Seed (Dry)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Popcorn</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rape Seed (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Popcorn</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rape Seed (Dry)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12407,13 +12407,13 @@ Run at least
 #### Rape Seed (Green)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rape Seed (Green)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rape Seed (Green)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12516,14 +12516,14 @@ Run at least
 #### Rye and Safflower
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Rye</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Safflower</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Rye</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Safflower</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12649,14 +12649,14 @@ Run at least
 #### Sorghum and Soybeans
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Sorghum</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Soybeans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Sorghum</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Soybeans</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12782,14 +12782,14 @@ Run at least
 #### Sunflower and Triticale
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Sunflower</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Triticale</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Sunflower</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Triticale</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -12915,13 +12915,13 @@ Run at least
 #### Wheat
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Wheat</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Wheat</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -13120,12 +13120,12 @@ levels are attained, calibrate
 #### Payable Moisture and Density Chart
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Moisture Density Chart</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Crop</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Standard Moisture (%)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Crop Density (lbs)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Crop Density (kg)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Crop</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Standard Moisture (%)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Crop Density (lbs)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Crop Density (kg)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -13328,11 +13328,11 @@ levels are attained, calibrate
 #### Standard Weights Chart
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Standard Weights Chart</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Unit</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Weight (lb)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Weight (kg)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Unit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Weight (lb)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Weight (kg)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -14269,10 +14269,10 @@ with different freeze protection limits as shown in the following
 table.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>COOL-GARD II Pre-Mix—Freeze Protection Limit</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>COOL-GARD II Pre-Mix</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Freeze Protection Limit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>COOL-GARD II Pre-Mix</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Freeze Protection Limit</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -14378,10 +14378,10 @@ minimum specifications for quality:
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Freeze Protection</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Ethylene Glycol</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Freeze Protection Limit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Ethylene Glycol</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Freeze Protection Limit</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -14605,10 +14605,10 @@ Oil analysis may allow longer service intervals.
 Use only approved oil types.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Examples—Diesel Engine Oil Service Interval for Operation at High Altitude</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Example of Original Hours</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Corresponding High Altitude Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Example of Original Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Corresponding High Altitude Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -14686,9 +14686,9 @@ DO NOT use diesel fuel with sulfur content greater than
 10000 mg/kg (10000 ppm)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tier 3 and Stage III A — PowerTech™ Plus Engines Service Intervals</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Engine Oil and Filter Service Intervals</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Engine Oil and Filter Service Intervals</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -14765,9 +14765,9 @@ Use of John Deere Plus-50™ II oil
 Use of an approved John Deere oil filter
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Interim Tier 4, Final Tier 4, Stage IIIB, and Stage IV Service Intervals</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Engine Oil and Filter Service Intervals</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Engine Oil and Filter Service Intervals</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15027,11 +15027,11 @@ interval.
 #### Service Interval Chart—Every 10 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 10 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 10 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 10 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15265,11 +15265,11 @@ Open the latch and clean the
 #### Service Interval Chart—Every 50 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 50 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 50 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 50 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15467,11 +15467,11 @@ with pins.
 #### Service Interval Chart—First 100 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—First 100 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>First 100 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>First 100 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15551,11 +15551,11 @@ hose and retain with clamp.
 #### Service Interval Chart—Every 100 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 100 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 100 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 100 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15605,11 +15605,11 @@ on both sides of the feeder house shield.
 #### Service Interval Chart—Every 200 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 200 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 200 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 200 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15692,11 +15692,11 @@ the grease.
 #### Service Interval Chart—Every 400 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 400 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 400 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15790,11 +15790,11 @@ on the feeder house dust fan.
 #### Service Interval Chart—Every 400 Hours (Continued)
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 400 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 400 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -15942,11 +15942,11 @@ Hex Socket Screws
 #### Service Interval Chart—Every 500 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 500 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 500 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 500 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -16094,11 +16094,11 @@ fluid (DEF) tank breather from the hose and clean.
 #### Service Interval Chart—Every 1000 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1000 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 1000 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 1000 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -16268,11 +16268,11 @@ Fill Plug
 #### Service Interval Chart—Every 1500 Hours or Three Years
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1500 Hours or Three Years</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 1500 Hours or Three Years</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 1500 Hours or Three Years</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -16373,11 +16373,11 @@ Drain Plug
 #### Service Interval Chart—Every 2000 Hours
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 2000 Hours</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 2000 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 2000 Hours</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -16511,11 +16511,11 @@ SCHEDULED coolant change interval is six years or 6000
 hours if John Deere
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 6000 Hours or Six Years</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Every 6000 Hours or Six Years</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Every 6000 Hours or Six Years</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -16545,11 +16545,11 @@ to the "Max Cold" line.
 #### Service Interval Chart—As Required
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—As Required</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>As Required</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>As Required</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -18500,10 +18500,10 @@ Operating speed specifications and design subject to change
 without notice.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Operating Speeds</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Engine Speeds</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Engine Speeds</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'></th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -18527,9 +18527,9 @@ without notice.
 Specifications and design subject to change without notice.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Specifications</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Engine</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Engine</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -18590,9 +18590,9 @@ Specifications and design subject to change without notice.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Specifications</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Electrical System</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Electrical System</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -18617,16 +18617,16 @@ Dimensions are approximate and subject to change without
 notice.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combine Dimensions</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Unloading Auger Lengths</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Unloading Auger Lengths</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>7.9 m (26 ft 0 in)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>8.2 m (26 ft 10 in)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>8.7 m (28 ft 6 in)</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>9.4 m (30 ft 10 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>7.9 m (26 ft 0 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>8.2 m (26 ft 10 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>8.7 m (28 ft 6 in)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>9.4 m (30 ft 10 in)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -18847,10 +18847,10 @@ The first letter of the family number is not utilized
 for family identification on the chart.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>CO₂ Emissions Output</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Emissions Label Family</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>CO₂ Result</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Emissions Label Family</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>CO₂ Result</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -19096,23 +19096,23 @@ by sending a request letter to:
 #### Unified Inch Bolt and Screw Torque Values
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Unified Inch Bolt and Screw Torque Values</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Bolt or Screw Size</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>SAE Grade 1</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>SAE Grade 2</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>SAE Grade 5, 5.1 or 5.2</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>SAE Grade 8 or 8.2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Bolt or Screw Size</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>SAE Grade 1</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>SAE Grade 2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>SAE Grade 5, 5.1 or 5.2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>SAE Grade 8 or 8.2</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -19454,23 +19454,23 @@ by sending a request letter to:
 #### Metric Bolt and Screw Torque Values
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Metric Torque Values</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Bolt or Screw Size</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Class 4.8</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Class 8.8 or 9.8</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Class 10.9</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Class 12.9</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Bolt or Screw Size</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Class 4.8</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Class 8.8 or 9.8</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Class 10.9</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Class 12.9</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>Flange Head</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -19991,9 +19991,9 @@ the machine mainframe.
 #### Interpreting Engine Serial Number
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Serial Numbers</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>13.6 L Example (RG6136U123456)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>13.6 L Example (RG6136U123456)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
@@ -20013,9 +20013,9 @@ the machine mainframe.
 </table>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Model Number</caption>
-<thead style='background: #ffffcc;'>
+<thead style='background: #ffffcc !important;'>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc; color: yellow'>13.6 L Example (6136HFC09)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important;'>13.6 L Example (6136HFC09)</th>
 </tr>
 </thead>
 <tbody style='background-color: #f7f7f7;'>
