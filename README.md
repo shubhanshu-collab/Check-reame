@@ -546,7 +546,7 @@ Operator’s Station,Radio Types (Optional),"<table>
 <th colspan='0'>Connection of External Devices</th>
 <th colspan='0'>USB</th>
 <th colspan='0'></th>
-<th colspan='1'>Satellite Radio Ready</th>
+<th colspan='0'>Satellite Radio Ready</th>
 </tr>
 </thead>
 <tbody>
@@ -577,7 +577,7 @@ see your John Deere dealer for further information.
 <thead>
 <tr>
 <th colspan='0'>Wave Bands (United States)</th>
-<th colspan='1'>Wave Bands (All Other Countries)</th>
+<th colspan='0'>Wave Bands (All Other Countries)</th>
 </tr>
 </thead>
 <tbody>
@@ -3807,7 +3807,7 @@ Calibrations Application,Header Suspension Service Mode | Procedure,"<table>
 <thead>
 <tr>
 <th colspan='0'>Engine State</th>
-<th colspan='1'>Running</th>
+<th colspan='0'>Running</th>
 </tr>
 </thead>
 <tbody>
@@ -5602,7 +5602,7 @@ case speed into desired position (B—E) using handle (A).
 <tr>
 <th colspan='0'>Gear</th>
 <th colspan='0'>Factory Belt Speed Ranges</th>
-<th colspan='1'>Optimal Belt Life Speed Ranges</th>
+<th colspan='0'>Optimal Belt Life Speed Ranges</th>
 </tr>
 </thead>
 <tbody>
@@ -7117,7 +7117,7 @@ on adjusting the various lights around the machine.
 <tr>
 <th colspan='0'>Position</th>
 <th colspan='0'>Right-Hand Cab Lights</th>
-<th colspan='1'>Left-Hand Cab Lights</th>
+<th colspan='0'>Left-Hand Cab Lights</th>
 </tr>
 <tr>
 <th colspan='0'>Light 1</th>
@@ -7129,7 +7129,7 @@ on adjusting the various lights around the machine.
 <th colspan='0'>Light 7</th>
 <th colspan='0'>Light 8</th>
 <th colspan='0'>Light 9</th>
-<th colspan='1'>Light 10</th>
+<th colspan='0'>Light 10</th>
 </tr>
 </thead>
 <tbody>
@@ -7194,7 +7194,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7211,7 +7211,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7228,7 +7228,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7245,7 +7245,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7262,7 +7262,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7297,7 +7297,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7322,7 +7322,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7347,7 +7347,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7372,7 +7372,7 @@ See information later in this section on adjusting the cab headlights.
 <tr>
 <th colspan='0'>Location</th>
 <th colspan='0'>Horizontal Specification</th>
-<th colspan='1'>Vertical Specification</th>
+<th colspan='0'>Vertical Specification</th>
 </tr>
 </thead>
 <tbody>
@@ -7513,7 +7513,7 @@ information.
 <tr>
 <th colspan='0'>Configuration</th>
 <th colspan='0'>Transport Speed</th>
-<th colspan='2'>Harvest Speed</th>
+<th colspan='0'>Harvest Speed</th>
 </tr>
 <tr>
 <th colspan='0'>Approximate Header Mass</th>
@@ -7522,14 +7522,14 @@ information.
 <th colspan='0'>1500—2500</th>
 <th colspan='0'>3500—4500</th>
 <th colspan='0'>4500—5500</th>
-<th colspan='2'>5500—6200</th>
+<th colspan='0'>5500—6200</th>
 </tr>
 <tr>
 <th colspan='0'>9900—12 100</th>
 <th colspan='0'>3300—5500</th>
 <th colspan='0'>7700—9900</th>
 <th colspan='0'>9900—12 100</th>
-<th colspan='2'>12 100—13 700</th>
+<th colspan='0'>12 100—13 700</th>
 </tr>
 <tr>
 <th colspan='0'>Belt Pickup Heads</th>
@@ -7538,7 +7538,7 @@ information.
 <th colspan='0'>BP15</th>
 <th colspan='0'>RD30F</th>
 <th colspan='0'>HD35R</th>
-<th colspan='2'>HD40F</th>
+<th colspan='0'>HD40F</th>
 </tr>
 <tr>
 <th colspan='0'>Corn Heads</th>
@@ -7547,7 +7547,7 @@ information.
 <th colspan='0'>Not Applicable</th>
 <th colspan='0'>C12R</th>
 <th colspan='0'>C12F</th>
-<th colspan='2'>C16F</th>
+<th colspan='0'>C16F</th>
 </tr>
 <tr>
 <th colspan='1'>Front Tire Size</th>
@@ -7686,7 +7686,7 @@ information.
 <tr>
 <th colspan='0'>Configuration</th>
 <th colspan='0'>Transport Speed</th>
-<th colspan='2'>Harvest Speed</th>
+<th colspan='0'>Harvest Speed</th>
 </tr>
 <tr>
 <th colspan='0'>Approximate Header Mass</th>
@@ -7695,14 +7695,14 @@ information.
 <th colspan='0'>1500—2500</th>
 <th colspan='0'>3500—4500</th>
 <th colspan='0'>4500—5500</th>
-<th colspan='2'>5500—6200</th>
+<th colspan='0'>5500—6200</th>
 </tr>
 <tr>
 <th colspan='0'>9900—12 100</th>
 <th colspan='0'>3300—5500</th>
 <th colspan='0'>7700—9900</th>
 <th colspan='0'>9900—12 100</th>
-<th colspan='2'>12 100—13 700</th>
+<th colspan='0'>12 100—13 700</th>
 </tr>
 <tr>
 <th colspan='0'>Belt Pickup Heads</th>
@@ -7711,7 +7711,7 @@ information.
 <th colspan='0'>BP15</th>
 <th colspan='0'>RD30F</th>
 <th colspan='0'>HD35R</th>
-<th colspan='2'>HD40F</th>
+<th colspan='0'>HD40F</th>
 </tr>
 <tr>
 <th colspan='0'>Corn Heads</th>
@@ -7720,7 +7720,7 @@ information.
 <th colspan='0'>Not Applicable</th>
 <th colspan='0'>C12R</th>
 <th colspan='0'>C12F</th>
-<th colspan='2'>C16F</th>
+<th colspan='0'>C16F</th>
 </tr>
 <tr>
 <th colspan='1'>Rear Tire Size</th>
@@ -7834,7 +7834,7 @@ information.
 <th colspan='0'>Default Spacer</th>
 <th colspan='0'>Centerline Width</th>
 <th colspan='0'>Outside Width</th>
-<th colspan='2'>Inside Width</th>
+<th colspan='0'>Inside Width</th>
 </tr>
 </thead>
 <tbody>
@@ -8002,7 +8002,7 @@ this section for further information.
 <th colspan='0'>Tire Width</th>
 <th colspan='0'>Center to Center</th>
 <th colspan='0'>Outside to Outside</th>
-<th colspan='1'>Inside to Inside</th>
+<th colspan='0'>Inside to Inside</th>
 </tr>
 </thead>
 <tbody>
@@ -8591,14 +8591,14 @@ Tires requiring fluid must be filled to
 <th colspan='0'>3500—</th>
 <th colspan='0'>4500—</th>
 <th colspan='0'>5000—</th>
-<th colspan='1'>5500—</th>
+<th colspan='0'>5500—</th>
 </tr>
 <tr>
 <th colspan='0'>3300—</th>
 <th colspan='0'>7700—</th>
 <th colspan='0'>9900—</th>
 <th colspan='0'>11 000—</th>
-<th colspan='1'>12 100—</th>
+<th colspan='0'>12 100—</th>
 </tr>
 <tr>
 <th colspan='0'>Belt Pickup Heads</th>
@@ -8606,7 +8606,7 @@ Tires requiring fluid must be filled to
 <th colspan='0'>RD30F</th>
 <th colspan='0'>HD35R</th>
 <th colspan='0'>HD40R</th>
-<th colspan='1'>HD40F</th>
+<th colspan='0'>HD40F</th>
 </tr>
 <tr>
 <th colspan='0'>Corn Heads</th>
@@ -8614,12 +8614,12 @@ Tires requiring fluid must be filled to
 <th colspan='0'>C12R</th>
 <th colspan='0'>C12F</th>
 <th colspan='0'>Not Applicable</th>
-<th colspan='1'>C16F</th>
+<th colspan='0'>C16F</th>
 </tr>
 <tr>
 <th colspan='0'>Model</th>
 <th colspan='0'>Configuration</th>
-<th colspan='1'>Normal Slopes (Flat to 15%)</th>
+<th colspan='0'>Normal Slopes (Flat to 15%)</th>
 </tr>
 </thead>
 <tbody>
@@ -8876,7 +8876,7 @@ A few common modes are shown below, but many combinations exist.
 <th colspan='0'>Auto Header Controls (Enabled Modes)</th>
 <th colspan='0'>Activation Button 1</th>
 <th colspan='0'>Activation Button 2</th>
-<th colspan='1'>Activation Button 3</th>
+<th colspan='0'>Activation Button 3</th>
 </tr>
 </thead>
 <tbody>
@@ -9009,7 +9009,7 @@ Crop Settings,Alfalfa and Barley,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Alfalfa</th>
-<th colspan='1'>Barley</th>
+<th colspan='0'>Barley</th>
 </tr>
 </thead>
 <tbody>
@@ -9139,7 +9139,7 @@ Crop Settings,Canola (Dry) and Canola (Wet),"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Canola (Dry)</th>
-<th colspan='1'>Canola (Wet)</th>
+<th colspan='0'>Canola (Wet)</th>
 </tr>
 </thead>
 <tbody>
@@ -9268,7 +9268,7 @@ Crop Settings,Chickpeas,"<table>
 </tr>
 <tr>
 <th colspan='0'></th>
-<th colspan='1'>Chickpeas</th>
+<th colspan='0'>Chickpeas</th>
 </tr>
 </thead>
 <tbody>
@@ -9375,7 +9375,7 @@ Crop Settings,Corn (Dry) and Corn (Wet),"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Corn (Dry)</th>
-<th colspan='1'>Corn (Wet)</th>
+<th colspan='0'>Corn (Wet)</th>
 </tr>
 </thead>
 <tbody>
@@ -9505,7 +9505,7 @@ Crop Settings,Corn Cob Mix and Edible Beans,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Corn Cob Mix (D)*</th>
-<th colspan='1'>Edible Beans</th>
+<th colspan='0'>Edible Beans</th>
 </tr>
 </thead>
 <tbody>
@@ -9635,7 +9635,7 @@ Crop Settings,Flax and Grass Seed,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Flax</th>
-<th colspan='1'>Grass Seed</th>
+<th colspan='0'>Grass Seed</th>
 </tr>
 </thead>
 <tbody>
@@ -9765,7 +9765,7 @@ Crop Settings,Guar (Cluster Beans) and Lentils,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Guar (Cluster Beans)</th>
-<th colspan='1'>Lentils</th>
+<th colspan='0'>Lentils</th>
 </tr>
 </thead>
 <tbody>
@@ -9895,7 +9895,7 @@ Crop Settings,Lupins and Millet,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Lupins</th>
-<th colspan='1'>Millet</th>
+<th colspan='0'>Millet</th>
 </tr>
 </thead>
 <tbody>
@@ -10025,7 +10025,7 @@ Crop Settings,Mustard and Navy Beans,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Mustard</th>
-<th colspan='1'>Navy Beans</th>
+<th colspan='0'>Navy Beans</th>
 </tr>
 </thead>
 <tbody>
@@ -10155,7 +10155,7 @@ Crop Settings,Oats and Peas,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Oats</th>
-<th colspan='1'>Peas</th>
+<th colspan='0'>Peas</th>
 </tr>
 </thead>
 <tbody>
@@ -10285,7 +10285,7 @@ Crop Settings,Popcorn and Rape Seed (Dry),"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Popcorn</th>
-<th colspan='1'>Rape Seed (Dry)</th>
+<th colspan='0'>Rape Seed (Dry)</th>
 </tr>
 </thead>
 <tbody>
@@ -10414,7 +10414,7 @@ Crop Settings,Rape Seed (Green),"<table>
 </tr>
 <tr>
 <th colspan='0'></th>
-<th colspan='1'>Rape Seed (Green)</th>
+<th colspan='0'>Rape Seed (Green)</th>
 </tr>
 </thead>
 <tbody>
@@ -10521,7 +10521,7 @@ Crop Settings,Rye and Safflower,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Rye</th>
-<th colspan='1'>Safflower</th>
+<th colspan='0'>Safflower</th>
 </tr>
 </thead>
 <tbody>
@@ -10651,7 +10651,7 @@ Crop Settings,Sorghum and Soybeans,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Sorghum</th>
-<th colspan='1'>Soybeans</th>
+<th colspan='0'>Soybeans</th>
 </tr>
 </thead>
 <tbody>
@@ -10781,7 +10781,7 @@ Crop Settings,Sunflower and Triticale,"<table>
 <tr>
 <th colspan='0'></th>
 <th colspan='0'>Sunflower</th>
-<th colspan='1'>Triticale</th>
+<th colspan='0'>Triticale</th>
 </tr>
 </thead>
 <tbody>
@@ -10910,7 +10910,7 @@ Crop Settings,Wheat,"<table>
 </tr>
 <tr>
 <th colspan='0'></th>
-<th colspan='1'>Wheat</th>
+<th colspan='0'>Wheat</th>
 </tr>
 </thead>
 <tbody>
@@ -11102,7 +11102,7 @@ Crop Settings,Payable Moisture and Density Chart,"<table>
 <th colspan='0'>Crop</th>
 <th colspan='0'>Standard Moisture (%)</th>
 <th colspan='0'>Crop Density (lbs)</th>
-<th colspan='1'>Crop Density (kg)</th>
+<th colspan='0'>Crop Density (kg)</th>
 </tr>
 </thead>
 <tbody>
@@ -11306,7 +11306,7 @@ Crop Settings,Standard Weights Chart,"<table>
 <tr>
 <th colspan='0'>Unit</th>
 <th colspan='0'>Weight (lb)</th>
-<th colspan='1'>Weight (kg)</th>
+<th colspan='0'>Weight (kg)</th>
 </tr>
 </thead>
 <tbody>
@@ -12150,7 +12150,7 @@ table.
 <thead>
 <tr>
 <th colspan='0'>COOL-GARD II Pre-Mix</th>
-<th colspan='1'>Freeze Protection Limit</th>
+<th colspan='0'>Freeze Protection Limit</th>
 </tr>
 </thead>
 <tbody>
@@ -12250,7 +12250,7 @@ minimum specifications for quality:
 <thead>
 <tr>
 <th colspan='0'>Ethylene Glycol</th>
-<th colspan='1'>Freeze Protection Limit</th>
+<th colspan='0'>Freeze Protection Limit</th>
 </tr>
 </thead>
 <tbody>
@@ -12459,7 +12459,7 @@ Use only approved oil types.
 <thead>
 <tr>
 <th colspan='0'>Example of Original Hours</th>
-<th colspan='1'>Corresponding High Altitude Hours</th>
+<th colspan='0'>Corresponding High Altitude Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -12810,7 +12810,7 @@ Maintenance—Every 10 Hours,Service Interval Chart—Every 10 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 10 Hours</th>
+<th colspan='0'>Every 10 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13006,7 +13006,7 @@ Maintenance—Every 50 Hours,Service Interval Chart—Every 50 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 50 Hours</th>
+<th colspan='0'>Every 50 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13163,7 +13163,7 @@ Maintenance—First 100 Hours,Service Interval Chart—First 100 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>First 100 Hours</th>
+<th colspan='0'>First 100 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13232,7 +13232,7 @@ Maintenance—Every 100 Hours,Service Interval Chart—Every 100 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 100 Hours</th>
+<th colspan='0'>Every 100 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13274,7 +13274,7 @@ Maintenance—Every 200 Hours,Service Interval Chart—Every 200 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 200 Hours</th>
+<th colspan='0'>Every 200 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13343,7 +13343,7 @@ Maintenance—Every 400 Hours,Service Interval Chart—Every 400 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 400 Hours</th>
+<th colspan='0'>Every 400 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13423,7 +13423,7 @@ Maintenance—Every 400 Hours,Service Interval Chart—Every 400 Hours (Continue
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 400 Hours</th>
+<th colspan='0'>Every 400 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13545,7 +13545,7 @@ Maintenance—Every 500 Hours,Service Interval Chart—Every 500 Hours,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 500 Hours</th>
+<th colspan='0'>Every 500 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13673,7 +13673,7 @@ Maintenance—Every 1000 Hours,Service Interval Chart—Every 1000 Hours,"<table
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 1000 Hours</th>
+<th colspan='0'>Every 1000 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -13817,7 +13817,7 @@ Maintenance—Every 1500 Hours or Three Years,Service Interval Chart—Every 150
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 1500 Hours or Three Years</th>
+<th colspan='0'>Every 1500 Hours or Three Years</th>
 </tr>
 </thead>
 <tbody>
@@ -13913,7 +13913,7 @@ Maintenance—Every 2000 Hours,Service Interval Chart—Every 2000 Hours,"<table
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 2000 Hours</th>
+<th colspan='0'>Every 2000 Hours</th>
 </tr>
 </thead>
 <tbody>
@@ -14042,7 +14042,7 @@ hours if John Deere
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>Every 6000 Hours or Six Years</th>
+<th colspan='0'>Every 6000 Hours or Six Years</th>
 </tr>
 </thead>
 <tbody>
@@ -14070,7 +14070,7 @@ Maintenance—As Required,Service Interval Chart—As Required,"<table>
 <tr>
 <th colspan='0'>Legend</th>
 <th colspan='0'>Service</th>
-<th colspan='1'>As Required</th>
+<th colspan='0'>As Required</th>
 </tr>
 </thead>
 <tbody>
@@ -15838,7 +15838,7 @@ without notice.
 <thead>
 <tr>
 <th colspan='0'>Engine Speeds</th>
-<th colspan='1'></th>
+<th colspan='0'></th>
 </tr>
 </thead>
 <tbody>
@@ -15949,13 +15949,13 @@ notice.
 <thead>
 <tr>
 <th colspan='0'>Legend</th>
-<th colspan='1'>Unloading Auger Lengths</th>
+<th colspan='0'>Unloading Auger Lengths</th>
 </tr>
 <tr>
 <th colspan='0'>7.9 m (26 ft 0 in)</th>
 <th colspan='0'>8.2 m (26 ft 10 in)</th>
 <th colspan='0'>8.7 m (28 ft 6 in)</th>
-<th colspan='1'>9.4 m (30 ft 10 in)</th>
+<th colspan='0'>9.4 m (30 ft 10 in)</th>
 </tr>
 </thead>
 <tbody>
@@ -16170,7 +16170,7 @@ for family identification on the chart.
 <thead>
 <tr>
 <th colspan='0'>Emissions Label Family</th>
-<th colspan='1'>CO₂ Result</th>
+<th colspan='0'>CO₂ Result</th>
 </tr>
 </thead>
 <tbody>
