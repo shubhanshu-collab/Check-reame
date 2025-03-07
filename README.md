@@ -1,3 +1,8 @@
+<div style="background-color: yellow;">
+  This text has a yellow background.
+</div>
+
+
 # Safety Features
 #### Machine Safety Features
 
