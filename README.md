@@ -805,7 +805,7 @@ see your John Deere dealer for further information.
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <thead>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Wave Bands (United States)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'><style="background-color: yellow;>Wave Bands (United States)</div></th>
 <th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Wave Bands (All Other Countries)</th>
 </tr>
 </thead>
