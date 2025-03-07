@@ -760,7 +760,7 @@ operator's manual.
 
 # Operator’s Station
 #### Radio Types (Optional)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Features</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -774,20 +774,20 @@ operator's manual.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>(A)—Touch Screen Radio</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>United States</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>(A)—Touch Screen Radio</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>United States</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>(B)—AM Radio</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Available</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>(B)—AM Radio</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Available</td>
 </tr>
 </tbody>
 </table>
@@ -801,7 +801,7 @@ see your John Deere dealer for further information.
 #### Program Radio for Local Area Frequency
 If a different tuner frequency is needed for the radio,
 see your John Deere dealer for further information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Frequency</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -811,22 +811,22 @@ see your John Deere dealer for further information.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>FM</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>87.7—107.9 MHz</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>UKW (FM)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>87.5—108.0 MHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>FM</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>87.7—107.9 MHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>UKW (FM)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>87.5—108.0 MHz</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>AM</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>530—1710 kHz</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>MW</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>522—1629 kHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>AM</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>530—1710 kHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>MW</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>522—1629 kHz</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>WX</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>162.4—162.55 MHz</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>LW</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>153—279 kHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>WX</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>162.4—162.55 MHz</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>LW</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>153—279 kHz</td>
 </tr>
 </tbody>
 </table>
@@ -1327,17 +1327,17 @@ box lid on the armrest shows engine starting information.
 Sound horn and turn key switch on the steering column
 to START position.
 Key positions are:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Key Positions</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>First Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>First Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Second Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Second Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Third Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Third Position</td>
 </tr>
 </tbody>
 </table>
@@ -1669,16 +1669,16 @@ direction.
 #### Total Loss Measurement
 Total Loss Measurement drops all residue in a windrow for accurate
 loss measurement with the premium residue configuration.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Total Loss Measurement Prerequisites</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Status</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Disengaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Status</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fully Raised</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fully Raised</td>
 </tr>
 </tbody>
 </table>
@@ -2470,7 +2470,7 @@ volumes of material.
 Press bottom of the switch to decrease gear selection
 or backshaft speed.
 Only for
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Feeder House Speeds</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -2479,12 +2479,12 @@ Only for
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fixed Speed (if equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>520 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fixed Speed (if equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>520 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Variable Speed (if equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>520-780 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Variable Speed (if equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>520-780 rpm</td>
 </tr>
 </tbody>
 </table>
@@ -3727,24 +3727,24 @@ machine is on a slope, do not disengage park brake until wheels are
 blocked.
 Machine can be towed for emergency situations
 up to 10 min at maximum speed of 10 km/h (6.2 mph).
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tow Mode Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Wheel Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0 km (0 mph)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheel Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0 km (0 mph)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operator</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Seat</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operator</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Seat</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Park Brake Engaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Park Brake Engaged</td>
 </tr>
 </tbody>
 </table>
@@ -3823,32 +3823,32 @@ Control unit AYM or associated components are replaced/adjusted.
 Equipment configuration such as a Header has changed.
 Crop type being harvested has changed.
 Mass Flow Sensor has been replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>See “Perform Calibration When” section for more information.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>See “Perform Calibration When” section for more information.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Mass Flow Vibration Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -3861,16 +3861,16 @@ The moisture sensor accuracy needs to be improved.
 # Calibrations Application
 #### Moisture Sensor Procedure
 This procedure performs the calibration for the Moisture Sensor.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4018,20 +4018,20 @@ This procedure automatically calibrates the estimated yield
 to more closely match actual scale weight of yields.
 Manual Yield Calibration is unavailable while
 Example:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Crop Type</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Crop Type</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Accepted Samples</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accepted Samples</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Last Accepted</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>32 min ago</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Last Accepted</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>32 min ago</td>
 </tr>
 </tbody>
 </table>
@@ -4109,32 +4109,32 @@ to make a softer auger engagement.
 Unloading auger belt, hydraulic, drive, electrical or
 associated components are replaced/adjusted.
 Unloading auger engagement is more difficult than expected.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1-2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Unloading Auger Engage Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Unloading auger disengaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Unloading auger disengaged</td>
 </tr>
 </tbody>
 </table>
@@ -4146,28 +4146,28 @@ The physical vane position doesn't match the displayed
 position.
 Control unit LC2, chopper vane, or associated components
 have been replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Chopper Vane Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4184,32 +4184,32 @@ Deck plate position sensor, or associated components are
 replaced/adjusted.
 Deck plate opening does not appear to match what is being
 displayed in the cab.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1-2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Deck Plate Spacing Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4225,32 +4225,32 @@ Each header type is connected to the combine for the first
 time.
 Attachments of significant weight are added to or removed
 from header.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 3-4 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Feeder House Raise Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4267,32 +4267,32 @@ Header height control sensor or associated components
 are replaced/adjusted.
 The first time each header type (except for hinged drapers)
 is connected to an S700 Series Combine.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Header Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4306,32 +4306,32 @@ when operating with header height lateral tilt control active.
 Header is disconnected.
 Feeder house fore/aft tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Feeder House Tilt Fore/Aft Range Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4345,32 +4345,32 @@ when operating with header height lateral tilt control active.
 Header is disconnected.
 Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Range Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4384,32 +4384,32 @@ when operating with header height lateral tilt control active.
 There is no header connected to the machine.
 Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 3-4 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4426,32 +4426,32 @@ First time each header is connected to combine.
 Mechanical adjustments have been made to the head.
 Folding corn head wing position sensor, or associated
 components are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 3-4 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Wings (Folding Corn Head) Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running at high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator disengaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator disengaged</td>
 </tr>
 </tbody>
 </table>
@@ -4465,49 +4465,49 @@ this calibration allows the control unit to calculate positions and
 prevent potential damaging collisions between the Reel and Cutterbar.
 Reel/Cutterbar position sensors or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 3-4 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Reel and Cutterbar Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Combine in field mode</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Combine in field mode</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Recommended Measurements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>622X, 625X, 722X, and 725X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5 cm (2 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>622X, 625X, 722X, and 725X Extendable Platforms</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5 cm (2 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>630X, 640X, 730X, and 740X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6 cm (2-3/8 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>630X, 640X, 730X, and 740X Extendable Platforms</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6 cm (2-3/8 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>635X and 735X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7 cm (2-13/16 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>635X and 735X Extendable Platforms</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7 cm (2-13/16 in)</td>
 </tr>
 </tbody>
 </table>
@@ -4518,32 +4518,32 @@ This calibration measures current demands of the amber lights.
 A normal current is used to compare the current demands when lights
 are used to detect if the trailer is attached or for bad bulb detection.
 Amber Flasher bulbs or associated components are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1-2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Amber Flasher Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4556,32 +4556,32 @@ will reduce risk of damage.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
 Left concave has recently been installed or replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 4min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 4min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Left Concave Leveling Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>OFF</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>OFF</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4594,32 +4594,32 @@ will reduce risk of damage.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
 Right concave has recently been installed or replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 4 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 4 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Right Concave Leveling Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>OFF</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>OFF</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4630,32 +4630,32 @@ This procedure calibrates the chaffer position.
 Chaffer element or chaffer actuator has been replaced/adjusted.
 Element clearance on –the left side and right side are
 not matched.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Chaffer Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4666,32 +4666,32 @@ This procedure calibrates the sieve position.
 Sieve element or sieve actuator has been replaced/adjusted.
 Element clearance on the left side and right side are
 not matched.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Sieve Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4715,22 +4715,22 @@ present in the hydraulic reservoir. Service one side of the header
 at a time.
 Service or maintenance is required on front end equipment
 suspension systems.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommendations</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Ensure that the machine is in park.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommendations</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Ensure that the machine is in park.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Header Suspension Service Mode | Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -4740,12 +4740,12 @@ suspension systems.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Header State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not engaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not engaged</td>
 </tr>
 </tbody>
 </table>
@@ -4776,16 +4776,16 @@ of machinery is not possible.
 The functionality of a grain loss sensor or system component
 is in question.
 A grain loss sensor or system component is replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Last Run</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Displays Date When Procedure Was Last Performed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Last Run</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Displays Date When Procedure Was Last Performed</td>
 </tr>
 </tbody>
 </table>
@@ -4799,16 +4799,16 @@ result in a positive detection.
 Harvester and all separating machinery should be stopped
 before beginning the procedure. Ensure that accidental activation
 of machinery is not possible.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Harvesting and separating functions are stopped.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Harvesting and separating functions are stopped.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Key switch in the RUN position is required. Can also be performed with the engine running.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Key switch in the RUN position is required. Can also be performed with the engine running.</td>
 </tr>
 </tbody>
 </table>
@@ -4821,32 +4821,32 @@ A hydraulic gauge wheel proportional valve or related
 component has been replaced.
 Mechanical adjustments have been made to the head.
 Items Accessible on Gauge Wheel Speed Page:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 5 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Gauge Wheel Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine in field mode</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -4856,32 +4856,32 @@ Items Accessible on Gauge Wheel Speed Page:
 This procedure calibrates the Hinged Draper Wing Position. This
 procedure also calibrates the position of the frame wings.
 A wing position sensor or related component is changed.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Hinged Draper Wing Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine in field mode</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Header must be disengaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header must be disengaged</td>
 </tr>
 </tbody>
 </table>
@@ -4891,28 +4891,28 @@ A wing position sensor or related component is changed.
 This procedure calibrates the Windscreen Position.
 The windscreen position sensor or related components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Windscreen Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine in field mode</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
 </tr>
 </tbody>
 </table>
@@ -4924,32 +4924,32 @@ Performing this calibration may improve tailings system performance.
 Control unit, tailings sensors, elevator chain, or related
 components are replaced or adjusted.
 Lower auger or return auger is replaced.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Tailings Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Set to high idle</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Set to high idle</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Header must be disengaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header must be disengaged</td>
 </tr>
 </tbody>
 </table>
@@ -4968,32 +4968,32 @@ displayed in the cab.
 Concaves are replaced with a new or different set of concaves.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1—2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1—2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Left Threshing Clearance Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -5012,32 +5012,32 @@ displayed in cab.
 Concaves are replaced with a new or different set of concaves.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>As Needed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Approximately 1—2 min</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1—2 min</td>
 </tr>
 </tbody>
 </table>
 
 # Calibrations Application
 #### Right Threshing Clearance Calibration Procedure
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Parked on a level surface</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
 </tr>
 </tbody>
 </table>
@@ -5849,73 +5849,73 @@ with the John Deere touchscreen radio. The call answer function works
 with all John Deere radios that support
 Native means voice recognition
 (VR) is running through radio.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Start Native VR Session</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Start Native VR Session</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Start Device VR (</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Device VR (</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Accept Phone Call</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>–</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accept Phone Call</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Start Native VR Session</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>–</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Aborts Native VR Session</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Aborts Native VR Session</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Interrupts Voice Prompt</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Interrupts Voice Prompt</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Talk to</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Talk to</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Accept Phone Call</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accept Phone Call</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>–</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Ends VR Session</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Ends VR Session</td>
 </tr>
 </tbody>
 </table>
@@ -6382,20 +6382,20 @@ such as the indicators consistently read as full (all bars lit) when
 not harvesting or empty (no bars lit) when harvesting, inspect the
 sensors related to the system showing the error. See your Operator's
 Manual for VisionTrak operational checks and sensor inspection procedures.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>System Requirements</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Running</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Road Transport Disconnect Switch</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Field Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Road Transport Disconnect Switch</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Field Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Header and Separator Switch</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Engaged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header and Separator Switch</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engaged</td>
 </tr>
 </tbody>
 </table>
@@ -7016,7 +7016,7 @@ drive speed into desired position (B—D) using handle (A).
 #### Rotor Gear Case—Changing Speed
 Change the rotor gear
 case speed into desired position (B—E) using handle (A).
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Speed</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -7027,19 +7027,19 @@ case speed into desired position (B—E) using handle (A).
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>First (Low Range)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—520 rpm</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—450 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>First (Low Range)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—520 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—450 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Second (Medium Range)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—800 rpm</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—720 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Second (Medium Range)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—800 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—720 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Third (High Range)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1300 rpm</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1300 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Third (High Range)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1300 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1300 rpm</td>
 </tr>
 </tbody>
 </table>
@@ -7048,51 +7048,51 @@ case speed into desired position (B—E) using handle (A).
 #### Concave Recommendations
 For recommended machine settings for various crops, see
 the Crop Setting section for further information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Concave Types</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Soybeans</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Wheat</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sorghum (Milo)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sunflowers (Oil)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Canola</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Soybeans</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sorghum (Milo)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflowers (Oil)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Canola</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best = Provides best level of performance.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best = Provides best level of performance.</td>
 </tr>
 </tbody>
 </table>
@@ -7234,47 +7234,47 @@ Threshing Element and Separator Tine Cap Screws
 
 # Separator
 #### Threshing Element and Separator Tine Location
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Configurations</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
@@ -8930,7 +8930,7 @@ needed.
 See Adjust
 Machine Light Angles (Detailed Adjustment) for further information
 on adjusting the various lights around the machine.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -8953,33 +8953,33 @@ on adjusting the various lights around the machine.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Horizontal</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-76°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-34°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-10°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>76°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Horizontal</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-76°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-34°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-10°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Vertical</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>35°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>35°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Vertical</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>35°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>35°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
@@ -9010,7 +9010,7 @@ The light pattern should stop just before the object (B)
 placed in front of the machine.
 Adjust the left-hand cab headlight (low-beam) to specification.
 See information later in this section on adjusting the cab headlights.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9021,13 +9021,13 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Cab Headlight (low-beam)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Headlight (low-beam)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8°</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9038,13 +9038,13 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Cab Headlight (low-beam)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Headlight (low-beam)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8°</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9055,13 +9055,13 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Cab Headlight (high-beam)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Headlight (high-beam)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6°</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9072,13 +9072,13 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Cab Headlight (high-beam)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Headlight (high-beam)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6°</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9089,31 +9089,31 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Cab Worklight (inner) (C1)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>35°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Worklight (inner) (C1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>35°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Cab Worklight (inner) (C1)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-10°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>35°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Worklight (inner) (C1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-10°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>35°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Cab Worklight (outer) (C2)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Worklight (outer) (C2)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Cab Worklight (outer) (C2)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-34°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Worklight (outer) (C2)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-34°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9124,21 +9124,21 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Row Finder Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>76°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Row Finder Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Row Finder Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-76°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Row Finder Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-76°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9149,21 +9149,21 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Stubble Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>86°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Stubble Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>86°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Stubble Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-86°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Stubble Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-86°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9174,21 +9174,21 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand 360° Side Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>124°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand 360° Side Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>124°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand 360° Side Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-120°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand 360° Side Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-120°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9199,17 +9199,17 @@ See information later in this section on adjusting the cab headlights.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Left-Hand Rear Discharge Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>145°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Rear Discharge Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>145°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Right-Hand Rear Discharge Light</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-145°</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Rear Discharge Light</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-145°</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28°</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Positive value indicates a counterclockwise direction for the horizontal value.</td>
 </tr>
 </tbody>
 </table>
@@ -9377,7 +9377,7 @@ may decrease vehicle stability. Proper pressure results in better
 fuel economy and longer tire life.
 See Care and Service of Tires in this section for further
 information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9426,121 +9426,121 @@ information.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 800/60R38 CFO+193A8 R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.6/260</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.6/260</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.8/280</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 800/60R38 CFO+193A8 R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.6/260</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.6/260</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.8/280</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 900/60R38 CFO+ 193A8 R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.6/260</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.6/260</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.8/280</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 900/60R38 CFO+ 193A8 R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.6/260</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.6/260</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.8/280</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 1100/50R42 CFO 197B R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 1100/50R42 CFO 197B R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>LSW 1100/45R46 CFO 201D R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>LSW 1100/45R46 CFO 201D R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 580/85R42 CFO 183B R-2 Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.2/220</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 580/85R42 CFO 183B R-2 Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.2/220</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 580/85R42 CFO 183B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.2/220</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 580/85R42 CFO 183B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.2/220</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 580/85R42 CFO 178A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.2/220</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 580/85R42 CFO 178A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.2/220</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173D R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173D R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 176A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.7/170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.1/210</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 176A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.7/170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.1/210</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 710/70R42 CFO 184B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 710/70R42 CFO 184B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 710/70R42 CFO 193B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.6/160</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 710/70R42 CFO 193B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.6/160</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
 </tr>
 </tbody>
 </table>
@@ -9553,7 +9553,7 @@ may decrease vehicle stability. Proper pressure results in better
 fuel economy and longer tire life.
 See Care and Service of Tires in this section for further
 information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9602,94 +9602,94 @@ information.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>500/85R30 IMP 179A8/160A8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.2/320</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.6/260</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500/85R30 IMP 179A8/160A8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.2/320</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.6/260</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.0/200</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 620/70R26 CFO+ 173A8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 620/70R26 CFO+ 173A8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 620/75R26 CFO 172B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 620/75R26 CFO 172B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 620/75R26 CFO 178D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 620/75R26 CFO 178D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 710/65R26 177D R-2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.4/240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 710/65R26 177D R-2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.4/240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 750/60R30 CFO 180D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 750/60R30 CFO 180D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 750/65R26 CFO+ 180A8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 750/65R26 CFO+ 180A8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 750/65R26 177B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 750/65R26 177B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 750/65R26 177D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 750/65R26 177D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 750/65R26 CFO 180B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.8/180</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.4/140</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 750/65R26 CFO 180B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.8/180</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.4/140</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
 </tr>
 </tbody>
 </table>
@@ -9698,7 +9698,7 @@ information.
 #### Front Tire Selection
 See Care and Service of Tires in this section for further
 information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9715,148 +9715,148 @@ information.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 800/60R38 CFO+ 193A8 R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>790 (31.1)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0 (0.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3010 (118.5)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3800 (149.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2220 (87.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 800/60R38 CFO+ 193A8 R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>790 (31.1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0 (0.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3010 (118.5)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3800 (149.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2220 (87.4)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 900/60R38 CFO+ 193A8 R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>880 (34.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0 (0.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3148 (123.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4028 (158.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2268 (89.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 900/60R38 CFO+ 193A8 R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>880 (34.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0 (0.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3148 (123.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4028 (158.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2268 (89.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 1100/50R42 CFO 197B R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1110 (43.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>254 (10.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3480 (137.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4590 (180.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2370 (93.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 1100/50R42 CFO 197B R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1110 (43.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>254 (10.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3480 (137.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4590 (180.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2370 (93.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>LSW 1100/45R46 CFO 201D R-1W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1029 (40.5)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>254 (10.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3480 (137.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4509 (177.5)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2451 (96.5)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>LSW 1100/45R46 CFO 201D R-1W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1029 (40.5)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>254 (10.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3480 (137.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4509 (177.5)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2451 (96.5)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 580/85R42 CFO 183B R-2 Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1317 (51.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5095 (200.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2461 (96.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 580/85R42 CFO 183B R-2 Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1317 (51.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5095 (200.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2461 (96.9)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 580/85R42 CFO 183B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1330 (52.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5108 (201.1)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2448 (96.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 580/85R42 CFO 183B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1330 (52.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5108 (201.1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2448 (96.4)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>IF 580/85R42 CFO 178A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1337 (52.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5115 (201.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2441 (96.1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 580/85R42 CFO 178A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1337 (52.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5115 (201.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2441 (96.1)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1476 (58.1)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5254 (206.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2302 (90.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1476 (58.1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5254 (206.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2302 (90.6)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1496 (58.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5274 (207.6)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2282 (89.8)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1496 (58.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5274 (207.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2282 (89.8)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 173D R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1498 (59.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5276 (207.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2280 (89.8)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 173D R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1498 (59.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5276 (207.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2280 (89.8)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>650/85R38 176A8 R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1490 (58.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>348 (13.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3778 (148.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5268 (207.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2288 (90.1)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650/85R38 176A8 R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1490 (58.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>348 (13.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3778 (148.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5268 (207.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2288 (90.1)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 710/70R42 CFO 184B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1682 (66.2)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>399 (15.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3932 (154.8)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5614 (221.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2250 (88.6)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 710/70R42 CFO 184B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1682 (66.2)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>399 (15.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3932 (154.8)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5614 (221.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2250 (88.6)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>VF 710/70R42 CFO 193B R-1W Duals</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1674 (65.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>399 (15.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3932 (154.8)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5606 (220.7)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2258 (88.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>VF 710/70R42 CFO 193B R-1W Duals</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1674 (65.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>399 (15.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3932 (154.8)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5606 (220.7)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2258 (88.9)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>24 in Tracks - 3.5 m outside width</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>610 (24.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0 (0.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2854 (112.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3464 (136.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2244 (88.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>24 in Tracks - 3.5 m outside width</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>610 (24.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0 (0.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2854 (112.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3464 (136.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2244 (88.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>24 in Tracks - 3.0 m CTF</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>610 (24.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>76 (3.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3006 (118.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3616 (142.4)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2396 (94.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>24 in Tracks - 3.0 m CTF</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>610 (24.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76 (3.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3006 (118.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3616 (142.4)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2396 (94.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>30 in Tracks - 3.0 m CTF</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>762 (30.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>76 (3.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3006 (118.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3768 (148.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2244 (88.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>30 in Tracks - 3.0 m CTF</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>762 (30.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76 (3.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3006 (118.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3768 (148.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2244 (88.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>30 in Tracks</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>762 (30.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>405 (15.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3664 (144.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4426 (174.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2902 (114.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>30 in Tracks</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>762 (30.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>405 (15.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3664 (144.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4426 (174.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2902 (114.3)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>36 in Tracks</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>914 (36.0)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>405 (15.9)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3664 (144.3)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4578 (180.2)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2750 (108.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>36 in Tracks</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>914 (36.0)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>405 (15.9)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3664 (144.3)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4578 (180.2)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2750 (108.3)</td>
 </tr>
 </tbody>
 </table>
@@ -9871,7 +9871,7 @@ See Rear Axle Positions for further information on the
 rear axle positions.
 See Care and Service of Tires in
 this section for further information.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -9889,299 +9889,299 @@ this section for further information.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>500</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3050 (120)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3550 (140)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2550 (100)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3050 (120)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3550 (140)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2550 (100)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3150 (124)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3650 (144)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2650 (104)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3150 (124)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3650 (144)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2650 (104)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3250 (128)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3750 (148)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2750 (108)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3250 (128)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3750 (148)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2750 (108)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3360 (132)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3860 (152)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2860 (113)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3360 (132)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3860 (152)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2860 (113)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3460 (136)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3960 (156)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2960 (117)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3460 (136)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3960 (156)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2960 (117)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3560 (140)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4060 (160)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3060 (120)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3560 (140)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4060 (160)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3060 (120)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3660 (144)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4160 (164)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3160 (124)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3660 (144)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4160 (164)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3160 (124)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3760 (148)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4260 (168)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3260 (128)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3760 (148)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4260 (168)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3260 (128)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 (20)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3860 (152))</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4360 (172)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3360 (132)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 (20)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3860 (152))</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4360 (172)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3360 (132)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>620</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3280 (129)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3900 (154)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2660 (105)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3280 (129)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3900 (154)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2660 (105)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3380 (133)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4000 (157)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2760 (109)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3380 (133)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4000 (157)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2760 (109)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3480 (137)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4100 (161)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2860 (113)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3480 (137)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4100 (161)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2860 (113)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3590 (141)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4210 (166)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2970 (117)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3590 (141)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4210 (166)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2970 (117)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3690 (145)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4310 (170)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3070 (121)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3690 (145)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4310 (170)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3070 (121)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3790 (149)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4410 (174)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3170 (125)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3790 (149)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4410 (174)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3170 (125)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3890 (153)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4510 (178)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3270 (129)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3890 (153)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4510 (178)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3270 (129)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3990 (157)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4610 (181)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3370 (133)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3990 (157)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4610 (181)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3370 (133)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620 (24)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4090 (161)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4710 (185)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3470 (137)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620 (24)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4090 (161)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4710 (185)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3470 (137)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>710</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3340 (131)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4050 (159)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2630 (104)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3340 (131)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4050 (159)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2630 (104)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3440 (135)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4150 (163)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2730 (107)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3440 (135)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4150 (163)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2730 (107)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3540 (139)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4250 (167)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2830 (111)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3540 (139)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4250 (167)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2830 (111)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3650 (144)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4360 (172)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2940 (116)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3650 (144)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4360 (172)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2940 (116)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3750 (148)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4460 (176)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3040 (120)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3750 (148)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4460 (176)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3040 (120)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3850 (152)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4560 (180)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3140 (124)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3850 (152)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4560 (180)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3140 (124)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3950 (156)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4660 (183)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3240 (128)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3950 (156)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4660 (183)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3240 (128)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4050 (159)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4760 (187)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3340 (131)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4050 (159)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4760 (187)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3340 (131)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 (28)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4150 (163)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4860 (191)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3440 (135)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 (28)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4150 (163)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4860 (191)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3440 (135)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>750</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3340 (131)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4090 (161)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2590 (102)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3340 (131)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4090 (161)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2590 (102)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3440 (135)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4190 (165)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2690 (106)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3440 (135)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4190 (165)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2690 (106)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3540 (139)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4290 (169)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2790 (110)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3540 (139)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4290 (169)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2790 (110)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3650 (144)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4400 (173)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2900 (114)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3650 (144)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4400 (173)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2900 (114)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3750 (148)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4500 (177)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3000 (118)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3750 (148)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4500 (177)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3000 (118)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3850 (152)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4600 (181)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3100 (122)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3850 (152)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4600 (181)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3100 (122)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3950 (156)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4700 (185)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3200 (126)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3950 (156)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4700 (185)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3200 (126)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4050 (159)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4800 (189)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3300 (130)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4050 (159)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4800 (189)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3300 (130)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>None</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750 (30)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4150 (163)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4900 (193)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3400 (134)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>None</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750 (30)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4150 (163)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4900 (193)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3400 (134)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR= This configuration is not recommended due to tire interference with the machine frame.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR= This configuration is not recommended due to tire interference with the machine frame.</td>
 </tr>
 </tbody>
 </table>
@@ -10503,7 +10503,7 @@ Ballast requirements are based off standard Corn Pricing configuration,
 all scenarios.
 Tires requiring fluid must be filled to
 75%.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Ballast Chart</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -10545,60 +10545,60 @@ Tires requiring fluid must be filled to
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>X9 1000</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Two-Wheel Drive</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X9 1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Two-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Four-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Four-Wheel Drive</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>X9 1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Two-Wheel Drive</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X9 1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Two-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Four-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Four-Wheel Drive</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>X9 1000</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Two-Wheel Drive</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X9 1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Two-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Four-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Four-Wheel Drive</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>X9 1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Two-Wheel Drive</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>No</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X9 1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Two-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Yes</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Four-Wheel Drive</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Four-Wheel Drive</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>No = Ballast not required for any size tires.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>No = Ballast not required for any size tires.</td>
 </tr>
 </tbody>
 </table>
@@ -10826,7 +10826,7 @@ and seed. Heavy crops require more air than light seed crops.
 Press and hold activation button 1, 2, or 3 on the multi-function
 lever for 2 seconds to enter desired modes into memory.
 A few common modes are shown below, but many combinations exist.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combinations</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -10838,97 +10838,97 @@ A few common modes are shown below, but many combinations exist.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume | Height Sensing</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume | Height Sensing</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume |</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume |</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume | Height Sensing | HydraFlex™ Height Sensing</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume | Height Sensing | HydraFlex™ Height Sensing</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume | Height Sensing | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume | Height Sensing | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume | HydraFlex™ Height Sensing | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume | HydraFlex™ Height Sensing | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Resume | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Sensing</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Sensing</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>HydraFlex™ Height Sensing</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>HydraFlex™ Height Sensing</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Sensing | HydraFlex™ Height Sensing</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Sensing | HydraFlex™ Height Sensing</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Sensing | HydraFlex™ Height Sensing | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Sensing | HydraFlex™ Height Sensing | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Height Sensing | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Sensing | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>HydraFlex™ Height Sensing | Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>HydraFlex™ Height Sensing | Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Header Float</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Header Float</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Reel Position Resume</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Reel Position Resume</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Deck Plate Position Resume</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Deck Plate Position Resume</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Hydraulic Feeder House Fore Tilt</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Hydraulic Feeder House Fore Tilt</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Cutterbar Fore Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Cutterbar Fore Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Auto Reel Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Auto Reel Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Auto Belt Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Auto Belt Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
@@ -10966,7 +10966,7 @@ Run at least
 
 # Crop Settings
 #### Alfalfa and Barley
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -10980,126 +10980,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1000</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1150</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1000</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1150</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>570—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>700—1030</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>570—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>700—1030</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—19</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1—4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1—4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1—4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1—4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—14</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Canola (Dry) and Canola (Wet)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11113,126 +11113,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>550—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>650—900</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>550—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650—900</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>550—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>650—900</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>550—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650—900</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—35</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—35</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—35</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—35</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>570—800</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>570—770</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>570—800</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>570—770</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—19</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—19</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—19</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—19</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Chickpeas
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11245,103 +11245,103 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—450</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—450</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—450</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—450</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—26</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—26</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—26</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—26</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1100</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—21</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—21</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—21</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—21</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—13</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—13</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—13</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—13</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Corn (Dry) and Corn (Wet)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11355,126 +11355,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>340—480</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>360—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>340—480</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>360—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>340—480</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>360—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>340—480</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>360—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25—40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27—42</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27—42</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25—40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27—42</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27—42</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Installed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Installed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Installed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Installed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1250—1430</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1300—1430</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1250—1430</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1300—1430</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—26 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—24 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—26 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—24 (Deep-Tooth)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—26 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—24 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—26 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—24 (Deep-Tooth)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—16 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—17 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—16 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—17 (Deep-Tooth)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11—16 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—17 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11—16 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—17 (Deep-Tooth)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Disengaged Only</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Disengaged Only</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged Only</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged Only</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Corn Cob Mix and Edible Beans
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11488,126 +11488,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—30</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—30</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Either</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Either</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>950—1420</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>950—1420</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1100</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—28 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—28 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14—19</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—28 (Deep-Tooth)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14—19</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—28 (Deep-Tooth)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14—19</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Removed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Removed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—14</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Removed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Removed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—14</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Disengaged Only</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged Only</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Flax and Grass Seed
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11621,126 +11621,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—750</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—750</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—750</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—750</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>700—1050</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>350—600</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>700—1050</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>350—600</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Guar (Cluster Beans) and Lentils
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11754,126 +11754,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>600—750</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>600—750</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1000</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—12</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—12</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—10</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—10</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Lupins and Millet
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -11887,126 +11887,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—650</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—650</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—700</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>420—650</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>420—650</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1000</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>600—750</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>600—750</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Mustard and Navy Beans
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12020,126 +12020,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370—520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370—520</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>620—800</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>800—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>620—800</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>800—1100</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—18</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2—6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2—6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2—6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2—6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Oats and Peas
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12153,126 +12153,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1150</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>400—600</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>400—600</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720—1150</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>400—600</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720—1150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>400—600</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>630—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1050</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>630—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1050</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—21</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—21</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—21</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—21</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—13</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—13</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8—14</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8—12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8—14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8—12</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Popcorn and Rape Seed (Dry)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12286,126 +12286,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—400</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>400—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—400</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>400—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—400</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>400—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—400</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>400—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—40</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—30</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—40</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Installed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Installed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>900—1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>570—800</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>900—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>570—800</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—13</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—13</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—8</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—13</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—13</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—8</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Disengaged Only</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged Only</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Rape Seed (Green)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12418,103 +12418,103 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—40</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20—40</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>570—770</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>570—770</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—9</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3—9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3—9</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Rye and Safflower
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12528,126 +12528,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450—700</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450—700</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—26</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—26</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—26</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—26</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750—1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>700—950</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>700—950</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—17</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—17</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—17</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—17</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—7</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Sorghum and Soybeans
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12661,126 +12661,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>550—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—800</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>550—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—800</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>550—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500—800</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>550—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500—800</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—30</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Either</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Either</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>900—1100</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>900—1150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>900—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>900—1150</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—21 (General-Purpose)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—21 (General-Purpose)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13—21 (General-Purpose)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13—21 (General-Purpose)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—13 (General-Purpose)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—13 (General-Purpose)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—13 (General-Purpose)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—13 (General-Purpose)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Sunflower and Triticale
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12794,126 +12794,126 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Low</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Low</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—400</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—400</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1200</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300—400</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—400</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1200</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25—40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25—40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25—40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar or Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar or Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>650—850</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>750—1000</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650—850</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>750—1000</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10—15</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10—15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Wheat
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -12926,96 +12926,96 @@ Run at least
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feeder House Drive Sprocket (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22-Tooth</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Speed (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Speed (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Feed Accelerator Wear Strips (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Serrated</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feed Accelerator Wear Strips (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Serrated</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (North America) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>900—1300</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (North America) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>900—1300</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Speed (Europe) (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>850—1250</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Speed (Europe) (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>850—1250</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Threshing Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—28</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Threshing Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—28</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (North America)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (North America)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type (Europe)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type (Europe)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Separator Grate Spacers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>In Storage Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Grate Spacers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Storage Position</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fan Speed (rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>820—1100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fan Speed (rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>820—1100</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Chaffer Clearance (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Chaffer Clearance (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12—20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12—20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chaffer Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14—23</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chaffer Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14—23</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (North America) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5—11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (North America) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5—11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sieve Clearance (Europe) (mm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7—14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sieve Clearance (Europe) (mm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7—14</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tailings System Concave Position</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tailings System Concave Position</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grain</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Allowed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Allowed</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Knife Bank Engagement Percentage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Knife Bank Engagement Percentage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chopper Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>High</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High</td>
 </tr>
 </tbody>
 </table>
@@ -13026,51 +13026,51 @@ Run at least
 
 # Crop Settings
 #### Concave Recommendations
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Concave Types</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Concave Type</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Soybeans</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Wheat</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sorghum (Milo)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sunflowers (Oil)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Canola</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Soybeans</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sorghum (Milo)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflowers (Oil)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Canola</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Best = Provides best level of performance.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best = Provides best level of performance.</td>
 </tr>
 </tbody>
 </table>
@@ -13118,7 +13118,7 @@ levels are attained, calibrate
 
 # Crop Settings
 #### Payable Moisture and Density Chart
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Moisture Density Chart</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -13130,203 +13130,203 @@ levels are attained, calibrate
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Alfalfa</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Alfalfa</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Barley</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>48</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Barley</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>48</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Barley (Winter)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>48</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Barley (Winter)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>48</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Barley (Spring)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>48</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Barley (Spring)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>48</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Canola</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>52</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>24</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Canola</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>52</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>24</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chickpeas</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>61</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chickpeas</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>61</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Corn (Dry or Wet)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>56</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn (Dry or Wet)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>56</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Edible Beans</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Edible Beans</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Flax</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>56</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Flax</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>56</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grass Seeds</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grass Seeds</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Lentils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Lentils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Lupins</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>53</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>24</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Lupins</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>53</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>24</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Millet</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>50</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>23</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Millet</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>23</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Mustard</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Mustard</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Navy Beans</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>62</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Navy Beans</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>62</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Oats</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>32</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Oats</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>32</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Oats</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>32</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Oats</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>32</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Peas</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Peas</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Peas</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Peas</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rape Seed (Dry or Wet)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>52</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>24</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rape Seed (Dry or Wet)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>52</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>24</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rice</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rice</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rye</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>56</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rye</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>56</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Safflower</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Safflower</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sorghum</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>56</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sorghum</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>56</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Soybeans</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Soybeans</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sunflower</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>29</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflower</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>29</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sunflower</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflower</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Triticale</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>14.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>58</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>26</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Triticale</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>14.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>58</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>26</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Wheat (Spring)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat (Spring)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Wheat (Winter)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat (Winter)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27</td>
 </tr>
 </tbody>
 </table>
 
 # Crop Settings
 #### Standard Weights Chart
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Standard Weights Chart</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -13337,39 +13337,39 @@ levels are attained, calibrate
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Barrels</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>162.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>73.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Barrels</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>162.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>73.5</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sacks</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>100.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sacks</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>100.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45.4</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Hundred Weight</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>100.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Hundred Weight</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>100.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45.4</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Pounds (lb)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0.454</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Pounds (lb)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0.454</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Kilograms (kg)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2.204</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Kilograms (kg)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2.204</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Metric Tons</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2204.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1000.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Metric Tons</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2204.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1000.0</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Tons</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2000.0</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>907.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Tons</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2000.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>907.0</td>
 </tr>
 </tbody>
 </table>
@@ -14267,7 +14267,7 @@ The following pre-mix engine coolants are preferred:
 COOL-GARD II pre-mix coolant is available in several concentrations
 with different freeze protection limits as shown in the following
 table.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>COOL-GARD II Pre-Mix—Freeze Protection Limit</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -14277,28 +14277,28 @@ table.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II 20/80</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-9°C (16°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 20/80</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-9°C (16°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II 30/70</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-16°C (3°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 30/70</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-16°C (3°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II 50/50</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-37°C (-34°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 50/50</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-37°C (-34°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II 55/45</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-45°C (-49°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 55/45</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-45°C (-49°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II PG 60/40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-49°C (-56°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II PG 60/40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-49°C (-56°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>COOL-GARD II 60/40</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-52°C (-62°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 60/40</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-52°C (-62°F)</td>
 </tr>
 </tbody>
 </table>
@@ -14351,32 +14351,32 @@ system. Deionized or demineralized water is recommended for mixing
 with ethylene glycol and propylene glycol base engine coolant concentrate.
 All water used in the cooling system should meet the following
 minimum specifications for quality:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Water Quality</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Chlorides</td>
-<td style='padding: 8px; border: 1px solid #ddd;'><40 mg</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chlorides</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><40 mg</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Sulfates</td>
-<td style='padding: 8px; border: 1px solid #ddd;'><100 mg</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sulfates</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><100 mg</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Total solids</td>
-<td style='padding: 8px; border: 1px solid #ddd;'><340 mg</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Total solids</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><340 mg</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Total dissolved I hardness</td>
-<td style='padding: 8px; border: 1px solid #ddd;'><170 mg</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Total dissolved I hardness</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><170 mg</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>pH</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.5—9.0</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>pH</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.5—9.0</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Freeze Protection</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -14386,32 +14386,32 @@ minimum specifications for quality:
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>40%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-24°C (-12°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-24°C (-12°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>50%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-37°C (-34°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-37°C (-34°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>60%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-52°C (-62°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-52°C (-62°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>40%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-21°C (-6°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-21°C (-6°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>50%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-33°C (-27°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>50%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-33°C (-27°F)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>60%</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>-49°C (-56°F)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60%</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-49°C (-56°F)</td>
 </tr>
 </tbody>
 </table>
@@ -14465,53 +14465,53 @@ ACEA Oil Sequence E1
 Do not use Plus-50™ II, Plus-50™, or engine oils
 meeting any of the following for the initial break-in of a new or
 rebuilt engine:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Oils</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
@@ -14603,7 +14603,7 @@ reduce oil and filter service intervals to 50% of the original recommended
 values when operating engines at altitudes above
 Oil analysis may allow longer service intervals.
 Use only approved oil types.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Examples—Diesel Engine Oil Service Interval for Operation at High Altitude</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -14613,48 +14613,48 @@ Use only approved oil types.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>125</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>125</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>150</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>75</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>75</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>175</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>85</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>175</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>85</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>200</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>100</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>100</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>250</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>125</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>250</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>125</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>275</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>135</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>275</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>135</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>300</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>150</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>350</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>175</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>350</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>175</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>375</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>185</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>375</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>185</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>400</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>200</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>400</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>200</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>500</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>250</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>250</td>
 </tr>
 </tbody>
 </table>
@@ -14684,7 +14684,7 @@ BEFORE using diesel fuel with sulfur content greater than
 service provider
 DO NOT use diesel fuel with sulfur content greater than
 10000 mg/kg (10000 ppm)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tier 3 and Stage III A — PowerTech™ Plus Engines Service Intervals</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -14693,43 +14693,43 @@ DO NOT use diesel fuel with sulfur content greater than
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Less than 1000 mg (1000 ppm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Less than 1000 mg (1000 ppm)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Plus-50 Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>375 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Plus-50 Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>375 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Other Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>250 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Other Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>250 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1000—2000 mg (1000—2000 ppm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1000—2000 mg (1000—2000 ppm)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Plus-50 Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>300 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Plus-50 Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Other Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>200 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Other Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>200 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2000—10000 mg (2000—10000 ppm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2000—10000 mg (2000—10000 ppm)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Plus-50 Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Contact John Deere dealer</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Plus-50 Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Contact John Deere dealer</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Other Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Contact John Deere dealer</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Other Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Contact John Deere dealer</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50 Oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 oils is reached.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50 Oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 oils is reached.</td>
 </tr>
 </tbody>
 </table>
@@ -14763,7 +14763,7 @@ Use of diesel fuel with sulfur content less than 15 mg/kg
 (15 ppm)
 Use of John Deere Plus-50™ II oil
 Use of an approved John Deere oil filter
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Interim Tier 4, Final Tier 4, Stage IIIB, and Stage IV Service Intervals</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -14772,15 +14772,15 @@ Use of an approved John Deere oil filter
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>John Deere Plus-50™ II</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>500 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>John Deere Plus-50™ II</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Other Oils</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>250 hours</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Other Oils</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>250 hours</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50™ II oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 II oils is reached.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Oil analysis may extend the service interval of “Other Oils” to a maximum not to exceed the interval of Plus-50™ II oils. Oil analysis means taking a series of oil samples at 50-hour increments beyond the normal service interval until either the data indicates the end of useful oil life or the maximum service interval of John Deere Plus-50 II oils is reached.</td>
 </tr>
 </tbody>
 </table>
@@ -15025,7 +15025,7 @@ interval.
 
 # Maintenance—Every 10 Hours
 #### Service Interval Chart—Every 10 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 10 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15036,64 +15036,64 @@ interval.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Engine Oil Level</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Engine Oil Level</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Engine Coolant Level</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Engine Coolant Level</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condenser, and Fuel Cooler</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condenser, and Fuel Cooler</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Hydrostatic Oil Engine Gear Case Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Hydrostatic Oil Engine Gear Case Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Drain Water from Air Compressor Reservoir (If Equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Drain Water from Air Compressor Reservoir (If Equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Fuel Precleaner Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Fuel Precleaner Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Rear Axle Tie Rods (Muddy Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Rear Axle Tie Rods (Muddy Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>I</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Air Conditioner Drain Hose</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>I</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Air Conditioner Drain Hose</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>J</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Stone Trap</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>J</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Stone Trap</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>K</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>K</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>L</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>L</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15263,7 +15263,7 @@ Open the latch and clean the
 
 # Maintenance—Every 50 Hours
 #### Service Interval Chart—Every 50 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 50 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15274,64 +15274,64 @@ Open the latch and clean the
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Driveshaft Couplers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Driveshaft Couplers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Rear Axle Tie Rods (Normal Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Rear Axle Tie Rods (Normal Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Lateral Tilt Feeder House</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Lateral Tilt Feeder House</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Adjust Feeder House Conveyor Drive Chain Tension</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Adjust Feeder House Conveyor Drive Chain Tension</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Cleaning Fan Variable Driven Sheaves (Severe Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Cleaning Fan Variable Driven Sheaves (Severe Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Fuel Precleaner Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Fuel Precleaner Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Water Separator Primary Fuel Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Water Separator Primary Fuel Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>I</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers, and Fuel Cooler</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>I</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers, and Fuel Cooler</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>J</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Mass Flow Sensor</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>J</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Mass Flow Sensor</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>K</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Cab Fresh Air Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>K</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Cab Fresh Air Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>L</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Moisture Sensor</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>L</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Moisture Sensor</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15465,7 +15465,7 @@ with pins.
 
 # Maintenance—First 100 Hours
 #### Service Interval Chart—First 100 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—First 100 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15476,24 +15476,24 @@ with pins.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Final Drives Oil (Wheel Machines)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Final Drives Oil (Wheel Machines)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Transmission Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Transmission Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Main Engine Gear Case Lube Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Main Engine Gear Case Lube Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Transmission Return Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Transmission Return Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15549,7 +15549,7 @@ hose and retain with clamp.
 
 # Maintenance—Every 100 Hours
 #### Service Interval Chart—Every 100 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 100 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15560,19 +15560,19 @@ hose and retain with clamp.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Tire Pressure and Wheel Bolt Torque</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Tire Pressure and Wheel Bolt Torque</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Cleaning Fan Variable Driven Sheaves (Normal Conditions)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Cleaning Fan Variable Driven Sheaves (Normal Conditions)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Adjust Feeder House Conveyor Chain</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Adjust Feeder House Conveyor Chain</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15603,7 +15603,7 @@ on both sides of the feeder house shield.
 
 # Maintenance—Every 200 Hours
 #### Service Interval Chart—Every 200 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 200 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15614,29 +15614,29 @@ on both sides of the feeder house shield.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Recirculating Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Recirculating Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Separator Variable Speed Driven Sheave</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Separator Variable Speed Driven Sheave</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Separator Variable Speed Driver Sheave</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Separator Variable Speed Driver Sheave</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Front End Variable Speed Driven Sheave (If Equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Front End Variable Speed Driven Sheave (If Equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Front End Variable Speed Driver Sheave (If Equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Front End Variable Speed Driver Sheave (If Equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15690,7 +15690,7 @@ the grease.
 
 # Maintenance—Every 400 Hours
 #### Service Interval Chart—Every 400 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15701,29 +15701,29 @@ the grease.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Unloading Elbow Gear Case</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Unloading Elbow Gear Case</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Vertical Unloading Auger Upper Gear Case</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Vertical Unloading Auger Upper Gear Case</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Final Drive Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Final Drive Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Chopper Gear Case Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Chopper Gear Case Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Grease Feeder House Dust Fan (If Equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Feeder House Dust Fan (If Equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15788,7 +15788,7 @@ on the feeder house dust fan.
 
 # Maintenance—Every 400 Hours
 #### Service Interval Chart—Every 400 Hours (Continued)
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15799,39 +15799,39 @@ on the feeder house dust fan.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Service Batteries</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Service Batteries</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Fire Extinguishers</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Fire Extinguishers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Seat Belts</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Seat Belts</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Loading Auger Fixed Gear Case Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Loading Auger Fixed Gear Case Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Air Filter Elements</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Air Filter Elements</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Moisture Sensor</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Moisture Sensor</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -15940,7 +15940,7 @@ Hex Socket Screws
 
 # Maintenance—Every 500 Hours
 #### Service Interval Chart—Every 500 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 500 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -15951,29 +15951,29 @@ Hex Socket Screws
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Engine Oil and Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Engine Oil and Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Primary and Secondary Fuel Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Primary and Secondary Fuel Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Fuel Precleaner Filter (Style A)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Fuel Precleaner Filter (Style A)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Fuel Tank Breather</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Fuel Tank Breather</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4 V)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4 V)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16092,7 +16092,7 @@ fluid (DEF) tank breather from the hose and clean.
 
 # Maintenance—Every 1000 Hours
 #### Service Interval Chart—Every 1000 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1000 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -16103,49 +16103,49 @@ fluid (DEF) tank breather from the hose and clean.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Transmission Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Transmission Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Hydrostatic Cooler Return Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Hydrostatic Cooler Return Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Auxiliary Hydraulic Return Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Auxiliary Hydraulic Return Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Main Engine Gear Case Lube Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Main Engine Gear Case Lube Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Hydrostatic Charge Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Hydrostatic Charge Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Transmission Return Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Transmission Return Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Main Engine Gear Case Breather</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Main Engine Gear Case Breather</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Feed Accelerator Gear Case Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Feed Accelerator Gear Case Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>I</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Cleaning Fan Variable Speed Driven Sheave Oil</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>I</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Cleaning Fan Variable Speed Driven Sheave Oil</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16266,7 +16266,7 @@ Fill Plug
 
 # Maintenance—Every 1500 Hours or Three Years
 #### Service Interval Chart—Every 1500 Hours or Three Years
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1500 Hours or Three Years</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -16277,14 +16277,14 @@ Fill Plug
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Diesel Exhaust Fluid (DEF) Dosing Unit Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Diesel Exhaust Fluid (DEF) Dosing Unit Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Diesel Exhaust Fluid (DEF) In-Line Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Diesel Exhaust Fluid (DEF) In-Line Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16371,7 +16371,7 @@ Drain Plug
 
 # Maintenance—Every 2000 Hours
 #### Service Interval Chart—Every 2000 Hours
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 2000 Hours</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -16382,14 +16382,14 @@ Drain Plug
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Final Drives Oil (Both Sides)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Final Drives Oil (Both Sides)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B—K</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Change Hydraulic System Oil and Replace Hydraulic Filters</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B—K</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Hydraulic System Oil and Replace Hydraulic Filters</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16509,7 +16509,7 @@ on the main engine gear case dipstick.
 #### Service Interval Chart—Every 6000 Hours or Six Years
 SCHEDULED coolant change interval is six years or 6000
 hours if John Deere
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 6000 Hours or Six Years</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -16520,9 +16520,9 @@ hours if John Deere
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A and B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace Engine Coolant</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A and B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Engine Coolant</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16543,7 +16543,7 @@ to the "Max Cold" line.
 
 # Maintenance—As Required
 #### Service Interval Chart—As Required
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—As Required</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -16554,39 +16554,39 @@ to the "Max Cold" line.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Recirculating Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Recirculating Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Cab Fresh Air Filter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Cab Fresh Air Filter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Fill Windshield Washer Reservoir</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fill Windshield Washer Reservoir</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Alternator Screen</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Alternator Screen</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean Moisture Sensor</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Moisture Sensor</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Clean</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Inspect Fire Extinguisher Bracket Straps (If Equipped)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>●</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Inspect Fire Extinguisher Bracket Straps (If Equipped)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>●</td>
 </tr>
 </tbody>
 </table>
@@ -16698,11 +16698,11 @@ A soft, non-abrasive rag or towel is preferred for cleaning.
 
 # Maintenance—As Required (Engine Fluids and Filters)
 #### Required Emission-Related Information
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Required Emission-Related Information</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A qualified repair shop or person of the owner's choosing may maintain, replace, or repair emission control devices and systems with original or equivalent replacement parts. However, warranty, recall, and all other services paid for by John Deere must be performed at an authorized John Deere service center.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A qualified repair shop or person of the owner's choosing may maintain, replace, or repair emission control devices and systems with original or equivalent replacement parts. However, warranty, recall, and all other services paid for by John Deere must be performed at an authorized John Deere service center.</td>
 </tr>
 </tbody>
 </table>
@@ -18498,7 +18498,7 @@ or replace as necessary.
 Speeds shown are average and can vary from machine to machine.
 Operating speed specifications and design subject to change
 without notice.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Operating Speeds</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -18508,16 +18508,16 @@ without notice.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Slow Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1200 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Slow Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1200 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Medium Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1550 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Medium Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1550 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>High Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1900 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>High Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1900 rpm</td>
 </tr>
 </tbody>
 </table>
@@ -18525,7 +18525,7 @@ without notice.
 # Specifications
 #### Specifications
 Specifications and design subject to change without notice.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Specifications</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -18534,61 +18534,61 @@ Specifications and design subject to change without notice.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Make</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>John Deere</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Make</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>John Deere</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Model</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6136HX304 (13.6 L, Single Turbo, Tier 3 IIIA)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Model</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6136HX304 (13.6 L, Single Turbo, Tier 3 IIIA)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Type</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Six-Cylinder, In-Line, Valve-in-Head, Air-to-Air Aftercooled Diesel Turbocharged</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Type</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Six-Cylinder, In-Line, Valve-in-Head, Air-to-Air Aftercooled Diesel Turbocharged</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rated Power</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>410 kW (550 hp)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>450 kW (603 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rated Power</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>410 kW (550 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>450 kW (603 hp)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rated Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1900 rpm</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1900 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rated Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1900 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1900 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Power Boost at Rated Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>40 kW (54 hp)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>40 kW (54 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Power Boost at Rated Speed</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40 kW (54 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40 kW (54 hp)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Peak Power</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>470 kW (630 hp)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>515 kW (690 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Peak Power</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>470 kW (630 hp)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>515 kW (690 hp)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Peak Power Speed (Rated Speed -200 rpm)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1700 rpm</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Peak Power Speed (Rated Speed -200 rpm)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1700 rpm</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Displacement</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.6 L (830 in³)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Displacement</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.6 L (830 in³)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Firing Order</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1-5-3-6-2-4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Firing Order</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1-5-3-6-2-4</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Air Cleaner</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Dry Type with Safety Element</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Air Cleaner</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Dry Type with Safety Element</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Specifications</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -18597,16 +18597,16 @@ Specifications and design subject to change without notice.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Battery Voltage</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12 V</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Battery Voltage</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12 V</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Battery Terminal Grounded</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Negative</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Battery Terminal Grounded</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Negative</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Alternator</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>330 A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Alternator</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>330 A</td>
 </tr>
 </tbody>
 </table>
@@ -18615,7 +18615,7 @@ Specifications and design subject to change without notice.
 #### Dimensions
 Dimensions are approximate and subject to change without
 notice.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combine Dimensions</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -18631,176 +18631,176 @@ notice.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.49 m (37 ft 8 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.25 m (40 ft 2 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.01 m (42 ft 8 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.49 m (37 ft 8 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.25 m (40 ft 2 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.01 m (42 ft 8 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.83 m (38 ft 10 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.98 m (39 ft 4 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.59 m (41 ft 4 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.35 m (43 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.83 m (38 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.98 m (39 ft 4 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.59 m (41 ft 4 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.35 m (43 ft 10 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.71 m (31 ft 10 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.47 m (34 ft 4 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.23 m (36 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.71 m (31 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.47 m (34 ft 4 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.23 m (36 ft 10 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.71 m (31 ft 10 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.71 m (31 ft 10 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.47 m (34 ft 4 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.23 m (36 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.71 m (31 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.71 m (31 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.47 m (34 ft 4 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.23 m (36 ft 10 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.21 m (30 ft 3 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.21 m (30 ft 3 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.91—4.96 m (16 ft 1 in—16 ft 3 in) with 14 800 L (420 bu) and 16 200 L (460 bu) Covers</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.91—4.96 m (16 ft 1 in—16 ft 3 in) with 14 800 L (420 bu) and 16 200 L (460 bu) Covers</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Top of Radio Antenna</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Top of Position Receiver</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Top of Radio Antenna</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Top of Position Receiver</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.03—4.08 m (13 ft 3 in—13 ft 5 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.86—3.91 m (12 ft 8 in—12 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.03—4.08 m (13 ft 3 in—13 ft 5 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.86—3.91 m (12 ft 8 in—12 ft 10 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Top of Engine Cooling Package</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Top of Engine Cooling Package</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.96—4.00 m (13 ft 0 in—13 ft 2 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.96—4.00 m (13 ft 0 in—13 ft 2 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Top of Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Top of Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.98 m (13 ft 1 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.01 m (13 ft 2 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.03 m (13 ft 3 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.98 m (13 ft 1 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.01 m (13 ft 2 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.03 m (13 ft 3 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Top of Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Top of Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.11 m (13 ft 6 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.12 m (13 ft 6 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.14 m (13 ft 7 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.16 m (13 ft 8 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.11 m (13 ft 6 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.12 m (13 ft 6 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.14 m (13 ft 7 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.16 m (13 ft 8 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>0.51—0.56 m (1 ft 8 in-—1 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0.51—0.56 m (1 ft 8 in-—1 ft 10 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.11 m (13 ft 6 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.11 m (13 ft 6 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.68 m (28 ft 6 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.39 m (30 ft 10 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.10 m (33 ft 2 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.68 m (28 ft 6 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.39 m (30 ft 10 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.10 m (33 ft 2 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.77 m (28 ft 9 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.91 m (29 ft 3 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.48 m (31 ft 1 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.19 m (33 ft 5 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.77 m (28 ft 9 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.91 m (29 ft 3 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.48 m (31 ft 1 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.19 m (33 ft 5 in)</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>I</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>I</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.71—5.76 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.92—5.97 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.13—6.18 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.71—5.76 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.92—5.97 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.13—6.18 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.85—5.91 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.89—5.95 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.06—6.12 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.27—6.33 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.85—5.91 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.89—5.95 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.06—6.12 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.27—6.33 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>J</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>J</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.87—4.92 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.08—5.13 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.29—5.34 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.87—4.92 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.08—5.13 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.29—5.34 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.35—5.40 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.39—5.44 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.56—5.61 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.77—5.82 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.35—5.40 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.39—5.44 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.56—5.61 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.77—5.82 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>K</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Standard Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>K</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.10—5.15 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Not Applicable</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.31—5.36 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.52—5.57 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.10—5.15 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not Applicable</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.31—5.36 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.52—5.57 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>Active Unloading Auger Boot</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Active Unloading Auger Boot</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.13—5.18 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.17—5.22 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.34—5.39 m</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.55—5.60 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.13—5.18 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.17—5.22 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.34—5.39 m</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.55—5.60 m</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>L</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Front Tires</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Rear Tires</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>L</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Front Tires</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Rear Tires</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.03—5.61 m (13 ft 3 in—18 ft 5 in)</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4.15—4.90 m (13 ft 7 in—16 ft 1 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.03—5.61 m (13 ft 3 in—18 ft 5 in)</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4.15—4.90 m (13 ft 7 in—16 ft 1 in)</td>
 </tr>
 </tbody>
 </table>
@@ -18845,7 +18845,7 @@ emissions label. Find the appropriate family on the emissions label
 and reference the chart.
 The first letter of the family number is not utilized
 for family identification on the chart.
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>CO₂ Emissions Output</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -18855,88 +18855,88 @@ for family identification on the chart.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL02.9323</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>952 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL02.9323</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>952 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL02.9327</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>784 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL02.9327</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>784 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL04.5337</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>819 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL04.5337</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>819 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL04.5338</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>682 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL04.5338</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>682 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL04.5304</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1004 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL04.5304</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1004 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXN04.5174</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>792 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXN04.5174</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>792 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL06.8324</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>720 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL06.8324</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>720 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL06.8328</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>683 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL06.8328</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>683 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL06.8336</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>701 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL06.8336</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>701 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXN06.8175</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>771 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXN06.8175</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>771 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL09.0319</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>646 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL09.0319</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>646 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL09.0325</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>695 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL09.0325</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>695 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL09.0329</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>657 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL09.0329</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>657 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL09.0333</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>650 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL09.0333</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>650 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL13.5326</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>684 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL13.5326</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>684 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL13.6320</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>651 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL13.6320</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>651 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL13.5340</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>632 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL13.5340</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>632 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>_JDXL18.0341</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>683 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL18.0341</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>683 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F28</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>870 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F28</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>870 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F32</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>710 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F32</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>710 g-hr</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F33</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>677 g-hr</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F33</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>677 g-hr</td>
 </tr>
 </tbody>
 </table>
@@ -18944,41 +18944,41 @@ for family identification on the chart.
 # Specifications
 #### CARB Non-road Emissions Control Warranty Statement—Compression
 Ignition
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2019 through 2021 — 1/2</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and CARB regulations for nonroad diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and CARB regulations for nonroad diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2019 through 2021 — 2/2</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2022 through 2024 — 1/2</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and California regulations for nonroad-road diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and California regulations for nonroad-road diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2022 through 2024 — 2/2</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
@@ -18986,14 +18986,14 @@ Ignition
 # Specifications
 #### EPA Non-road Emissions Control Warranty Statement—Compression
 Ignition
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the "Emissions Control Information" label located on the engine. If the engine is operated in the United States or Canada and the Emissions Control information label states: "This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine conforms to US EPA nonroad compression-ignition regulations”, refer to the "U.S. and Canada Emission Control Warranty Statement." If the engine is operated in California, and the label states: "This engine complies with US EPA and CARB regulations for nonroad diesel engines”, or “This engine conforms to US EPA and California nonroad compression-ignition emission regulations”, also refer to the "California Emission Control Warranty Statement.”</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the "Emissions Control Information" label located on the engine. If the engine is operated in the United States or Canada and the Emissions Control information label states: "This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine conforms to US EPA nonroad compression-ignition regulations”, refer to the "U.S. and Canada Emission Control Warranty Statement." If the engine is operated in California, and the label states: "This engine complies with US EPA and CARB regulations for nonroad diesel engines”, or “This engine conforms to US EPA and California nonroad compression-ignition emission regulations”, also refer to the "California Emission Control Warranty Statement.”</td>
 </tr>
 </tbody>
 </table>
@@ -19074,27 +19074,27 @@ to the IP address shown in Diagnostic Address 8.
 You may obtain the complete Corresponding Source Code from us
 for a period of three years after our last shipment of the Software
 by sending a request letter to:
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Deere Open Source Compliance Team</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Deere Open Source Compliance Team</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Deere Open Source Compliance Team</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>P.O. Box 1202</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>P.O. Box 1202</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Moline, IL 61266-1202 USA</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Moline, IL 61266-1202 USA</td>
 </tr>
 </tbody>
 </table>
 
 # Specifications
 #### Unified Inch Bolt and Screw Torque Values
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Unified Inch Bolt and Screw Torque Values</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -19117,342 +19117,342 @@ by sending a request letter to:
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1/4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>47.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>70.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>73.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>99.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>103</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1/4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>47.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>70.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>73.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>99.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>103</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5/16</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>54.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>57.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>90.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>96.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>15.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>139</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>149</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>23.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>17.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5/16</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>54.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>57.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>90.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>96.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>15.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>139</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>149</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>23.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>17.5</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>3/8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>93.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>102</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>17.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>156</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>19.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>29.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>21.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>38.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>41.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>30.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3/8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>93.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>102</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>17.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>156</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>19.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>29.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>21.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>38.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>41.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>30.9</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>7/16</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>148</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>163</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>30.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>43</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>31.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>47.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>44.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>66.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>49.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7/16</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>148</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>163</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>30.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>43</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>31.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>47.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>44.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>66.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>49.3</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1/2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>19.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>28.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>43.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>31.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>47</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>66.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>49.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>72.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>53.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>94</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>69.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>103</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>75.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1/2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>19.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>28.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>43.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>31.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>47</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>66.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>49.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>72.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>53.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>94</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>69.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>103</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>75.8</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>9/16</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>36.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>40.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>29.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>61.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>67.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>49.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>94.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>69.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>104</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>77</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>134</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>98.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>148</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>109</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9/16</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>36.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>29.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>61.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>67.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>49.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>94.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>69.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>104</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>77</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>134</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>98.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>148</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>109</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5/8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>51</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>37.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>55.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>41.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>85</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>62.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>93.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>68.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>131</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>96.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>144</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>106</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>186</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>137</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>203</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5/8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>51</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>37.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>55.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>41.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>85</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>62.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>93.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>68.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>131</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>96.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>144</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>106</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>186</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>137</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>203</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>150</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>3/4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>89.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>66</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>98</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>72.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>149</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>110</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>164</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>121</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>230</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>170</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>252</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>186</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>325</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>240</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>357</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>263</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3/4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>89.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>66</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>98</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>72.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>149</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>110</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>164</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>121</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>230</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>170</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>252</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>186</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>325</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>240</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>357</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>263</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>7/8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>144</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>106</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>157</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>116</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>144</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>106</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>157</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>116</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>273</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>405</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>299</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>522</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>385</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>572</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>422</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7/8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>144</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>106</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>157</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>116</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>144</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>106</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>157</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>116</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>273</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>405</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>299</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>522</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>385</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>572</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>422</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>216</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>159</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>236</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>174</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>216</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>159</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>236</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>174</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>556</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>410</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>609</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>449</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>785</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>579</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>860</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>634</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>216</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>159</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>236</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>174</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>216</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>159</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>236</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>174</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>556</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>410</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>609</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>449</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>785</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>579</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>860</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>634</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1-1/8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>305</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>225</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>335</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>247</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>305</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>225</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>335</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>247</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>685</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>505</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>751</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>554</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1110</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>819</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1218</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>898</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1-1/8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>305</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>225</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>335</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>247</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>305</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>225</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>335</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>247</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>685</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>505</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>751</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>554</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1110</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>819</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1218</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>898</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1-1/4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>427</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>315</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>469</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>346</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>427</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>315</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>469</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>346</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>957</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>706</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1051</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>775</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1552</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1145</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1703</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1256</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1-1/4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>427</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>315</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>469</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>346</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>427</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>315</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>469</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>346</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>957</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>706</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1051</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>775</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1552</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1145</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1703</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1256</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1-3/8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>564</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>416</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>618</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>456</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>564</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>416</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>618</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>456</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1264</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>932</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1386</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1022</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2050</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1512</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2248</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1658</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1-3/8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>564</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>416</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>618</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>456</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>564</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>416</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>618</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>456</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1264</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>932</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1386</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1022</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2050</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1512</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2248</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1658</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1-1/2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>743</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>548</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>815</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>601</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>743</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>548</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>815</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>601</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1665</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1228</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1826</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1347</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2699</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1991</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2962</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2185</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1-1/2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>743</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>548</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>815</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>601</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>743</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>548</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>815</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>601</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1665</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1228</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1826</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1347</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2699</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1991</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2962</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2185</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench.</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
 
 # Specifications
 #### Metric Bolt and Screw Torque Values
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Metric Torque Values</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -19475,493 +19475,493 @@ by sending a request letter to:
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>31.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>59.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>64.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>86.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>10.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>95.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>11.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>102</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>12.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>112</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>31.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>59.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>64.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>86.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>95.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>11.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>102</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>112</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>76.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>83.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>143</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>17.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>156</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>23.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>17.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>19.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>27.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>20.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>30.3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>22.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>83.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>143</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>17.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>156</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>23.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>17.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>19.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>27.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>20.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>30.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22.3</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M10</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>16.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>150</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>18.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>13.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>31.9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>23.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>25.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>46.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>34.5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>51</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>37.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>55</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>40.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>60</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>44.3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M10</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>16.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>13.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>31.9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>23.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>25.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>46.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>34.5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>51</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>37.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>55</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>44.3</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M12</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>55</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>40.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>61</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>45</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>81</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>59.7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>89</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>65.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>95</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>70.1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>105</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>77.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M12</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>55</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>61</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>45</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>81</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>59.7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>89</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>65.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>95</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>70.1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>105</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>77.4</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M14</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>87</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>64.2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>96</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>70.8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>128</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>94.4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>141</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>104</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>150</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>111</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>165</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>122</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M14</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>87</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>64.2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>96</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>70.8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>128</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>94.4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>141</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>104</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>150</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>111</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>165</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>122</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M16</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>135</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>99.6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>149</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>110</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>198</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>146</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>219</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>162</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>232</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>171</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>257</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>190</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M16</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>135</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>99.6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>149</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>110</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>198</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>146</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>219</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>162</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>232</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>171</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>257</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>190</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M18</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>193</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>142</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>214</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>158</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>275</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>203</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>304</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>224</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>322</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>245</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>356</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>263</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M18</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>193</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>142</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>214</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>158</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>275</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>203</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>304</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>224</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>322</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>245</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>356</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>263</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M20</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>272</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>201</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>301</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>222</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>387</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>285</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>428</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>316</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>453</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>334</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>501</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>370</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M20</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>272</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>201</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>301</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>222</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>387</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>285</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>428</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>316</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>453</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>334</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>501</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>370</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M22</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>365</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>263</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>405</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>299</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>520</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>384</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>576</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>425</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>608</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>448</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>674</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>497</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M22</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>365</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>263</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>405</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>299</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>520</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>384</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>576</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>425</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>608</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>448</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>674</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>497</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M24</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>468</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>345</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>518</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>382</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>666</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>491</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>738</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>544</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>780</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>575</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>864</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>637</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M24</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>468</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>345</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>518</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>382</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>666</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>491</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>738</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>544</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>780</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>575</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>864</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>637</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M27</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>683</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>504</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>758</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>559</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>973</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>718</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1080</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>797</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1139</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>840</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1263</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>932</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M27</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>683</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>504</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>758</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>559</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>973</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>718</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1080</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>797</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1139</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>840</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1263</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>932</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M30</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>932</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>687</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1029</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>759</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1327</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>979</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1466</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1081</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1553</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1145</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1715</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1265</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M30</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>932</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>687</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1029</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>759</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1327</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>979</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1466</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1081</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1553</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1145</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1715</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1265</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M33</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1258</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>928</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1398</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1031</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1788</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1319</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1986</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1465</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2092</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1543</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2324</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1714</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M33</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1258</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>928</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1398</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1031</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1788</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1319</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1986</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1465</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2092</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1543</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2324</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1714</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>M36</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>—</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1617</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1193</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1789</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1319</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2303</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1699</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2548</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1879</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2695</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1988</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2982</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2199</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M36</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>—</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1617</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1193</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1789</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1319</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2303</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1699</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2548</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1879</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2695</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1988</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2982</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2199</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench.</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>The nominal torque values listed are for general use only with the assumed wrenching accuracy of 20%, such as a manual torque wrench.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace fasteners with the same or higher property class. If higher property class fasteners are used, tighten these to the strength of the original.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 </tbody>
 </table>
 
 # Machine Identification Numbers
 #### Interpreting Machine Serial Number
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Manufacturer Code</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Manufacturer Code</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Harvesting Manufacturing Facilities</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Manufacturer Code</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Harvesting Manufacturing Facilities</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>CQ - John Deere Horizontina</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>SA - SABO Maschinenfabrik GmbH</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>CQ - John Deere Horizontina</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>SA - SABO Maschinenfabrik GmbH</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Machine Model Identifier</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine Model Identifier</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Model Identifier Suffix</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Example: N, T, W, etc.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Model Identifier Suffix</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: N, T, W, etc.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Check Letter</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Example: A, B, C, D, etc.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Letter</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: A, B, C, D, etc.</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Calendar Year of Manufacture</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Refer to Year of Manufacture Code table</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Calendar Year of Manufacture</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Refer to Year of Manufacture Code table</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Additional Information</td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Additional Information</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Manufacturing Serial Number</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Example: 000001, 000127, etc.</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Manufacturing Serial Number</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: 000001, 000127, etc.</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Year of Manufacture Code</caption>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
-<td style='padding: 8px; border: 1px solid #ddd;'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2008</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2018</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>J</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2028</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>W</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2038</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2008</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2018</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>J</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2028</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>W</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2038</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2009</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2019</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>K</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2029</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2039</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2009</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2019</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>K</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2029</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2039</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2010</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2020</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>L</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2030</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>Y</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2040</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2010</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2020</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>L</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2030</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Y</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2040</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2011</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2021</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>M</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2031</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2041</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2011</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2021</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2031</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2041</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2012</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2022</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>N</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2032</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2042</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2012</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2022</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>N</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2032</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2042</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2013</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2023</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>P</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2033</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>3</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2043</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2013</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2023</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>P</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2033</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2043</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2014</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2024</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>R</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2034</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>4</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2044</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2014</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2024</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>R</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2034</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2044</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2015</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2025</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>S</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2035</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>5</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2045</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2015</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2025</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>S</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2035</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2045</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2016</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2026</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>T</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2036</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>6</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2046</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2016</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2026</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>T</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2036</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2046</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>2017</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2027</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>V</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2037</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>7</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>2047</td>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2017</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2027</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>V</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2037</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2047</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
 </tr>
 </tbody>
 </table>
@@ -19989,7 +19989,7 @@ the machine mainframe.
 
 # Machine Identification Numbers
 #### Interpreting Engine Serial Number
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Serial Numbers</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -19998,20 +19998,20 @@ the machine mainframe.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>RG</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>RG</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>6136</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6136</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>U</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>U</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>123456</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>123456</td>
 </tr>
 </tbody>
 </table>
-<table style='border-collapse: collapse; width: 100%;'>
+<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Model Number</caption>
 <thead style='background-color: #ffffcc;'>
 <tr>
@@ -20020,19 +20020,19 @@ the machine mainframe.
 </thead>
 <tbody style='background-color: #f7f7f7;'>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>6136</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6136</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>H</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>F</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>C</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
 </tr>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd;'>09</td>
+<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>09</td>
 </tr>
 </tbody>
 </table>
