@@ -576,8 +576,8 @@ see your John Deere dealer for further information.
 <caption>Frequency</caption>
 <thead>
 <tr>
-<th colspan='0'>Wave Bands (United States)</th>
-<th colspan='0'>Wave Bands (All Other Countries)</th>
+<th colspan='2'>Wave Bands (United States)</th>
+<th colspan='3'>Wave Bands (All Other Countries)</th>
 </tr>
 </thead>
 <tbody>
