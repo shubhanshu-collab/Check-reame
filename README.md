@@ -760,19 +760,19 @@ operator's manual.
 
 # Operator’s Station
 #### Radio Types (Optional)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Features</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Features</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Main Features</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Radio</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Connection of External Devices</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>USB</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Satellite Radio Ready</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Main Features</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Radio</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Connection of External Devices</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>USB</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Satellite Radio Ready</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>(A)—Touch Screen Radio</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
@@ -801,15 +801,15 @@ see your John Deere dealer for further information.
 #### Program Radio for Local Area Frequency
 If a different tuner frequency is needed for the radio,
 see your John Deere dealer for further information.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Frequency</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Frequency</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Wave Bands (United States)</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Wave Bands (All Other Countries)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Wave Bands (United States)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Wave Bands (All Other Countries)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>FM</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>87.7—107.9 MHz</td>
@@ -1327,20 +1327,7 @@ box lid on the armrest shows engine starting information.
 Sound horn and turn key switch on the steering column
 to START position.
 Key positions are:
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Key Positions</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>First Position</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Second Position</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Third Position</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Key Positions</h2>
 
 # Operating the Engine
 #### Stopping the Engine
@@ -1669,19 +1656,7 @@ direction.
 #### Total Loss Measurement
 Total Loss Measurement drops all residue in a windrow for accurate
 loss measurement with the premium residue configuration.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Total Loss Measurement Prerequisites</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator Status</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Disengaged</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chopper Position</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fully Raised</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Total Loss Measurement Prerequisites</h2>
 
 # Header Application
 #### Access Header
@@ -2470,14 +2445,14 @@ volumes of material.
 Press bottom of the switch to decrease gear selection
 or backshaft speed.
 Only for
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Feeder House Speeds</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Feeder House Speeds</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Feeder House Lower Shaft Speeds</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Feeder House Lower Shaft Speeds</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Fixed Speed (if equipped)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>520 rpm</td>
@@ -3727,27 +3702,7 @@ machine is on a slope, do not disengage park brake until wheels are
 blocked.
 Machine can be towed for emergency situations
 up to 10 min at maximum speed of 10 km/h (6.2 mph).
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tow Mode Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheel Speed</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0 km (0 mph)</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operator</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>In Seat</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Park Brake Engaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tow Mode Requirements</h2>
 
 # Lights Application
 #### Access Lights
@@ -3823,35 +3778,11 @@ Control unit AYM or associated components are replaced/adjusted.
 Equipment configuration such as a Header has changed.
 Crop type being harvested has changed.
 Mass Flow Sensor has been replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>See “Perform Calibration When” section for more information.</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Mass Flow Vibration Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Moisture Sensor
@@ -3861,19 +3792,7 @@ The moisture sensor accuracy needs to be improved.
 # Calibrations Application
 #### Moisture Sensor Procedure
 This procedure performs the calibration for the Moisture Sensor.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Yield Calibration
@@ -4018,23 +3937,7 @@ This procedure automatically calibrates the estimated yield
 to more closely match actual scale weight of yields.
 Manual Yield Calibration is unavailable while
 Example:
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Crop Type</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accepted Samples</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Last Accepted</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>32 min ago</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### ActiveYield™ | Status Indicator
@@ -4109,35 +4012,11 @@ to make a softer auger engagement.
 Unloading auger belt, hydraulic, drive, electrical or
 associated components are replaced/adjusted.
 Unloading auger engagement is more difficult than expected.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Unloading Auger Engage Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Unloading auger disengaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Chopper Vane
@@ -4146,31 +4025,11 @@ The physical vane position doesn't match the displayed
 position.
 Control unit LC2, chopper vane, or associated components
 have been replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Chopper Vane Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Deck Plate Spacing
@@ -4184,35 +4043,11 @@ Deck plate position sensor, or associated components are
 replaced/adjusted.
 Deck plate opening does not appear to match what is being
 displayed in the cab.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Deck Plate Spacing Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Raise Speed
@@ -4225,35 +4060,11 @@ Each header type is connected to the combine for the first
 time.
 Attachments of significant weight are added to or removed
 from header.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Raise Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Header Calibration
@@ -4267,35 +4078,11 @@ Header height control sensor or associated components
 are replaced/adjusted.
 The first time each header type (except for hinged drapers)
 is connected to an S700 Series Combine.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Header Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Tilt Fore/Aft Range
@@ -4306,35 +4093,11 @@ when operating with header height lateral tilt control active.
 Header is disconnected.
 Feeder house fore/aft tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Tilt Fore/Aft Range Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Range
@@ -4345,35 +4108,11 @@ when operating with header height lateral tilt control active.
 Header is disconnected.
 Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Range Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Speed
@@ -4384,35 +4123,11 @@ when operating with header height lateral tilt control active.
 There is no header connected to the machine.
 Feeder house lateral tilt sensor or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Feeder House Lateral Tilt Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Wings (Folding Corn Head)
@@ -4426,35 +4141,11 @@ First time each header is connected to combine.
 Mechanical adjustments have been made to the head.
 Folding corn head wing position sensor, or associated
 components are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Wings (Folding Corn Head) Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running at high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Separator disengaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Reel and Cutterbar Position
@@ -4465,52 +4156,12 @@ this calibration allows the control unit to calculate positions and
 prevent potential damaging collisions between the Reel and Cutterbar.
 Reel/Cutterbar position sensors or associated components
 are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 3-4 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Reel and Cutterbar Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Combine in field mode</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Recommended Measurements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>622X, 625X, 722X, and 725X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5 cm (2 in)</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>630X, 640X, 730X, and 740X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6 cm (2-3/8 in)</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>635X and 735X Extendable Platforms</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7 cm (2-13/16 in)</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Recommended Measurements</h2>
 
 # Calibrations Application
 #### Amber Flasher
@@ -4518,35 +4169,11 @@ This calibration measures current demands of the amber lights.
 A normal current is used to compare the current demands when lights
 are used to detect if the trailer is attached or for bad bulb detection.
 Amber Flasher bulbs or associated components are replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1-2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Amber Flasher Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Requirements</h2>
 
 # Calibrations Application
 #### Left Concave Leveling
@@ -4556,35 +4183,11 @@ will reduce risk of damage.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
 Left concave has recently been installed or replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 4min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Left Concave Leveling Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>OFF</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirement:</h2>
 
 # Calibrations Application
 #### Right Concave Leveling
@@ -4594,35 +4197,11 @@ will reduce risk of damage.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
 Right concave has recently been installed or replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 4 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Right Concave Leveling Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>OFF</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirement:</h2>
 
 # Calibrations Application
 #### Chaffer Position
@@ -4630,35 +4209,11 @@ This procedure calibrates the chaffer position.
 Chaffer element or chaffer actuator has been replaced/adjusted.
 Element clearance on –the left side and right side are
 not matched.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Chaffer Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirement:</h2>
 
 # Calibrations Application
 #### Sieve Position
@@ -4666,35 +4221,11 @@ This procedure calibrates the sieve position.
 Sieve element or sieve actuator has been replaced/adjusted.
 Element clearance on the left side and right side are
 not matched.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Sieve Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Not running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirement:</h2>
 
 # Calibrations Application
 #### Header Suspension Service Mode
@@ -4715,30 +4246,19 @@ present in the hydraulic reservoir. Service one side of the header
 at a time.
 Service or maintenance is required on front end equipment
 suspension systems.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommendations</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Ensure that the machine is in park.</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Header Suspension Service Mode | Procedure
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Engine State</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Running</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Engine State</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Running</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine State</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
@@ -4776,19 +4296,7 @@ of machinery is not possible.
 The functionality of a grain loss sensor or system component
 is in question.
 A grain loss sensor or system component is replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Last Run</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Displays Date When Procedure Was Last Performed</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Grain Loss Monitor Tap Test Procedure
@@ -4799,19 +4307,7 @@ result in a positive detection.
 Harvester and all separating machinery should be stopped
 before beginning the procedure. Ensure that accidental activation
 of machinery is not possible.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Harvesting and separating functions are stopped.</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Key switch in the RUN position is required. Can also be performed with the engine running.</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Gauge Wheel Speed
@@ -4821,101 +4317,33 @@ A hydraulic gauge wheel proportional valve or related
 component has been replaced.
 Mechanical adjustments have been made to the head.
 Items Accessible on Gauge Wheel Speed Page:
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 5 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Gauge Wheel Speed Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Hinged Draper Wing Position
 This procedure calibrates the Hinged Draper Wing Position. This
 procedure also calibrates the position of the frame wings.
 A wing position sensor or related component is changed.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Hinged Draper Wing Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header must be disengaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Windscreen Position
 This procedure calibrates the Windscreen Position.
 The windscreen position sensor or related components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Windscreen Position Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine in field mode</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Tailings Calibration
@@ -4924,35 +4352,11 @@ Performing this calibration may improve tailings system performance.
 Control unit, tailings sensors, elevator chain, or related
 components are replaced or adjusted.
 Lower auger or return auger is replaced.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Tailings Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Set to high idle</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header must be disengaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Left Threshing Clearance
@@ -4968,35 +4372,11 @@ displayed in the cab.
 Concaves are replaced with a new or different set of concaves.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1—2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Left Threshing Clearance Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Calibrations Application
 #### Right Threshing Clearance
@@ -5012,35 +4392,11 @@ displayed in cab.
 Concaves are replaced with a new or different set of concaves.
 Threshing clearance sensor or associated components are
 replaced/adjusted.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Details Displayed on Page</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Recommended Interval</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>As Needed</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Estimated Time Required</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Approximately 1—2 min</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Details Displayed on Page</h2>
 
 # Calibrations Application
 #### Right Threshing Clearance Calibration Procedure
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Operating State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Parked on a level surface</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Procedure Requirements</h2>
 
 # Combine Advisor™ Application
 #### Access Combine Advisor™
@@ -5849,76 +5205,6 @@ with the John Deere touchscreen radio. The call answer function works
 with all John Deere radios that support
 Native means voice recognition
 (VR) is running through radio.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Device VR (</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accept Phone Call</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Start Native VR Session</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Aborts Native VR Session</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Interrupts Voice Prompt</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Talk to</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Accept Phone Call</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>–</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Ends VR Session</td>
-</tr>
-</tbody>
-</table>
 
 # Combine Overview
 #### Engine and Ground Drive
@@ -6382,23 +5668,7 @@ such as the indicators consistently read as full (all bars lit) when
 not harvesting or empty (no bars lit) when harvesting, inspect the
 sensors related to the system showing the error. See your Operator's
 Manual for VisionTrak operational checks and sensor inspection procedures.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>System Requirements</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engine State</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Running</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Road Transport Disconnect Switch</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Field Position</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Header and Separator Switch</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Engaged</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>System Requirements</h2>
 
 # Lights and Signals
 #### Lighting Locations (Front and Rear View Lights)
@@ -7016,16 +6286,16 @@ drive speed into desired position (B—D) using handle (A).
 #### Rotor Gear Case—Changing Speed
 Change the rotor gear
 case speed into desired position (B—E) using handle (A).
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Rotor Speed</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Speed</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Gear</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Factory Belt Speed Ranges</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Optimal Belt Life Speed Ranges</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Gear</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Factory Belt Speed Ranges</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Optimal Belt Life Speed Ranges</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>First (Low Range)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>300—520 rpm</td>
@@ -7048,54 +6318,7 @@ case speed into desired position (B—E) using handle (A).
 #### Concave Recommendations
 For recommended machine settings for various crops, see
 the Crop Setting section for further information.
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Concave Types</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Soybeans</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sorghum (Milo)</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflowers (Oil)</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Canola</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best = Provides best level of performance.</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Concave Types</h2>
 
 # Separator
 #### Concave Types
@@ -7234,50 +6457,7 @@ Threshing Element and Separator Tine Cap Screws
 
 # Separator
 #### Threshing Element and Separator Tine Location
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Configurations</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Rotor Configurations</h2>
 
 # Separator
 #### Discharge Beater Wear Strip—Replacing
@@ -8930,28 +8110,28 @@ needed.
 See Adjust
 Machine Light Angles (Detailed Adjustment) for further information
 on adjusting the various lights around the machine.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Position</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Right-Hand Cab Lights</th>
-<th colspan='5' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Left-Hand Cab Lights</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Position</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Right-Hand Cab Lights</th>
+<th colspan='5' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Left-Hand Cab Lights</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 1</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 2</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 3</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 4</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 5</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 6</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 7</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 8</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 9</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Light 10</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 1</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 2</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 3</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 4</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 5</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 6</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 7</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 8</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 9</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Light 10</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Horizontal</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-76°</td>
@@ -9010,16 +8190,16 @@ The light pattern should stop just before the object (B)
 placed in front of the machine.
 Adjust the left-hand cab headlight (low-beam) to specification.
 See information later in this section on adjusting the cab headlights.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Headlight (low-beam)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
@@ -9027,16 +8207,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Headlight (low-beam)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
@@ -9044,16 +8224,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Headlight (high-beam)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
@@ -9061,16 +8241,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Right-Hand Cab Headlight (high-beam)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>0°</td>
@@ -9078,16 +8258,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Cab Worklight (inner) (C1)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>10°</td>
@@ -9113,16 +8293,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Row Finder Light</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>76°</td>
@@ -9138,16 +8318,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Stubble Light</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>86°</td>
@@ -9163,16 +8343,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand 360° Side Light</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>124°</td>
@@ -9188,16 +8368,16 @@ See information later in this section on adjusting the cab headlights.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Light Angles</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Light Angles</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Location</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Horizontal Specification</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Vertical Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Location</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Horizontal Specification</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Vertical Specification</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Left-Hand Rear Discharge Light</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>145°</td>
@@ -9377,54 +8557,54 @@ may decrease vehicle stability. Proper pressure results in better
 fuel economy and longer tire life.
 See Care and Service of Tires in this section for further
 information.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tire Chart</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Configuration</th>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Transport Speed</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Harvest Speed</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Configuration</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Transport Speed</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Harvest Speed</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Approximate Header Mass</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>No Head/ Transport</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>1500—2500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3500—4500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>5500—6200</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Approximate Header Mass</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>No Head/ Transport</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>1500—2500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3500—4500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>5500—6200</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9900—12 100</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3300—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>7700—9900</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9900—12 100</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>12 100—13 700</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9900—12 100</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3300—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>7700—9900</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9900—12 100</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>12 100—13 700</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Belt Pickup Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>BP15</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>RD30F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD35R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD40F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Belt Pickup Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>BP15</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>RD30F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD35R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD40F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C16F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C16F</th>
 </tr>
 <tr>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Front Tire Size</th>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tire Pressure - bar (psi)</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Front Tire Size</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tire Pressure - bar (psi)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 800/60R38 CFO+193A8 R-1W</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1.2/120</td>
@@ -9553,54 +8733,54 @@ may decrease vehicle stability. Proper pressure results in better
 fuel economy and longer tire life.
 See Care and Service of Tires in this section for further
 information.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tire Chart</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tire Chart</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Configuration</th>
-<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Transport Speed</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Harvest Speed</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Configuration</th>
+<th colspan='4' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Transport Speed</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Harvest Speed</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Approximate Header Mass</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>No Head/ Transport</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>1500—2500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3500—4500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>4500—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>5500—6200</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Approximate Header Mass</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>No Head/ Transport</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>1500—2500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3500—4500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>4500—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>5500—6200</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9900—12 100</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3300—5500</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>7700—9900</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9900—12 100</th>
-<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>12 100—13 700</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9900—12 100</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3300—5500</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>7700—9900</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9900—12 100</th>
+<th colspan='6' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>12 100—13 700</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Belt Pickup Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>BP15</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>RD30F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD35R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD40F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Belt Pickup Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>BP15</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>RD30F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD35R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD40F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn Heads</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12F</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C16F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn Heads</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12F</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C16F</th>
 </tr>
 <tr>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rear Tire Size</th>
-<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tire Pressure - bar (psi)</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rear Tire Size</th>
+<th colspan='7' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tire Pressure - bar (psi)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500/85R30 IMP 179A8/160A8</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3.2/320</td>
@@ -9698,22 +8878,22 @@ information.
 #### Front Tire Selection
 See Care and Service of Tires in this section for further
 information.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tires</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tire Spacing</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tire Spacing</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tires</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Default Spacer</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Centerline Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Outside Width</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Inside Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tires</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Default Spacer</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Centerline Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Outside Width</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Inside Width</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>IF 800/60R38 CFO+ 193A8 R-1W</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>790 (31.1)</td>
@@ -9871,23 +9051,23 @@ See Rear Axle Positions for further information on the
 rear axle positions.
 See Care and Service of Tires in
 this section for further information.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tires</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tires</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tire Spacing</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tire Spacing</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rear Tire Size</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rear Axle Position</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Steering Stop Washers</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Tire Width</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Center to Center</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Outside to Outside</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Inside to Inside</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rear Tire Size</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rear Axle Position</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Steering Stop Washers</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Tire Width</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Center to Center</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Outside to Outside</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Inside to Inside</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A2</td>
@@ -10503,47 +9683,47 @@ Ballast requirements are based off standard Corn Pricing configuration,
 all scenarios.
 Tires requiring fluid must be filled to
 75%.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Ballast Chart</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Ballast Chart</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Approximate Header Mass</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>1500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>4500—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>5000—</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>5500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Approximate Header Mass</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>1500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>4500—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>5000—</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>5500—</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>3300—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>7700—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9900—</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>11 000—</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>12 100—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>3300—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>7700—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9900—</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>11 000—</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>12 100—</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Belt Pickup Heads</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>BP15</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>RD30F</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD35R</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD40R</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>HD40F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Belt Pickup Heads</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>BP15</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>RD30F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD35R</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD40R</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>HD40F</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn Heads</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12R</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C12F</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Not Applicable</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>C16F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn Heads</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12R</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C12F</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Not Applicable</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>C16F</th>
 </tr>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Model</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Configuration</th>
-<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Normal Slopes (Flat to 15%)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Model</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Configuration</th>
+<th colspan='3' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Normal Slopes (Flat to 15%)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X9 1000</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Two-Wheel Drive</td>
@@ -10826,17 +10006,17 @@ and seed. Heavy crops require more air than light seed crops.
 Press and hold activation button 1, 2, or 3 on the multi-function
 lever for 2 seconds to enter desired modes into memory.
 A few common modes are shown below, but many combinations exist.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Combinations</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combinations</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Auto Header Controls (Enabled Modes)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Activation Button 1</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Activation Button 2</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Activation Button 3</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Auto Header Controls (Enabled Modes)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Activation Button 1</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Activation Button 2</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Activation Button 3</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Height Resume</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
@@ -10966,19 +10146,19 @@ Run at least
 
 # Crop Settings
 #### Alfalfa and Barley
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Alfalfa</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Barley</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Alfalfa</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Barley</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11099,19 +10279,19 @@ Run at least
 
 # Crop Settings
 #### Canola (Dry) and Canola (Wet)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Canola (Dry)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Canola (Wet)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Canola (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Canola (Wet)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11232,18 +10412,18 @@ Run at least
 
 # Crop Settings
 #### Chickpeas
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Chickpeas</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Chickpeas</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11341,19 +10521,19 @@ Run at least
 
 # Crop Settings
 #### Corn (Dry) and Corn (Wet)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn (Dry)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn (Wet)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn (Wet)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11474,19 +10654,19 @@ Run at least
 
 # Crop Settings
 #### Corn Cob Mix and Edible Beans
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corn Cob Mix (D)*</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Edible Beans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corn Cob Mix (D)*</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Edible Beans</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11607,19 +10787,19 @@ Run at least
 
 # Crop Settings
 #### Flax and Grass Seed
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flax</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Grass Seed</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flax</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Grass Seed</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11740,19 +10920,19 @@ Run at least
 
 # Crop Settings
 #### Guar (Cluster Beans) and Lentils
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Guar (Cluster Beans)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Lentils</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Guar (Cluster Beans)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Lentils</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -11873,19 +11053,19 @@ Run at least
 
 # Crop Settings
 #### Lupins and Millet
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Lupins</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Millet</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Lupins</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Millet</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12006,19 +11186,19 @@ Run at least
 
 # Crop Settings
 #### Mustard and Navy Beans
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Mustard</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Navy Beans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Mustard</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Navy Beans</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12139,19 +11319,19 @@ Run at least
 
 # Crop Settings
 #### Oats and Peas
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Oats</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Peas</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Oats</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Peas</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
@@ -12272,19 +11452,19 @@ Run at least
 
 # Crop Settings
 #### Popcorn and Rape Seed (Dry)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Popcorn</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rape Seed (Dry)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Popcorn</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rape Seed (Dry)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12405,18 +11585,18 @@ Run at least
 
 # Crop Settings
 #### Rape Seed (Green)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rape Seed (Green)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rape Seed (Green)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>22-Tooth</td>
@@ -12514,19 +11694,19 @@ Run at least
 
 # Crop Settings
 #### Rye and Safflower
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Rye</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Safflower</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Rye</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Safflower</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12647,19 +11827,19 @@ Run at least
 
 # Crop Settings
 #### Sorghum and Soybeans
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Sorghum</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Soybeans</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Sorghum</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Soybeans</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12780,19 +11960,19 @@ Run at least
 
 # Crop Settings
 #### Sunflower and Triticale
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Sunflower</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Triticale</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Sunflower</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Triticale</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -12913,18 +12093,18 @@ Run at least
 
 # Crop Settings
 #### Wheat
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Crop Settings</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>* Refer to Footnotes Description Page later in this section for more detailed information.</th>
 </tr>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Wheat</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Wheat</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Feeder House Drive Sprocket (North America)</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>18-Tooth</td>
@@ -13026,54 +12206,7 @@ Run at least
 
 # Crop Settings
 #### Concave Recommendations
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Concave Types</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Concave Type</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Corn</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Soybeans</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Wheat</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Popcorn</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sorghum (Milo)</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sunflowers (Oil)</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Canola</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Small Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Large Wire</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>NR</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Good</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Round Bar</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Average</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Best = Provides best level of performance.</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Concave Types</h2>
 
 # Crop Settings
 #### Power Shutdown Procedure
@@ -13118,17 +12251,17 @@ levels are attained, calibrate
 
 # Crop Settings
 #### Payable Moisture and Density Chart
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Moisture Density Chart</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Moisture Density Chart</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Crop</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Standard Moisture (%)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Crop Density (lbs)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Crop Density (kg)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Crop</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Standard Moisture (%)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Crop Density (lbs)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Crop Density (kg)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Alfalfa</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12.0</td>
@@ -13326,16 +12459,16 @@ levels are attained, calibrate
 
 # Crop Settings
 #### Standard Weights Chart
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Standard Weights Chart</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Standard Weights Chart</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Unit</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Weight (lb)</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Weight (kg)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Unit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Weight (lb)</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Weight (kg)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Barrels</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>162.0</td>
@@ -14267,15 +13400,15 @@ The following pre-mix engine coolants are preferred:
 COOL-GARD II pre-mix coolant is available in several concentrations
 with different freeze protection limits as shown in the following
 table.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>COOL-GARD II Pre-Mix—Freeze Protection Limit</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>COOL-GARD II Pre-Mix—Freeze Protection Limit</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>COOL-GARD II Pre-Mix</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Freeze Protection Limit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>COOL-GARD II Pre-Mix</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Freeze Protection Limit</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>COOL-GARD II 20/80</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-9°C (16°F)</td>
@@ -14351,40 +13484,16 @@ system. Deionized or demineralized water is recommended for mixing
 with ethylene glycol and propylene glycol base engine coolant concentrate.
 All water used in the cooling system should meet the following
 minimum specifications for quality:
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Water Quality</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Freeze Protection</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Water Quality</caption>
-<tbody style='background-color: #f7f7f7;'>
+<thead>
 <tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Chlorides</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><40 mg</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Sulfates</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><100 mg</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Total solids</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><340 mg</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Total dissolved I hardness</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'><170 mg</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>pH</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5.5—9.0</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Freeze Protection</caption>
-<thead style='background: #ffffcc !important;'>
-<tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Ethylene Glycol</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Freeze Protection Limit</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Ethylene Glycol</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Freeze Protection Limit</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>40%</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>-24°C (-12°F)</td>
@@ -14465,56 +13574,7 @@ ACEA Oil Sequence E1
 Do not use Plus-50™ II, Plus-50™, or engine oils
 meeting any of the following for the initial break-in of a new or
 rebuilt engine:
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Oils</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Oils</h2>
 
 # Fuels and Lubricants
 #### John Deere Break-In Plus™ Engine Oil — Interim Tier 4, Final
@@ -14603,15 +13663,15 @@ reduce oil and filter service intervals to 50% of the original recommended
 values when operating engines at altitudes above
 Oil analysis may allow longer service intervals.
 Use only approved oil types.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Examples—Diesel Engine Oil Service Interval for Operation at High Altitude</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Examples—Diesel Engine Oil Service Interval for Operation at High Altitude</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Example of Original Hours</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Corresponding High Altitude Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Example of Original Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Corresponding High Altitude Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>125</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>60</td>
@@ -14684,14 +13744,14 @@ BEFORE using diesel fuel with sulfur content greater than
 service provider
 DO NOT use diesel fuel with sulfur content greater than
 10000 mg/kg (10000 ppm)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Tier 3 and Stage III A — PowerTech™ Plus Engines Service Intervals</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Tier 3 and Stage III A — PowerTech™ Plus Engines Service Intervals</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Engine Oil and Filter Service Intervals</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Engine Oil and Filter Service Intervals</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Less than 1000 mg (1000 ppm)</td>
@@ -14763,14 +13823,14 @@ Use of diesel fuel with sulfur content less than 15 mg/kg
 (15 ppm)
 Use of John Deere Plus-50™ II oil
 Use of an approved John Deere oil filter
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Interim Tier 4, Final Tier 4, Stage IIIB, and Stage IV Service Intervals</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Interim Tier 4, Final Tier 4, Stage IIIB, and Stage IV Service Intervals</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Engine Oil and Filter Service Intervals</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Engine Oil and Filter Service Intervals</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>John Deere Plus-50™ II</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>500 hours</td>
@@ -15025,16 +14085,16 @@ interval.
 
 # Maintenance—Every 10 Hours
 #### Service Interval Chart—Every 10 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 10 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 10 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 10 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 10 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Engine Oil Level</td>
@@ -15263,16 +14323,16 @@ Open the latch and clean the
 
 # Maintenance—Every 50 Hours
 #### Service Interval Chart—Every 50 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 50 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 50 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 50 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 50 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Driveshaft Couplers</td>
@@ -15465,16 +14525,16 @@ with pins.
 
 # Maintenance—First 100 Hours
 #### Service Interval Chart—First 100 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—First 100 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—First 100 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>First 100 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>First 100 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Final Drives Oil (Wheel Machines)</td>
@@ -15549,16 +14609,16 @@ hose and retain with clamp.
 
 # Maintenance—Every 100 Hours
 #### Service Interval Chart—Every 100 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 100 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 100 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 100 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 100 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Tire Pressure and Wheel Bolt Torque</td>
@@ -15603,16 +14663,16 @@ on both sides of the feeder house shield.
 
 # Maintenance—Every 200 Hours
 #### Service Interval Chart—Every 200 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 200 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 200 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 200 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 200 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Recirculating Filter</td>
@@ -15690,16 +14750,16 @@ the grease.
 
 # Maintenance—Every 400 Hours
 #### Service Interval Chart—Every 400 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 400 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 400 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 400 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Grease Unloading Elbow Gear Case</td>
@@ -15788,16 +14848,16 @@ on the feeder house dust fan.
 
 # Maintenance—Every 400 Hours
 #### Service Interval Chart—Every 400 Hours (Continued)
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 400 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 400 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 400 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Service Batteries</td>
@@ -15940,16 +15000,16 @@ Hex Socket Screws
 
 # Maintenance—Every 500 Hours
 #### Service Interval Chart—Every 500 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 500 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 500 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 500 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 500 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Engine Oil and Filter</td>
@@ -16092,16 +15152,16 @@ fluid (DEF) tank breather from the hose and clean.
 
 # Maintenance—Every 1000 Hours
 #### Service Interval Chart—Every 1000 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 1000 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1000 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 1000 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 1000 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Transmission Filter</td>
@@ -16266,16 +15326,16 @@ Fill Plug
 
 # Maintenance—Every 1500 Hours or Three Years
 #### Service Interval Chart—Every 1500 Hours or Three Years
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 1500 Hours or Three Years</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1500 Hours or Three Years</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 1500 Hours or Three Years</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 1500 Hours or Three Years</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Diesel Exhaust Fluid (DEF) Dosing Unit Filter</td>
@@ -16371,16 +15431,16 @@ Drain Plug
 
 # Maintenance—Every 2000 Hours
 #### Service Interval Chart—Every 2000 Hours
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 2000 Hours</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 2000 Hours</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 2000 Hours</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 2000 Hours</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Change Final Drives Oil (Both Sides)</td>
@@ -16509,16 +15569,16 @@ on the main engine gear case dipstick.
 #### Service Interval Chart—Every 6000 Hours or Six Years
 SCHEDULED coolant change interval is six years or 6000
 hours if John Deere
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—Every 6000 Hours or Six Years</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 6000 Hours or Six Years</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Every 6000 Hours or Six Years</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Every 6000 Hours or Six Years</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A and B</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Replace Engine Coolant</td>
@@ -16543,16 +15603,16 @@ to the "Max Cold" line.
 
 # Maintenance—As Required
 #### Service Interval Chart—As Required
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Service Interval Chart—As Required</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—As Required</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Service</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>As Required</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Service</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>As Required</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Clean Recirculating Filter</td>
@@ -16698,14 +15758,7 @@ A soft, non-abrasive rag or towel is preferred for cleaning.
 
 # Maintenance—As Required (Engine Fluids and Filters)
 #### Required Emission-Related Information
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Required Emission-Related Information</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A qualified repair shop or person of the owner's choosing may maintain, replace, or repair emission control devices and systems with original or equivalent replacement parts. However, warranty, recall, and all other services paid for by John Deere must be performed at an authorized John Deere service center.</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Required Emission-Related Information</h2>
 
 # Maintenance—As Required (Engine Fluids and Filters)
 #### Rear Ladder
@@ -18498,15 +17551,15 @@ or replace as necessary.
 Speeds shown are average and can vary from machine to machine.
 Operating speed specifications and design subject to change
 without notice.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Operating Speeds</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Operating Speeds</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Engine Speeds</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'></th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Engine Speeds</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'></th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Slow Speed</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1200 rpm</td>
@@ -18525,14 +17578,14 @@ without notice.
 # Specifications
 #### Specifications
 Specifications and design subject to change without notice.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Engine Specifications</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Specifications</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Engine</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Engine</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Make</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>John Deere</td>
@@ -18588,14 +17641,14 @@ Specifications and design subject to change without notice.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Specifications</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Specifications</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Electrical System</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Electrical System</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Battery Voltage</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>12 V</td>
@@ -18615,21 +17668,21 @@ Specifications and design subject to change without notice.
 #### Dimensions
 Dimensions are approximate and subject to change without
 notice.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Combine Dimensions</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Combine Dimensions</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Legend</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Unloading Auger Lengths</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Legend</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Unloading Auger Lengths</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>7.9 m (26 ft 0 in)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>8.2 m (26 ft 10 in)</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>8.7 m (28 ft 6 in)</th>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>9.4 m (30 ft 10 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>7.9 m (26 ft 0 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>8.2 m (26 ft 10 in)</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>8.7 m (28 ft 6 in)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>9.4 m (30 ft 10 in)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Standard Unloading Auger Boot</td>
@@ -18845,15 +17898,15 @@ emissions label. Find the appropriate family on the emissions label
 and reference the chart.
 The first letter of the family number is not utilized
 for family identification on the chart.
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>CO₂ Emissions Output</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>CO₂ Emissions Output</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Emissions Label Family</th>
-<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>CO₂ Result</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Emissions Label Family</th>
+<th colspan='1' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>CO₂ Result</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>_JDXL02.9323</td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>952 g-hr</td>
@@ -18944,59 +17997,15 @@ for family identification on the chart.
 # Specifications
 #### CARB Non-road Emissions Control Warranty Statement—Compression
 Ignition
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2019 through 2021 — 1/2</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and CARB regulations for nonroad diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2019 through 2021 — 2/2</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2022 through 2024 — 1/2</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the “Emission Control Information” label located on the engine. If the engine is operated in the United States or Canada and the engine label states: “This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine complies with US EPA regulations for stationary emergency diesel engines”, refer to the “U.S. and Canada Emission Control Warranty Statement.” If the engine is operated in California, and the engine label states: “This engine complies with US EPA and California regulations for nonroad-road diesel engines” also refer to the “California Emissions Control Warranty Statement.”</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2022 through 2024 — 2/2</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Emissions Control Warranty Statement 2019 through 2021 — 1/2</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Emissions Control Warranty Statement 2019 through 2021 — 2/2</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Emissions Control Warranty Statement 2022 through 2024 — 1/2</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Emissions Control Warranty Statement 2022 through 2024 — 2/2</h2>
 
 # Specifications
 #### EPA Non-road Emissions Control Warranty Statement—Compression
 Ignition
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>To determine if the John Deere engine qualifies for the additional warranties set forth below, look for the "Emissions Control Information" label located on the engine. If the engine is operated in the United States or Canada and the Emissions Control information label states: "This engine complies with US EPA regulations for nonroad and stationary diesel engines”, or “This engine conforms to US EPA nonroad compression-ignition regulations”, refer to the "U.S. and Canada Emission Control Warranty Statement." If the engine is operated in California, and the label states: "This engine complies with US EPA and CARB regulations for nonroad diesel engines”, or “This engine conforms to US EPA and California nonroad compression-ignition emission regulations”, also refer to the "California Emission Control Warranty Statement.”</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Emissions Control Warranty Statement</h2>
 
 # Specifications
 #### Limited Battery Warranty
@@ -19074,48 +18083,32 @@ to the IP address shown in Diagnostic Address 8.
 You may obtain the complete Corresponding Source Code from us
 for a period of three years after our last shipment of the Software
 by sending a request letter to:
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Deere Open Source Compliance Team</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Deere Open Source Compliance Team</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>P.O. Box 1202</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Moline, IL 61266-1202 USA</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Deere Open Source Compliance Team</h2>
 
 # Specifications
 #### Unified Inch Bolt and Screw Torque Values
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Unified Inch Bolt and Screw Torque Values</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Unified Inch Bolt and Screw Torque Values</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Bolt or Screw Size</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>SAE Grade 1</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>SAE Grade 2</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>SAE Grade 5, 5.1 or 5.2</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>SAE Grade 8 or 8.2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Bolt or Screw Size</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>SAE Grade 1</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>SAE Grade 2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>SAE Grade 5, 5.1 or 5.2</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>SAE Grade 8 or 8.2</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
@@ -19452,28 +18445,28 @@ by sending a request letter to:
 
 # Specifications
 #### Metric Bolt and Screw Torque Values
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Metric Torque Values</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Metric Torque Values</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Bolt or Screw Size</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Class 4.8</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Class 8.8 or 9.8</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Class 10.9</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Class 12.9</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Bolt or Screw Size</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Class 4.8</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Class 8.8 or 9.8</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Class 10.9</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Class 12.9</th>
 </tr>
 <tr>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Hex Head</th>
-<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Hex Head</th>
+<th colspan='0' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>Flange Head</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
@@ -19803,168 +18796,8 @@ by sending a request letter to:
 
 # Machine Identification Numbers
 #### Interpreting Machine Serial Number
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Manufacturer Code</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Manufacturer Code</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Harvesting Manufacturing Facilities</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>CQ - John Deere Horizontina</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>SA - SABO Maschinenfabrik GmbH</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Machine Model Identifier</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Model Identifier Suffix</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: N, T, W, etc.</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Check Letter</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: A, B, C, D, etc.</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Calendar Year of Manufacture</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Refer to Year of Manufacture Code table</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Additional Information</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Manufacturing Serial Number</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Example: 000001, 000127, etc.</td>
-</tr>
-</tbody>
-</table>
-<table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Year of Manufacture Code</caption>
-<tbody style='background-color: #f7f7f7;'>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'></td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2008</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2018</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>J</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2028</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>W</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2038</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>8</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2009</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2019</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>K</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2029</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>X</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2039</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>9</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2010</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2020</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>L</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2030</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>Y</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2040</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>A</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2011</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2021</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>M</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2031</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>1</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2041</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>B</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2012</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2022</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>N</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2032</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2042</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>C</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2013</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2023</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>P</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2033</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>3</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2043</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>D</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2014</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2024</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>R</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2034</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>4</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2044</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>E</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2015</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2025</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>S</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2035</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>5</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2045</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>F</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2016</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2026</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>T</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2036</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2046</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>G</td>
-</tr>
-<tr>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2017</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2027</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>V</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2037</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>7</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>2047</td>
-<td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>H</td>
-</tr>
-</tbody>
-</table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Manufacturer Code</h2>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Year of Manufacture Code</h2>
 
 # Machine Identification Numbers
 #### Identification Numbers
@@ -19989,14 +18822,14 @@ the machine mainframe.
 
 # Machine Identification Numbers
 #### Interpreting Engine Serial Number
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Engine Serial Numbers</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Serial Numbers</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>13.6 L Example (RG6136U123456)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>13.6 L Example (RG6136U123456)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>RG</td>
 </tr>
@@ -20011,14 +18844,14 @@ the machine mainframe.
 </tr>
 </tbody>
 </table>
+<h2 style='background-color: yellow; padding: 10px; text-align: center;'>Engine Model Number</h2>
 <table style='border-collapse: collapse; width: 100%; background-color: #f2f2f2;'>
-<caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Model Number</caption>
-<thead style='background: #ffffcc !important;'>
+<thead>
 <tr>
-<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc !important; color: yellow'>13.6 L Example (6136HFC09)</th>
+<th colspan='2' style='padding: 8px; border: 1px solid #ddd; background: #ffffcc'>13.6 L Example (6136HFC09)</th>
 </tr>
 </thead>
-<tbody style='background-color: #f7f7f7;'>
+<tbody>
 <tr>
 <td style='padding: 8px; border: 1px solid #ddd; background: #f2f2f2'>6136</td>
 </tr>
