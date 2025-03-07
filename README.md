@@ -543,10 +543,10 @@ Operator’s Station,Radio Types (Optional),"<table>
 <tr>
 <th colspan='2'>Main Features</th>
 <th colspan='3'>Radio</th>
-<th colspan='3'>Connection of External Devices</th>
-<th colspan='3'>USB</th>
-<th colspan='3'></th>
-<th colspan='3'>Satellite Radio Ready</th>
+<th colspan='4'>Connection of External Devices</th>
+<th colspan='5'>USB</th>
+<th colspan='6'></th>
+<th colspan='7'>Satellite Radio Ready</th>
 </tr>
 </thead>
 <tbody>
