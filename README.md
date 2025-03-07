@@ -1,16 +1,16 @@
 # Safety Features
-## Machine Safety Features
+#### Machine Safety Features
 
 
 # Safety
-## Recognize Safety Information
+#### Recognize Safety Information
 This is a safety-alert symbol. When you see this symbol on your
 machine or in this manual, be alert to the potential for personal
 injury.
 Follow recommended precautions and safe operating practices.
 
 # Safety
-## Understand Signal Words
+#### Understand Signal Words
 A signal word—DANGER, WARNING, or CAUTION—is used with the safety-alert
 symbol. DANGER identifies the most serious hazards. DANGER or WARNING
 safety signs are located near specific hazards. General precautions
@@ -18,7 +18,7 @@ are listed on CAUTION safety signs. CAUTION also calls attention to
 safety messages in this manual.
 
 # Safety
-## Follow Safety Instructions
+#### Follow Safety Instructions
 Carefully read all safety messages in this manual and on your
 machine safety signs. Keep safety signs in good condition. Replace
 missing or damaged safety signs. Be sure new equipment components
@@ -36,11 +36,11 @@ If you do not understand any part of this manual and need assistance,
 contact your John Deere dealer.
 
 # Safety
-## French and Spanish Safety Signs and Operator's Manual
+#### French and Spanish Safety Signs and Operator's Manual
 
 
 # Safety
-## Driving the Machine
+#### Driving the Machine
 Before moving away, always check immediate vicinity of the machine
 (example for children). Ensure adequate visibility. Use the horn as
 a warning immediately before moving away.
@@ -61,7 +61,7 @@ Avoid holes, ditches, and obstructions which may cause the combine
 to tip, particularly on hillsides.
 
 # Safety
-## Operator Ability
+#### Operator Ability
 Machine owners must make sure that operators are responsible,
 trained, have read the operating instructions and warnings, and know
 how to operate the machine properly and safely.
@@ -77,17 +77,17 @@ Proper machine operation requires the operator’s full attention and
 awareness.
 
 # Safety
-## Observe Road Traffic Regulations
+#### Observe Road Traffic Regulations
 Always observe local road traffic regulations when using public
 roads.
 
 # Safety
-## Check Machine Safety
+#### Check Machine Safety
 Always check the road and general operating safety of the machine
 before using.
 
 # Safety
-## Use Handholds and Steps
+#### Use Handholds and Steps
 Prevent falls by facing the machine when getting on and off.
 When you get on and off the machine, maintain a 3-point contact
 with the steps, handholds, and handrails and face the machine. Unfold
@@ -98,7 +98,7 @@ Never jump when exiting the machine. Never mount or dismount
 a moving machine.
 
 # Safety
-## Keep Riders and Children Off Machine
+#### Keep Riders and Children Off Machine
 Only allow the operator on the machine. Keep riders off the
 machine except for periods of training or short periods of observation.
 Riders are subject to injury such as being thrown off the machine.
@@ -111,7 +111,7 @@ short periods of machine observation, and not for the accommodation
 of children.
 
 # Safety
-## Ballasting for Safe Ground Contact
+#### Ballasting for Safe Ground Contact
 Operating, steering and braking performance of combine can be
 considerably affected by heavy front end attachments which alter the
 center of gravity of the combine.
@@ -120,7 +120,7 @@ at the rear end as necessary.
 Observe the maximum permissible axle loads and total weights.
 
 # Safety
-## Avoid Electrical Power Lines
+#### Avoid Electrical Power Lines
 Put the grain tank unloading auger in transport position and
 lower the grain tank access handrail before driving on public roads.
 Secure radio aerial in its transport position before driving
@@ -129,7 +129,7 @@ cables. This would result in the operator suffering a severe electrical
 shock.
 
 # Safety
-## Parking and Leaving the Machine
+#### Parking and Leaving the Machine
 Before leaving the machine, disengage the header and separator.
 Move the multi-function lever to the neutral position and shut OFF
 the machine. Apply the park brake, remove key, and lock the operator's
@@ -138,7 +138,7 @@ Never leave the machine unattended if the engine is running.
 Never leave the operator's cab when driving.
 
 # Safety
-## Work In Ventilated Area
+#### Work In Ventilated Area
 Engine exhaust fumes can cause sickness or death. If it is necessary
 to run an engine in an enclosed area, remove the exhaust fumes from
 the area with an exhaust pipe extension.
@@ -146,7 +146,7 @@ If you do not have an exhaust pipe extension, open the doors
 and get outside air into the area.
 
 # Safety
-## Handle Fuel Safely—Avoid Fires
+#### Handle Fuel Safely—Avoid Fires
 Handle fuel with care: it is highly flammable. Do not refuel
 the machine while smoking or when near open flame or sparks.
 Always stop engine before refueling machine. Fill fuel tank
@@ -163,14 +163,14 @@ Do not store fuel container where there is an open flame, spark,
 or pilot light such as within a water heater or other appliance.
 
 # Safety
-## Prepare for Emergencies
+#### Prepare for Emergencies
 Be prepared if a fire starts.
 Keep a first aid kit and fire extinguisher handy.
 Keep emergency numbers for doctors, ambulance service, hospital,
 and fire department near your telephone.
 
 # Safety
-## Handle Starting Fluid Safely
+#### Handle Starting Fluid Safely
 Starting fluid is highly flammable.
 Keep all sparks and flame away when using it. Keep starting
 fluid away from batteries and cables.
@@ -182,7 +182,7 @@ Do not use starting fluid on an engine equipped with glow plugs
 or an air intake heater.
 
 # Safety
-## In Case of Fire
+#### In Case of Fire
 Avoid personal injury.
 Stop machine immediately at the first sign of fire. Fire may
 be identified by the smell of smoke or sight of flames. Because fire
@@ -212,7 +212,7 @@ Sweep the nozzle from
 side-to-side.
 
 # Safety
-## Avoid Static Electricity Risk When Refueling
+#### Avoid Static Electricity Risk When Refueling
 The removal of sulfur and other compounds in Ultra-Low Sulfur
 Diesel (ULSD) fuel decreases its conductivity and increases its ability
 to store a static charge.
@@ -230,28 +230,28 @@ system is in compliance with fueling standards for proper grounding
 and bonding practices.
 
 # Safety
-## Wear Protective Clothing
+#### Wear Protective Clothing
 Wear close fitting clothing and safety equipment appropriate
 to the job.
 Operating equipment safely requires the full attention of the
 operator. Do not wear radio or music headphones while operating machine.
 
 # Safety
-## Stay Clear of Harvesting Units
+#### Stay Clear of Harvesting Units
 Cutterbar, auger, reel and feed rolls cannot be completely shielded
 due to their function. Stay clear of these moving elements during
 operation. Always disengage main clutch, shut off engine, set parking
 brake and remove key before servicing or unclogging machine.
 
 # Safety
-## Keep Hands Away From Knives
+#### Keep Hands Away From Knives
 Never attempt to clear obstructions in front of or on header
 unless separator is disengaged, parking brake is set, engine is shut
 off and key is removed.
 Everyone must be clear of machine before starting engine.
 
 # Safety
-## Use Safety Lights and Devices
+#### Use Safety Lights and Devices
 Prevent collisions between other road users, slow moving tractors
 with attachments or towed equipment, and self-propelled machines on
 public roads. Frequently check for traffic from the rear, especially
@@ -262,11 +262,11 @@ Keep lighting and marking visible, clean and in good working order.
 Replace or repair lighting and marking that has been damaged or lost.
 
 # Safety
-## Use Seat Belts
+#### Use Seat Belts
 
 
 # Safety
-## Heated and Ventilated Operator’s Seat
+#### Heated and Ventilated Operator’s Seat
 An overheated seat heater can cause a burn injury or damage
 to the seat. To reduce the risk of burns, use caution when using the
 seat heater for extended periods of time, especially if the operator
@@ -275,12 +275,12 @@ on the seat, such as a blanket, cushion, cover, or similar item, which
 can cause the seat heater to overheat.
 
 # Safety
-## Instructional Seat
+#### Instructional Seat
 The instructional seat, if so equipped, has been provided only
 for training operators or diagnosing machine problems.
 
 # Safety
-## Transport Combine With Header Safely
+#### Transport Combine With Header Safely
 Whenever possible avoid transporting on public roadways with
 the header attached.
 If the combine must be transported with the header attached,
@@ -291,14 +291,14 @@ narrow or hilly roads and when crossing bridges.
 Drive at a speed that is safe for conditions.
 
 # Safety
-## Tow Loads Safely
+#### Tow Loads Safely
 Do not exceed maximum towing capacity of 8000 kg (17 637 lb).
 Do not transport at speed exceeding 32 km/h (20 mph) while towing.
 Use additional caution and reduce speed when towing under adverse
 surface conditions, when turning, and on inclines.
 
 # Safety
-## Prevent Machine Runaway or Unexpected Movement
+#### Prevent Machine Runaway or Unexpected Movement
 Avoid injury or death from unexpected movement of machine or
 components.
 Do not start engine by shorting across starter or solenoid
@@ -306,7 +306,7 @@ terminals. Machine or components may move if the normal circuitry
 is bypassed.
 
 # Safety
-## Practice Safe Maintenance
+#### Practice Safe Maintenance
 Understand service procedure before doing work. Keep area clean
 and dry.
 Never lubricate, service, or adjust machine while it is moving.
@@ -328,7 +328,7 @@ injury. Use a ladder or platform to easily reach each location. Use
 sturdy and secure footholds and handholds.
 
 # Safety
-## Welding Near Electronic Control Units
+#### Welding Near Electronic Control Units
 Do not jump-start engines with arc welding equipment.
 Currents and voltages are too high and may cause permanent damage.
 Disconnect the negative (-) battery cable(s).
@@ -344,7 +344,7 @@ After welding, reverse
 Steps 1—5.
 
 # Safety
-## Remove Paint Before Welding or Heating
+#### Remove Paint Before Welding or Heating
 Avoid potentially toxic fumes and dust.
 Hazardous fumes can be generated when paint is heated by welding,
 soldering, or using a torch.
@@ -365,7 +365,7 @@ fumes and dust away.
 Dispose of paint and solvent properly.
 
 # Safety
-## Avoid Heating Near Pressurized Fluid Lines
+#### Avoid Heating Near Pressurized Fluid Lines
 Flammable spray can be generated by heating near pressurized
 fluid lines, resulting in severe burns to yourself and bystanders.
 Do not heat by welding, soldering, or using a torch near pressurized
@@ -373,12 +373,12 @@ fluid lines or other flammable materials. Pressurized lines can accidentally
 burst when heat goes beyond the immediate flame area.
 
 # Safety
-## Avoid Contact With Moving Parts
+#### Avoid Contact With Moving Parts
 Keep hands, feet and clothing away from power driven parts.
 Never clean, lubricate or adjust machine when it is running.
 
 # Safety
-## Cleaning Grain Tank and Removal of Blockages Safely
+#### Cleaning Grain Tank and Removal of Blockages Safely
 Avoid serious injury or death from entanglement in the grain
 tank cross augers. For functional purposes the cross augers cannot
 be completely covered. Do not enter the grain tank when the engine
@@ -390,7 +390,7 @@ door use a rod, broom or shovel to break the bridge and restore grain
 flow.
 
 # Safety
-## Stay Clear of Rotating Drivelines
+#### Stay Clear of Rotating Drivelines
 Entanglement in rotating driveline can cause serious injury
 or death.
 Keep all shields in place at all times. Make sure rotating shields
@@ -401,14 +401,14 @@ connections, or performing any type of service on engine or machine
 driven equipment.
 
 # Safety
-## Install All Shields and Guards
+#### Install All Shields and Guards
 Keep all shields and guards in place at all times during operation.
 Wear close-fitting clothes. Stop the engine and be sure fans,
 belts, pulleys, and drives are stopped before making adjustments,
 connections, or cleaning near fans and their drive components.
 
 # Safety
-## Avoid High-Pressure Fluids
+#### Avoid High-Pressure Fluids
 Inspect hydraulic hoses periodically – at least once per year
 – for leakage, kinking, cuts, cracks, abrasion, blisters, corrosion,
 exposed wire braid or any other signs of wear or damage.
@@ -429,7 +429,7 @@ from Deere & Company Medical Department in Moline, Illinois, U.S.A.,
 by calling 1-800-822-8262 or +1 309-748-5636.
 
 # Safety
-## Do Not Open High-Pressure Fuel System
+#### Do Not Open High-Pressure Fuel System
 High-pressure fluid remaining in fuel lines can cause serious
 injury. Do not disconnect or attempt repair of fuel lines, sensors,
 or any other components between the high-pressure fuel pump and nozzles
@@ -438,7 +438,7 @@ Only technicians familiar with this type of system can perform
 repairs. (See your John Deere dealer.)
 
 # Safety
-## Service Accumulator Systems Safely
+#### Service Accumulator Systems Safely
 Escaping fluid or gas from systems with pressurized accumulators
 that are used in air conditioning, hydraulic, and air brake systems
 can cause serious injury. Extreme heat can cause the accumulator to
@@ -452,7 +452,7 @@ by loosening a fitting.
 Accumulators cannot be repaired.
 
 # Safety
-## Protect Against High Pressure Spray
+#### Protect Against High Pressure Spray
 Spray from high pressure nozzles can penetrate the skin and
 cause serious injury. Keep spray from contacting hands or body.
 If an accident occurs, see a doctor immediately. Any high pressure
@@ -463,7 +463,7 @@ is available from Deere & Company Medical Department in Moline,
 Illinois, U.S.A.
 
 # Safety
-## Follow Tire Recommendations
+#### Follow Tire Recommendations
 Keep your machine in proper working order.
 Use only prescribed tire sizes with correct ratings and inflate
 to the pressure specified in this manual.
@@ -472,7 +472,7 @@ steering, result in premature tire failure, or cause other durability
 or safety issues.
 
 # Safety
-## Service Tires Safely
+#### Service Tires Safely
 Explosive separation of a tire and rim parts can cause serious
 injury or death.
 Do not attempt to mount a tire unless you have the proper equipment
@@ -492,7 +492,7 @@ a safe lifting device or get an assistant to help lift, install, or
 remove.
 
 # Safety
-## Decommissioning — Proper Recycling and Disposal of Fluids and
+#### Decommissioning — Proper Recycling and Disposal of Fluids and
 Components
 Safety and environmental stewardship measures must be taken
 into account when decommissioning a machine and/or component. These
@@ -532,7 +532,7 @@ or your John Deere dealer for information on the proper way to recycle
 or dispose of waste.
 
 # Safety
-## Service Cooling System Safely
+#### Service Cooling System Safely
 Shut OFF engine, set park brake, and remove key.
 NEVER add coolant when engine is overheated. Wait for it to
 cool.
@@ -542,14 +542,14 @@ SLOWLY loosen cap to relieve pressure before removing completely.
 Add coolant only when engine is shut off.
 
 # Safety
-## Remove Accumulated Crop Debris
+#### Remove Accumulated Crop Debris
 The build up of chaff and crop debris in the engine compartment,
 on the engine, and near moving parts is a fire hazard. Check and clean
 these areas frequently. Before performing any inspection or service,
 shut off the engine, set the parking brake and remove the key.
 
 # Safety
-## Support Machine Properly
+#### Support Machine Properly
 Always lower the attachment or implement to the ground before
 you work  on the machine. If the work requires that the machine or
 attachment be lifted,  provide secure support for them. If left in
@@ -564,14 +564,14 @@ follow  safety precautions listed in the implement or attachment operator's
 manual.
 
 # Safety
-## Store Attachments Safely
+#### Store Attachments Safely
 Stored attachments such as dual wheels, cage wheels, and loaders
 can fall and cause serious injury or death.
 Securely store attachments and implements to prevent falling.
 Keep playing children and bystanders away from storage area.
 
 # Safety
-## Service Drive Belts Safely
+#### Service Drive Belts Safely
 When servicing drive belts always observe these precautions:
 Avoid serious injury from hand or arm entanglement. Never
 attempt to clean, check or adjust belts while the machine is running.
@@ -580,7 +580,7 @@ Do not attempt to clean belts with flammable cleaning
 solvents.
 
 # Safety
-## Handle Electronic Components and Brackets Safely
+#### Handle Electronic Components and Brackets Safely
 Falling while installing or removing electronic components mounted
 on equipment can cause serious injury. Use a ladder or platform to
 easily reach each mounting location. Use sturdy and secure footholds
@@ -594,7 +594,7 @@ protective equipment.  The mast is heavy and can be awkward to handle.
 from the ground or from a service platform.
 
 # Safety
-## Avoid Backover Accidents
+#### Avoid Backover Accidents
 Before moving machine, be sure that all persons are clear of
 machine path. Turn around and look directly for best visibility. Use
 a signal person when backing if view is obstructed or when in close
@@ -605,15 +605,15 @@ including maintenance practices, environmental conditions, and operating
 range.
 
 # Safety
-## Backup Alarm
+#### Backup Alarm
 
 
 # Safety
-## Emergency Exit
+#### Emergency Exit
 
 
 # Safety
-## Handling Batteries Safely
+#### Handling Batteries Safely
 Battery gas can explode. Keep sparks and flames away from batteries.
 Use a flashlight to check battery electrolyte level.
 Never check battery charge by placing a metal object across
@@ -639,7 +639,7 @@ Drink large amounts of water or milk, but do not exceed
 Get medical attention immediately.
 
 # Safety
-## Clean Exhaust Filter Safely
+#### Clean Exhaust Filter Safely
 During exhaust filter cleaning operations, the engine may run
 at elevated idle and hot temperatures for an extended period of time.
 Exhaust gases and exhaust filter components reach temperatures hot
@@ -671,7 +671,7 @@ Shut off engine and remove key (if equipped) before leaving
 the machine unattended.
 
 # Safety
-## Avoid Hot Exhaust
+#### Avoid Hot Exhaust
 Servicing machine or attachments with engine running can result
 in serious personal injury. Avoid exposure and skin contact with hot
 exhaust gases and components.
@@ -680,7 +680,7 @@ Exhaust gases and components reach temperatures hot enough to burn
 people, ignite, or melt common materials.
 
 # Safety
-## Operator Presence System and Rotational Alarm System
+#### Operator Presence System and Rotational Alarm System
 The operator presence system indicates the presence of the operator.
 When the operator is out of the seat, the system prevents the engagement
 of the following systems:
@@ -691,67 +691,67 @@ To restart functions, the operator must return to the seat and
 re-engage each function.
 
 # Safety Signs
-## Front View Decals
+#### Front View Decals
 
 
 # Safety Signs
-## Left-Hand View Feeder House Decals
+#### Left-Hand View Feeder House Decals
 
 
 # Safety Signs
-## Left-Hand Cab View Decals and Cab Ladder Decals
+#### Left-Hand Cab View Decals and Cab Ladder Decals
 
 
 # Safety Signs
-## Left-Hand View Decals
+#### Left-Hand View Decals
 
 
 # Safety Signs
-## Left-Hand View Decals Continued
+#### Left-Hand View Decals Continued
 
 
 # Safety Signs
-## Left-Hand View Residue Decals (Chopper)
+#### Left-Hand View Residue Decals (Chopper)
 
 
 # Safety Signs
-## Rear View Decals
+#### Rear View Decals
 
 
 # Safety Signs
-## Rear View Engine Decals
+#### Rear View Engine Decals
 
 
 # Safety Signs
-## Right-Hand View Residue Decals (Chopper)
+#### Right-Hand View Residue Decals (Chopper)
 
 
 # Safety Signs
-## Right-Hand View Decals
+#### Right-Hand View Decals
 
 
 # Safety Signs
-## Right-Hand View Decals Continued
+#### Right-Hand View Decals Continued
 
 
 # Safety Signs
-## Right-Hand Cab View Decals and Right-Hand View Decals Continued
+#### Right-Hand Cab View Decals and Right-Hand View Decals Continued
 
 
 # Safety Signs
-## Right-Hand View Feeder House Decals
+#### Right-Hand View Feeder House Decals
 
 
 # Safety Signs
-## Right-Hand View Feeder House Dust Fan Decal (If Equipped)
+#### Right-Hand View Feeder House Dust Fan Decal (If Equipped)
 
 
 # Safety Signs
-## Top View Decals
+#### Top View Decals
 
 
 # Safety Signs
-## Replace Safety Signs
+#### Replace Safety Signs
 Replace missing or damaged safety signs. Use this operator’s
 manual for correct safety sign placement.
 There can be additional safety information contained on parts
@@ -759,7 +759,7 @@ and components sourced from suppliers that is not reproduced in this
 operator's manual.
 
 # Operator’s Station
-## Radio Types (Optional)
+#### Radio Types (Optional)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Features</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -793,12 +793,12 @@ operator's manual.
 </table>
 
 # Operator’s Station
-## After Market Radios
+#### After Market Radios
 If installing or replacing an aftermarket radio,
 see your John Deere dealer for further information.
 
 # Operator’s Station
-## Program Radio for Local Area Frequency
+#### Program Radio for Local Area Frequency
 If a different tuner frequency is needed for the radio,
 see your John Deere dealer for further information.
 <table style='border-collapse: collapse; width: 100%;'>
@@ -832,11 +832,11 @@ see your John Deere dealer for further information.
 </table>
 
 # Operator’s Station
-## Radio Controls
+#### Radio Controls
 
 
 # Operator’s Station
-## Radio Antenna
+#### Radio Antenna
 To prevent damage, screw the radio antenna into the
 base so it is finger tight.
 Screw the radio antenna (A) into the base when the radio is
@@ -850,7 +850,7 @@ is transported and store it in the manual storage location compartment
 located behind the operator’s seat.
 
 # Operator’s Station
-## StarFire™ Position Receiver (If Equipped)
+#### StarFire™ Position Receiver (If Equipped)
 Align the tab (A) on the bottom of the position receiver
 with the cab bracket (B).
 Slowly lower the position
@@ -864,7 +864,7 @@ Retain the wiring harness
 to the bracket assembly as needed with tie bands (D).
 
 # Operator’s Station
-## Communications/CB Radio Wiring
+#### Communications/CB Radio Wiring
 Spade terminal (A) is direct positive power at all times.
 Spade terminal (B) is ground.
 Spade terminal (C) is auxiliary power (key switch ON).
@@ -879,7 +879,7 @@ also turned OFF.
 For additional information, see your John Deere dealer.
 
 # Operator’s Station
-## Communications/CB Radio Mounting
+#### Communications/CB Radio Mounting
 To install an additional communications radio, see your
 John Deere dealer for further information.
 Antenna mount (A) is located in the center of the
@@ -908,7 +908,7 @@ position receiver. Select a different broadcast band or see your John
 Deere dealer if signal losses are noticed with the position receiver.
 
 # Operator’s Station
-## Cab Ladder Positions
+#### Cab Ladder Positions
 Use lever (A) or handle (B) to change the ladder position.
 Swing the ladder forward
 or rearward and lock into the desired position:
@@ -929,7 +929,7 @@ Use handle (A) or lever (B) to fold the ladder up
 or down as needed.
 
 # Operator’s Station
-## Fire Extinguishers
+#### Fire Extinguishers
 A general-purpose powder fire extinguisher that is at
 least 4 kg (8.8 lb)
 A pressurized liquid fire extinguisher with minimum volume
@@ -947,14 +947,14 @@ exposed to freezing temperatures unless protected with antifreeze.
 See instruction decal on extinguisher for further information.
 
 # Operator’s Station
-## Fire Extinguisher Locations
+#### Fire Extinguisher Locations
 A general-purpose powder fire extinguisher is behind the left-hand
 front service door.
 A pressurized liquid fire extinguisher is on the left-hand side
 of the machine.
 
 # Operator’s Station
-## Handrails and Right-Hand Landing Access
+#### Handrails and Right-Hand Landing Access
 Close the cab door before using the handrail.
 Do not manually move the wiper arm. This could cause damage
 to the wiper mechanism.
@@ -974,7 +974,7 @@ Use the step and the
 landing (C) to clean the right side of the cab.
 
 # Break-In Service
-## Break-In Engine
+#### Break-In Engine
 Operate the engine under various conditions, particularly heavy
 loads with minimal idling, to help seat engine components properly.
 During the initial operation of a new or rebuilt engine, change
@@ -1041,7 +1041,7 @@ and "Min Cold" lines. Add coolant as needed if the coolant
 is below "Min Cold" line.
 
 # Break-In Service
-## Belt Drives Adjustment - First 50 Hours
+#### Belt Drives Adjustment - First 50 Hours
 Never check or adjust belt drives with engine running.
 Shut OFF engine, set parking brake and remove key.
 Check all spring loaded belt idler adjustments after first 50
@@ -1052,7 +1052,7 @@ Washer on spring tensioner should be positioned between end of gauge
 and bottom of step.
 
 # Break-In Service
-## Break-In Check Before First 100 Hours
+#### Break-In Check Before First 100 Hours
 Perform the daily or the 10-hour service. See Lubrication and
 Maintenance section.
 Watch for engine temperature and engine oil pressure diagnostic
@@ -1062,7 +1062,7 @@ Check the engine oil level (if needed, add John Deere
 Check the engine air intake clamps for tightness.
 
 # Break-In Service
-## Break-In Service After 500 Hours
+#### Break-In Service After 500 Hours
 Remove and discard the
 oil filter (B). Dispose of the oil filter properly.
 Install the replacement
@@ -1072,7 +1072,7 @@ the proper amount of engine oil. See Fuel and Lubricants section for
 oil recommendations. See Specifications section for oil capacity.
 
 # Prestarting Checks
-## Engine Oil Level
+#### Engine Oil Level
 Verify that the dipstick is pushed completely into the
 housing before removing to check the oil level.
 Check the engine oil level with dipstick (A) daily.
@@ -1085,7 +1085,7 @@ ADD mark, add oil as needed. See Fuel and Lubricants section for oil
 recommendations.
 
 # Prestarting Checks
-## Hydrostatic/Hydraulic Oil Level
+#### Hydrostatic/Hydraulic Oil Level
 Make all necessary oil level adjustments through the main engine
 gear case. Allow oil level to stabilize for 10 seconds after inserting
 dipstick for accurate reading.
@@ -1125,7 +1125,7 @@ oil level is between the ADD mark and the FULL mark on the dipstick.
 See Fuels and Lubricants section for oil recommendations.
 
 # Prestarting Checks
-## Coolant Level
+#### Coolant Level
 A special cap is used on the surge tank. If cap is
 damaged or missing, it must be replaced by an equivalent cap.
 Allow engine to cool. Coolant level in the surge tank should
@@ -1135,7 +1135,7 @@ Coolant level must be between "Max Cold" and
 "Min Cold" line.
 
 # Prestarting Checks
-## Fuel System
+#### Fuel System
 Make sure that precleaner bowl is fully seated to prevent
 air from entering the fuel system.
 Depending on the machine option, clean or drain fuel
@@ -1153,24 +1153,24 @@ change fuel filters. See Maintenance—As Required (Engine Fluids and
 Filters) section for further information.
 
 # Prestarting Checks
-## Fuel Tank Breather
+#### Fuel Tank Breather
 If the breather is covered
 with debris, it does not allow fuel tank to breathe. Remove fuel tank
 breather and clean.
 
 # Prestarting Checks
-## Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4/Stage
+#### Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4/Stage
 V)
 If the breather is covered
 with debris, it does not allow tank to breathe. Remove breather from
 hose and clean.
 
 # Prestarting Checks
-## Cleaning Engine Compartment
+#### Cleaning Engine Compartment
 
 
 # Operating the Engine
-## Clean Exhaust Filter Safely
+#### Clean Exhaust Filter Safely
 During exhaust filter cleaning operations, the engine may run
 at elevated idle and hot temperatures for an extended period of time.
 Exhaust gases and exhaust filter components reach temperatures hot
@@ -1202,7 +1202,7 @@ Shut off engine and remove key (if equipped) before leaving
 the machine unattended.
 
 # Operating the Engine
-## Avoid Hot Exhaust
+#### Avoid Hot Exhaust
 Servicing machine or attachments with engine running can result
 in serious personal injury. Avoid exposure and skin contact with hot
 exhaust gases and components.
@@ -1211,7 +1211,7 @@ Exhaust gases and components reach temperatures hot enough to burn
 people, ignite, or melt common materials.
 
 # Operating the Engine
-## Aftertreatment Indicators Overview
+#### Aftertreatment Indicators Overview
 The operator will be informed by the operator warning
 system when the emission control system does not function correctly
 and/or an engine malfunction is detected by the engine control unit.
@@ -1275,7 +1275,7 @@ or engine emissions system fault. Follow DTC procedure or see your
 authorized servicing dealer.
 
 # Operating the Engine
-## Required Machine Stop Warning
+#### Required Machine Stop Warning
 In some situations, machine engine power may be reduced
 as described. On notification, immediately place the machine in a
 safe state and or move it to a safe location. A mandated machine stop
@@ -1299,7 +1299,7 @@ Place machine in a safe state.
 Contact service provider.
 
 # Operating the Engine
-## Starting the Engine
+#### Starting the Engine
 Engine exhaust
 fumes can cause sickness or death. If it is necessary to run an engine
 in an enclosed area, remove exhaust fumes from area with an exhaust
@@ -1343,7 +1343,7 @@ Key positions are:
 </table>
 
 # Operating the Engine
-## Stopping the Engine
+#### Stopping the Engine
 Move multi-function lever
 (A) to neutral position.
 Press slow speed engine
@@ -1366,7 +1366,7 @@ remaining in lines can crystallize and plug lines. In freezing weather,
 fluid freezes and possibly burst lines.
 
 # Operating the Engine
-## Handle Starting Fluid Safely
+#### Handle Starting Fluid Safely
 If starting fluid is not used for several days, remove can.
 Check fluid and valve operation by reinstalling and depressing spray
 nozzle. If no fluid is emitted, use a new can.
@@ -1375,7 +1375,7 @@ can, keep cap on container. Store in a cool, protected location.
 Do not incinerate or puncture a starting fluid container.
 
 # Operating the Engine
-## Cold Weather Starting Aid (If Equipped)
+#### Cold Weather Starting Aid (If Equipped)
 The starting aid is software controlled.
 Turn the key switch to start the engine and if the
 software determines that starting aid is needed, it injects starting
@@ -1387,7 +1387,7 @@ speed with no load for 1—2 minutes. Extend this period to 2—4 minutes
 when operating at temperatures below freezing.
 
 # Operating the Engine
-## Coolant Heater
+#### Coolant Heater
 Before connecting the heater to the
 power source, be sure that element is immersed in coolant. NEVER energize
 the heater in the air. Doing so can cause the element sheath to burst,
@@ -1400,7 +1400,7 @@ Coolant Heater Types
 1000 W (220 V) (Export Machines)
 
 # CommandCenter™ Display Information
-## Generation 4 Display
+#### Generation 4 Display
 For additional information on Generation 4 Display hardware
 and software functionality, reference the Generation 4 Display Operator’s
 Manual and the Help Center application on the display. To obtain a
@@ -1408,7 +1408,7 @@ copy of the Operator’s Manual, contact your dealer, use the Help Center
 application on the display, or visit techpubs.deere.com.
 
 # CommandCenter™ Display Applications
-## CommandCenter™ Display Applications
+#### CommandCenter™ Display Applications
 The following information contains the Onscreen Help for each
 application specific to this machine. This information is also available
 on the
@@ -1417,7 +1417,7 @@ on the display, refer to the Access information at the beginning of
 each section.
 
 # CommandCenter™ Display Applications
-## Onscreen Help Navigation
+#### Onscreen Help Navigation
 There are three ways to access Onscreen Help through the Generation
 4 CommandCenter™ display:
 To access the Help Center, select Help from the shortcut bar
@@ -1425,7 +1425,7 @@ at the bottom of the run page.
 Use the search bar to search the Help Center for words or phrases.
 
 # CommandCenter™ Display Applications
-## Alerts and Messages
+#### Alerts and Messages
 Display software contains many different alerts and messages
 designed to notify you of safety warnings, service warnings, hazardous
 or dangerous conditions, and general messages.
@@ -1437,11 +1437,11 @@ Example: Communication to ISOBUS device lost. If you did
 not disconnect the device on purpose, check harness connection.
 
 # Controls Setup Application
-## Access Controls Setup
+#### Access Controls Setup
 
 
 # Controls Setup Application
-## Controls Setup Overview
+#### Controls Setup Overview
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Controls Setup application is used to make new assignments or
@@ -1458,12 +1458,12 @@ displayed control group is locked with the Control Group Lock button
 on the CommandARM™. Applications or Functions setup will not operate.
 
 # Controls Setup Application
-## Multi-Function Lever - Controls Setup
+#### Multi-Function Lever - Controls Setup
 Multi-Function Lever Controls Setup is used to assign Applications
 and Functions to buttons on the Multi-Function Lever.
 
 # Controls Setup Application
-## Multi-Function Lever
+#### Multi-Function Lever
 Multi-Function Lever Controls Setup is used to assign Applications
 and Functions to buttons on the Multi-Function Lever.
 The on-screen Lock Indicator is present whenever the displayed
@@ -1473,11 +1473,11 @@ Assigning functions to either the Scroll Button "roll"
 or "press" action works the same as other assignments.
 
 # Controls Setup Application
-## CommandARM™ - Controls Setup
+#### CommandARM™ - Controls Setup
 
 
 # Controls Setup Application
-## CommandARM™
+#### CommandARM™
 If there are no custom assignments present, the application
 does not open upon unlocking the control group.
 The on-screen Lock Indicator is present whenever the displayed
@@ -1485,7 +1485,7 @@ Control Group is locked with the Control Group Lock button on the
 CommandARM™. Control Group locks re-engage on key cycle.
 
 # Controls Setup Application
-## Create Single Position Assignments
+#### Create Single Position Assignments
 Buttons A and B or 3 and 4 allow you to assign and activate
 your preferred Applications, then make Function assignments.
 For additional Application and Function information, select
@@ -1499,7 +1499,7 @@ After selecting the function, the control assignment is
 made.
 
 # Controls Setup Application
-## Create Dual Position Assignments
+#### Create Dual Position Assignments
 Buttons C and D or 1 and 2 allow you to assign and activate
 your preferred Applications, then make Function assignments.
 For additional Application and Function information, select
@@ -1517,18 +1517,18 @@ After selecting the function, the control assignment is
 made.
 
 # Controls Setup Application
-## Scroll Button
+#### Scroll Button
 Assigning functions to either the Scroll Button "roll"
 or "press" action works the same as other assignments.
 
 # Controls Setup Application
-## Application Assignments
+#### Application Assignments
 Allows you to assign your preferred Application and Functions.
 Only application assignments available for your machine
 will appear.
 
 # Controls Setup Application
-## Function Assignments
+#### Function Assignments
 The programmable and Scroll buttons allow you to make function
 assignments, select from multiple positions, to increase or decrease
 a value, or to make a left-hand or right-hand adjustment. Use the
@@ -1539,11 +1539,11 @@ Only function assignments available for your machine will
 appear.
 
 # Residue Management Application
-## Access Residue Management
+#### Access Residue Management
 
 
 # Residue Management Application
-## Residue Management
+#### Residue Management
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Residue Management allows you to adjust residue distribution
@@ -1559,7 +1559,7 @@ Example:
 Different shortcut keys can be available for your application.
 
 # Residue Management Application
-## Residue Mode
+#### Residue Mode
 Select Spread or Windrow Residue Mode option for desired straw
 and chaff processing.
 You want to leave a windrow of residue behind the machine.
@@ -1584,7 +1584,7 @@ Separator must be OFF to change the position of the chop-to-drop
 door.
 
 # Residue Management Application
-## Width
+#### Width
 Width adjusts the spread range for chaff and straw by controlling
 spreader speed or shroud position depending on machine configuration.
 Adjust the spread width setting before adjusting the spreader
@@ -1603,7 +1603,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Residue Management Application
-## Direction
+#### Direction
 Direction changes the direction of material exiting the chopper
 for wind compensation.
 Wind speed changes.
@@ -1619,7 +1619,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Residue Management Application
-## Swap
+#### Swap
 Swap allows you to quickly adjust the residue spread in the
 opposite direction to compensate for wind interference after making
 a 180 ° turn. Swap is a manual adjustment made by the operator as
@@ -1632,7 +1632,7 @@ the Residue Management application is not open and a swap has been
 initiated.
 
 # Residue Management Application
-## Out-of-Cab Adjustments
+#### Out-of-Cab Adjustments
 Adjustments must be made outside the cab to improve residue
 management and prevent damage of the machine. See your Operator's
 Manual for further crop settings and adjustment procedures.
@@ -1643,7 +1643,7 @@ The more engagement, the more power is consumed by the
 chopper.
 
 # Residue Management Application
-## Knife Bank
+#### Knife Bank
 Knife bank is an optional, in-cab adjustable system that slides
 the knife bank in-and-out for better chopping quality or to save machine
 power.
@@ -1659,14 +1659,14 @@ after the separator has been disengaged 25 times. Active Cleanout
 Mode cannot be adjusted.
 
 # Residue Management Application
-## Auto Swap
+#### Auto Swap
 Auto Swap automatically adjusts the residue spread in the opposite
 direction from what you have set after making a 180º turn.
 If Auto Swap is disabled, you must manually swap the spread
 direction.
 
 # Residue Management Application
-## Total Loss Measurement
+#### Total Loss Measurement
 Total Loss Measurement drops all residue in a windrow for accurate
 loss measurement with the premium residue configuration.
 <table style='border-collapse: collapse; width: 100%;'>
@@ -1684,11 +1684,11 @@ loss measurement with the premium residue configuration.
 </table>
 
 # Header Application
-## Access Header
+#### Access Header
 
 
 # Header Application
-## Header Main Page
+#### Header Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Header Main Page shows available features that can be adjusted
@@ -1708,7 +1708,7 @@ Example:
 Different modules can be available for your application.
 
 # Header Application
-## Header Details
+#### Header Details
 Header Details page includes settings such as width, minimum
 reel speed, and row width.
 Each header type has factory default settings for all
@@ -1722,7 +1722,7 @@ a reel installed, you would select this to tell the machine that a
 reel is installed.
 
 # Header Application
-## Width
+#### Width
 Width allows the cut width to be changed when not utilizing
 full width of the header.
 Width is not editable on certain model year 2021+ headers.
@@ -1732,7 +1732,7 @@ Changing header size.
 Changing cut width for
 
 # Header Application
-## Width Corn Head
+#### Width Corn Head
 Width allows the number of rows to be changed when not utilizing
 all rows of the header.
 Width is not editable on certain model year 2021+ headers.
@@ -1742,7 +1742,7 @@ Changing the header size.
 Changing row width for AutoTrac™ and mapping purposes.
 
 # Header Application
-## Row Width
+#### Row Width
 Row Width allows the spacing between rows to be changed.
 Row width is not editable on certain model year 2021+
 headers.
@@ -1750,14 +1750,14 @@ Modifying row width affects yield mapping.
 Adjust row width spacing to match the header configuration.
 
 # Header Application
-## Minimum Reel Speed
+#### Minimum Reel Speed
 Minimum Reel Speed allows you to set the minimum speed at which
 the reel operates.
 Picking up downed crop. Minimum speed varies based on
 condition and operator.
 
 # Header Application
-## Work Recording
+#### Work Recording
 Work Recording allows you to set the stop height for turning
 recording ON/OFF.
 Work Recording automatically turns OFF above preset height
@@ -1777,7 +1777,7 @@ Raise or lower header
 to desired record stop height.
 
 # Header Application
-## Hours
+#### Hours
 Hours allows you to set the total number hours for the header
 type attached.
 Hours are stored on certain model year 2021+ headers.
@@ -1792,7 +1792,7 @@ combines.
 You want to zero the hours at the beginning of the season.
 
 # Header Application
-## Raise/Lower Speed
+#### Raise/Lower Speed
 Raise/Lower Speed controls the speed which the feeder house
 raises or lowers when using the manual raise/lower buttons on the
 multi-function lever.
@@ -1811,7 +1811,7 @@ Default: 50
 Increment: 1
 
 # Header Application
-## Tilt Speed
+#### Tilt Speed
 Tilt Speed controls rate of the lateral tilt feeder house movements
 when in manual rate mode.
 Manual Tilt Speed function only works on closed center
@@ -1837,7 +1837,7 @@ Default: 50
 Increment: 1
 
 # Header Application
-## Height Sensitivity
+#### Height Sensitivity
 Height Sensitivity controls the speed of which the feeder house
 will raise/lower in automatic mode to accommodate the terrain.
 Increasing sensitivity causes feeder house to respond
@@ -1864,7 +1864,7 @@ over 75 and under 25. Height sensitivity needs to be set lower when
 achieving higher ground speeds.
 
 # Header Application
-## Tilt Sensitivity
+#### Tilt Sensitivity
 Tilt Sensitivity controls the speed at which the feeder house
 tilts to accommodate changes in terrain. Increasing sensitivity causes
 feeder house to react faster.
@@ -1885,7 +1885,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Header Application
-## Fore/Aft Tilt
+#### Fore/Aft Tilt
 Fore/Aft Tilt allows you to quickly move the feeder house face
 fore and aft to achieve optimal cutting performance of the header
 in challenging conditions.
@@ -1910,20 +1910,20 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Header Application
-## Auto Header Control
+#### Auto Header Control
 Auto Header Control shows the status of Control Preview, Header
 Automation, and Resume Preferences.
 Auto Header Control icons change depending on how they
 are set up and which header is attached to the machine.
 
 # Header Application
-## Control Preview
+#### Control Preview
 Header Automation and Resume features (listed as icons
 under the activation buttons 1, 2, and 3) activate when corresponding
 button is pressed.
 
 # Header Application
-## Header Automation
+#### Header Automation
 Enable or disable header automation functions.
 Some items below are only displayed if machine is equipped
 with the associated option.
@@ -1931,7 +1931,7 @@ ON/OFF toggles are unable to be switched until the "Custom"
 option is selected.
 
 # Header Application
-## Height Resume
+#### Height Resume
 Height Resume allows you to select position of the feeder house
 relative to the machine and return to that position automatically.
 Changing crop height throughout the same field.
@@ -1957,7 +1957,7 @@ Press activation buttons 1, 2, or 3 to reactivate
 system. Header automatically moves to last known setting.
 
 # Header Application
-## Height Sensing — Off Ground
+#### Height Sensing — Off Ground
 Allows you to select the position of the header relative to
 the ground and return to that position automatically.
 Calibration is required when platform is initially connected
@@ -1997,7 +1997,7 @@ Press activation buttons 1, 2, or 3 to reactivate
 system. Header automatically moves to last known setting.
 
 # Header Application
-## Height Sensing — On Ground
+#### Height Sensing — On Ground
 On ground Height Sensing allows you to adjust cutterbar ground
 pressure and return to that setting automatically.
 Calibration is needed when changing the header regardless
@@ -2039,7 +2039,7 @@ Press activation buttons 1, 2, or 3 to reactivate system. Header
 automatically moves to last known setting.
 
 # Header Application
-## Height Sensing (Hinged Draper)
+#### Height Sensing (Hinged Draper)
 Height Sensing allows you to adjust the cut height by selecting
 the position of the header relative to the ground and setting the
 system to automatically return to that position.
@@ -2079,7 +2079,7 @@ Press activation buttons 1, 2, or 3 to reactivate
 system. Header automatically moves to last known setting.
 
 # Header Application
-## Feeder House Float
+#### Feeder House Float
 Feeder House Float allows you to select how firmly a rigid header
 contacts the ground and maintains a set pressure.
 Ground conditions are firm and the head is leaving taller
@@ -2103,7 +2103,7 @@ Press activation buttons 1, 2, or 3 to reactivate
 system. Header automatically moves to last known setting.
 
 # Header Application
-## Lateral Tilt
+#### Lateral Tilt
 Lateral Tilt allows you to maintain header position relative
 to the ground using the lateral tilt system to equalize the distance
 to the ground at each end of the header.
@@ -2130,13 +2130,13 @@ Press activation buttons 1, 2, or 3 to reactivate system. Header
 automatically returns to last known setting.
 
 # Header Application
-## Resume Preferences
+#### Resume Preferences
 Enable or disable automatic resume of header automation functions.
 Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Header Application
-## Fore/Aft Resume
+#### Fore/Aft Resume
 Fore/Aft Resume allows you to program a saved fore/aft tilt
 position of the feeder house frame to any of the Activation buttons
 1,2, or 3 on the multi-function lever.
@@ -2180,7 +2180,7 @@ moves forward upon raising. Feeder house fore/aft tilt will not return
 to last known position when lowering.
 
 # Header Application
-## Reel Position Resume
+#### Reel Position Resume
 Reel Position Resume allows you to select position of the reel
 relative to belts, auger, cutterbar, floor and so forth and return
 to that position automatically.
@@ -2211,7 +2211,7 @@ Press activation buttons 1, 2, or 3 to reactivate system. Reel
 automatically moves to preselected height.
 
 # Header Application
-## Deck Plate Position Resume
+#### Deck Plate Position Resume
 Deck Plate Position Resume allows you to select spacing of the
 hydraulic deck plates and return to that position automatically.
 Ear shelling at deck plates.
@@ -2247,7 +2247,7 @@ Press Activation Buttons 1, 2, or 3 to reactivate system. Deck
 plates automatically move to preselected position.
 
 # Header Application
-## Cutterbar Position Resume
+#### Cutterbar Position Resume
 Cutterbar Position Resume allows you to program a saved cutterbar
 position to any of the activation buttons 1, 2, or 3 on the multi-function
 lever.
@@ -2269,7 +2269,7 @@ Wizard can be accessed through this overlay or launched
 from Information and Settings.
 
 # Header Application
-## Auto Reel Speed
+#### Auto Reel Speed
 Auto Reel Speed allows you to program a saved reel speed or
 belt pickup speed to any of the header activation buttons on the multi-function
 lever. You may have a standard reel speed for harvesting standing
@@ -2304,7 +2304,7 @@ The larger the ratio number selected, the faster the reel
 operates with respect to the machine ground speed.
 
 # Header Application
-## Auto Draper Belt Speed
+#### Auto Draper Belt Speed
 Auto Draper Belt Speed allows you to program a saved side belt
 speed to any of the header activation buttons on the multi-function
 lever. You may have a standard side belt speed for harvesting standing
@@ -2340,7 +2340,7 @@ The larger the ratio number selected, the faster the belt
 operates with respect to the machine ground speed.
 
 # Header Application
-## HydraFlex™ Pressure
+#### HydraFlex™ Pressure
 Cutting off the ground using height sensing arms. HydraFlex™
 Pressure can be increased to lock the cutterbar in a rigid position.
 Increase pressure when cutterbar is pushing.
@@ -2360,7 +2360,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Header Application
-## Draper Belt Speed
+#### Draper Belt Speed
 Draper Belt Speed controls the speeds of the side draper belts.
 Set belt speed for prevailing crop conditions and adjust for an even
 distribution of crop material across the side draper belts.
@@ -2389,7 +2389,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Header Application
-## Draper Float Position
+#### Draper Float Position
 Draper Float Position controls the pressure in the cylinders
 for the gauge wheels and center section.
 Higher numbers make the header lighter, which increases
@@ -2414,7 +2414,7 @@ Turn dial clockwise to increase value.
 Turn dial counterclockwise to decrease value.
 
 # Header Application
-## Cutterbar Tilt
+#### Cutterbar Tilt
 Cutterbar Tilt adjusts angle of the cutterbar in relation to
 the rest of the platform to optimize harvesting capabilities.
 Assist in picking up downed crop.
@@ -2425,7 +2425,7 @@ Prevent cut crop buildup falling from the cutterbar or
 loss of grain heads at cutterbar.
 
 # Header Application
-## Deck Plate Spacing
+#### Deck Plate Spacing
 Deck Plate Spacing adjusts deck plate opening in order to match
 changes in crop conditions.
 Switching fields, or conditions vary in the same field.
@@ -2453,7 +2453,7 @@ Plate Spacing frame of the application to bring up an adjustment overlay
 with conditionally available readout.
 
 # Header Application
-## Backshaft Speed
+#### Backshaft Speed
 Adjusting Backshaft Speed allows you to optimize the feed rate
 of the header to the travel speed and volume of material the machine
 is harvesting.
@@ -2490,7 +2490,7 @@ Only for
 </table>
 
 # Header Application
-## Cutterbar Position
+#### Cutterbar Position
 Cutterbar Position adjusts allows you to control the position
 of the cutterbar.
 Only works on European Extendable Platform Headers.
@@ -2505,7 +2505,7 @@ Wizard can be accessed through this overlay or launched
 from Information and Settings.
 
 # Header Application
-## Header Down Force
+#### Header Down Force
 Header Down Force page allows you to select presets for header
 down force. Header down force can only be changed when running in
 Header down force presets are optimized for off-ground
@@ -2530,7 +2530,7 @@ or prerequisites have been met, the screen will advance automatically
 to the adjustments screen.
 
 # Header Application
-## Gauge Wheels
+#### Gauge Wheels
 Gauge Wheels allows you to raise or lower the gauge wheels on
 the hinged draper.
 Avoid over-lowering the feeder house. Even with the
@@ -2551,7 +2551,7 @@ switch. The gauge wheels and feeder house will return to their original
 positions and the original cut height will be restored.
 
 # Header Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 Some items below are only displayed if machine is equipped
@@ -2560,7 +2560,7 @@ Selecting the installed options ensures appropriate suspension
 behavior.
 
 # Header Application
-## Limp Home Mode
+#### Limp Home Mode
 Allows you to continue to fold, actuate, drive, or transport
 machine when a system fault is recognized.
 Fore/Aft Tilt
@@ -2578,7 +2578,7 @@ You accept the risk of collisions of machine components
 when turning Limp Home Mode ON.
 
 # Header Application
-## Cutterbar Position Wizard
+#### Cutterbar Position Wizard
 Allows operator to adjust cutterbar position for various plant
 heights and stubble heights.
 Calibrating platform.
@@ -2588,7 +2588,7 @@ Entering plant and stubble height configures a recommended cutterbar
 position.
 
 # Header Application
-## Wing Leveling
+#### Wing Leveling
 Wing Leveling allows you to select a home position and enable
 the wings to automatically return to home from above, below, or both
 directions.
@@ -2596,7 +2596,7 @@ Items Accessible on Wing Leveling Page:
 If you stop holding the button, the wings will stop moving.
 
 # Header Application
-## Modulated Feeder House Reverser
+#### Modulated Feeder House Reverser
 Use the feeder house control buttons on the right to alternate
 between forward and reverse motions to clear any blockage.
 When clearing a feeder house plug on X-Series machines,
@@ -2618,12 +2618,12 @@ The "Disengaging Feeder House Reverser" window
 shade times out after 7 seconds.
 
 # Header Application
-## Feeder House Reverser Mode Status
+#### Feeder House Reverser Mode Status
 Feeder House Reverser Mode Status lists specific prerequisites
 when the modulated feeder house reverser has unmet requirements.
 
 # Header Application
-## Confirm Header Calibration
+#### Confirm Header Calibration
 Confirm Header Calibration requires you to confirm that the
 last header calibration was performed with the attached header.
 The attached header has not been previously calibrated
@@ -2631,7 +2631,7 @@ to the current machine.
 The reel or cutterbar sensors have been adjusted or replaced.
 
 # Header Application
-## Header Down Force Advanced Tuning
+#### Header Down Force Advanced Tuning
 Header Down Force Advanced Tuning allows you to make specific
 adjustments to the header down force within the selected preset range.
 Adjustments to advanced tuning impact all height sensing setpoints
@@ -2664,11 +2664,11 @@ the header or the header is pushing material near the end of the wing.
 Decrease the wing down force.
 
 # Grain Handling Application
-## Access Grain Handling
+#### Access Grain Handling
 
 
 # Grain Handling Application
-## Grain Handling Main Page
+#### Grain Handling Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Grain Handling application is used to access and modify Grain
@@ -2682,19 +2682,19 @@ Example:
 Different modules can be available for your application.
 
 # Grain Handling Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 
 # Grain Handling Application
-## Advanced Settings | Grain Level Auto Beacon
+#### Advanced Settings | Grain Level Auto Beacon
 Grain Level Auto Beacon illuminates when grain tank is 3/4 full
 or is full.
 Enable or disable Grain Level Auto Beacon.
 Provide a signal that the grain tank is 3/4 or full.
 
 # Grain Handling Application
-## Advanced Settings | Tank Unloading Offset
+#### Advanced Settings | Tank Unloading Offset
 Tank Unloading Offset allows you to adjust grain tank empty
 level if all grain is not emptied from grain tank or grain level does
 not show 0% after grain tank is empty. Different crops, weights, and
@@ -2710,7 +2710,7 @@ Maximum: 15 bu/sec
 Increment: (+/-) 0.5 bu/sec
 
 # Grain Handling Application
-## Advanced Settings | Custom Alarm Level
+#### Advanced Settings | Custom Alarm Level
 Custom Alarm Level allows you to enable a message to appear
 on the screen when selected grain level has been met.
 Enable or disable Custom Alarm Level.
@@ -2721,7 +2721,7 @@ When custom alarm level is met, a message appears on-screen.
 The message can be viewed in the Status Center on the display.
 
 # Grain Handling Application
-## Grain Level
+#### Grain Level
 Grain Level allows you to set correct grain tank Full Level
 or grain tank Empty Level if grain level is not reading correctly.
 Grain is spilling over the sides when operating in hilly
@@ -2738,13 +2738,13 @@ Grain level 3/4 full and full beacon adjusts based on
 grain level.
 
 # Grain Handling Application
-## Moisture Settings
+#### Moisture Settings
 Moisture Settings allows you to enable or disable moisture alarm,
 set maximum and minimum moisture alarm settings, set moisture correction,
 and enable or disable Use Fixed Moisture.
 
 # Grain Handling Application
-## Moisture Alarm
+#### Moisture Alarm
 Moisture Alarm allows you to enable or disable the Moisture
 Alarm that sounds when moisture value drops below minimum or above
 maximum setting.
@@ -2759,7 +2759,7 @@ Maximum moisture percentage must be set higher than minimum
 moisture percentage.
 
 # Grain Handling Application
-## Moisture Correction
+#### Moisture Correction
 Moisture Correction allows you to toggle between Moisture Correction
 or Fixed Moisture, adjust the value when moisture percentage measured
 by combine moisture sensor differs from the elevator certified moisture,
@@ -2776,7 +2776,7 @@ moisture (13%) minus combine measured moisture (12%) = moisture difference
 Moisture correction can be a positive or negative number.
 
 # Grain Handling Application
-## Status Center
+#### Status Center
 Status Center provides status and quick access for Grain Handling
 functions. See Display Overview for more information.
 Selecting Set Empty Level automatically adjusts Tank Unloading
@@ -2785,7 +2785,7 @@ Grain level 3/4 and full beacon adjusts based on grain
 level.
 
 # Grain Handling Application
-## Adjustable Spout
+#### Adjustable Spout
 Active Spout displays the desired position and target position
 of the unloading auger spout and allows you to adjust the spout manually
 or to a preset position.
@@ -2807,7 +2807,7 @@ may not apply if you previously configured new assignments or custom
 presets on the multi-function lever.
 
 # Grain Handling Application
-## Spout Cleanout
+#### Spout Cleanout
 Spout Cleanout allows you to make adjustments to adjustable
 spout automation operations after the unloading auger disengages.
 Message appears on-screen to indicate that spout automation
@@ -2827,7 +2827,7 @@ Maximum: 10 sec
 Increment: (+/-) 0.5 sec
 
 # Grain Handling Application
-## Field Transport Position
+#### Field Transport Position
 Field Transport Position allows you to select the position the
 spout should move to after unloading and spout cleanout is complete
 (if enabled).
@@ -2849,11 +2849,11 @@ Maximum: 100%
 Increment: (+/-) 10%
 
 # Folding Application
-## Access Folding
+#### Access Folding
 
 
 # Folding Application
-## Folding Main Page
+#### Folding Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Folding Application is used to operate folding equipment.
@@ -2865,7 +2865,7 @@ This applies to any subsystem affected by the position
 sensor issue or any other issue.
 
 # Folding Application
-## Grain Tank Covers
+#### Grain Tank Covers
 Grain Tank Covers application allows you to open and close grain
 tank covers from within the cab.
 Avoid power line entanglement. Grain tank covers must
@@ -2888,7 +2888,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Adjustable Spout
+#### Adjustable Spout
 Adjustable Spout application allows you to fold and unfold the
 adjustable spout from within the cab.
 Configure machine for field operation.
@@ -2905,7 +2905,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Fountain Auger
+#### Fountain Auger
 Fountain Auger application allows you to raise and lower the
 fountain auger from within the cab.
 Configure machine for field operation.
@@ -2920,7 +2920,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Folding Unloading Auger
+#### Folding Unloading Auger
 Folding Unloading Auger allows you to fold and unfold the folding
 unloading auger as required.
 Configure machine for field operation.
@@ -2937,7 +2937,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Header Transport Position
+#### Header Transport Position
 Header Transport Position application allows you to prepare
 an extendable platform header for transport from within the cab.
 Configure header for trailer transportation.
@@ -2959,7 +2959,7 @@ the Controls Setup application from actuating movement if a control
 is pressed.
 
 # Folding Application
-## Folding Corn Head (John Deere Models)
+#### Folding Corn Head (John Deere Models)
 Folding Corn Head Control allows you to fold and unfold corn
 head.
 Configure machine for field operation.
@@ -2983,7 +2983,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Folding Corn Head (Non-John Deere Models)
+#### Folding Corn Head (Non-John Deere Models)
 Folding Corn Head Control allows you to fold and unfold corn
 head.
 Configure machine for field operation.
@@ -3007,7 +3007,7 @@ state does not block physical controls that can be assigned to actuate
 movement in Controls Setup application.
 
 # Folding Application
-## Manual Control
+#### Manual Control
 Manual Control displays subsystem features that are malfunctioning
 or have been placed into manual control mode.
 This does not include all subsystems, only those experiencing
@@ -3018,11 +3018,11 @@ issue will still be displayed, but without the sensor error or calibration
 required attention frames.
 
 # Harvest Settings Application
-## Access Harvest Settings
+#### Access Harvest Settings
 
 
 # Harvest Settings Application
-## Harvest Settings Main Page
+#### Harvest Settings Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Harvest Settings is used to adjust the threshing and cleaning
@@ -3037,7 +3037,7 @@ Example:
 Different modules can be available for your application.
 
 # Harvest Settings Application
-## Load Harvest Settings
+#### Load Harvest Settings
 Load Harvest Settings allows you to make default selections
 on Presets, Threshing Conditions, and Straw/Cob Conditions to help
 grain cleanliness and grain loss.
@@ -3049,7 +3049,7 @@ from the selected preset. Create a new preset with the current settings
 for best performance.
 
 # Harvest Settings Application
-## Load Harvest Settings | Preset
+#### Load Harvest Settings | Preset
 Preset allows you to select from a list of saved machine configurations
 for a given crop.
 You want to create a preset to capture the harvest settings
@@ -3075,7 +3075,7 @@ Manually record data by hand before deleting. If you delete
 a preset, it is removed from the display and cannot be undone.
 
 # Harvest Settings Application
-## Load Harvest Settings | Threshing Conditions
+#### Load Harvest Settings | Threshing Conditions
 Threshing Conditions allows you to select from three options
 to choose the best description of your current threshing conditions.
 There is unthreshed grain or kernels with hull present
@@ -3094,7 +3094,7 @@ Once selected, the system begins adjusting the settings
 to match the selected preset you have chosen.
 
 # Harvest Settings Application
-## Load Harvest Settings | Straw Conditions
+#### Load Harvest Settings | Straw Conditions
 Straw Conditions allows you to select from three options to
 choose the best description of your current straw condition.
 Harvesting tough, wet straw, green stems, or lots of material
@@ -3111,12 +3111,12 @@ Once selected, the system begins adjusting the settings
 to match the selected preset you have chosen.
 
 # Harvest Settings Application
-## Load Harvest Settings | Save Preset
+#### Load Harvest Settings | Save Preset
 Save Preset allows you to create a new preset or to update the
 last preset you used.
 
 # Harvest Settings Application
-## Load Harvest Settings | Save Preset | Factory Default
+#### Load Harvest Settings | Save Preset | Factory Default
 Default Presets are factory loaded settings for each combination
 of Threshing Condition and Straw/Cob Quality for a given crop. You
 can modify these defaults and save them as a new name based on your
@@ -3128,7 +3128,7 @@ Use the keyboard to enter
 the name of this customized setting.
 
 # Harvest Settings Application
-## Load Harvest Settings | Save Preset | Custom Preset
+#### Load Harvest Settings | Save Preset | Custom Preset
 Custom Presets are defined by you based on your harvesting conditions.
 These can be modified as crop conditions or machine performance changes.
 Harvesting different varieties of a particular crop.
@@ -3143,7 +3143,7 @@ Enter a new Preset name
 "Corn"
 
 # Harvest Settings Application
-## Load Harvest Settings | Effects of Crop Change
+#### Load Harvest Settings | Effects of Crop Change
 Changing the crop type in
 The "Preset" indication shown on the Harvest
 Settings main page shows "- -" until a new preset is loaded.
@@ -3161,7 +3161,7 @@ crop type preset. It is important to change the preset to match the
 crop being harvested.
 
 # Harvest Settings Application
-## Current Settings | Threshing Clearance
+#### Current Settings | Threshing Clearance
 Threshing Clearance allows you to modify the threshing clearance
 for varying crops and conditions.
 For the threshing clearance settings, refer to Crop Settings
@@ -3186,7 +3186,7 @@ Maximum: 42
 Increment: 1
 
 # Harvest Settings Application
-## Current Settings | Threshing Speed
+#### Current Settings | Threshing Speed
 Threshing Speed allows you to modify the threshing speed for
 varying crop conditions.
 For the threshing speed settings, refer to Crop Settings
@@ -3225,7 +3225,7 @@ Maximum: 1300 rpm
 Increment: 10 rpm
 
 # Harvest Settings Application
-## Current Settings | Cleaning Fan
+#### Current Settings | Cleaning Fan
 Cleaning Fan Speed allows you to modify the fan speed to improve
 grain cleanliness and reduce grain loss.
 For the fan speed settings, refer to Crop Settings section
@@ -3247,7 +3247,7 @@ Maximum: 1430 rpm
 Increment: 10 rpm
 
 # Harvest Settings Application
-## Current Settings | Chaffer Clearance
+#### Current Settings | Chaffer Clearance
 Chaffer Clearance allows you to modify the opening of the chaffer
 elements to improve the grain cleanliness and reduce the cleaning
 shoe loss for varying crops and conditions.
@@ -3276,7 +3276,7 @@ Maximum: 30
 Increment: 1
 
 # Harvest Settings Application
-## Current Settings | Sieve Clearance
+#### Current Settings | Sieve Clearance
 Sieve Clearance allows you to modify the opening of the sieve
 to improve grain cleanliness and manage tailings volumes for varying
 crops and conditions.
@@ -3306,7 +3306,7 @@ Maximum: 30
 Increment: 1
 
 # Harvest Settings Application
-## Current Settings | Outside Configuration
+#### Current Settings | Outside Configuration
 Outside Configuration shows external machine adjustments that
 must be made prior to harvesting the selected crop type.
 For more information, refer to the machine Operator’s
@@ -3321,7 +3321,7 @@ Feed Accelerator Speed
 Feeder House Conveyor Chain Sprocket
 
 # Harvest Settings Application
-## Current Settings | Adjustment States
+#### Current Settings | Adjustment States
 Adjustment States show how the system adjustment settings react
 when machine changes are made.
 Some items below are only displayed if machine is equipped
@@ -3347,14 +3347,14 @@ the system removes the offset, performance value returns to its value
 prior to the system making the offset.
 
 # Harvest Settings Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allow you to access further adjustments and
 less common settings.
 The grain loss monitor sensor tap test can also be accessed
 from the Calibrations and Procedures application.
 
 # Harvest Settings Application
-## Advanced Settings | Separator Resolution
+#### Advanced Settings | Separator Resolution
 Separator Resolution allows you to modify the number of bars
 on the Corner Post Display VisionTrak for the separator loss indicator.
 Perform a Power Shutdown
@@ -3375,7 +3375,7 @@ Default: 0
 Increment: 1
 
 # Harvest Settings Application
-## Advanced Settings | Shoe Resolution
+#### Advanced Settings | Shoe Resolution
 Shoe Resolution allows you to modify the number of bars on the
 Corner Post Display VisionTrak for the shoe loss indicator.
 Perform a Power Shutdown
@@ -3396,7 +3396,7 @@ Default: 0
 Increment: 1
 
 # Harvest Settings Application
-## Performance Target
+#### Performance Target
 Performance Target allows you to adjust the number of bars on
 the Corner Post Display VisionTrak for the shoe loss indicator, separator
 loss indicator, and total loss indicator to a level representative
@@ -3433,11 +3433,11 @@ fluctuate upward (15 to 20 seconds) and then return to the previous
 reading. Ignore these fluctuations when this occurs.
 
 # Engine Application
-## Access Engine
+#### Access Engine
 
 
 # Engine Application
-## Engine Main Page
+#### Engine Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 The Engine application is used to access and adjust engine settings.
@@ -3450,7 +3450,7 @@ Shortcut keys for this application can be added to the shortcut
 bar using
 
 # Engine Application
-## Engine Power
+#### Engine Power
 Engine Power allows you to view amount of engine power being
 used and accumulated engine hours. A power meter is available on both
 the display and the corner post display for visual indication of current
@@ -3474,7 +3474,7 @@ Wet ground conditions
 Excessive ground speed
 
 # Engine Application
-## Exhaust Filter System Overview
+#### Exhaust Filter System Overview
 Your machine is equipped with an emission-compliant engine,
 which cleans and filters the exhaust. Under normal machine operation
 and with the system in AUTO mode, the system requires minimal operator
@@ -3500,7 +3500,7 @@ During entire cleaning process, keep exhaust outlet away from people,
 buildings, and anything that can melt, burn, or explode.
 
 # Engine Application
-## AUTO Exhaust Filter Cleaning
+#### AUTO Exhaust Filter Cleaning
 When AUTO or PARKED cleaning is enabled, the exhaust
 temperature can be high under no load or light load conditions at
 certain times during the exhaust filter cleaning cycle. Disable exhaust
@@ -3519,7 +3519,7 @@ After reading the caution, you must select Accept or Cancel before
 continuing.
 
 # Engine Application
-## Parked Filter Cleaning
+#### Parked Filter Cleaning
 Parked Filter Cleaning is a process which you initiate to clean
 the exhaust filter when required.
 During the process, engine speed is controlled by the system,
@@ -3562,7 +3562,7 @@ System defaults to AUTO mode when parked exhaust filter
 cleaning is complete.
 
 # Engine Application
-## Disable AUTO Exhaust Filter Cleaning
+#### Disable AUTO Exhaust Filter Cleaning
 Auto Exhaust Filter Cleaning can be disabled in certain conditions.
 Disable the automatic exhaust filter cleaning system
 only when necessary.
@@ -3574,7 +3574,7 @@ In high crop dust or chaff conditions.
 Next to a fueling area.
 
 # Engine Application
-## Engine Cool Down In Progress
+#### Engine Cool Down In Progress
 Engine Cool Down is a specific time period necessary to allow
 the engine and components to cool down.
 Damage to exhaust cleaning components can occur if
@@ -3586,7 +3586,7 @@ Cool Down Complete message appears and tells you that
 the machine can be shut down. Select to close message.
 
 # Engine Application
-## Air Compressor
+#### Air Compressor
 Air Compressor provides a supplemental compressed air source
 to clean the machine.
 The air compressor only functions if the following requirements
@@ -3609,7 +3609,7 @@ When preconditions are not met, selecting the ON/OFF toggle
 button displays
 
 # Engine Application
-## Air Compressor Status
+#### Air Compressor Status
 Air Compressor Status shows the requirements needed to enable
 the air compressor system.
 Engine must be running.
@@ -3619,7 +3619,7 @@ Header must be disengaged.
 Machine external components must not be in motion.
 
 # Engine Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 Under normal operating conditions, fan reversal cycles
@@ -3628,11 +3628,11 @@ Service Clean Out is not available while operating in
 harvesting mode.
 
 # HVAC Application
-## Access HVAC
+#### Access HVAC
 
 
 # HVAC Application
-## Heating, Ventilation, and Air Conditioning (HVAC) Main Page
+#### Heating, Ventilation, and Air Conditioning (HVAC) Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 HVAC application is used to adjust temperature, fan speed, and
@@ -3648,34 +3648,34 @@ Example:
 Different shortcut keys may be available for your application.
 
 # HVAC Application
-## Set Temperature
+#### Set Temperature
 Set Temperature allows you to set a desired temperature inside
 the cab.
 
 # HVAC Application
-## Fan Speed
+#### Fan Speed
 Fan Speed allows you to control the fan speed inside the cab.
 The fan is turned off when the indicator moves to OFF.
 
 # HVAC Application
-## Air Flow Mode
+#### Air Flow Mode
 Air Flow Mode allows you to adjust distribution of air flow
 inside the cab or enable the windshield defrost.
 Air conditioning turns ON when Defrost air flow mode is
 selected.
 
 # HVAC Application
-## Air Conditioning (A/C)
+#### Air Conditioning (A/C)
 Air Conditioning allows you to enable or disable air conditioning.
 Air conditioning turns ON when defrost air flow mode is
 selected.
 
 # Transmission Application
-## Access Transmission
+#### Access Transmission
 
 
 # Transmission Application
-## Transmission Main Page
+#### Transmission Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Transmission application is used to display transmission information
@@ -3684,7 +3684,7 @@ Transmission application is not available when road mode
 is active. Press the
 
 # Transmission Application
-## Max Speed 1 and 2
+#### Max Speed 1 and 2
 Max Speeds allows you to set a comfortable harvest or transport
 speed. When desired ground speed is set and multi-function lever is
 moved fully forward with the engine at high idle, machine operates
@@ -3704,11 +3704,11 @@ Select minus (-) button to decrease value.
 As you switch between speed settings using the
 
 # Transmission Application
-## Advanced Settings
+#### Advanced Settings
 
 
 # Transmission Application
-## Tow Mode
+#### Tow Mode
 You can enable Tow Mode to protect transmission if machine is
 disabled and requires towing.
 Do not tow machine with wire rope. If rope breaks,
@@ -3750,11 +3750,11 @@ up to 10 min at maximum speed of 10 km/h (6.2 mph).
 </table>
 
 # Lights Application
-## Access Lights
+#### Access Lights
 
 
 # Lights Application
-## Lights Main Page
+#### Lights Main Page
 Main page shown is for example only. Your main page may differ
 depending on options or connected equipment.
 Lights application is used to access light presets that can
@@ -3763,17 +3763,17 @@ you to make adjustments.
 Worklights are configurable. Road lights are not configurable.
 
 # Lights Application
-## Worklights Preset 1
+#### Worklights Preset 1
 Worklights Preset 1 allows you to customize presets for specific
 needs. Modify when needing customized lighting in low visibility conditions.
 
 # Lights Application
-## Worklights Preset 2
+#### Worklights Preset 2
 Worklights Preset 2 allows you to customize presets for specific
 needs. Modify when needing customized lighting in low visibility conditions.
 
 # Lights Application
-## Worklights Controls
+#### Worklights Controls
 Worklights Controls allows you to select the desired worklight
 preset and mode.
 Some items below are only displayed if machine is equipped
@@ -3783,12 +3783,12 @@ After the lever is released and returns to the home (middle)
 position, the selected preset remains active.
 
 # Lights Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 
 # Lights Application
-## Engine Off Delayed Lighting
+#### Engine Off Delayed Lighting
 Engine Off Delayed Lighting lets you set the time limit for
 the lights to shut off after exiting the machine.
 Operators are able to set the timeout delay for egress
@@ -3799,11 +3799,11 @@ OFF
 5 minutes
 
 # Calibrations Application
-## Access Calibrations and Procedures
+#### Access Calibrations and Procedures
 
 
 # Calibrations Application
-## Calibrations and Procedures Overview
+#### Calibrations and Procedures Overview
 Main page shown is for example
 only. Your main page may differ depending on options or connected
 equipment.
@@ -3811,7 +3811,7 @@ It is not necessary to perform the header calibrations
 before operating headers for the first time on X-Series machines.
 
 # Calibrations Application
-## Mass Flow Vibration
+#### Mass Flow Vibration
 This procedure calibrates the mass flow sensor to accommodate
 for normal vibration of machinery while in operation. Performing this
 calibration prevents the mass flow sensor from falsely reading vibration
@@ -3838,7 +3838,7 @@ Mass Flow Sensor has been replaced.
 </table>
 
 # Calibrations Application
-## Mass Flow Vibration Calibration Procedure
+#### Mass Flow Vibration Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -3854,12 +3854,12 @@ Mass Flow Sensor has been replaced.
 </table>
 
 # Calibrations Application
-## Moisture Sensor
+#### Moisture Sensor
 The moisture sensor has been installed, replaced, or adjusted.
 The moisture sensor accuracy needs to be improved.
 
 # Calibrations Application
-## Moisture Sensor Procedure
+#### Moisture Sensor Procedure
 This procedure performs the calibration for the Moisture Sensor.
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
@@ -3876,7 +3876,7 @@ This procedure performs the calibration for the Moisture Sensor.
 </table>
 
 # Calibrations Application
-## Yield Calibration
+#### Yield Calibration
 This procedure calibrates the estimated yield. Calibration is
 done by matching recorded samples with corresponding scale weight
 measurements.
@@ -3892,19 +3892,19 @@ it is recommended to perform that calibration before performing Yield
 Calibration.
 
 # Calibrations Application
-## Yield | Calibration Quality
+#### Yield | Calibration Quality
 Calibration Quality indicates the quality of the calibration
 samples and the margin of error between the recorded samples and actual
 weights.
 
 # Calibrations Application
-## Yield | Status Indicator
+#### Yield | Status Indicator
 Status Indicator displays the status of Record Samples and a
 message about that status.
 Status options are as follows:
 
 # Calibrations Application
-## Yield | Record Sample
+#### Yield | Record Sample
 Record Sample page allows you to collect a yield sample, monitor
 flow rate, and view the recorded weight of the sample.
 Low flow rate is displayed using dashes.
@@ -3916,14 +3916,14 @@ Continue harvesting until
 the necessary amount of crop is harvested.
 
 # Calibrations Application
-## Yield | Match Scale Weight
+#### Yield | Match Scale Weight
 Match Scale Weight allows you to match recorded sample weight
 to the actual weight of sample.
 Enter the actual sample
 weight using the keypad.
 
 # Calibrations Application
-## Yield | Advanced Settings
+#### Yield | Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 Advanced Settings is not available when
@@ -3933,7 +3933,7 @@ Manually adjusting the calibration value.
 Transferring the calibration to another machine.
 
 # Calibrations Application
-## Yield | Calibration Quality Indicator
+#### Yield | Calibration Quality Indicator
 Calibration Quality Indicator indicates the quality of the calibration
 samples.
 Single sample calibration performs well for the flow rate
@@ -3941,7 +3941,7 @@ that the sample was collected for. The performance may be degraded
 at different flow rates.
 
 # Calibrations Application
-## Yield | Collected Sample Status
+#### Yield | Collected Sample Status
 Collected Sample Status indicates the criteria met by the current
 sample set. When a criterion is met, a checkmark is displayed next
 to it.
@@ -3958,25 +3958,25 @@ Collect the first load using the highest harvesting speed as
 Repeat the process if more loads are to be collected.
 
 # Calibrations Application
-## Yield | Mass Flow Rate
+#### Yield | Mass Flow Rate
 Mass Flow Rate indicates the flow of crop being harvested.
 Min = 0%
 Max = 100%
 
 # Calibrations Application
-## Yield | Weight Indicator
+#### Yield | Weight Indicator
 Weight Indicator displays when enough crop has been harvested
 to perform the calibration.
 
 # Calibrations Application
-## Yield | Recording Status
+#### Yield | Recording Status
 Recording Status displays status of the sample recording.
 Once sample has been recorded and saved, the system returns
 to stand by. The number of unmatched samples increases by one on the
 main page after a sample is collected.
 
 # Calibrations Application
-## Yield | Reset
+#### Yield | Reset
 Reset allows you to delete all stored samples and return the
 system to the factory calibration value. You can also reset the calibration
 value to the factory default while retaining all samples.
@@ -3985,7 +3985,7 @@ Select desired reset
 type.
 
 # Calibrations Application
-## Yield | Edit/Select Calibration
+#### Yield | Edit/Select Calibration
 Edit/Select Calibration allows you to choose samples to use
 for manual calibration. Edit sample scale weights or delete samples.
 Specific samples must be selected to obtain accurate yield.
@@ -4001,19 +4001,19 @@ using the keypad.
 Select Manual Calibration.
 
 # Calibrations Application
-## Yield | Advanced Edit
+#### Yield | Advanced Edit
 Advanced Edit allows you to manually adjust the calibration
 value or transfer calibration from another machine.
 Follow the on-screen
 directions to complete the desired procedure.
 
 # Calibrations Application
-## Yield | Delete Unused Samples
+#### Yield | Delete Unused Samples
 Delete Unused Samples allows you to delete any samples not being
 used for the calibration.
 
 # Calibrations Application
-## ActiveYield™
+#### ActiveYield™
 This procedure automatically calibrates the estimated yield
 to more closely match actual scale weight of yields.
 Manual Yield Calibration is unavailable while
@@ -4037,7 +4037,7 @@ Example:
 </table>
 
 # Calibrations Application
-## ActiveYield™ | Status Indicator
+#### ActiveYield™ | Status Indicator
 A sample is not a complete grain tank. Recording of a
 sample starts when the
 Status Indicator displays the status of record samples and a
@@ -4045,7 +4045,7 @@ message about that status.
 Status options are as follows:
 
 # Calibrations Application
-## ActiveYield™ | Advanced Settings
+#### ActiveYield™ | Advanced Settings
 Advanced Settings allows you to access further adjustments and
 less common settings.
 The
@@ -4054,14 +4054,14 @@ There is a discrepancy between the calculated yield values
 and the measured yield values.
 
 # Calibrations Application
-## ActiveYield™ | Reset
+#### ActiveYield™ | Reset
 Reset allows you to delete all stored samples and returns the
 system to the factory calibration value.
 Select desired reset
 type.
 
 # Calibrations Application
-## ActiveYield™ | Calibration Correction
+#### ActiveYield™ | Calibration Correction
 Calibration Correction allows you to fix discrepancies in the
 Adjust the offset correction when one machine is calculating
 yield values more accurately than the other machines when checked
@@ -4102,7 +4102,7 @@ Correction Value (as a percentage)
 A value of 0% applies no correction.
 
 # Calibrations Application
-## Unloading Auger Engage
+#### Unloading Auger Engage
 This procedure calibrates Unloading Auger Engage by measuring
 the time it takes to engage the auger when commanded, and then adjusts
 to make a softer auger engagement.
@@ -4124,7 +4124,7 @@ Unloading auger engagement is more difficult than expected.
 </table>
 
 # Calibrations Application
-## Unloading Auger Engage Calibration Procedure
+#### Unloading Auger Engage Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4140,7 +4140,7 @@ Unloading auger engagement is more difficult than expected.
 </table>
 
 # Calibrations Application
-## Chopper Vane
+#### Chopper Vane
 This procedure calibrates the position of the tailboard vanes.
 The physical vane position doesn't match the displayed
 position.
@@ -4157,7 +4157,7 @@ have been replaced.
 </table>
 
 # Calibrations Application
-## Chopper Vane Procedure
+#### Chopper Vane Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4173,7 +4173,7 @@ have been replaced.
 </table>
 
 # Calibrations Application
-## Deck Plate Spacing
+#### Deck Plate Spacing
 This procedure calibrates the deck plate opening by identifying
 the fully opened and closed positions of the deck plates. Properly
 calibrated deck plates provide the best results for the harvest setting
@@ -4199,7 +4199,7 @@ displayed in the cab.
 </table>
 
 # Calibrations Application
-## Deck Plate Spacing Calibration Procedure
+#### Deck Plate Spacing Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4215,7 +4215,7 @@ displayed in the cab.
 </table>
 
 # Calibrations Application
-## Feeder House Raise Speed
+#### Feeder House Raise Speed
 This procedure calibrates Feeder House Raise Speed by providing
 the rate of response at which the feeder house raise or lower reacts.
 A properly calibrated Feeder House Raise Speed provides smooth feeder
@@ -4240,7 +4240,7 @@ from header.
 </table>
 
 # Calibrations Application
-## Feeder House Raise Speed Calibration Procedure
+#### Feeder House Raise Speed Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4256,7 +4256,7 @@ from header.
 </table>
 
 # Calibrations Application
-## Header Calibration
+#### Header Calibration
 This procedure calibrates the coarse and fine movement of the
 header. Calibration is done by raising and lowering the header to
 set sensor ranges.
@@ -4282,7 +4282,7 @@ is connected to an S700 Series Combine.
 </table>
 
 # Calibrations Application
-## Header Calibration Procedure
+#### Header Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4298,7 +4298,7 @@ is connected to an S700 Series Combine.
 </table>
 
 # Calibrations Application
-## Feeder House Tilt Fore/Aft Range
+#### Feeder House Tilt Fore/Aft Range
 This procedure calibrates Feeder House Tilt Fore/Aft Range by
 measuring current commanded and associated range of the feeder house
 tilt. Performing this calibration improves feeder house tilt range
@@ -4321,7 +4321,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Feeder House Tilt Fore/Aft Range Calibration Procedure
+#### Feeder House Tilt Fore/Aft Range Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4337,7 +4337,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Feeder House Lateral Tilt Range
+#### Feeder House Lateral Tilt Range
 This procedure calibrates Feeder House Lateral Tilt Range by
 measuring current commanded and associated range of the feeder house
 tilt. Performing this calibration improves feeder house tilt range
@@ -4360,7 +4360,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Feeder House Lateral Tilt Range Calibration Procedure
+#### Feeder House Lateral Tilt Range Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4376,7 +4376,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Feeder House Lateral Tilt Speed
+#### Feeder House Lateral Tilt Speed
 This procedure calibrates Feeder House Lateral Tilt Speed by
 measuring current commanded and associated speed of the feeder house
 tilting. Performing this calibration improves feeder house tilt response
@@ -4399,7 +4399,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Feeder House Lateral Tilt Speed Calibration Procedure
+#### Feeder House Lateral Tilt Speed Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4415,7 +4415,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Wings (Folding Corn Head)
+#### Wings (Folding Corn Head)
 This procedure calibrates Folding Corn Head by folding and unfolding
 the wings of the corn head and measuring associated sensor voltage
 at each position. This allows the system to detect the position of
@@ -4441,7 +4441,7 @@ components are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Wings (Folding Corn Head) Calibration Procedure
+#### Wings (Folding Corn Head) Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4457,7 +4457,7 @@ components are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Reel and Cutterbar Position
+#### Reel and Cutterbar Position
 This procedure calibrates Reel and Cutterbar by extending/retracting
 the cutterbar and moving the reel to the minimum and maximum positions
 to associate the mechanical limits with sensor voltages. Performing
@@ -4480,7 +4480,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Reel and Cutterbar Position Calibration Procedure
+#### Reel and Cutterbar Position Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4513,7 +4513,7 @@ are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Amber Flasher
+#### Amber Flasher
 This calibration measures current demands of the amber lights.
 A normal current is used to compare the current demands when lights
 are used to detect if the trailer is attached or for bad bulb detection.
@@ -4533,7 +4533,7 @@ Amber Flasher bulbs or associated components are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Amber Flasher Calibration Procedure
+#### Amber Flasher Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Requirements</caption>
 <tbody>
@@ -4549,7 +4549,7 @@ Amber Flasher bulbs or associated components are replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Left Concave Leveling
+#### Left Concave Leveling
 This procedure calibrates the left concave to ensure a level
 and even flow of grain during harvest. Performing this calibration
 will reduce risk of damage.
@@ -4571,7 +4571,7 @@ Left concave has recently been installed or replaced.
 </table>
 
 # Calibrations Application
-## Left Concave Leveling Calibration Procedure
+#### Left Concave Leveling Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody>
@@ -4587,7 +4587,7 @@ Left concave has recently been installed or replaced.
 </table>
 
 # Calibrations Application
-## Right Concave Leveling
+#### Right Concave Leveling
 This procedure calibrates the right concave to ensure a level
 and even flow of grain during harvest. Performing this calibration
 will reduce risk of damage.
@@ -4609,7 +4609,7 @@ Right concave has recently been installed or replaced.
 </table>
 
 # Calibrations Application
-## Right Concave Leveling Calibration Procedure
+#### Right Concave Leveling Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody>
@@ -4625,7 +4625,7 @@ Right concave has recently been installed or replaced.
 </table>
 
 # Calibrations Application
-## Chaffer Position
+#### Chaffer Position
 This procedure calibrates the chaffer position.
 Chaffer element or chaffer actuator has been replaced/adjusted.
 Element clearance on –the left side and right side are
@@ -4645,7 +4645,7 @@ not matched.
 </table>
 
 # Calibrations Application
-## Chaffer Position Calibration Procedure
+#### Chaffer Position Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody>
@@ -4661,7 +4661,7 @@ not matched.
 </table>
 
 # Calibrations Application
-## Sieve Position
+#### Sieve Position
 This procedure calibrates the sieve position.
 Sieve element or sieve actuator has been replaced/adjusted.
 Element clearance on the left side and right side are
@@ -4681,7 +4681,7 @@ not matched.
 </table>
 
 # Calibrations Application
-## Sieve Position Calibration Procedure
+#### Sieve Position Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirement:</caption>
 <tbody>
@@ -4697,7 +4697,7 @@ not matched.
 </table>
 
 # Calibrations Application
-## Header Suspension Service Mode
+#### Header Suspension Service Mode
 This procedure can be used to release hydraulic pressure from
 the hinged draper suspension systems. Releasing hydraulic load makes
 service and maintenance possible and can be controlled for either
@@ -4729,7 +4729,7 @@ suspension systems.
 </table>
 
 # Calibrations Application
-## Header Suspension Service Mode | Procedure
+#### Header Suspension Service Mode | Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -4751,7 +4751,7 @@ suspension systems.
 </table>
 
 # Calibrations Application
-## Header Suspension Service Mode | Pressure Control
+#### Header Suspension Service Mode | Pressure Control
 Header Suspension Service Mode allows you to use the controls
 to manipulate hydraulic pressures on front end equipment suspension
 systems.
@@ -4765,7 +4765,7 @@ When the header is attached to an S700 Series machine,
 only one section of the header can be drained at a time.
 
 # Calibrations Application
-## Grain Loss Monitor Tap Test
+#### Grain Loss Monitor Tap Test
 This procedure can be used to verify that various grain loss
 monitor sensors are functioning normally and detecting loss strikes.
 After the procedure begins, physically tapping each sensor should
@@ -4791,7 +4791,7 @@ A grain loss sensor or system component is replaced.
 </table>
 
 # Calibrations Application
-## Grain Loss Monitor Tap Test Procedure
+#### Grain Loss Monitor Tap Test Procedure
 This procedure can be used to verify that various grain loss
 monitor sensors are functioning normally and detecting loss strikes.
 After the procedure begins, physically tapping each sensor should
@@ -4814,7 +4814,7 @@ of machinery is not possible.
 </table>
 
 # Calibrations Application
-## Gauge Wheel Speed
+#### Gauge Wheel Speed
 This procedure calibrates the extension and retraction rates
 of the gauge wheels to ensure optimal performance of cut height adjustments.
 A hydraulic gauge wheel proportional valve or related
@@ -4836,7 +4836,7 @@ Items Accessible on Gauge Wheel Speed Page:
 </table>
 
 # Calibrations Application
-## Gauge Wheel Speed Calibration Procedure
+#### Gauge Wheel Speed Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4852,7 +4852,7 @@ Items Accessible on Gauge Wheel Speed Page:
 </table>
 
 # Calibrations Application
-## Hinged Draper Wing Position
+#### Hinged Draper Wing Position
 This procedure calibrates the Hinged Draper Wing Position. This
 procedure also calibrates the position of the frame wings.
 A wing position sensor or related component is changed.
@@ -4871,7 +4871,7 @@ A wing position sensor or related component is changed.
 </table>
 
 # Calibrations Application
-## Hinged Draper Wing Position Calibration Procedure
+#### Hinged Draper Wing Position Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4887,7 +4887,7 @@ A wing position sensor or related component is changed.
 </table>
 
 # Calibrations Application
-## Windscreen Position
+#### Windscreen Position
 This procedure calibrates the Windscreen Position.
 The windscreen position sensor or related components are
 replaced/adjusted.
@@ -4906,7 +4906,7 @@ replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Windscreen Position Calibration Procedure
+#### Windscreen Position Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4918,7 +4918,7 @@ replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Tailings Calibration
+#### Tailings Calibration
 This procedure calibrates the empty level of the tailings elevator.
 Performing this calibration may improve tailings system performance.
 Control unit, tailings sensors, elevator chain, or related
@@ -4939,7 +4939,7 @@ Lower auger or return auger is replaced.
 </table>
 
 # Calibrations Application
-## Tailings Calibration Procedure
+#### Tailings Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4955,7 +4955,7 @@ Lower auger or return auger is replaced.
 </table>
 
 # Calibrations Application
-## Left Threshing Clearance
+#### Left Threshing Clearance
 This procedure calibrates left threshing clearance by identifying
 the fully opened and closed portions of the concaves. A properly calibrated
 threshing clearance provides the best results for the harvest setting
@@ -4983,7 +4983,7 @@ replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Left Threshing Clearance Calibration Procedure
+#### Left Threshing Clearance Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -4999,7 +4999,7 @@ replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Right Threshing Clearance
+#### Right Threshing Clearance
 This procedure calibrates right threshing clearance by identifying
 the fully opened and closed positions of the concaves. A properly
 calibrated threshing clearance provides the best results for the harvest
@@ -5027,7 +5027,7 @@ replaced/adjusted.
 </table>
 
 # Calibrations Application
-## Right Threshing Clearance Calibration Procedure
+#### Right Threshing Clearance Calibration Procedure
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Procedure Requirements</caption>
 <tbody>
@@ -5043,11 +5043,11 @@ replaced/adjusted.
 </table>
 
 # Combine Advisor™ Application
-## Access Combine Advisor™
+#### Access Combine Advisor™
 
 
 # Combine Advisor™ Application
-## Combine Advisor™ Main Page
+#### Combine Advisor™ Main Page
 Combine Advisor™, formerly Integrated Combine Adjustment 2,
 is where you can access Optimize Performance,
 Some of the following items displayed are only listed
@@ -5076,12 +5076,12 @@ bar using
 Example:
 
 # Combine Advisor™ Application
-## Advanced Settings
+#### Advanced Settings
 Advanced Settings allows you to set Tuning Parameters. See your
 John Deere dealer for information on what to set the parameters to.
 
 # Combine Advisor™ Application
-## Grain System Video
+#### Grain System Video
 Allows you to view the
 Some of the following items displayed are only listed
 if machine is equipped with the associated option.
@@ -5096,13 +5096,13 @@ information, see the Maintenance section of the Combine Operator’s
 Manual.
 
 # Combine Advisor™ Application
-## History
+#### History
 History allows you to view the adjustments Auto Maintain and
 Some of the following items displayed are only listed
 if machine is equipped with the associated option.
 
 # Combine Advisor™ Application
-## Performance
+#### Performance
 Performance monitor is used to show the performance target and
 current performance displayed on a timeline. To view the performance
 monitor, select History and choose Performance tab at top.
@@ -5120,7 +5120,7 @@ it indicates that it is not within the performance target. Auto Maintain
 then adjusts to correct the issue to bring it into the green area.
 
 # Combine Advisor™ Application
-## Active
+#### Active
 The Active tab shows adjustments currently applied by Auto Maintain
 and
 Some of the following items displayed are only listed
@@ -5128,7 +5128,7 @@ if machine is equipped with the associated option.
 To view
 
 # Combine Advisor™ Application
-## Completed
+#### Completed
 The Completed tab shows adjustments Auto Maintain and
 Some of the following items displayed are only listed
 if machine is equipped with the associated option.
@@ -5136,7 +5136,7 @@ To view
 The most recent adjustment is listed at the top.
 
 # Combine Advisor™ Application
-## Offset Details
+#### Offset Details
 Offset Details allows you to view current and past adjustments,
 the reasons they were made, and when they were made. If the adjustment
 is "Active", the adjustments are currently applied to the
@@ -5147,7 +5147,7 @@ Only some items show on this page depending on available
 options.
 
 # Combine Advisor™ Application
-## Adjustment Details
+#### Adjustment Details
 Adjustment Details allows you to view which adjustments have
 been made and the reasons the adjustments were made. It shows when
 the adjustment was completed.
@@ -5155,7 +5155,7 @@ This Adjustment Details screen is only applicable to permanent
 Auto Maintain adjustments.
 
 # Combine Advisor™ Application
-## Lens Debris
+#### Lens Debris
 Lens Debris shows the amount of dirt or smudges on the grain
 and tailings camera lens.
 The
@@ -5165,13 +5165,13 @@ conditions, weather, and crop conditions. For further information,
 see the Maintenance section of the Combine Operator's Manual.
 
 # Combine Advisor™ Application
-## Automation Status
+#### Automation Status
 Automation Status shows the status of
 Some of the following items displayed are only listed
 if machine is equipped with the associated option.
 
 # Combine Advisor™ Application
-## HarvestSmart™ Settings
+#### HarvestSmart™ Settings
 When managing engine power target while grain loss is
 enabled and changing the engine power target, the engine power target
 turns blue.
@@ -5179,7 +5179,7 @@ The target will be displayed in blue while being managed.
 Refer to the
 
 # Combine Advisor™ Application
-## Speed Limit
+#### Speed Limit
 Speed Limit sets the maximum allowable ground speed for
 You want to set the maximum operating speed.
 You do not want the machine running over a specific speed
@@ -5201,7 +5201,7 @@ Maximum— 14.0 km/h (8.7 mph)
 Increments— 0.1 km/h (0.1 mph)
 
 # Combine Advisor™ Application
-## Response Aggressiveness
+#### Response Aggressiveness
 Response Aggressiveness controls how quickly the
 You want the machine to react faster to changes in harvesting
 conditions.
@@ -5214,7 +5214,7 @@ Response Aggressiveness will default back to 3 when a
 new performance target is set.
 
 # Combine Advisor™ Application
-## HarvestSmart™ | Automation
+#### HarvestSmart™ | Automation
 Automation allows you to enable or disable the
 Performing a turn at a headland. Press header activation
 button 1 to raise the header and maintain a static ground speed. Move
@@ -5249,7 +5249,7 @@ The ground speed is lowered below 2 km/h (1.2 mph).
 The brake pedals are pressed.
 
 # Combine Advisor™ Application
-## Engine Power Target
+#### Engine Power Target
 Engine Power Target sets the target engine power that
 The target will be displayed in blue while being automatically
 managed.
@@ -5287,11 +5287,11 @@ Maximum— 100%
 Increments— 1%
 
 # Combine Advisor™ Application
-## Active Terrain Adjustment™ Settings
+#### Active Terrain Adjustment™ Settings
 
 
 # Combine Advisor™ Application
-## Uphill Sensitivity
+#### Uphill Sensitivity
 Uphill Sensitivity allows you to accelerate or decelerate system
 reaction to vehicle pitch, helping to reduce grain loss and tailings
 while traveling uphill.
@@ -5307,7 +5307,7 @@ Cleaning shoe loss or tailings levels are elevated while
 harvesting uphill. Adjust the sensitivity higher.
 
 # Combine Advisor™ Application
-## Downhill Sensitivity
+#### Downhill Sensitivity
 Downhill Sensitivity allows you to accelerate or decelerate
 system reaction to vehicle pitch, helping to maintain grain cleanliness
 while harvesting downhill.
@@ -5320,7 +5320,7 @@ Grain tank is not clean while harvesting downhill. Adjust
 the sensitivity higher.
 
 # Combine Advisor™ Application
-## HarvestSmart™ Status
+#### HarvestSmart™ Status
 Not all possibilities are listed here. To open a list
 of current statuses, select the HarvestSmart™ Status.
 HarvestSmart™ automation must be ON.
@@ -5333,7 +5333,7 @@ Multi-function lever must be set to at least 2 km/h (1.25
 mph)
 
 # Combine Advisor™ Application
-## Active Terrain Adjustment™ Status
+#### Active Terrain Adjustment™ Status
 Some of the following items displayed are only listed
 if machine is equipped with the associated option.
 Not all possibilities are listed here. To open a list
@@ -5346,7 +5346,7 @@ Engine must be set to high idle.
 Header must be below record stop height.
 
 # Combine Advisor™ Application
-## Auto Maintain Status
+#### Auto Maintain Status
 Auto Maintain Status is used to communicate the current state
 of the Auto Maintain system. Auto Maintain Status also allows you
 to view requirements that must be met for the system to operate properly.
@@ -5366,7 +5366,7 @@ Machine must have steady ground speed.
 Crop flow must be present.
 
 # Combine Advisor™ Application
-## Optimize Performance
+#### Optimize Performance
 Optimize Performance, formerly Interactive Combine Adjustment,
 recommends adjustments to the user based on one or more reported issues.
 Stop is only selectable when one or more performance issues
@@ -5378,7 +5378,7 @@ selected, the system remembers your current selections. Reopening
 triggers the system to find recommendations based on those selections.
 
 # Combine Advisor™ Application
-## Offset Tuning Chaffer
+#### Offset Tuning Chaffer
 Offset Tuning | Chaffer adjusts the Step Size amount to the
 chaffer when commanded by the
 Uncheck to prevent Active Terrain Adjustment™ from adjusting
@@ -5402,7 +5402,7 @@ Maximum: 3
 Increment: 1
 
 # Combine Advisor™ Application
-## Offset Tuning Sieve
+#### Offset Tuning Sieve
 Offset Tuning | Sieve adjusts the Step Size amount to the sieve
 when commanded by the
 "Include in automation" defaults to different
@@ -5425,13 +5425,13 @@ Maximum: 3
 Increment: 1
 
 # Combine Advisor™ Application
-## Cannot Maintain Target
+#### Cannot Maintain Target
 Combine Advisor™ Cannot Maintain Target states that Combine
 Advisor™ may not be able to maintain the Performance Target in the
 current conditions.
 
 # Combine Advisor™ Application
-## Offset Tuning Cleaning Fan
+#### Offset Tuning Cleaning Fan
 Offset Tuning | Cleaning Fan adjusts the Step Size amount to
 the fan speed when commanded by the
 The Cleaning Fan is always "Included in Automation",
@@ -5452,7 +5452,7 @@ Maximum: 50 n/min
 Increment: 10 n/min
 
 # Combine Advisor™ Application
-## Set Performance Target
+#### Set Performance Target
 Set Performance Target allows you to inform the system that
 existing grain loss, grain quality, and engine power levels are acceptable.
 The system then monitors feedback from the sensors to understand what
@@ -5484,7 +5484,7 @@ If automation systems are not able to maintain the current
 performance target,
 
 # Combine Advisor™ Application
-## Performance Issues
+#### Performance Issues
 Performance Issues let you change the severity of the issues
 you are experiencing to generate recommendations in Optimize Performance.
 Select all issues you are currently experiencing.
@@ -5493,7 +5493,7 @@ reported, the system goes through the "Finding Recommendations"
 state.
 
 # Combine Advisor™ Application
-## Separator Losses
+#### Separator Losses
 Separator Losses are loose kernels that leave the machine through
 the discharge/overshot beater. A large amount of free grain at the
 rear of the grain return pan is an indicator.
@@ -5502,7 +5502,7 @@ Perform Power Shutdown, refer to Operator's Manual
 for more information.
 
 # Combine Advisor™ Application
-## Shoe Losses
+#### Shoe Losses
 Shoe Losses is grain that has exited the machine through the
 cleaning shoe, either by air current or by contact with the chaffer.
 View cleaning Shoe Losses on the VisionTrak display.
@@ -5513,7 +5513,7 @@ Measure losses over the complete working width several times. If swathing
 straw, also measure where the chaff is spread.
 
 # Combine Advisor™ Application
-## Unthreshed Losses
+#### Unthreshed Losses
 Unthreshed Losses is grain on the ground that remains attached
 to cob, grain head, or pod.
 Perform a power shutdown, refer to Operator's Manual for
@@ -5522,38 +5522,38 @@ Inspect the processed material on the ground behind the
 machine.
 
 # Combine Advisor™ Application
-## Broken Grain
+#### Broken Grain
 Broken Grain is damaged or broken grain in the grain tank.
 View the grain tank and inspect the grain sample.
 
 # Combine Advisor™ Application
-## Light Foreign Material
+#### Light Foreign Material
 Light Foreign Material is pieces of light and fluffy material
 in the grain tank with the clean grain. These pieces are something
 that you would expect air to blow away.
 View the grain tank and inspect the grain sample.
 
 # Combine Advisor™ Application
-## Heavy Foreign Material
+#### Heavy Foreign Material
 Heavy Foreign Material is pieces of cob or short sections of
 stem/stalk in the grain tank with the clean grain. These pieces are
 something that you would not expect air to blow away.
 View the grain tank and inspect the grain sample.
 
 # Combine Advisor™ Application
-## Unthreshed Material
+#### Unthreshed Material
 Unthreshed Material is grain in the grain tank remaining attached
 to cob, grain head, or pod.
 View the grain tank and inspect the grain sample.
 
 # Combine Advisor™ Application
-## Straw Quality Issues
+#### Straw Quality Issues
 Windrow mode only. Straw is excessively broken, too short, or
 tangled.
 Inspect straw windrow.
 
 # Combine Advisor™ Application
-## Excess Tailings
+#### Excess Tailings
 Tailings volume is high enough to cause tailings full alarm
 or higher than expected by operator.
 View tailings on the VisionTrak display.
@@ -5566,7 +5566,7 @@ chaff load on the cleaning shoe.
 Properly set machines have some tailings volume.
 
 # Combine Advisor™ Application
-## Solutions
+#### Solutions
 Recommended Solutions allows you to see a complete list of suggested
 solutions and specifics about the intended adjustment.
 Solutions that require you to adjust settings manually,
@@ -5583,7 +5583,7 @@ When the adjustment is complete, a message appears on
 the display and you are returned to a blank issue selection page.
 
 # Combine Advisor™ Application
-## Ground Speed Adjustment
+#### Ground Speed Adjustment
 A Ground Speed Adjustment requires you to make manual machine
 adjustments. These adjustments are necessary for the Combine Advisor™
 application to auto-advance to the next step of the process.
@@ -5591,7 +5591,7 @@ Optimize Performance will resume in the same place when
 you open the application again after closing.
 
 # Combine Advisor™ Application
-## Separator Vane Adjustments
+#### Separator Vane Adjustments
 Separator Vane Adjustments may require you to make manual machine
 adjustments. These adjustments are necessary in order for the Optimize
 Performance application to auto-advance to the next step of the process.
@@ -5601,7 +5601,7 @@ Optimize Performance will resume in the same place when
 you reenter after closing.
 
 # Combine Advisor™ Application
-## Out-of-Cab Adjustments
+#### Out-of-Cab Adjustments
 Out-of-Cab Adjustments are machine optimization adjustments
 that you make outside of the cab.
 Shut down the machine before performing the recommended
@@ -5615,7 +5615,7 @@ Optimize Performance will resume in the same place when
 you open the application after closing.
 
 # Combine Advisor™ Application
-## Auto Maintain Settings
+#### Auto Maintain Settings
 Auto Maintain | Settings allows you to set the response aggressiveness
 and sensitivity levels for grain loss, broken grain, and foreign material.
 To access Auto Maintain settings, select the screen area to the right
@@ -5624,7 +5624,7 @@ Acquiring performance targets is always enabled, allowing
 the system to set HarvestSmart™ or Auto Maintain targets at any time.
 
 # Combine Advisor™ Application
-## Response Aggressiveness
+#### Response Aggressiveness
 Response Aggressiveness controls how frequently Auto Maintain
 adjusts the machine when an issue is present.
 Auto Maintain is not adjusting frequently enough to resolve
@@ -5633,7 +5633,7 @@ Auto Maintain is adjusting too frequently to resolve the issues
 that are found.
 
 # Combine Advisor™ Application
-## Grain Loss Sensitivity
+#### Grain Loss Sensitivity
 Grain Loss | Sensitivity controls how fast the system recognizes
 grain loss before making an automatic change.
 You see shoe loss or separator loss and Auto Maintain is not
@@ -5642,7 +5642,7 @@ Auto Maintain is detecting a shoe loss or separator loss issue
 and the performance of that area is still acceptable to you.
 
 # Combine Advisor™ Application
-## Broken Grain Sensitivity
+#### Broken Grain Sensitivity
 Broken Grain | Sensitivity controls how fast the system recognizes
 broken grain.
 You see an unacceptable amount of broken grain in the grain
@@ -5651,7 +5651,7 @@ Auto Maintain is detecting a broken grain issue and the performance
 of that area is still acceptable to you.
 
 # Combine Advisor™ Application
-## Foreign Material Sensitivity
+#### Foreign Material Sensitivity
 Foreign Material | Sensitivity controls how fast the system
 recognizes foreign material.
 You see an unacceptable amount of one or more of the following
@@ -5670,7 +5670,7 @@ or stems).
 Unthreshed Material in the grain tank.
 
 # Combine Overview
-## Combine Overview
+#### Combine Overview
 Underscored text identifies that additional information
 is available within this section or another section of this publication.
 Combine Overview outlines the controls and features found inside
@@ -5680,12 +5680,12 @@ Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Combine Overview
-## Front Console
+#### Front Console
 Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Combine Overview
-## Corner Post Display
+#### Corner Post Display
 Some items below are only displayed if machine is equipped
 with the associated option.
 Shoe Loss Indicator is part of the
@@ -5694,21 +5694,21 @@ Separator Loss Indicator is part of the
 Tailings Loss Indicator is part of the
 
 # Combine Overview
-## CommandARM™ Console and Display
+#### CommandARM™ Console and Display
 Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Combine Overview
-## Multi-Function Lever
+#### Multi-Function Lever
 Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Combine Overview
-## Navigation Bar
+#### Navigation Bar
 
 
 # Combine Overview
-## Right-Hand Cab Items
+#### Right-Hand Cab Items
 Maximum combined current draw for switch power is 20 amps
 and unswitched power is 20 amps.
 Spade terminal (A) is direct positive power at all times.
@@ -5723,7 +5723,7 @@ Leave the brake pedals unlocked for field use and locked together
 when transporting.
 
 # Combine Overview
-## Left-Hand Cab Items
+#### Left-Hand Cab Items
 Refrigerator operates only when the key switch is in the
 Run position and MUST remain plugged into the auxiliary outlet to
 keep food or beverages cold.
@@ -5734,7 +5734,7 @@ for troubleshooting. (For pattern information, see Troubleshooting
 in the Operator’s Manual.)
 
 # Combine Overview
-## Overhead Controls
+#### Overhead Controls
 Press top of the switch to activate mirror heat.
 Press bottom of the switch to deactivate mirror heat.
 Key switch must be in the Run position.
@@ -5748,11 +5748,11 @@ Key switch must be in the Run position.
 Key switch must be in the Run position.
 
 # Combine Overview
-## Seat Controls
+#### Seat Controls
 
 
 # Combine Overview
-## Key Switch
+#### Key Switch
 Sound horn before starting the engine to clear people
 away from the machine.
 To avoid the possibility of personal
@@ -5761,11 +5761,11 @@ engine by shorting across starter terminals. Machine starts in gear
 if normal circuit is bypassed.
 
 # Combine Overview
-## Adjusting Steering Wheel
+#### Adjusting Steering Wheel
 
 
 # Combine Overview
-## Operate Turn Signals, Horn and High and Low Beam
+#### Operate Turn Signals, Horn and High and Low Beam
 Accidental collision with another vehicle can cause
 serious injury or death to you or others. Always comply with traffic
 regulations when driving machine on a road. Dim headlights to low-beam
@@ -5776,20 +5776,20 @@ With the lights off, push or pull the lever to momentarily
 activate the high-beam headlights.
 
 # Combine Overview
-## Operate Windshield Wiper and Washer
+#### Operate Windshield Wiper and Washer
 Some items below are only displayed if machine is equipped
 with the associated option.
 
 # Combine Overview
-## ComfortCommand™ Operators Seat (Basic Seat)
+#### ComfortCommand™ Operators Seat (Basic Seat)
 
 
 # Combine Overview
-## ComfortCommand™ Operators Seat (Premium Cloth Seat)
+#### ComfortCommand™ Operators Seat (Premium Cloth Seat)
 
 
 # Combine Overview
-## ComfortCommand™ Operators Seat (Ultimate Leather Seat)
+#### ComfortCommand™ Operators Seat (Ultimate Leather Seat)
 High Intensity (top position)
 Off (center position)
 Low Intensity (bottom position)
@@ -5803,7 +5803,7 @@ not place objects on the seat, such as a blanket, cushion, cover,
 or similar item, which can cause the seat heater to overheat.
 
 # Combine Overview
-## Seat Belts
+#### Seat Belts
 Inspect seat belts and mounting hardware on your machine
 at least once a year. If the seat belt system, including mounting
 hardware, buckle, belt, or retractor, shows any sign of damage such
@@ -5813,13 +5813,13 @@ safety, replace the belt system only with replacement parts approved
 for your machine. See your John Deere dealer for replacement parts.
 
 # Combine Overview
-## Instructional Seat
+#### Instructional Seat
 The instructional seat has been provided only for training
 operators or diagnosing machine problems. Keep all other riders off
 the machine and equipment. Always wear seat belts.
 
 # Combine Overview
-## Harvesting Controls
+#### Harvesting Controls
 Swap is only available when the Direction adjustment is
 not in the center position. If the machine is equipped with Auto Swap,
 it is recommended to enable Auto Swap in windy conditions. See the
@@ -5828,22 +5828,22 @@ Rotate dial clockwise to increase setting.
 Rotate dial counterclockwise to decrease setting.
 
 # Combine Overview
-## HVAC
+#### HVAC
 
 
 # Combine Overview
-## Radio
+#### Radio
 Press to mute audio.
 Press to resume play of audio.
 
 # Combine Overview
-## Phone
+#### Phone
 Voice recognition (VR) only functions on machines equipped
 with the John Deere touchscreen radio. The call answer function works
 with all John Deere radios that support
 
 # Combine Overview
-## Voice Recognition (VR) and Call Answer
+#### Voice Recognition (VR) and Call Answer
 Voice recognition (VR) only functions on machines equipped
 with the John Deere touchscreen radio. The call answer function works
 with all John Deere radios that support
@@ -5921,22 +5921,22 @@ Native means voice recognition
 </table>
 
 # Combine Overview
-## Engine and Ground Drive
+#### Engine and Ground Drive
 Machine will not enter road mode if separator is engaged.
 Warning alarm message appears indicating separator is engaged. Shut
 OFF separator to engage the road transport disconnect switch.
 
 # Combine Overview
-## Lights
+#### Lights
 
 
 # Combine Overview
-## Console and Display
+#### Console and Display
 This function is only available on machines not equipped
 with seat swivel configurations.
 
 # Combine Overview
-## Feeder House Reverser
+#### Feeder House Reverser
 If operating at a high engine speed, turn feeder house
 reverser switch OFF and throttle engine to low idle.
 Push down and hold the switch.
@@ -5944,7 +5944,7 @@ Pull back to lock the switch.
 Push the switch forward once the feeder house is cleared.
 
 # Combine Overview
-## Belt Pickup Cleanout
+#### Belt Pickup Cleanout
 In order for cleanout operation to begin, the process
 of engaging, reversing, and engaging again must occur within 30 seconds.
 Push down and forward to engage the header.
@@ -5952,7 +5952,7 @@ Pull back to engage the feeder house reverser.
 Push the switch forward again to engage the header.
 
 # Combine Overview
-## Header Engage
+#### Header Engage
 If you leave the seat after engagement, header continues
 to operate for five seconds before disengaging.
 Separator Engage must be ON.
@@ -5963,7 +5963,7 @@ Push forward to lock the switch.
 Pull back on the switch to turn off header functions.
 
 # Combine Overview
-## Separator Engage
+#### Separator Engage
 Separator disengages when discharge beater speed drops
 below 300 rpm.
 If you leave the operator seat after engagement,
@@ -5979,7 +5979,7 @@ Push forward to lock the switch.
 Pull back on the switch to turn off separator functions.
 
 # Combine Overview
-## Threshing Clearance Adjust
+#### Threshing Clearance Adjust
 Threshing Clearance Adjust allows you to increase or decrease
 the distance between threshing elements and concave for varying crops
 and conditions.
@@ -6006,7 +6006,7 @@ Maximum: 40
 Increment: 1
 
 # Combine Overview
-## Threshing Speed Adjust
+#### Threshing Speed Adjust
 Threshing Speed Adjust allows you to modify the threshing speed
 for varying crop conditions.
 For the threshing speed settings, refer to Crop Settings
@@ -6037,7 +6037,7 @@ Maximum: 1300 rpm
 Increment: 10 rpm
 
 # Combine Overview
-## Cleaning Fan Speed Adjust
+#### Cleaning Fan Speed Adjust
 Cleaning Fan Speed Adjust allows you to modify the fan speed
 to improve grain cleanliness and reduce grain loss.
 Fan speed motor has a thermal (heat) shutoff that stops the
@@ -6069,7 +6069,7 @@ Maximum: 1430 rpm
 Increment: 10 rpm
 
 # Combine Overview
-## Chaffer Adjust
+#### Chaffer Adjust
 Chaffer Adjust allows you to modify the opening of the chaffer
 elements to improve the grain cleanliness and reduce the cleaning
 shoe loss for varying crops and conditions.
@@ -6095,7 +6095,7 @@ Maximum: 30
 Increment: 1
 
 # Combine Overview
-## Sieve Adjust
+#### Sieve Adjust
 Sieve Adjust allows you to modify the opening of the sieve to
 improve grain cleanliness and manage tailings volumes for varying
 crops and conditions.
@@ -6121,7 +6121,7 @@ Maximum: 30
 Increment: 1
 
 # Combine Overview
-## Seek
+#### Seek
 AM/FM/WX/MW/LW: Press the switch (short press) to change
 preset.
 AM/FM/WX/MW/LW: Press the switch (long press) to SEEK.
@@ -6131,7 +6131,7 @@ MP3: Press the switch to go to the beginning of the current
 track, to the previous track or to the next track.
 
 # Combine Overview
-## ProDrive™ XL (If Equipped)
+#### ProDrive™ XL (If Equipped)
 Tire sizes and country code regulations limit maximum
 ground speed. Speed can be programmed from zero to the maximum allowable
 ground speed.
@@ -6142,7 +6142,7 @@ separator engaged causes machine to come to a quick, controlled stop.
 It is always recommended to wear your seat belt to avoid serious injury.
 
 # Combine Overview
-## Road Transport Disconnect
+#### Road Transport Disconnect
 Road transport disconnect switch prevents the following functions:
 Separator Engage
 Header Engage
@@ -6165,7 +6165,7 @@ speed is fixed at a constant 1700 rpm. This increases fuel efficiency
 when transporting the machine.
 
 # Combine Overview
-## Differential Lock (If Equipped)
+#### Differential Lock (If Equipped)
 Differential lock does not engage when the road transport
 disconnect switch is ON. Differential disengages when the brake pedals
 are pressed.
@@ -6174,7 +6174,7 @@ is below 10 km/h (6.2 mph) and automatically disengages when ground
 speed is above 12 km/h (7.5 mph).
 
 # Combine Overview
-## Four-Wheel Drive (If Equipped)
+#### Four-Wheel Drive (If Equipped)
 Controls the engagement/disengagement and speed of the four-wheel
 drive system.
 Do NOT switch four-wheel drive ON or OFF while driving
@@ -6192,7 +6192,7 @@ four-wheel drive is engaged. When in road transport mode, four-wheel
 drive operation is disabled.
 
 # Combine Overview
-## Park Brake
+#### Park Brake
 Press the park brake button to activate the park brake.
 Park brake indicator on corner post illuminates indicating the park
 brake is engaged.
@@ -6202,7 +6202,7 @@ on corner post turns OFF. Park brake is still engaged until multi-function
 lever is moved out of neutral position returning to automatic mode.
 
 # Combine Overview
-## High Exhaust System Temperature (HEST) Indicator
+#### High Exhaust System Temperature (HEST) Indicator
 Final Tier 4/Stage V: Damage to exhaust cleaning
 components may occur if the engine is turned OFF while performing
 exhaust filter cleaning or shortly after cleaning is complete. Alarm
@@ -6210,12 +6210,12 @@ sounds and a warning message appears on the display. Start the machine
 and follow messages on the display to allow the components to cool.
 
 # Combine Overview
-## Fuel Level Indicator
+#### Fuel Level Indicator
 When the level reaches 10% of remaining fuel, fuel indicator
 flashes, alarm sounds, and low fluid message appears.
 
 # Combine Overview
-## Diesel Exhaust Fluid (DEF) Level Indicator
+#### Diesel Exhaust Fluid (DEF) Level Indicator
 When the level reaches 10%, level indicator flashes, alarm
 sounds, and low fluid message appears.
 When the level reaches 0%, level indicator illuminates
@@ -6228,7 +6228,7 @@ indicator (Red) illuminates, engine is derated and machine functions
 are restricted.
 
 # Combine Overview
-## Quick Stop Switch
+#### Quick Stop Switch
 It is always recommended to wear your seat
 belt to avoid serious injury.
 Header drive can be disengaged by this switch in
@@ -6244,7 +6244,7 @@ Grain Tank Covers (If Equipped)
 Folding Unloading Auger (If Equipped)
 
 # Combine Overview
-## Unloading Auger Swing Switch
+#### Unloading Auger Swing Switch
 Road transport disconnect switch must be in field position.
 You must be seated.
 Press the top of the switch to swing out auger. Press the bottom
@@ -6254,7 +6254,7 @@ auger drive is engaged. Move auger back to transport position when
 not in use.
 
 # Combine Overview
-## Unloading Auger Drive Switch
+#### Unloading Auger Drive Switch
 Road transport disconnect switch must be in field position.
 You must be seated.
 Press the unloading auger drive switch once to turn ON.
@@ -6279,7 +6279,7 @@ auger if the header and unloading auger are stopped using the quick
 stop switch, press the unloading auger drive switch again.
 
 # Combine Overview
-## AutoTrac™ Resume Button (If Equipped)
+#### AutoTrac™ Resume Button (If Equipped)
 Engine is running.
 Road transport disconnect switch must be in field position.
 Header switch is engaged.
@@ -6287,7 +6287,7 @@ Operator in seat.
 Press to engage system.
 
 # Combine Overview
-## Header Raise Lower and Tilt Switch
+#### Header Raise Lower and Tilt Switch
 Road transport disconnect switch must be in field position.
 You must be seated.
 Press and hold the top of the switch to raise header.
@@ -6303,7 +6303,7 @@ NOTE: It is recommended to lower the feeder house roughly
 or service.
 
 # Combine Overview
-## Reel Raise/Lower, Reel Fore/Aft (If Equipped) Switch
+#### Reel Raise/Lower, Reel Fore/Aft (If Equipped) Switch
 These switch functions are available when a draper platform
 with the features mentioned is attached to the machine.
 Using the switch to raise/lower the reel and to move the reel
@@ -6327,7 +6327,7 @@ Position the reel tines backward for more aggressive lifting
 of the crop.
 
 # Combine Overview
-## Feeder House Backshaft Speed, Adjustable Corn Head Deck Plates
+#### Feeder House Backshaft Speed, Adjustable Corn Head Deck Plates
 (If Equipped) Switch
 These switch functions are available when a corn head
 with the features mentioned is attached to the machine.
@@ -6343,7 +6343,7 @@ Press the right side of the switch to decrease deck plate
 spacing.
 
 # Combine Overview
-## Header Activation Buttons
+#### Header Activation Buttons
 Header positions obtained by pressing the activation buttons
 may be overcome by pressing reel raise/lower or reel fore/aft switch
 or header raise/lower and lateral tilt switch. Once the activation
@@ -6371,7 +6371,7 @@ Active Header Float
 Hydraulic Feeder House Fore/Aft Tilt (If Equipped)
 
 # Combine Overview
-## VisionTrak
+#### VisionTrak
 VisionTrak monitor checks grain loss by measuring a representative
 sample of losses over the cleaning shoe and through the separator.
 VisionTrak continuously monitors machine performance to enable you
@@ -6401,7 +6401,7 @@ Manual for VisionTrak operational checks and sensor inspection procedures.
 </table>
 
 # Lights and Signals
-## Lighting Locations (Front and Rear View Lights)
+#### Lighting Locations (Front and Rear View Lights)
 Lights must be turned ON when transporting.
 Controls beacon lights (A and L).
 Two beacon lights are at the front (left and right) and
@@ -6424,7 +6424,7 @@ Controls beacon lights (A and L), cab headlights (D
 and E), hazard lights (F, H, and I), and tail/brake lights (J).
 
 # Lights and Signals
-## Lighting Locations (Front and Rear View Lights Continued)
+#### Lighting Locations (Front and Rear View Lights Continued)
 When auto beacon lights are enabled and grain reaches
 the 3/4 full sensor, the beacon lights are activated (3 seconds ON
 and 6 seconds OFF). When the grain reaches the grain tank full sensor,
@@ -6448,7 +6448,7 @@ Stubble lights provide operator with more lighting behind
 header for night operation and low light conditions.
 
 # Lights and Signals
-## Lighting Locations (Front and Rear View Lights Continued)
+#### Lighting Locations (Front and Rear View Lights Continued)
 To avoid motorist confusion, do not operate worklights
 when transporting on public roadways.
 If operator leaves seat after separator is engaged, rear
@@ -6470,7 +6470,7 @@ lights (road or field) were enabled within the previous 5 minutes.
 The operator also has the option to disable exit lighting, if desired.
 
 # Lights and Signals
-## Lighting Locations (Left and Right Side View Lights)
+#### Lighting Locations (Left and Right Side View Lights)
 Controls 360° side lights (A), signature lights (D), and
 unloading auger light (E).
 Unloading auger light comes ON when the auger is extended
@@ -6479,7 +6479,7 @@ Unloading auger light provides lighting for unloading
 grain tank at night or in low light conditions.
 
 # Lights and Signals
-## Lighting Locations (Left and Right Side View Lights Continued)
+#### Lighting Locations (Left and Right Side View Lights Continued)
 If operator leaves seat after separator is engaged, shoe
 service lights flash and will continue to flash until separator speed
 reaches zero.
@@ -6493,7 +6493,7 @@ Shoe service lights automatically turn OFF when the machine
 starts moving.
 
 # Lights and Signals
-## Lighting Locations (Left and Right Side View Lights Continued)
+#### Lighting Locations (Left and Right Side View Lights Continued)
 If operator leaves seat after separator is engaged, gull
 wing service lights flash and will continue to flash until separator
 speed reaches zero.
@@ -6506,7 +6506,7 @@ Gull wing service lights automatically turn OFF when the
 machine starts moving.
 
 # Lights and Signals
-## Lighting Locations (Top View Lights)
+#### Lighting Locations (Top View Lights)
 Controls grain tank light (A).
 Grain tank light provides operator with lighting in the
 grain tank for night operation and low light conditions.
@@ -6524,7 +6524,7 @@ machine starts moving. The engine service lights remain OFF until
 the switch is cycled, since vehicle movement was detected.
 
 # Lights and Signals
-## Lighting Delay/Timeout
+#### Lighting Delay/Timeout
 When all the lights are first turned to the ON position
 (key switch OFF), there is a slight delay.
 All the lights turn OFF while the machine is attempting
@@ -6542,7 +6542,7 @@ Lights come on again once the engine is running and the batteries
 are recharging.
 
 # Feeder House
-## Feeder House Safety Lock
+#### Feeder House Safety Lock
 The feeder house is equipped with a hydraulic locking
 system. When locked, the feeder house will not raise or lower and
 the fore/aft frame will not tilt.
@@ -6566,12 +6566,12 @@ Raise feeder house until the safety lock indicator
 extends and lower feeder house as needed.
 
 # Feeder House
-## Feeder House Dust Fan (If Equipped)
+#### Feeder House Dust Fan (If Equipped)
 The feeder house is equipped with a dust fan to remove excess
 dust and debris from the feeder house.
 
 # Feeder House
-## Feeder House Dust Fan (If Equipped) Inspection Doors
+#### Feeder House Dust Fan (If Equipped) Inspection Doors
 Clean the dust fan system after 50 hours of the system
 being turned off.
 Open the inspection doors (A).
@@ -6581,7 +6581,7 @@ Close the inspection
 doors.
 
 # Feeder House
-## Feeder House Side Shields
+#### Feeder House Side Shields
 Feeder house shields have a front and rear shield.
 Turn latch (A) and swing
 the front shield open for service.
@@ -6591,7 +6591,7 @@ Install and close the
 shields before operating the machine.
 
 # Feeder House
-## Feeder House Doors
+#### Feeder House Doors
 Loosen nuts (A) on each side of the door and push
 nuts towards center of the feeder house.
 Push the door (B) rearward
@@ -6602,7 +6602,7 @@ Close the doors before
 operating the machine.
 
 # Feeder House
-## Stone Trap
+#### Stone Trap
 The stone trap protects the cylinder and concave from
 rock or stone damage.
 Remove quick-lock pin (A) and move lever (B) down
@@ -6613,14 +6613,14 @@ Move the lever up to
 close the stone trap and retain with the quick-lock pin.
 
 # Feeder House
-## Stone Trap Door—Adjusting
+#### Stone Trap Door—Adjusting
 Loosen lock nut (A).
 Tighten or loosen nut
 (B) as desired.
 Tighten lock nut.
 
 # Feeder House
-## Set Feeder House Fore/Aft Tilt Frame Zero Point
+#### Set Feeder House Fore/Aft Tilt Frame Zero Point
 Fore/aft tilt frame is used to set the correct relationship
 between platform skid plates and the ground. It compensates for the
 different tire sizes, rear axle settings, and other variables.
@@ -6643,7 +6643,7 @@ distance.
 Pivot Pin To Ground
 
 # Feeder House
-## Feeder House Conveyor Chain—Adjusting
+#### Feeder House Conveyor Chain—Adjusting
 Open the access door (A) on both sides of the feeder
 house shield.
 One offset link on each
@@ -6664,7 +6664,7 @@ Close the access door
 on both sides of the feeder house shield.
 
 # Feeder House
-## Feeder House Conveyor Chain Links—Removing
+#### Feeder House Conveyor Chain Links—Removing
 Remove offset links (A) for the initial chain adjustment.
 Remove offset links (B)
 for the second adjustment.
@@ -6681,7 +6681,7 @@ Slat M10 Hardware
 Chain Link M8 Cap Nuts
 
 # Feeder House
-## Feeder House Conveyor Speed—Changing
+#### Feeder House Conveyor Speed—Changing
 See the Crop Settings section for recommended feeder house
 conveyor sprocket settings.
 Sprocket is not recommended for corn use.
@@ -6706,7 +6706,7 @@ Close the right-hand
 front shield.
 
 # Feeder House
-## Feeder House Conveyor Drive Chain—Adjusting
+#### Feeder House Conveyor Drive Chain—Adjusting
 Open the right-hand front shield.
 Loosen nut (A) and push
 the sprocket rearward.
@@ -6718,7 +6718,7 @@ Close the right-hand
 front shield.
 
 # Feeder House
-## Feeder House Conveyor Drive Chain—Replacing
+#### Feeder House Conveyor Drive Chain—Replacing
 Open the right-hand front shield.
 Loosen nut (A) and move
 the sprocket rearward.
@@ -6735,12 +6735,12 @@ Close the right-hand
 front shield.
 
 # Feeder House
-## Feeder House Top Shaft Sprockets
+#### Feeder House Top Shaft Sprockets
 If the top shaft sprockets are worn past 12 mm (1/2 in) (A),
 the top shaft assembly must be replaced.
 
 # Feeder House
-## Feeder House Variable Speed Drive Belt—Replacing
+#### Feeder House Variable Speed Drive Belt—Replacing
 Loosen cap screws (A) around the variable drive sheave.
 Loosen nut (B) and adjust
 the turnbuckle (C) to move the sheave to the right.
@@ -6750,7 +6750,7 @@ Adjust the variable speed
 drive belt. See Feeder House Variable Speed Drive Belt—Adjusting.
 
 # Feeder House
-## Feeder House Variable Speed Drive Sheave Gap—Adjusting
+#### Feeder House Variable Speed Drive Sheave Gap—Adjusting
 Sheave gap should only be adjusted if the driver
 cylinder (A) is fully open.
 Loosen nut (B) and adjust
@@ -6765,7 +6765,7 @@ Tighten the nut to specification.
 Nut
 
 # Feeder House
-## Feeder House Front Drive Belt—Replacing
+#### Feeder House Front Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the front drive
 belt (B).
 Remove the front drive
@@ -6774,7 +6774,7 @@ Adjust the front drive
 belt. See Feeder House Front Drive Belt—Adjusting.
 
 # Feeder House
-## Feeder House Front Drive Belt—Adjusting
+#### Feeder House Front Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -6783,7 +6783,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Feeder House
-## Attach Multicoupler and Single-Point Latching
+#### Attach Multicoupler and Single-Point Latching
 To prevent hydraulic
 system contamination, clean the multicoupler surface with an electrical
 contact cleaner before connecting.
@@ -6813,7 +6813,7 @@ shaft from the storage position and install onto the feeder house
 backshaft, making sure that the locking collar locks fully.
 
 # Feeder House
-## Attaching and Detaching Header from Feeder House
+#### Attaching and Detaching Header from Feeder House
 Driveshafts with U-joints are used on the left-hand
 and right-hand sides of all approved headers.
 For complete attaching and detaching procedures, refer
@@ -6834,7 +6834,7 @@ Place and lock the multicoupler
 in storage position (D).
 
 # Feeder House
-## Feeder House Latch—Adjusting
+#### Feeder House Latch—Adjusting
 Open the left-hand feeder house shield (A).
 Loosen the cable lock
 nuts (B).
@@ -6857,24 +6857,24 @@ Close the left-hand feeder
 house shield.
 
 # Feeder House
-## Feeder House Latching Pins (Cleanout)
+#### Feeder House Latching Pins (Cleanout)
 
 
 # Feeder House
-## Shear Screw Location
+#### Shear Screw Location
 If shear screw (A) breaks, remove and replace with an extra
 shear screw (B).
 
 # Feeder House
-## Drive Belts—Left-Hand
+#### Drive Belts—Left-Hand
 
 
 # Feeder House
-## Drive Chain—Right-Hand
+#### Drive Chain—Right-Hand
 
 
 # Shields
-## Gull Wing Doors
+#### Gull Wing Doors
 Pinning and latch lever operation is the same on both
 sides of machine.
 Remove spring clip and pin (A) from locking plate
@@ -6883,17 +6883,17 @@ Turn latch (C) and pull
 out on the gull wing door to raise.
 
 # Shields
-## Gull Wing Doors and Shields
+#### Gull Wing Doors and Shields
 Before operating the machine, verify that all the gull wing
 doors and shields are attached and closed.
 
 # Shields
-## Gull Wing Door Cylinder Adjustment
+#### Gull Wing Door Cylinder Adjustment
 Remove nut (A) from the cylinder and move to the desired hole
 (B—D).
 
 # Shields
-## Left-Hand Side Shields
+#### Left-Hand Side Shields
 Open the shield (B).
 Lift and swing the toolbox
 (B) outward.
@@ -6911,7 +6911,7 @@ Lift the shield upward
 and remove.
 
 # Shields
-## Right-Hand Side Shields
+#### Right-Hand Side Shields
 Lift the shield upward
 and remove.
 Lift shield upward and
@@ -6920,7 +6920,7 @@ Lift shield upward and
 remove.
 
 # Shields
-## Separator Covers
+#### Separator Covers
 To prevent grain loss, verify that separator covers
 are flush against separator and underneath the edge of the separator.
 Covers are installed starting from the left-hand side (when facing
@@ -6933,7 +6933,7 @@ shields (C).
 Remove shields.
 
 # Separator
-## Feed Accelerator Wear Strips—Replacing
+#### Feed Accelerator Wear Strips—Replacing
 Feed accelerator wings and wear strips can be replaced
 without removing the feed accelerator. Replace feed accelerator wings
 and wear strips in sets of two and opposite of each other to maintain
@@ -6955,7 +6955,7 @@ specification.
 Feed Accelerator Wing Cap Screws
 
 # Separator
-## Feed Accelerator Chevron Weldment—Replacing
+#### Feed Accelerator Chevron Weldment—Replacing
 Feed accelerator chevron weldments can be replaced without
 removing the feed accelerator. Replace chevron weldments in sets of
 two and opposite of each other to maintain proper balance.
@@ -6967,7 +6967,7 @@ screws and tighten to specification.
 Cap Screws
 
 # Separator
-## Feed Accelerator Drive Two-Speed Belt—Adjusting
+#### Feed Accelerator Drive Two-Speed Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -6976,14 +6976,14 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Feed Accelerator Drive Two-Speed Belt—Replacing
+#### Feed Accelerator Drive Two-Speed Belt—Replacing
 Remove feed accelerator
 drive two-speed belt and install replacement belt.
 Adjust feed accelerator
 drive two-speed belt. See Feed Accelerator Drive Two-Speed Belt—Adjusting.
 
 # Separator
-## Feed Accelerator Drive Belt—Adjusting
+#### Feed Accelerator Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -6992,7 +6992,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Feed Accelerator Drive Belt—Replacing
+#### Feed Accelerator Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the feed accelerator
 drive belt (B).
 Remove the loading auger
@@ -7007,13 +7007,13 @@ Adjust feed accelerator
 drive belt. See Feed Accelerator Drive Belt—Adjusting.
 
 # Separator
-## Feed Accelerator Drive—Changing Speed
+#### Feed Accelerator Drive—Changing Speed
 Turn off the separator.
 Change the feed accelerator
 drive speed into desired position (B—D) using handle (A).
 
 # Separator
-## Rotor Gear Case—Changing Speed
+#### Rotor Gear Case—Changing Speed
 Change the rotor gear
 case speed into desired position (B—E) using handle (A).
 <table style='border-collapse: collapse; width: 100%;'>
@@ -7045,7 +7045,7 @@ case speed into desired position (B—E) using handle (A).
 </table>
 
 # Separator
-## Concave Recommendations
+#### Concave Recommendations
 For recommended machine settings for various crops, see
 the Crop Setting section for further information.
 <table style='border-collapse: collapse; width: 100%;'>
@@ -7098,13 +7098,13 @@ the Crop Setting section for further information.
 </table>
 
 # Separator
-## Concave Types
+#### Concave Types
 Round bar multiple crop concave is used for corn and soybeans.
 Large wire concave is used for soybeans and grain sorghum.
 Small wire concave is used for small grains.
 
 # Separator
-## Separator Grate Spacers
+#### Separator Grate Spacers
 Do not install
 the separator grate spacers in the fourth separator gate. Installation
 in this separator grate may cause interference with the return auger.
@@ -7120,12 +7120,12 @@ Remove all separator grate spacers (A) from the storage position
 channel (C).
 
 # Separator
-## Separator Grate Types
+#### Separator Grate Types
 Standard Cast Separator Grates - come standard on all
 machines.
 
 # Separator
-## Separator Grate Deflectors (If Equipped)
+#### Separator Grate Deflectors (If Equipped)
 The separator grate deflectors (A) provide protection to the
 separator rail when harvesting abrasive crops.
 Periodically inspect the left-hand and right-hand separator
@@ -7134,7 +7134,7 @@ Remove and replace separator grate deflectors as needed. See
 your John Deere dealer for further information.
 
 # Separator
-## Concave Sections (Active Concave Isolation)—Remove and Install
+#### Concave Sections (Active Concave Isolation)—Remove and Install
 Start engine and press threshing clearance adjust
 switch.
 To allow easier access
@@ -7156,7 +7156,7 @@ Turn knobs (A) clockwise
 to tighten.
 
 # Separator
-## Concave Leveling (Active Concave Isolation)
+#### Concave Leveling (Active Concave Isolation)
 Turn latches (B) and
 remove separator covers (C).
 Remove the front separator
@@ -7207,7 +7207,7 @@ Set the concave back
 to the desired position and resume harvesting.
 
 # Separator
-## Threshing Elements and Tines—Remove and Install
+#### Threshing Elements and Tines—Remove and Install
 If tines or elements need to be removed
 for reasons other than replacement, mark location on tines/elements
 and rotor prior to removal. Install in same location as removed to
@@ -7233,7 +7233,7 @@ or tine using previously removed cap screws.
 Threshing Element and Separator Tine Cap Screws
 
 # Separator
-## Threshing Element and Separator Tine Location
+#### Threshing Element and Separator Tine Location
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Rotor Configurations</caption>
 <tbody>
@@ -7280,7 +7280,7 @@ Threshing Element and Separator Tine Cap Screws
 </table>
 
 # Separator
-## Discharge Beater Wear Strip—Replacing
+#### Discharge Beater Wear Strip—Replacing
 Discharge beater wings and wear strips can be replaced
 without removing the discharge beater. Replace discharge beater wings
 in sets of two and opposite of each other to maintain proper balance.
@@ -7297,7 +7297,7 @@ to specification.
 Discharge Beater Wing Cap Screws
 
 # Separator
-## Cleaning Fan Fixed Belt—Adjusting
+#### Cleaning Fan Fixed Belt—Adjusting
 Loosen lock nut (A) and
 tighten nut (B) until the washer (C) is positioned between the end
 of the gauge (D) and the bottom of the step.
@@ -7305,7 +7305,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Cleaning Fan Fixed Belt—Replacing
+#### Cleaning Fan Fixed Belt—Replacing
 Remove the front left-hand shields to access the cleaning
 fan belt. See Left-Hand Side Shields.
 Remove the cleaning fan
@@ -7322,7 +7322,7 @@ Install previously removed
 front left-hand shields.
 
 # Separator
-## Cleaning Fan Variable Drive Belt—Replacing
+#### Cleaning Fan Variable Drive Belt—Replacing
 Remove front left-hand shields. See Left-Hand Side
 Shields.
 Remove tension from cleaning
@@ -7342,7 +7342,7 @@ Install previously removed
 front left-hand shields.
 
 # Separator
-## Cleaning Fan Variable Drive Sheave Gap—Adjusting
+#### Cleaning Fan Variable Drive Sheave Gap—Adjusting
 Loosen the tailings and
 cleaning fan drive belt. See Tailings and Cleaning Fan Drive Belt—Adjusting.
 Loosen cap screws (A).
@@ -7360,7 +7360,7 @@ Tighten the tailings
 and cleaning fan drive belt. See Tailings and Cleaning Fan Drive Belt—Adjusting.
 
 # Separator
-## Tailings and Cleaning Fan Drive Belt—Adjusting
+#### Tailings and Cleaning Fan Drive Belt—Adjusting
 Remove tailings elevator shield. See Left-Hand Side
 Shields.
 Loosen lock nut (A).
@@ -7373,7 +7373,7 @@ Install previously removed
 tailings elevator shield.
 
 # Separator
-## Tailings and Cleaning Fan Drive Belt—Replacing
+#### Tailings and Cleaning Fan Drive Belt—Replacing
 Remove the tailings elevator shield. See Left-Hand
 Side Shields.
 Remove the cleaning fan
@@ -7390,7 +7390,7 @@ Install previously removed
 tailings elevator shield.
 
 # Separator
-## Tailings System Elevator and Auger Belt—Adjusting
+#### Tailings System Elevator and Auger Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7399,14 +7399,14 @@ Tighten lock nut.
 Lock Nut
 
 # Separator
-## Tailings System Elevator and Auger Belt—Replacing
+#### Tailings System Elevator and Auger Belt—Replacing
 Loosen nuts (A) to remove tension from the tailings
 system elevator and auger belt (B).
 Remove the belt and install
 replacement belt.
 
 # Separator
-## Discharge Beater Belt—Adjusting
+#### Discharge Beater Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7415,7 +7415,7 @@ Tighten lock nut.
 Lock Nut
 
 # Separator
-## Discharge Beater Belt—Replacing
+#### Discharge Beater Belt—Replacing
 Remove feeder house primary drive belt. See Feeder
 House Primary Drive Belt—Replacing.
 Remove rotor drive belt.
@@ -7434,14 +7434,14 @@ Install previously removed
 belts.
 
 # Separator
-## Feeder House Rear Fixed Drive Belt—Replacing
+#### Feeder House Rear Fixed Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the feeder
 house rear fixed drive belt (B).
 Remove the belt and install
 replacement belt.
 
 # Separator
-## Feeder House Rear Fixed Drive Belt—Adjusting
+#### Feeder House Rear Fixed Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7450,14 +7450,14 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Feeder House Rear Variable Drive Belt—Replacing
+#### Feeder House Rear Variable Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the feeder
 house rear fixed drive belt (B).
 Remove the belt and install
 replacement belt.
 
 # Separator
-## Feeder House Rear Variable Drive Belt—Adjusting
+#### Feeder House Rear Variable Drive Belt—Adjusting
 Loosen lock nut (A).
 Rotate the sheave when adjusting the gap to ensure
 that the belt is seated.
@@ -7467,7 +7467,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Rotor Variable Drive Belt—Replacing
+#### Rotor Variable Drive Belt—Replacing
 Remove the unloading auger drive belt. See Unloading
 Auger Drive Belt—Replacing.
 Remove the feeder house
@@ -7487,7 +7487,7 @@ Install the previously
 removed unloading auger drive belt. See Unloading Auger Drive Belt—Replacing.
 
 # Separator
-## Rotor Variable Drive Sheave Gap—Adjusting
+#### Rotor Variable Drive Sheave Gap—Adjusting
 Tighten or loosen nuts
 (B and C) to adjust sheave gap as needed.
 Rotate the sheave when adjusting the gap to ensure
@@ -7502,7 +7502,7 @@ specification.
 Cap Screw
 
 # Separator
-## Shoe Drive Belt—Adjusting
+#### Shoe Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7511,7 +7511,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Shoe Drive Belt—Replacing
+#### Shoe Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the shoe drive
 belt (B).
 Remove the belt and install
@@ -7520,7 +7520,7 @@ Adjust shoe drive belt.
 See Shoe drive belt—Adjusting for further information.
 
 # Separator
-## Right-Hand Jackshaft Drive Belt—Adjusting
+#### Right-Hand Jackshaft Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7529,7 +7529,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Right-Hand Jackshaft Drive Belt—Replacing
+#### Right-Hand Jackshaft Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the right-hand
 jackshaft drive belt (B).
 Remove the right-hand
@@ -7538,7 +7538,7 @@ Adjust right-hand jackshaft
 drive belt. See Right-Hand Jackshaft Drive Belt—Adjusting.
 
 # Separator
-## Adjustable Front Step Pan Deflectors
+#### Adjustable Front Step Pan Deflectors
 Remove the separator covers to access the front step
 pan.
 Remove cap screws and
@@ -7553,7 +7553,7 @@ and retain with cap screws and nuts. Tighten to specification.
 Cap Screws and Nuts
 
 # Separator
-## Adjustable Front Chaffer
+#### Adjustable Front Chaffer
 Remove left-hand separator covers to access the front
 chaffer.
 Turn adjustment linkage
@@ -7566,7 +7566,7 @@ Adjust front chaffer
 to desired position with adjustment linkage.
 
 # Separator
-## Chaffer/Sieve Adjusting Switch
+#### Chaffer/Sieve Adjusting Switch
 The chaffer adjust switch (A) and sieve adjust switch
 (B) are located on the left-hand side of the machine.
 The chaffer adjust switch
@@ -7574,7 +7574,7 @@ and sieve adjust switch allow the operator to open or close the chaffer
 and sieve to various positions.
 
 # Separator
-## Chaffer and Sieve—Measuring
+#### Chaffer and Sieve—Measuring
 Deep-tooth chaffer and sieve
 Chaffer 41 mm (1-5/8 in)
 Sieve 30 mm (1-3/16 in)
@@ -7599,14 +7599,14 @@ Proper way to measure chaffer and sieve clearance is from louver-to-louver
 and sieve matches with setting shown on armrest display.
 
 # Separator
-## General-Purpose Chaffer 30 mm (1-3/16 in)
+#### General-Purpose Chaffer 30 mm (1-3/16 in)
 General-purpose chaffer is suitable for corn, soybeans, sorghum,
 small grains, oil seed crops, grass seed, and many specialty crops.
 It is recommended for dry conditions and is resistant to “stabbing”
 of corn tassels and soybean, sunflower, and sorghum stems.
 
 # Separator
-## Deep-Tooth Chaffer 41 mm (1-5/8 in)
+#### Deep-Tooth Chaffer 41 mm (1-5/8 in)
 Not
 recommended for use in small grains, food corn, or popcorn.
 Deep-tooth chaffer and deep-tooth sieve provide additional grain
@@ -7614,7 +7614,7 @@ separation capacity in high moisture and high yield corn and high-capacity
 and clean grain sample in corn and soybeans.
 
 # Separator
-## Flat-Tooth Comb Chaffer 30 mm (1-3/16 in)
+#### Flat-Tooth Comb Chaffer 30 mm (1-3/16 in)
 The
 flat-tooth comb chaffer requires a 2—3 mm wider chaffer clearance
 opening and 50 rpm higher fan speed compared to the general-purpose
@@ -7626,12 +7626,12 @@ The curled chaffer finger reduces the amount of longer sticks passing
 through the chaffer.
 
 # Separator
-## General Purpose Sieve 30 mm (1-3/16 in)
+#### General Purpose Sieve 30 mm (1-3/16 in)
 This sieve is suitable for all major crops and many specialty
 crops.
 
 # Separator
-## Deep-Tooth Sieve 30 mm (1-3/16 in)
+#### Deep-Tooth Sieve 30 mm (1-3/16 in)
 Not
 recommended for use in small grains, food corn, or popcorn.
 Deep-tooth sieve provides additional grain separation in high-moisture
@@ -7640,7 +7640,7 @@ This sieve together with the deep-tooth chaffer provides high-capacity
 and clean grain samples in corn and soybeans.
 
 # Separator
-## Chaffer/Sieve Elements—Remove and Install
+#### Chaffer/Sieve Elements—Remove and Install
 To avoid damage to chaffer/sieve elements, completely
 close the louvers before removing the elements from the machine.
 It is not necessary to remove the chopper to remove the
@@ -7680,7 +7680,7 @@ specification.
 Sidesheet Cap Screws
 
 # Separator
-## Chaffer/Sieve/Return Pan Assemblies
+#### Chaffer/Sieve/Return Pan Assemblies
 The following assemblies contain non-serviceable structural
 fasteners and are not repairable:
 Left and Right Chaffer Frame Sides
@@ -7693,7 +7693,7 @@ The listed assemblies can be replaced through service
 parts. See your John Deere dealer for more information.
 
 # Separator
-## Chaffer/Sieve Motor—Manual Adjust
+#### Chaffer/Sieve Motor—Manual Adjust
 To prevent motor damage, do not use a wrench on knob.
 Use knob (A) to adjust motor. Turn the knob clockwise
 to close and counterclockwise to open the chaffer/sieve.
@@ -7702,7 +7702,7 @@ louvers past the desired set point and then open the louvers to the
 desired set point to remove play.
 
 # Separator
-## Clean Grain Elevator Belt—Adjusting
+#### Clean Grain Elevator Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -7711,7 +7711,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Separator
-## Clean Grain Elevator Belt—Replacing
+#### Clean Grain Elevator Belt—Replacing
 Loosen nuts (A) to remove tension from the clean grain
 elevator belt (B).
 Remove clean grain elevator
@@ -7720,7 +7720,7 @@ Adjust clean grain elevator
 belt. See Clean Grain Elevator Belt—Adjusting.
 
 # Separator
-## Clean Grain Elevator Wear Plates and Door (If Equipped)
+#### Clean Grain Elevator Wear Plates and Door (If Equipped)
 Rear Wear Plate (A)
 Wear Plate (B)
 Door (C)
@@ -7729,7 +7729,7 @@ Remove and replace these clean grain elevator parts as needed.
 See your John Deere dealer for further information.
 
 # Separator
-## VisionTrak™ Operational Checks
+#### VisionTrak™ Operational Checks
 Separator sensors are on the
 left-hand side of the machine underneath the separator covers.
 Shoe sensors are at the rear of the machine on the tailboard.
@@ -7746,7 +7746,7 @@ If VisionTrak™ does not
 work after these checks, see your John Deere dealer for further information.
 
 # Separator
-## Tailings System Elevator Sensors
+#### Tailings System Elevator Sensors
 Tailings sensor is a Class 1 laser product and emits
 laser radiation when powered. When servicing or removing tailings
 sensors, use caution and do not view beam directly.
@@ -7785,13 +7785,13 @@ If the display continues to read full or empty, contact
 your John Deere dealer.
 
 # Separator
-## Tailings System and Clean Grain Elevator Paddles
+#### Tailings System and Clean Grain Elevator Paddles
 Check the elevator chain occasionally for worn or missing paddles.
 In muddy conditions, one steel paddle may be installed in the
 elevator chain to act as a wiper.
 
 # Separator
-## Tailings System and Clean Grain Elevator Paddle Chain—Adjusting
+#### Tailings System and Clean Grain Elevator Paddle Chain—Adjusting
 Release the latch and open the lower door.
 Remove the nuts from
 the bearing cover.
@@ -7810,7 +7810,7 @@ Close and latch the lower
 door.
 
 # Separator
-## Tailings System Wear Strips and Rasp Bars—Remove and Install
+#### Tailings System Wear Strips and Rasp Bars—Remove and Install
 Loosen nuts (A) to relieve belt tension from the tailings
 and cleaning fan drive belt (B).
 Remove shoulder bolts
@@ -7835,7 +7835,7 @@ drive belt tensioner until washer is positioned between end of gauge
 and bottom of step.
 
 # Separator
-## Tailings System Wear Strips and Rasp Bars—Adjusting
+#### Tailings System Wear Strips and Rasp Bars—Adjusting
 Remove the tailings elevator shield. See Left-Hand
 Side Shields.
 Loosen nuts (A) to remove
@@ -7857,7 +7857,7 @@ Install previously removed
 shield.
 
 # Separator
-## Tailings System Return Concave—Adjusting
+#### Tailings System Return Concave—Adjusting
 To prevent personal injury or machine damage, do
 not move crop selection handle when machine is running.
 See Crop Settings section for recommended tailings system
@@ -7868,21 +7868,21 @@ Crop selection handle (A) should be in ”UPPER” position when
 harvesting large crops or damage-sensitive crops.
 
 # Separator
-## Tailings System Auger Cleanout Door
+#### Tailings System Auger Cleanout Door
 Use handle (A) to open tailings system auger cleanout
 door.
 Remove material as needed.
 
 # Separator
-## Drive Belts—Left-Hand
+#### Drive Belts—Left-Hand
 
 
 # Separator
-## Drive Belts—Right-Hand
+#### Drive Belts—Right-Hand
 
 
 # Separator
-## Feed Accelerator—Unplugging
+#### Feed Accelerator—Unplugging
 Make sure that bystanders are clear of machine when
 starting engine and when engaging separator.
 Use the feed accelerator unplugging tool (if available).
@@ -7926,7 +7926,7 @@ Shift the separator drive
 gear case back to the original gear setting and resume operation.
 
 # Separator
-## Separator—Unplugging
+#### Separator—Unplugging
 Make sure that bystanders are clear of machine when
 starting engine and when engaging separator.
 Disengage the separator.
@@ -7968,7 +7968,7 @@ Shift the separator drive
 gear case back to the original gear setting and resume operation.
 
 # Separator
-## Discharge Beater—Unplugging
+#### Discharge Beater—Unplugging
 Make sure that bystanders are clear of machine when
 starting engine and when engaging separator.
 Disengage the header and separator.
@@ -8012,39 +8012,39 @@ Shift the separator drive
 gear case back to the original gear setting and resume operation.
 
 # Residue Management
-## Residue Material Handling Option (Standard Residue)
+#### Residue Material Handling Option (Standard Residue)
 Straw and chaff get laid down together in a windrow.
 
 # Residue Management
-## Residue Material Handling Option (Premium Residue)
+#### Residue Material Handling Option (Premium Residue)
 Capability to drop straw and spread chaff.
 
 # Residue Management
-## General Windrowing Information (Standard Residue)
+#### General Windrowing Information (Standard Residue)
 Raise chopper fully. See Chopper Adjusting switch later
 in this section.
 Shift chopper drive into neutral position. See Chopper
 Drive Speeds—Changing later in this section.
 
 # Residue Management
-## General Windrowing Information (Premium Residue)
+#### General Windrowing Information (Premium Residue)
 To windrow straw and spread chaff, open chop-to-drop door
 (premium model). See Residue Management Application Help or Operator's
 Station Help for further information.
 
 # Residue Management
-## Windrow Convergence Rakes Option (Standard Residue)
+#### Windrow Convergence Rakes Option (Standard Residue)
 
 
 # Residue Management
-## Windrow Side Curtain—Adjusting (Premium Residue)
+#### Windrow Side Curtain—Adjusting (Premium Residue)
 Move the windrow side curtains inward when the windrow is too
 flat.
 Move the windrow side curtains outward when the windrow is too
 tall.
 
 # Residue Management
-## Total Loss Curtain (Premium Residue)
+#### Total Loss Curtain (Premium Residue)
 Remove quick-lock pins (A) and the curtain.
 Raise the chopper fully
 with the switch located on the left-hand side of the machine.
@@ -8058,7 +8058,7 @@ Reverse steps, as needed, to return the curtain to the
 storage position.
 
 # Residue Management
-## PowerCast™ Tailboard Paddle—Replacing
+#### PowerCast™ Tailboard Paddle—Replacing
 Disk assemblies weigh approximately 32 kg (71 lb).
 Disk assemblies are specific for left-hand and right-hand
 sides. Mark paddle assembly locations before removing.
@@ -8078,11 +8078,11 @@ removed floor and retain with the previously removed cap screws and
 nuts (A).
 
 # Residue Management
-## Air Chutes
+#### Air Chutes
 
 
 # Residue Management
-## Chopper Controller Bar
+#### Chopper Controller Bar
 The controller bars must be removed and placed in
 the storage position when harvesting corn.
 The controller bars improve cut quality, distribution, and spread
@@ -8090,7 +8090,7 @@ width in tough straw conditions. See your John Deere dealer for further
 information.
 
 # Residue Management
-## Chopper Stationary Knife Bank (Manual Knife)—Adjusting
+#### Chopper Stationary Knife Bank (Manual Knife)—Adjusting
 The knife bank must be fully disengaged for corn.
 The chopper can be run with the knives disengaged. However,
 cut quality decreases.
@@ -8115,7 +8115,7 @@ Close the latch to lock
 the knife bank into position.
 
 # Residue Management
-## Chopper Stationary Knife Bank Electric Actuator—Removing
+#### Chopper Stationary Knife Bank Electric Actuator—Removing
 Loosen cap screw (A) and nuts (B) on the upper actuator
 bracket (C).
 Remove spring pin (B)
@@ -8132,7 +8132,7 @@ Install previously removed
 round-head cap screw (D) and nut (E) on both sides of the machine.
 
 # Residue Management
-## Chopper Stationary Knife Bank Electric Actuator—Installing
+#### Chopper Stationary Knife Bank Electric Actuator—Installing
 Remove nut (A), round-head cap screw (B), and spacer
 (C) on both sides of the machine.
 Install actuator (E) as shown.
@@ -8146,7 +8146,7 @@ Position reading does not reflect the actual position
 of the knife bank when the separator is shutoff.
 
 # Residue Management
-## Chopper Stationary Knives (Manual Knife)—Replacing
+#### Chopper Stationary Knives (Manual Knife)—Replacing
 Open latch (A) on the chopper.
 Move adjustment handle
 (B) upward until the knife bank is at the bottom of the adjustment
@@ -8175,7 +8175,7 @@ Twist the latch and close to lock the knife bank into
 position.
 
 # Residue Management
-## Chopper Stationary Knives (Remote Knife)—Replacing
+#### Chopper Stationary Knives (Remote Knife)—Replacing
 Remove nut (A) from the left-hand side of the knife
 bank adjust.
 While supporting knife bank (A), remove tension rod
@@ -8197,7 +8197,7 @@ On the left-hand side of the machine, install the
 previously removed nut.
 
 # Residue Management
-## Chopper Access Door
+#### Chopper Access Door
 Remove lock nuts (A) from both sides of the chopper.
 Remove lock nuts (B)
 from both sides of the chopper.
@@ -8207,7 +8207,7 @@ Install the access door
 before operating the machine.
 
 # Residue Management
-## Chopper Blades—Replacing and Configuration
+#### Chopper Blades—Replacing and Configuration
 If any blade (A—D) is broken, replace blades (A—D).
 When
 installing or replacing the blades, install new cap screws and lock
@@ -8221,7 +8221,7 @@ to specification.
 Chopper Blade Lock Nut
 
 # Residue Management
-## Middle Splitter Knife—Replacing
+#### Middle Splitter Knife—Replacing
 Remove hardware (A) and discard the middle splitter
 knife (B).
 The knife must be seated against the middle splitter so
@@ -8230,18 +8230,18 @@ Replace the middle splitter knife and install the
 previously removed hardware.
 
 # Residue Management
-## Chopper Blades—Centering
+#### Chopper Blades—Centering
 See your John Deere dealer for further information.
 
 # Residue Management
-## Chopper Adjusting Switches
+#### Chopper Adjusting Switches
 The chopper adjusting switches (A and B) are located on the
 left-hand side of the machine.
 The chopper adjusting switches allow the operator to raise or
 lower the chopper to various positions.
 
 # Residue Management
-## Chopper Drive Speed—Changing
+#### Chopper Drive Speed—Changing
 It may be necessary to rotate sheave a small amount while
 moving shifter handle.
 Move shifter handle (A) to position (B).
@@ -8249,12 +8249,12 @@ Move shifter handle (A) to position (C).
 Move shifter handle (A) to position (D).
 
 # Residue Management
-## Spreader (General Information)
+#### Spreader (General Information)
 See Residue Management Application Help or Operator’s
 Station Help for further information.
 
 # Residue Management
-## Spreader—Windrow Position
+#### Spreader—Windrow Position
 Raise the chopper using buttons (A).
 Adjust the rakes as needed
 for windrowing.
@@ -8263,7 +8263,7 @@ See Residue Management Application Help or Operator's Station
 Help for further information.
 
 # Residue Management
-## Chopper Drive Belt—Adjusting
+#### Chopper Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -8272,7 +8272,7 @@ Tighten lock nut.
 Lock Nut
 
 # Residue Management
-## Chopper Drive Belt—Replacing
+#### Chopper Drive Belt—Replacing
 Remove chopper drive shields. See Left-Hand Side Shields.
 Loosen nuts (A) to remove
 tension from the chopper drive belt (B) and install replacement belt.
@@ -8282,7 +8282,7 @@ Install previously removed
 chopper drive shields.
 
 # Residue Management
-## Spreader Drive Belt—Adjusting
+#### Spreader Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -8291,28 +8291,28 @@ Tighten lock nut.
 Lock Nut
 
 # Residue Management
-## Spreader Drive Belt—Replacing
+#### Spreader Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the spreader
 drive belt (B) and install replacement belt.
 Adjust spreader drive
 belt. See Spreader Drive Belt—Adjusting.
 
 # Residue Management
-## Drive Belts—Left-Hand
+#### Drive Belts—Left-Hand
 
 
 # Residue Management
-## Drive Belts—Right-Hand
+#### Drive Belts—Right-Hand
 
 
 # Grain Tank and Unloading System
-## Grain Tank/Engine Ladder
+#### Grain Tank/Engine Ladder
 Use ladder (A) to access the grain tank.
 Pull lockout pin (B)
 and rotate handrail (C) up until handrail locks into place.
 
 # Grain Tank and Unloading System
-## Grain Tank Sample Trough
+#### Grain Tank Sample Trough
 With machine full of
 the harvested crop, move multi-function lever to neutral position
 and set the park brake.
@@ -8324,7 +8324,7 @@ Open door (B). Lower end of the grain tank trough
 spills off a sample of the harvested crop.
 
 # Grain Tank and Unloading System
-## Grain Tank Cleanout Doors
+#### Grain Tank Cleanout Doors
 The cleanout doors (A) are on the right-hand end of
 both grain tank cross augers.
 These cleanout doors
@@ -8333,12 +8333,12 @@ Release latch (B) and
 lower the cleanout door away from both the cross auger troughs.
 
 # Grain Tank and Unloading System
-## Grain Tank Access Door
+#### Grain Tank Access Door
 Twist access door (C)
 towards the inside of the grain tank.
 
 # Grain Tank and Unloading System
-## Grain Tank Fill Sensors—Adjusting
+#### Grain Tank Fill Sensors—Adjusting
 Header drive must be engaged for the buzzer to sound.
 The grain tank 3/4 full
 sensor (A) is on the right-hand grain tank extension or the grain
@@ -8363,7 +8363,7 @@ The grain tank 4/4 full
 icon appears on the display when the grain reaches the sensor.
 
 # Grain Tank and Unloading System
-## Grain Tank Covers—Operating
+#### Grain Tank Covers—Operating
 Grain tank must be empty before folding grain tank
 covers.
 Grain tank covers must be opened all the way in order
@@ -8375,7 +8375,7 @@ Help or Operator's Station Help for further information on raising
 or lowering grain tank covers.
 
 # Grain Tank and Unloading System
-## Grain Tank Covers—Adjusting
+#### Grain Tank Covers—Adjusting
 Only adjust turnbuckles on the left-hand side of machine.
 Turnbuckles on the right-hand side of machine are not adjustable.
 Raise the grain tank covers fully.
@@ -8391,7 +8391,7 @@ Repeat as needed on the
 remaining turnbuckle.
 
 # Grain Tank and Unloading System
-## Grain Tank Cross Auger Covers
+#### Grain Tank Cross Auger Covers
 If the auger covers are adjusted too far, auger drive
 shear bolt can break repeatedly, or damage can occur to the augers
 or the grain tank.
@@ -8412,7 +8412,7 @@ conditions. Adjusting the cross auger covers also affects the unload
 system power consumption.
 
 # Grain Tank and Unloading System
-## ActiveYield™ Cross Auger Covers—Removing
+#### ActiveYield™ Cross Auger Covers—Removing
 Use extra care when removing and installing auger
 covers. Do not stand on, drop, or allow objects to fall onto sensors.
 In certain crop conditions and speciality crops, cross
@@ -8434,12 +8434,12 @@ Remove the auger cover
 from the machine and repeat on the remaining auger cover.
 
 # Grain Tank and Unloading System
-## ActiveYield™ Sensor Locations
+#### ActiveYield™ Sensor Locations
 Two sensors are on the front cross auger cover and one
 sensor is on the rear cross auger cover.
 
 # Grain Tank and Unloading System
-## Unloading Auger Drive Shear Bolt
+#### Unloading Auger Drive Shear Bolt
 Use only John Deere supplied shear bolt (A) (cap screw through
 pulley into hub), see your John Deere dealer for replacement shear
 bolts.
@@ -8455,12 +8455,12 @@ of unloading auger. Any restriction at the end of the auger can damage
 the unloading auger system and could cause shear bolt failure.
 
 # Grain Tank and Unloading System
-## Shear Bolt Location
+#### Shear Bolt Location
 If the unloading auger drive shear bolt breaks, remove and replace
 with an extra shear bolt (A) from location shown.
 
 # Grain Tank and Unloading System
-## Grain Tank Loading Auger Deflector
+#### Grain Tank Loading Auger Deflector
 Position deflector (A) as needed.
 Counterclockwise rotation:
 Use in windy conditions when harvesting crops like grass
@@ -8470,13 +8470,13 @@ Clockwise rotation:
 Grain—Grain tank fills to the right and to the front.
 
 # Grain Tank and Unloading System
-## Grain Tank Loading Auger—Folding
+#### Grain Tank Loading Auger—Folding
 Press folding button on navigation bar. See Folding Application
 Help or Operator’s Station Help for further information on folding
 and unfolding of the grain tank loading auger.
 
 # Grain Tank and Unloading System
-## Mass Flow Sensor Plate—Cleaning
+#### Mass Flow Sensor Plate—Cleaning
 Lower the grain tank loading auger.
 Clean the mass flow sensor
 plate (A).
@@ -8484,7 +8484,7 @@ Raise the grain tank
 loading auger.
 
 # Grain Tank and Unloading System
-## Unloading Auger Cradle Support—Adjusting
+#### Unloading Auger Cradle Support—Adjusting
 Swing the unloading auger to storage or transport
 position.
 When the unloading auger is in the transport position
@@ -8500,11 +8500,11 @@ with the top of the grain tank plate (F).
 Tighten the cap screws when the cradle is adjusted.
 
 # Grain Tank and Unloading System
-## Unloading Auger Adjustable Spout (If Equipped)
+#### Unloading Auger Adjustable Spout (If Equipped)
 
 
 # Grain Tank and Unloading System
-## Unloading Auger Position—Adjusting
+#### Unloading Auger Position—Adjusting
 Cylinder must be fully retracted to set the correct position.
 Loosen cap screws (A).
 Adjust unloading auger
@@ -8515,7 +8515,7 @@ specification.
 Cap Screws
 
 # Grain Tank and Unloading System
-## Unloading Auger Drive Belt—Adjusting
+#### Unloading Auger Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -8524,7 +8524,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Grain Tank and Unloading System
-## Unloading Auger Drive Belt—Replacing
+#### Unloading Auger Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the unloading
 auger drive belt (B).
 Remove the unloading
@@ -8533,13 +8533,13 @@ Adjust the unloading
 auger drive belt. See Unloading Auger Drive Belt—Adjusting.
 
 # Grain Tank and Unloading System
-## Cross Auger Clutch Belt—Replacing
+#### Cross Auger Clutch Belt—Replacing
 Remove cross auger clutch belt (A).
 Install replacement cross
 auger clutch belt.
 
 # Grain Tank and Unloading System
-## Cross Auger Drive Belt—Adjusting
+#### Cross Auger Drive Belt—Adjusting
 Loosen lock nut (A).
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -8548,7 +8548,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Grain Tank and Unloading System
-## Cross Auger Drive Belt—Replacing
+#### Cross Auger Drive Belt—Replacing
 Loosen nuts (A) to remove tension from the cross auger
 drive belt (B).
 Remove the cross auger
@@ -8557,7 +8557,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Grain Tank and Unloading System
-## Loading Auger Belt—Adjusting
+#### Loading Auger Belt—Adjusting
 Loosen lock nut (A)
 Tighten nut (B) until
 the washer (C) is positioned between the end of the gauge (D) and
@@ -8566,7 +8566,7 @@ Tighten lock nut to specification.
 Lock Nut
 
 # Grain Tank and Unloading System
-## Loading Auger Belt—Replacing
+#### Loading Auger Belt—Replacing
 Loosen nuts (A) to remove tension from the loading
 auger belt (B).
 Remove the loading auger
@@ -8575,15 +8575,15 @@ Adjust the loading auger
 belt. See Loading Auger Belt—Adjusting.
 
 # Grain Tank and Unloading System
-## Drive Belts—Left-Hand
+#### Drive Belts—Left-Hand
 
 
 # Grain Tank and Unloading System
-## Drive Belts—Right-Hand
+#### Drive Belts—Right-Hand
 
 
 # Service—Electrical System
-## Welding Near Electronic Control Units
+#### Welding Near Electronic Control Units
 Do not jump-start engines with arc welding equipment.
 Currents and voltages are too high and may cause permanent damage.
 Disconnect the negative (-) battery cable(s).
@@ -8599,7 +8599,7 @@ After welding, reverse
 Steps 1—5.
 
 # Service—Electrical System
-## Keep Electronic Control Unit Connectors Clean
+#### Keep Electronic Control Unit Connectors Clean
 Do not open control unit and do not clean with a
 high-pressure spray. Moisture, dirt, and other contaminants may cause
 permanent damage.
@@ -8618,7 +8618,7 @@ The wiring harness terminals
 and connectors for electronic control units are repairable.
 
 # Service—Electrical System
-## Observe Electrical Precautions
+#### Observe Electrical Precautions
 Keep all sparks
 and flames away from batteries as gas given off by electrolyte is
 explosive. To avoid sparks, connect ground cable last and disconnect
@@ -8627,7 +8627,7 @@ OFF before servicing any part of the electrical system or when removing
 batteries.
 
 # Service—Electrical System
-## Basic Electrical Component Handling / Precautions for Vehicles
+#### Basic Electrical Component Handling / Precautions for Vehicles
 Equipped with Computer Controlled Systems
 Never disconnect the batteries while the key switch is
 on and the engine is running.
@@ -8664,7 +8664,7 @@ are involved in the ground path. Welding can also cause electrical
 voltage spikes that can damage electronic components.
 
 # Service—Electrical System
-## Handling Batteries Safely
+#### Handling Batteries Safely
 Battery gas can explode. Keep sparks and flames away from batteries.
 Use a flashlight to check battery electrolyte level.
 Never check battery charge by placing a metal object across
@@ -8690,7 +8690,7 @@ Drink large amounts of water or milk, but do not exceed
 Get medical attention immediately.
 
 # Service—Electrical System
-## Batteries—Safe Installation
+#### Batteries—Safe Installation
 Avoid serious injury
 or death from explosions. High levels of hydrogen gas can accumulate
 if the battery box is not vented properly. Always reinstall the vent
@@ -8705,7 +8705,7 @@ battery lid must remain off whenever the machine engine is running
 or whenever the batteries are being charged with an external charger.
 
 # Service—Electrical System
-## Battery Cables—Connecting
+#### Battery Cables—Connecting
 BATTERIES ARE NEGATIVE GROUNDED ONLY. Always connect
 the battery ground strap to the negative (-) posts of the battery.
 Connect the starter cable to the positive (+) post of the battery.
@@ -8725,7 +8725,7 @@ Connect the negative
 (-) battery ground straps.
 
 # Service—Electrical System
-## Batteries—Charging
+#### Batteries—Charging
 Keep the battery fully charged, especially during cold weather.
 Failure to keep the battery fully charged, above 12.50 V, may result
 in reduced battery life.
@@ -8743,7 +8743,7 @@ Follow instructions provided
 with the charger. Always charge the batteries with a 12-volt charger.
 
 # Service—Electrical System
-## Batteries—Checking Specific Gravity
+#### Batteries—Checking Specific Gravity
 Battery gas can
 explode. Keep sparks and flames away from batteries. Use a flashlight
 to check battery electrolyte level.
@@ -8761,7 +8761,7 @@ at the same rate if the electrolyte temperature is below 80°F (27°C).
 Corrected specific gravity of a fully charged battery is 1.265—1.280.
 
 # Service—Electrical System
-## Batteries—Connecting Booster
+#### Batteries—Connecting Booster
 Gas given off by batteries is explosive. Avoid sparks
 near batteries.
 Never connect jumper cables with the key switch or
@@ -8775,7 +8775,7 @@ battery. Connect other end to negative (-) post (B) of the machine
 battery.
 
 # Service—Electrical System
-## Batteries—Removing and Installing
+#### Batteries—Removing and Installing
 Remove cap screws (B)
 and loosen cap screws (C).
 Remove cover (D) to access
@@ -8803,7 +8803,7 @@ Turn the battery disconnect
 switch clockwise to the ON position.
 
 # Service—Electrical System
-## Battery Disconnect Switch
+#### Battery Disconnect Switch
 Turn the battery disconnect switch OFF if the machine
 is stored longer than 25 days. If the storage period is longer than
 90 days, remove the negative lead to the batteries to minimize the
@@ -8813,7 +8813,7 @@ the machine electrical system or turn the switch counterclockwise
 to turn OFF the machine electrical system.
 
 # Service—Electrical System
-## Machine Fuse Center
+#### Machine Fuse Center
 Pull lock tabs (A) and remove cover (B).
 F101—(10 A) (cc# 4972),
 F102—(10 A) Not Used
@@ -8857,7 +8857,7 @@ F127—(30 A) (cc# 9722), Folding Unloading Auger Actuator
 F128—(30 A) (cc# 9192), Fountain Auger Actuator
 
 # Service—Electrical System
-## High Current Fuse Center
+#### High Current Fuse Center
 F301—(125 A) (cc# 8902), Operator’s Station Domain Power
 F302—(40 A) (cc# 9032), Powertrain Domain Control Unit
 Power
@@ -8870,7 +8870,7 @@ Centers
 Shunt—(cc# 0023), Power to 12 V Alternator G1
 
 # Service—Electrical System
-## Residue Fuse Center
+#### Residue Fuse Center
 F203—(30 A) (cc# 9322), Chop-to-Drop Actuator
 F204—(30 A) (cc# 9452), Left Chopper and Knife Bank
 F205—(40 A) (cc# 9442), Left and Right Shroud Power
@@ -8879,7 +8879,7 @@ Actuator
 Shunt—(cc# 0003), Power In
 
 # Service—Electrical System
-## Cab Fuse Center
+#### Cab Fuse Center
 C1—C4 Not Used
 F81—(30 A) (cc# 8472), Blower Motor Fuse (2 used)
 F801—(15 A) (cc# 8262), ARMC Power
@@ -8908,7 +8908,7 @@ K8-9—(40 A) (cc# 0010E), Relay Ground
 K9—(40 A) (cc# 8616), Relay Switched Input
 
 # Service—Electrical System
-## Video Safety
+#### Video Safety
 Do not rely on a camera for collision avoidance or
 bystander detection. To avoid possible injury or death to operator
 or others, always remain alert and aware of surroundings when operating
@@ -8921,12 +8921,12 @@ Keep camera properly serviced.
 Keep camera lens clean.
 
 # Service—Electrical System
-## Adjust Cameras (If Equipped)
+#### Adjust Cameras (If Equipped)
 If machine is equipped with cameras (A—D), adjust cameras as
 needed.
 
 # Service—Electrical System
-## Adjust Machine Light Angles (Quick Adjustment)
+#### Adjust Machine Light Angles (Quick Adjustment)
 See Adjust
 Machine Light Angles (Detailed Adjustment) for further information
 on adjusting the various lights around the machine.
@@ -8985,7 +8985,7 @@ on adjusting the various lights around the machine.
 </table>
 
 # Service—Electrical System
-## Adjust Machine Light Angles (Detailed Adjustment)
+#### Adjust Machine Light Angles (Detailed Adjustment)
 Move machine away from any obstructions using dimensions
 (A and B).
 A traffic cone, for example, can be used as an object
@@ -9215,7 +9215,7 @@ See information later in this section on adjusting the cab headlights.
 </table>
 
 # Service—Electrical System
-## Cab Headlights—Replacing
+#### Cab Headlights—Replacing
 Disconnect the wiring harness connector (A) from the
 headlight assembly.
 Remove nut (B) and cap
@@ -9224,12 +9224,12 @@ Remove and replace the
 headlight assembly.
 
 # Service—Electrical System
-## Cab Headlights—Adjusting
+#### Cab Headlights—Adjusting
 The light assemblies can be adjusted as needed to achieve
 the correct lighting angles.
 
 # Service—Electrical System
-## Cab Worklights—Replacing
+#### Cab Worklights—Replacing
 Disconnect the wiring harness connector (A) from the
 worklight assembly.
 Remove nut (B) and cap
@@ -9238,7 +9238,7 @@ Remove and replace the
 worklight assembly.
 
 # Service—Electrical System
-## Cab Worklights—Adjusting
+#### Cab Worklights—Adjusting
 The light assemblies can be adjusted as needed to achieve
 the correct lighting angles.
 Loosen nut (A). Rotate the light assembly up or down to desired
@@ -9248,7 +9248,7 @@ to desired position and tighten the cap screw. Repeat on the remaining
 lights as needed.
 
 # Service—Electrical System
-## Beacon Lights—Replacing
+#### Beacon Lights—Replacing
 Remove hex socket screws (A) and remove the beacon
 light (B) from the electrical outlet.
 Remove and replace the
@@ -9260,18 +9260,18 @@ Repeat on the remaining
 lights as needed.
 
 # Service—Electrical System
-## Discharge Lights, Auxiliary Field Lights, Access Door Worklights,
+#### Discharge Lights, Auxiliary Field Lights, Access Door Worklights,
 Stubble Lights, Grain Tank Lights, and Unloading Auger Light—Replacing
 Loosen nut (B) and replace
 the light assembly.
 
 # Service—Electrical System
-## Side Finder Lights and Cleaning Shoe Lights—Replacing
+#### Side Finder Lights and Cleaning Shoe Lights—Replacing
 Loosen nuts (B) and replace
 the light assembly.
 
 # Service—Electrical System
-## Warning Lights—Replacing
+#### Warning Lights—Replacing
 Remove socket head cap
 screws (B) and the warning light arm.
 Remove socket head cap
@@ -9284,21 +9284,21 @@ Replace light assembly
 and install in reverse order.
 
 # Service—Electrical System
-## Rear Hazard Lights and Marker/Brake Lights—Replacing
+#### Rear Hazard Lights and Marker/Brake Lights—Replacing
 Remove cap screws (C)
 and remove light assembly.
 Replace light assembly
 and install in reverse order.
 
 # Service—Electrical System
-## Cab Interior Light—Replacing
+#### Cab Interior Light—Replacing
 Remove connector (C)
 and cap screws (D).
 Remove and replace the
 light assembly.
 
 # Ground Drive and Rear Axle
-## Service Tires Safely
+#### Service Tires Safely
 Explosive separation of a tire and rim parts can cause
 serious injury or death.
 Do not attempt to mount a tire
@@ -9316,11 +9316,11 @@ Check wheels for low pressure, cuts, bubbles, damaged rims or
 missing lug bolts and nuts.
 
 # Ground Drive and Rear Axle
-## Tire Loading Decal
+#### Tire Loading Decal
 
 
 # Ground Drive and Rear Axle
-## Care and Service of Tires
+#### Care and Service of Tires
 Installing tires that do not meet original equipment
 tire specifications may cause machine malfunction. Consult your dealer
 or tire supplier for guidance.
@@ -9358,19 +9358,19 @@ Onboard Air Compressor (if equipped) - not
 recommended to inflate tires on the machine or run air tools.
 
 # Ground Drive and Rear Axle
-## Basic Tire Information
+#### Basic Tire Information
 The diagonal tire (bias) is identified by conventional nomenclature.
 The radial tire can be identified by conventional nomenclature
 or international system.
 The high flotation tires are identified by a mixed nomenclature.
 
 # Ground Drive and Rear Axle
-## Tire Tread Types
+#### Tire Tread Types
 There are three types of tread and these are the most used on
 agricultural application.
 
 # Ground Drive and Rear Axle
-## Front Tire Pressure
+#### Front Tire Pressure
 All road transportation MUST be done at pressure
 shown in No Head/Transport column. Improper pressure during transport
 may decrease vehicle stability. Proper pressure results in better
@@ -9546,7 +9546,7 @@ information.
 </table>
 
 # Ground Drive and Rear Axle
-## Rear Tire Pressure
+#### Rear Tire Pressure
 All road transportation MUST be done at pressure
 shown in No Head/Transport column. Improper pressure during transport
 may decrease vehicle stability. Proper pressure results in better
@@ -9695,7 +9695,7 @@ information.
 </table>
 
 # Ground Drive and Rear Axle
-## Front Tire Selection
+#### Front Tire Selection
 See Care and Service of Tires in this section for further
 information.
 <table style='border-collapse: collapse; width: 100%;'>
@@ -9862,11 +9862,11 @@ information.
 </table>
 
 # Ground Drive and Rear Axle
-## Rear Axle Positions
+#### Rear Axle Positions
 See Care and Service of Tires in this section for further information.
 
 # Ground Drive and Rear Axle
-## Rear Tire Selection
+#### Rear Tire Selection
 See Rear Axle Positions for further information on the
 rear axle positions.
 See Care and Service of Tires in
@@ -10187,7 +10187,7 @@ this section for further information.
 </table>
 
 # Ground Drive and Rear Axle
-## Remove Rear Axle Stop
+#### Remove Rear Axle Stop
 Remove cap screw (A) and add or remove washers (B)
 as needed.
 Reinstall the cap screw
@@ -10195,7 +10195,7 @@ and repeat on the opposite side of the machine.
 Cap Screw
 
 # Ground Drive and Rear Axle
-## Front and Rear Tire Information
+#### Front and Rear Tire Information
 If tires or final drives are changed from what was originally
 shipped from the factory, it is necessary to recalibrate the system.
 When changing drive wheels, tire radius may also
@@ -10218,18 +10218,18 @@ Axle Positions
 Front to Rear Height Differences
 
 # Ground Drive and Rear Axle
-## Drive Wheel Starter Stud
+#### Drive Wheel Starter Stud
 
 
 # Ground Drive and Rear Axle
-## Drive Wheel Bolt Torque
+#### Drive Wheel Bolt Torque
 Wheel Bolts
 After the first hour of operation and again after every 10 hours
 of operation, torque wheel bolts to specification until 50 hours of
 operation is complete. Torque wheel bolts every 100 hours thereafter.
 
 # Ground Drive and Rear Axle
-## Front Drive Wheel Offset
+#### Front Drive Wheel Offset
 Use only John Deere supplied wheels, tires, and spacers.
 Use of non-John Deere components not meeting specification voids the
 warranty.
@@ -10241,7 +10241,7 @@ from spindle surface (B) to centerline (C) is within specification.
 Single Wheel
 
 # Ground Drive and Rear Axle
-## Preparing Dual Wheels for Transport or Service
+#### Preparing Dual Wheels for Transport or Service
 Do not attempt to operate machine in the field with
 outer dual wheels removed. Machine damage can occur.
 Only
@@ -10259,21 +10259,21 @@ Pay close attention to ”CAUTION” statements as they address
 your safety, the safety of others and safe operations of the machine.
 
 # Ground Drive and Rear Axle
-## Jack Point Locations Decal
+#### Jack Point Locations Decal
 Block both sides of the tires to prevent machine movement.
 Jack point locations decal (A) is located on the cab ladder.
 Decal shows the correct locations for raising the machine using proper
 jacks.
 
 # Ground Drive and Rear Axle
-## Jack Point Locations
+#### Jack Point Locations
 Block both sides of the tires to prevent machine movement.
 Jack point locations are at the front and the rear of
 the machine and on the left-hand and right-hand side of the machine.
 Raise the machine at approved jack point locations (A—D).
 
 # Ground Drive and Rear Axle
-## Remove Front Wheels
+#### Remove Front Wheels
 When the feeder house lift cylinder lock button is pulled
 out, the safety lock indicator (B) may show red. Verify that the safety
 lock indicator is NOT red before going under the feeder house.
@@ -10335,7 +10335,7 @@ Repeat steps as needed
 on the opposite side of the machine.
 
 # Ground Drive and Rear Axle
-## Install Front Wheels
+#### Install Front Wheels
 Wheels are heavy and are difficult to handle. To avoid
 personal injury, two people are needed to install the wheel.
 Pilot Stud HXE16110 is recommended to help guide wheels
@@ -10471,7 +10471,7 @@ inflate as needed. See Care and Service of Tires in this section for
 tire inflation pressure.
 
 # Ground Drive and Rear Axle
-## Rear Wheel Bolt Torque
+#### Rear Wheel Bolt Torque
 M22 Wheel Bolts
 After the first hour of operation and again after every 10 hours
 of operation, torque wheel bolts to specification until 50 hours of
@@ -10479,7 +10479,7 @@ operation is completed. Torque wheel bolts every 100 hours thereafter.
 Refer to decal on the tire for proper torque sequence.
 
 # Ground Drive and Rear Axle
-## Using Liquid Weight
+#### Using Liquid Weight
 Cover rim completely with solution to avoid corrosion,
 but NEVER fill any tire more than 90% full. More solution would leave
 too little air space to absorb shocks. Damage to tire could occur.
@@ -10496,7 +10496,7 @@ Less solution would expose part of rim, possibly causing corrosion.
 Tube-type tires may be filled to any level below 90%.
 
 # Ground Drive and Rear Axle
-## Ballast Requirements
+#### Ballast Requirements
 Ballast requirements vary based on configuration.
 Ballast requirements are based off standard Corn Pricing configuration,
 133 L (35 gal) fuel in tank, and full grain tank. This may not reflect
@@ -10604,7 +10604,7 @@ Tires requiring fluid must be filled to
 </table>
 
 # Transporting
-## Driving Machine on Roads
+#### Driving Machine on Roads
 Verify that grain tank is unloaded before transporting
 machine on road.
 Verify that folding unloading auger and
@@ -10650,14 +10650,14 @@ When coming to the top of a hill, pull back on the multi-function
 lever before starting down the other side.
 
 # Transporting
-## Tow Loads Safely
+#### Tow Loads Safely
 Do not exceed maximum towing capacity of 8000 kg (17 637 lb).
 Do not transport at speed exceeding 32 km/h (20 mph) while towing.
 Use additional caution and reduce speed when towing under adverse
 surface conditions, when turning, and on inclines.
 
 # Transporting
-## Manual Trailer Hitch—Attaching (Optional)
+#### Manual Trailer Hitch—Attaching (Optional)
 Fully raise the chopper.
 Attach trailer to hitch
 (A) and secure with the trailer hitch pin.
@@ -10665,14 +10665,14 @@ Connect trailer electrical
 harness to electrical connector (B).
 
 # Transporting
-## Use Safety Chain
+#### Use Safety Chain
 Never use safety chain for towing or possible damage
 to machine may result. Safety chain is provided only for transport.
 Route the safety chain (A) through the hitch bracket (B) as
 shown. Attach the chain back onto itself using the latch-style hook.
 
 # Transporting
-## Transporting Machine on a Trailer
+#### Transporting Machine on a Trailer
 Slide the grain tank
 shipping bracket (B) towards the right-hand side of the machine and
 rotate to the shipping position.
@@ -10727,30 +10727,30 @@ Fasten machine to trailer with chains (see the machine
 tie-down locations decal on the cab ladder for tie-down information).
 
 # Transporting
-## Machine Tie-Down Locations Decal
+#### Machine Tie-Down Locations Decal
 Machine tie-down locations are on both sides of the machine
 at the front and rear.
 Machine tie-down locations decal (A) is located on the cab ladder.
 Decal shows the correct locations for fastening the machine with chains.
 
 # Transporting
-## Jack Point Locations
+#### Jack Point Locations
 Block both sides of the tires to prevent machine movement.
 Jack point locations are at the front and the rear of
 the machine and on the left-hand and right-hand side of the machine.
 Raise the machine at approved jack point locations (A—D).
 
 # Transporting
-## Front Tow Hook
+#### Front Tow Hook
 
 
 # Transporting
-## Rear Tow Hook
+#### Rear Tow Hook
 Secure the chain to hook (A) to pull out the machine. Do not
 use this hook for pulling a trailer.
 
 # Harvesting Hints
-## Operation at Low Temperatures
+#### Operation at Low Temperatures
 When operating in cold temperatures, verify that
 proper grade diesel fuel is being used. Warmer grade diesel fuel will
 gel in fuel lines, fuel filters, and fuel tank. Fuel system requires
@@ -10766,7 +10766,7 @@ degradation. Consult your John Deere dealer prior to operating in
 cold temperatures.
 
 # Harvesting Hints
-## Harvesting Tips
+#### Harvesting Tips
 Adjust machine to crop being harvested and to field conditions.
 Select a ground speed that does not overload machine. Engine
 must be at full rpm to keep separator at full speed. Select a ground
@@ -10822,7 +10822,7 @@ Use as much air as possible without blowing over clean grain
 and seed. Heavy crops require more air than light seed crops.
 
 # Harvesting Hints
-## Auto Header Control Combinations
+#### Auto Header Control Combinations
 Press and hold activation button 1, 2, or 3 on the multi-function
 lever for 2 seconds to enter desired modes into memory.
 A few common modes are shown below, but many combinations exist.
@@ -10934,7 +10934,7 @@ A few common modes are shown below, but many combinations exist.
 </table>
 
 # Harvesting Hints
-## Change Tire Radius Code
+#### Change Tire Radius Code
 If tires or final drives are changed from what was originally
 shipped from the factory, it is necessary to recalibrate the system.
 When changing drive wheels, tire radius may also
@@ -10943,7 +10943,7 @@ John Deere dealer for further information on changing the tire codes.
 Failure to calibrate system results in inaccurate
 
 # Harvesting Hints
-## Single Point Yield Calibration Or Multi-Point Yield Calibration
+#### Single Point Yield Calibration Or Multi-Point Yield Calibration
 The best way to keep the flow rate constant
 is to monitor the
 Single point yield calibration is performed when one or up to
@@ -10965,7 +10965,7 @@ lb).
 Run at least
 
 # Crop Settings
-## Alfalfa and Barley
+#### Alfalfa and Barley
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11098,7 +11098,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Canola (Dry) and Canola (Wet)
+#### Canola (Dry) and Canola (Wet)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11231,7 +11231,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Chickpeas
+#### Chickpeas
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11340,7 +11340,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Corn (Dry) and Corn (Wet)
+#### Corn (Dry) and Corn (Wet)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11473,7 +11473,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Corn Cob Mix and Edible Beans
+#### Corn Cob Mix and Edible Beans
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11606,7 +11606,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Flax and Grass Seed
+#### Flax and Grass Seed
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11739,7 +11739,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Guar (Cluster Beans) and Lentils
+#### Guar (Cluster Beans) and Lentils
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -11872,7 +11872,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Lupins and Millet
+#### Lupins and Millet
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12005,7 +12005,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Mustard and Navy Beans
+#### Mustard and Navy Beans
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12138,7 +12138,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Oats and Peas
+#### Oats and Peas
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12271,7 +12271,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Popcorn and Rape Seed (Dry)
+#### Popcorn and Rape Seed (Dry)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12404,7 +12404,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Rape Seed (Green)
+#### Rape Seed (Green)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12513,7 +12513,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Rye and Safflower
+#### Rye and Safflower
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12646,7 +12646,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Sorghum and Soybeans
+#### Sorghum and Soybeans
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12779,7 +12779,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Sunflower and Triticale
+#### Sunflower and Triticale
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -12912,7 +12912,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Wheat
+#### Wheat
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Crop Settings</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -13021,11 +13021,11 @@ Run at least
 </table>
 
 # Crop Settings
-## Footnotes Description Page
+#### Footnotes Description Page
 
 
 # Crop Settings
-## Concave Recommendations
+#### Concave Recommendations
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Concave Types</caption>
 <tbody>
@@ -13076,7 +13076,7 @@ Run at least
 </table>
 
 # Crop Settings
-## Power Shutdown Procedure
+#### Power Shutdown Procedure
 A power shutdown is used to determine the machine’s performance
 in the threshing and separating areas by taking a "snapshot"
 of the material in the separator. This is valuable in determining
@@ -13117,7 +13117,7 @@ Once acceptable loss
 levels are attained, calibrate
 
 # Crop Settings
-## Payable Moisture and Density Chart
+#### Payable Moisture and Density Chart
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Moisture Density Chart</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -13325,7 +13325,7 @@ levels are attained, calibrate
 </table>
 
 # Crop Settings
-## Standard Weights Chart
+#### Standard Weights Chart
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Standard Weights Chart</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -13375,7 +13375,7 @@ levels are attained, calibrate
 </table>
 
 # Fire Prevention
-## Recommended Fire Preventions
+#### Recommended Fire Preventions
 The machine must be inspected periodically throughout the harvest
 day. Buildup of crop material and other debris must be removed to
 ensure proper machine function and to reduce the risk of fire.
@@ -13395,7 +13395,7 @@ usage.
 For further information, refer to Machine Cleanout section.
 
 # Fire Prevention
-## Fire Extinguisher Operation
+#### Fire Extinguisher Operation
 Your machine is equipped with a general-purpose powder fire
 extinguisher and a pressurized liquid fire extinguisher. Extinguishers
 must be checked daily when entering or exiting the cab and when working
@@ -13439,7 +13439,7 @@ When inspection of the fire extinguisher reveals a deficiency,
 extinguisher must be serviced or replaced.
 
 # Fire Prevention
-## Charge Liquid Fire Extinguisher (If Required)
+#### Charge Liquid Fire Extinguisher (If Required)
 When an antifreeze charge is used to protect the extinguisher
 from freezing, the extinguisher requires a complete discharge and
 maintenance.
@@ -13453,7 +13453,7 @@ Install fire extinguisher
 on the machine.
 
 # Fire Prevention
-## Handle Fuel Safely—Avoid Fires
+#### Handle Fuel Safely—Avoid Fires
 Handle fuel with care: it is highly flammable. Do not refuel
 the machine while smoking or when near open flame or sparks.
 Always stop engine before refueling machine. Fill fuel tank
@@ -13470,14 +13470,14 @@ Do not store fuel container where there is an open flame, spark,
 or pilot light such as within a water heater or other appliance.
 
 # Fire Prevention
-## Prepare for Emergencies
+#### Prepare for Emergencies
 Be prepared if a fire starts.
 Keep a first aid kit and fire extinguisher handy.
 Keep emergency numbers for doctors, ambulance service, hospital,
 and fire department near your telephone.
 
 # Fire Prevention
-## Handle Starting Fluid Safely
+#### Handle Starting Fluid Safely
 Starting fluid is highly flammable.
 Keep all sparks and flame away when using it. Keep starting
 fluid away from batteries and cables.
@@ -13489,14 +13489,14 @@ Do not use starting fluid on an engine equipped with glow plugs
 or an air intake heater.
 
 # Fire Prevention
-## Remove Accumulated Crop Debris
+#### Remove Accumulated Crop Debris
 The build up of chaff and crop debris in the engine compartment,
 on the engine, and near moving parts is a fire hazard. Check and clean
 these areas frequently. Before performing any inspection or service,
 shut off the engine, set the parking brake and remove the key.
 
 # Fire Prevention
-## Fire Extinguishers
+#### Fire Extinguishers
 A general-purpose powder fire extinguisher that is at
 least 4 kg (8.8 lb)
 A pressurized liquid fire extinguisher with minimum volume
@@ -13514,14 +13514,14 @@ exposed to freezing temperatures unless protected with antifreeze.
 See instruction decal on extinguisher for further information.
 
 # Fire Prevention
-## Fire Extinguisher Locations
+#### Fire Extinguisher Locations
 A general-purpose powder fire extinguisher is behind the left-hand
 front service door.
 A pressurized liquid fire extinguisher is on the left-hand side
 of the machine.
 
 # Fire Prevention
-## In Case of Fire
+#### In Case of Fire
 Avoid personal injury.
 Stop machine immediately at the first sign of fire. Fire may
 be identified by the smell of smoke or sight of flames. Because fire
@@ -13551,11 +13551,11 @@ Sweep the nozzle from
 side-to-side.
 
 # Fire Prevention
-## Cleaning Engine Compartment
+#### Cleaning Engine Compartment
 
 
 # Machine Cleanout
-## General Cleaning Guidelines
+#### General Cleaning Guidelines
 Machine must be inspected periodically throughout the harvest
 day. Buildup of crop material and other debris must be removed to
 ensure proper machine function and to reduce the risk of fire. Frequency
@@ -13586,11 +13586,11 @@ in the Operator’s Manual. Before carrying out any inspection or cleaning,
 always shut OFF engine, set park brake, and remove key.
 
 # Machine Cleanout
-## Quick Response (QR) Code
+#### Quick Response (QR) Code
 
 
 # Machine Cleanout
-## Cleaning Out Machine (Periodic Cleanout)
+#### Cleaning Out Machine (Periodic Cleanout)
 The photographs in this section show areas of the machine that
 require regular inspection and cleaning. While there are other areas
 that require regular cleaning, frequent attention to these areas provides
@@ -13642,7 +13642,7 @@ Separator Areas
 (17) — Around and behind Rotor Covers (both sides)
 
 # Machine Cleanout
-## Cleaning Out Machine (Annual Cleanout and Specialty Crops)
+#### Cleaning Out Machine (Annual Cleanout and Specialty Crops)
 The following instructions are recommended when cleaning out
 machine for certified seed crops or when transporting machine between
 states.
@@ -13760,7 +13760,7 @@ removed shields and close all the previously opened doors before operating
 the machine.
 
 # Fuels and Lubricants
-## Handle Fuel Safely—Avoid Fires
+#### Handle Fuel Safely—Avoid Fires
 Handle fuel with care: it is highly flammable. Do not refuel
 the machine while smoking or when near open flame or sparks.
 Always stop engine before refueling machine. Fill fuel tank
@@ -13777,7 +13777,7 @@ Do not store fuel container where there is an open flame, spark,
 or pilot light such as within a water heater or other appliance.
 
 # Fuels and Lubricants
-## Avoid Static Electricity Risk When Refueling
+#### Avoid Static Electricity Risk When Refueling
 The removal of sulfur and other compounds in Ultra-Low Sulfur
 Diesel (ULSD) fuel decreases its conductivity and increases its ability
 to store a static charge.
@@ -13795,7 +13795,7 @@ system is in compliance with fueling standards for proper grounding
 and bonding practices.
 
 # Fuels and Lubricants
-## Fuel Tank—Filling
+#### Fuel Tank—Filling
 Do not overfill fuel tank. Bodily injury can result
 from fuel splash back. Leakage can result from expansion of fuel.
 If fuel tank is too full and left in direct sunlight, or the temperature
@@ -13807,7 +13807,7 @@ Fill fuel tank (A) at end of each day. This prevents condensation
 in the fuel tank as moist air cools.
 
 # Fuels and Lubricants
-## Fast Fill Fuel System (If Equipped)
+#### Fast Fill Fuel System (If Equipped)
 Remove the cap (A).
 Remove the cap from the
 nozzle.
@@ -13823,7 +13823,7 @@ Install the previously
 removed cap on the receiver and nozzle coupler.
 
 # Fuels and Lubricants
-## Handling and Storing Diesel Fuel
+#### Handling and Storing Diesel Fuel
 Reduce the risk of fire. Handle fuel carefully. DO
 NOT fill the fuel tank when engine is running. DO NOT smoke while
 you fill the fuel tank or service the fuel system.
@@ -13843,7 +13843,7 @@ and prevent water condensation. Contact your fuel supplier or John
 Deere dealer for recommendations.
 
 # Fuels and Lubricants
-## Diesel Fuel
+#### Diesel Fuel
 Consult your local fuel distributor for properties of the diesel
 fuel available in your area.
 In general, diesel fuels are blended to satisfy the low temperature
@@ -13884,7 +13884,7 @@ Improper fuel additive
 usage may cause damage on fuel injection equipment of diesel engines.
 
 # Fuels and Lubricants
-## Biodiesel Fuel
+#### Biodiesel Fuel
 Biodiesel fuel is comprised of monoalkyl esters of long chain
 fatty acids derived from vegetable oils or animal fats. Biodiesel
 blends are biodiesel mixed with petroleum diesel fuel on a volume
@@ -13983,7 +13983,7 @@ use as fuel in any concentration in John Deere engines. Their use
 could cause engine failure.
 
 # Fuels and Lubricants
-## Lubricity of Diesel Fuel
+#### Lubricity of Diesel Fuel
 Most diesel fuels manufactured in the United States, Canada,
 and the European Union have adequate lubricity to ensure proper operation
 and durability of fuel injection system components. However, diesel
@@ -14002,7 +14002,7 @@ up to B20 (20% BioDiesel). Further increase in lubricity is limited
 for BioDiesel blends greater than B20.
 
 # Fuels and Lubricants
-## Supplemental Diesel Fuel Additives
+#### Supplemental Diesel Fuel Additives
 Diesel fuel can be the source of performance or other operational
 problems for many reasons. Some causes include poor lubricity, contaminants,
 low cetane number, and a variety of properties that cause fuel system
@@ -14022,7 +14022,7 @@ and additional information about fuel additives that might be right
 for your needs.
 
 # Fuels and Lubricants
-## Testing Diesel Fuel
+#### Testing Diesel Fuel
 A fuel analysis program can help to monitor the quality of diesel
 fuel. The fuel analysis can provide critical data such as calculated
 cetane index, fuel type, sulfur content, water content, appearance,
@@ -14033,7 +14033,7 @@ Contact your John Deere dealer for more information on diesel
 fuel analysis.
 
 # Fuels and Lubricants
-## Minimizing the Effect of Cold Weather on Diesel Engines
+#### Minimizing the Effect of Cold Weather on Diesel Engines
 John Deere diesel engines are designed to operate effectively
 in cold weather.
 However, for effective starting and cold-weather operation,
@@ -14097,7 +14097,7 @@ allowable temperature out of the charge air cooler.
 For more information, see your John Deere dealer.
 
 # Fuels and Lubricants
-## Diesel Exhaust Fluid (DEF) — Use in Selective Catalytic Reduction
+#### Diesel Exhaust Fluid (DEF) — Use in Selective Catalytic Reduction
 (SCR) Equipped Engines
 In order to maintain the emissions performance of the engine,
 it is essential to use and refill DEF in accordance with the specification.
@@ -14122,7 +14122,7 @@ NOx Reduction Agent
 Catalyst Solution
 
 # Fuels and Lubricants
-## Testing Diesel Exhaust Fluid (DEF)
+#### Testing Diesel Exhaust Fluid (DEF)
 Using DEF with the correct concentration is critical
 to engine and aftertreatment system performance. Extended storage
 and other conditions can adversely alter the DEF concentration.
@@ -14152,7 +14152,7 @@ is not within specification, dispose of DEF packages and replace with
 new or good DEF.
 
 # Fuels and Lubricants
-## Storing Diesel Exhaust Fluid (DEF)
+#### Storing Diesel Exhaust Fluid (DEF)
 Avoid contact with eyes. In case of contact, immediately
 flush eyes with large amounts of water for a minimum of 15 minutes.
 Reference the Materials Safety Data Sheet (MSDS) for additional information.
@@ -14200,7 +14200,7 @@ It is recommended to purchase DEF in quantities that will be
 consumed within 12 months.
 
 # Fuels and Lubricants
-## Refilling Diesel Exhaust Fluid (DEF) Tank
+#### Refilling Diesel Exhaust Fluid (DEF) Tank
 Avoid contact with eyes. In case of contact, immediately
 flush eyes with large amounts of water for a minimum of 15 minutes.
 Reference the Materials Safety Data Sheet (MSDS) for additional information.
@@ -14247,7 +14247,7 @@ port is identified by a blue colored cap embossed with the following
 DEF symbol.
 
 # Fuels and Lubricants
-## Disposal of Diesel Exhaust Fluid (DEF)
+#### Disposal of Diesel Exhaust Fluid (DEF)
 Although there is little issue with minor spillage of DEF on
 the ground, large amounts of DEF should be contained. If large spills
 occur, contact local environmental authorities for assistance with
@@ -14258,7 +14258,7 @@ substantial quantities of DEF onto the ground or send DEF to wastewater
 treatment facilities.
 
 # Fuels and Lubricants
-## Diesel Engine Coolant (engine with wet sleeve cylinder liners)
+#### Diesel Engine Coolant (engine with wet sleeve cylinder liners)
 Failure to follow applicable coolant standards and drain intervals
 can result in severe engine damage that may not be covered under warranty.
 Warranties, including the emissions warranty, are not conditioned
@@ -14304,7 +14304,7 @@ table.
 </table>
 
 # Fuels and Lubricants
-## John Deere COOL-GARD™ II Coolant Extender
+#### John Deere COOL-GARD™ II Coolant Extender
 Some coolant additives gradually deplete during engine operation.
 For
 COOL-GARD II Coolant Extender should not be added unless indicated
@@ -14329,7 +14329,7 @@ Add the recommended concentration of COOL-GARD II Coolant Extender.
 DO NOT add more than the recommended amount.
 
 # Fuels and Lubricants
-## Operating in Warm Temperature Climates
+#### Operating in Warm Temperature Climates
 John Deere engines are designed to operate using recommended
 engine coolants.
 Always use a recommended engine coolant, even when operating
@@ -14342,7 +14342,7 @@ Drain cooling system and refill with recommended engine coolant
 as soon as possible.
 
 # Fuels and Lubricants
-## Water Quality for Mixing with Coolant Concentrate
+#### Water Quality for Mixing with Coolant Concentrate
 Engine coolants are a combination of three chemical components:
 ethylene glycol (EG) or propylene glycol (PG) antifreeze, inhibiting
 coolant additives, and quality water.
@@ -14417,7 +14417,7 @@ minimum specifications for quality:
 </table>
 
 # Fuels and Lubricants
-## Testing Coolant Freeze Point
+#### Testing Coolant Freeze Point
 The use of a handheld coolant refractometer is the quickest,
 easiest, and most accurate method to determine coolant freeze point.
 This method is more accurate than a test strip or a float-type hydrometer
@@ -14440,7 +14440,7 @@ point for the type of coolant (ethylene glycol coolant or propylene
 glycol) being tested.
 
 # Fuels and Lubricants
-## Diesel Engine Break-In Oil — Non-Emissions Certified and Certified
+#### Diesel Engine Break-In Oil — Non-Emissions Certified and Certified
 Tier 1, Tier 2, Tier 3, Stage I, Stage II, and Stage III
 New engines are filled at the factory with either John Deere
 Operate the engine under various conditions, particularly heavy
@@ -14517,7 +14517,7 @@ rebuilt engine:
 </table>
 
 # Fuels and Lubricants
-## John Deere Break-In Plus™ Engine Oil — Interim Tier 4, Final
+#### John Deere Break-In Plus™ Engine Oil — Interim Tier 4, Final
 Tier 4, Stage IIIB, Stage IV, and Stage V
 New engines are filled at the factory with John Deere
 Operate the engine under various conditions, particularly heavy
@@ -14544,7 +14544,7 @@ Deere diesel engines at all emission certification levels.
 After the break-in period, use John Deere
 
 # Fuels and Lubricants
-## Diesel Engine Oil — Tier 3 and Stage IIIA
+#### Diesel Engine Oil — Tier 3 and Stage IIIA
 Failure to follow applicable oil standards and drain intervals
 can result in severe engine damage that might not be covered under
 warranty. Warranties, including the emissions warranty, are not conditioned
@@ -14571,7 +14571,7 @@ DO NOT use diesel fuel with sulfur content greater than 10
 000 mg/kg (10 000 ppm).
 
 # Fuels and Lubricants
-## Diesel Engine Oil — Interim Tier 4, Final Tier 4, Stage IIIB,
+#### Diesel Engine Oil — Interim Tier 4, Final Tier 4, Stage IIIB,
 Stage IV, and Stage V
 Failure to follow applicable oil standards and drain intervals
 can result in severe engine damage that might not be covered under
@@ -14597,7 +14597,7 @@ Use only ultra low sulfur diesel (ULSD) fuel with
 a maximum sulfur content of 15 mg/kg (15 ppm).
 
 # Fuels and Lubricants
-## Diesel Engine Oil Service Interval for Operation at High Altitude
+#### Diesel Engine Oil Service Interval for Operation at High Altitude
 To avoid excessive oil degradation and potential engine damage,
 reduce oil and filter service intervals to 50% of the original recommended
 values when operating engines at altitudes above
@@ -14660,7 +14660,7 @@ Use only approved oil types.
 </table>
 
 # Fuels and Lubricants
-## Engine Oil and Filter Service Intervals — Tier 3 and Stage IIIA
+#### Engine Oil and Filter Service Intervals — Tier 3 and Stage IIIA
 — PowerTech™ Plus Engines
 Recommended oil and filter service intervals are based on a
 combination of oil pan capacity, type of engine oil and filter used,
@@ -14735,7 +14735,7 @@ DO NOT use diesel fuel with sulfur content greater than
 </table>
 
 # Fuels and Lubricants
-## Engine Oil and Filter Service Intervals — Interim Tier 4, Final
+#### Engine Oil and Filter Service Intervals — Interim Tier 4, Final
 Tier 4, Stage IIIB, Stage IV, and Stage V Engines
 Failure to follow applicable oil standards and drain intervals
 can result in severe engine damage that might not be covered under
@@ -14786,14 +14786,14 @@ Use of an approved John Deere oil filter
 </table>
 
 # Fuels and Lubricants
-## Oilscan™ and CoolScan™
+#### Oilscan™ and CoolScan™
 Oil and coolant samples should be taken from each system before
 its recommended change interval.
 Check with your John Deere dealer for the availability of Oilscan™
 and CoolScan™ kits.
 
 # Fuels and Lubricants
-## ProDrive™ XL Transmission, Chopper Gear Case (Two-Speed), Hydrostatic
+#### ProDrive™ XL Transmission, Chopper Gear Case (Two-Speed), Hydrostatic
 Drive System, Main Hydraulic System, and Main Engine Gear Case Oils
 Only the following oils are approved:
 John Deere
@@ -14804,7 +14804,7 @@ Low Viscosity
 Oils meeting John Deere Standard JDM J20D
 
 # Fuels and Lubricants
-## Feed Accelerator Gear Case, Final Drives, Loading Auger Gear
+#### Feed Accelerator Gear Case, Final Drives, Loading Auger Gear
 Case (Fixed and Pivoting), Spreader Gear Case, Cleaning Fan Variable
 Speed Driven Gear Case Oils
 The following oils are preferred:
@@ -14814,7 +14814,7 @@ Other oils may be used if they meet the following:
 API Service Category GL-5
 
 # Fuels and Lubricants
-## Multipurpose Extreme Pressure (EP) Grease
+#### Multipurpose Extreme Pressure (EP) Grease
 Use grease based on NLGI consistency numbers and the expected
 air temperature range during the service interval.
 The following greases are also recommended:
@@ -14833,7 +14833,7 @@ If grease fitting is missing, replace immediately.
 Clean fittings thoroughly before using grease gun.
 
 # Fuels and Lubricants
-## Corn Head Grease
+#### Corn Head Grease
 Use only John Deere Corn Head Grease where specified.
 See Maintenance section for further information.
 John Deere Corn Head Grease is recommended.
@@ -14843,7 +14843,7 @@ If grease fitting is missing, replace immediately.
 Clean fittings thoroughly before using grease gun.
 
 # Fuels and Lubricants
-## Oil Filters
+#### Oil Filters
 Filtration of oils is critically important for proper operation
 and lubrication. John Deere brand oil filters have been designed and
 produced specifically for John Deere applications.
@@ -14856,7 +14856,7 @@ key John Deere specifications.
 Always change oil filters regularly as specified in this manual.
 
 # Fuels and Lubricants
-## Fuel Filters
+#### Fuel Filters
 The importance of fuel filtration cannot be overemphasized with
 modern fuel systems. The combination of increasingly restrictive emission
 regulations and more efficient engines requires fuel system to operate
@@ -14870,7 +14870,7 @@ To protect the engine from debris and water, always change engine
 fuel filters as specified in this manual.
 
 # Fuels and Lubricants
-## Alternative and Synthetic Lubricants
+#### Alternative and Synthetic Lubricants
 Conditions in certain geographical areas may require lubricant
 recommendations different from those printed in this manual.
 Some John Deere brand coolants and lubricants may not be available
@@ -14885,7 +14885,7 @@ Re-refined base stock products may be used if the finished lubricant
 meets the performance requirements.
 
 # Fuels and Lubricants
-## Lubricant Storage
+#### Lubricant Storage
 Your equipment can operate at top efficiency only when clean
 lubricants are used.
 Use clean containers to handle all lubricants.
@@ -14898,7 +14898,7 @@ Properly dispose of all old containers and any residual lubricant
 they may contain.
 
 # Fuels and Lubricants
-## Mixing of Lubricants
+#### Mixing of Lubricants
 In general, avoid mixing different brands or types of oil. Oil
 manufacturers blend additives in their oils to meet certain specifications
 and performance requirements.
@@ -14908,7 +14908,7 @@ Consult your John Deere dealer to obtain specific information
 and recommendations.
 
 # Lubrication and Maintenance
-## Service Interval—Setup or Clearing
+#### Service Interval—Setup or Clearing
 To prevent injury, never lubricate or service machine,
 header, or engine while it is running. Shut OFF engine, set park brake
 and remove key.
@@ -14918,7 +14918,7 @@ See Calibrations Application Help or Operator's Station
 Help for further information on setup or clearing service intervals.
 
 # Lubrication and Maintenance
-## Lubrication Decal Locations
+#### Lubrication Decal Locations
 Bearing failures or overheating can result in a fire. To reduce
 bearing failures or overheating, follow hour intervals listed in this
 section for further information.
@@ -14927,12 +14927,12 @@ and bearing covers. Inspect and clean these areas periodically throughout
 the harvest day.
 
 # Lubrication and Maintenance
-## Working Underneath or Around Feeder House
+#### Working Underneath or Around Feeder House
 See Feeder House Safety Lock in the Feeder House section for
 further information.
 
 # Lubrication and Maintenance
-## Hydraulic Hose Replacement
+#### Hydraulic Hose Replacement
 Hydraulic hoses should be inspected frequently for leakage,
 kinking, cuts, cracks, abrasion, corrosion, exposed wire braid, or
 any other signs of wear or damage. Worn or damaged hose assemblies
@@ -14950,7 +14950,7 @@ sure to use steel fittings approved for use with hose manufacture.
 Use correct size and thread type as replaced hose.
 
 # Lubrication and Maintenance
-## Hydraulic System Cleanliness
+#### Hydraulic System Cleanliness
 If an accident occurs,
 see a doctor immediately. Any fluid injected into the skin must be
 surgically removed within a few hours or gangrene can result. Doctors
@@ -14970,13 +14970,13 @@ Open the multicoupler covers (header and combine) and clean
 the multicoupler surfaces of any dirt and debris.
 
 # Lubrication and Maintenance
-## Accumulator Pressure
+#### Accumulator Pressure
 Due to temperature differences, accumulator pressures
 can vary significantly and will need to be adjusted. See your John
 Deere dealer for further information.
 
 # Lubrication and Maintenance
-## Using High-Pressure Washers
+#### Using High-Pressure Washers
 Do not, under any circumstances,
 spray, or wash components (example; engine) with cold water when hot.
 Do not use rotary nozzles or water at temperatures over 50°C (122°F),
@@ -14989,11 +14989,11 @@ may cause product malfunctions. Follow the instructions in the high-pressure
 washer operator’s manual and manuals of attached equipment.
 
 # Lubrication and Maintenance
-## Using Pressurized Air
+#### Using Pressurized Air
 
 
 # Lubrication and Maintenance
-## Lubrication Symbols
+#### Lubrication Symbols
 Never lubricate or service machine while the engine
 is running.
  Lubricate with John Deere Multipurpose SD
@@ -15007,7 +15007,7 @@ Recommended service intervals are for average conditions.
 Service more often if machine is operated under adverse conditions.
 
 # Lubrication and Maintenance
-## Service Your Machine at Specified Intervals
+#### Service Your Machine at Specified Intervals
 Perform lubrication, checks, and adjustments at intervals specified
 in the following tables. Perform service on items at multiples of
 the original requirement. For example, at 1000 operating hours also
@@ -15016,7 +15016,7 @@ service those items listed under every 500 operating hours, every
 hours or daily.
 
 # Lubrication and Maintenance
-## Important Considerations
+#### Important Considerations
 Clean fittings before and after applying grease.
 Replace any damaged or missing fittings immediately.
 Lubrication and maintenance intervals are listed in this section.
@@ -15024,7 +15024,7 @@ Locations and procedures are listed in the section for that
 interval.
 
 # Maintenance—Every 10 Hours
-## Service Interval Chart—Every 10 Hours
+#### Service Interval Chart—Every 10 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 10 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15099,7 +15099,7 @@ interval.
 </table>
 
 # Maintenance—Every 10 Hours
-## Engine Oil Level
+#### Engine Oil Level
 Verify that the dipstick is pushed completely into the
 housing before removing to check the engine oil level.
 For the most accurate oil level reading, check the engine oil when
@@ -15118,12 +15118,12 @@ mark, add oil as needed. See Fuels and Lubricants section for oil
 recommendations.
 
 # Maintenance—Every 10 Hours
-## Engine Coolant
+#### Engine Coolant
 Check engine coolant level in the surge tank (A) with engine
 cold. Level must be up to "Max Cold" line.
 
 # Maintenance—Every 10 Hours
-## Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers,
+#### Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers,
 and Fuel Cooler
 In heavy debris or windy conditions, clean the cooling
 system every 10 hours.
@@ -15167,7 +15167,7 @@ To tension the rotary
 screen belt, move handle from the bottom notch to the top notch.
 
 # Maintenance—Every 10 Hours
-## Hydrostatic/Hydraulic Oil/Main Engine Gear Case Oil
+#### Hydrostatic/Hydraulic Oil/Main Engine Gear Case Oil
 Make all necessary oil level adjustments through the main engine
 gear case.
 Check the oil level with the header on the ground.
@@ -15206,11 +15206,11 @@ oil level is at the FULL mark on the dipstick. See Fuels and Lubricants
 section for oil recommendations.
 
 # Maintenance—Every 10 Hours
-## Air Compressor Reservoir (If Equipped)
+#### Air Compressor Reservoir (If Equipped)
 
 
 # Maintenance—Every 10 Hours
-## Fuel Precleaner Filter
+#### Fuel Precleaner Filter
 Depending on the machine option, clean or drain fuel precleaner.
 Close valve on the fuel precleaner.
 Inspect the fuel precleaner filter (A) for buildup and
@@ -15223,29 +15223,29 @@ the fuel precleaner filter.
 Open the valve on the fuel precleaner to fill.
 
 # Maintenance—Every 10 Hours
-## Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions)
+#### Two-Speed Four-Wheel Drive Motor Pivots (Muddy Conditions)
 Grease the fittings until the grease purges from the top and
 bottom motor pivot seals.
 Grease two fittings (both sides).
 
 # Maintenance—Every 10 Hours
-## Two-Wheel Drive Spindle Bearings and Pivot Pins (Muddy Conditions)
+#### Two-Wheel Drive Spindle Bearings and Pivot Pins (Muddy Conditions)
 Grease the fittings until the grease
 purges from the top and bottom pivot seals.
 Grease the fittings (both sides) every 10 hours when operating
 in mud and water.
 
 # Maintenance—Every 10 Hours
-## Rear Axle Tie Rods (Muddy Conditions)
+#### Rear Axle Tie Rods (Muddy Conditions)
 Grease the fittings (both sides) on the inner and outer rear
 axle tie rods.
 
 # Maintenance—Every 10 Hours
-## Air Conditioner Drain Hose
+#### Air Conditioner Drain Hose
 
 
 # Maintenance—Every 10 Hours
-## Stone Trap
+#### Stone Trap
 Clean out the stone trap more frequently if field conditions
 require.
 Remove the quick-lock pin and dump the stone trap
@@ -15254,15 +15254,15 @@ Close the stone trap
 and retain with the quick-lock pin.
 
 # Maintenance—Every 10 Hours
-## ActiveVision™ Tailings System Camera (If Equipped)
+#### ActiveVision™ Tailings System Camera (If Equipped)
 Open the latch and clean the
 
 # Maintenance—Every 10 Hours
-## ActiveVision™ Clean Grain Elevator Camera (If Equipped)
+#### ActiveVision™ Clean Grain Elevator Camera (If Equipped)
 Open the latch and clean the
 
 # Maintenance—Every 50 Hours
-## Service Interval Chart—Every 50 Hours
+#### Service Interval Chart—Every 50 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 50 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15337,34 +15337,34 @@ Open the latch and clean the
 </table>
 
 # Maintenance—Every 50 Hours
-## Driveshaft Couplers
+#### Driveshaft Couplers
 Clean the excess grease
 that purged from the splines.
 
 # Maintenance—Every 50 Hours
-## Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions)
+#### Two-Speed Four-Wheel Drive Motor Pivots (Normal Conditions)
 Grease the fittings until the grease purges from the top and
 bottom motor pivot seals.
 Grease two fittings (both sides).
 
 # Maintenance—Every 50 Hours
-## Two-Wheel Drive Spindle Bearings and Pivot Pins (Normal Conditions)
+#### Two-Wheel Drive Spindle Bearings and Pivot Pins (Normal Conditions)
 Grease the fittings until the grease
 purges from the top and bottom pivot seals.
 Grease the fittings (both sides) every 10 hours when operating
 in mud and water.
 
 # Maintenance—Every 50 Hours
-## Rear Axle Tie Rods (Normal Conditions)
+#### Rear Axle Tie Rods (Normal Conditions)
 Grease the fittings (both sides) on the inner and outer rear
 axle tie rods.
 
 # Maintenance—Every 50 Hours
-## Lateral Tilt Feeder House
+#### Lateral Tilt Feeder House
 
 
 # Maintenance—Every 50 Hours
-## Feeder House Conveyor Drive Chain
+#### Feeder House Conveyor Drive Chain
 Loosen nut (A) on sprocket.
 When servicing chain, check sprockets for wear.
 Do not overtighten the feeder conveyor drive chain.
@@ -15377,7 +15377,7 @@ house conveyor drive chain. See Feeder House Conveyor Drive Chain—Replacing
 in the Feeder House section for further information.
 
 # Maintenance—Every 50 Hours
-## Cleaning Fan Variable Speed Driven/Driver Sheaves (Severe Conditions)
+#### Cleaning Fan Variable Speed Driven/Driver Sheaves (Severe Conditions)
 When operating consistently in hilly conditions, grease
 the cleaning fan variable speed driven/driver sheaves every 50 hours.
 In normal conditions, grease every 100 hours.
@@ -15386,7 +15386,7 @@ speed to distribute the grease if operated at constant speed all the
 time.
 
 # Maintenance—Every 50 Hours
-## Fuel Precleaner Filter
+#### Fuel Precleaner Filter
 Depending on the machine option, clean or drain fuel precleaner.
 Visually check the fuel precleaner filter (A) and clean
 if buildup is visible on the screen.
@@ -15401,13 +15401,13 @@ the fuel precleaner filter.
 Open the valve on the fuel precleaner to fill.
 
 # Maintenance—Every 50 Hours
-## Water Separator Primary Fuel Filter
+#### Water Separator Primary Fuel Filter
 To remove the water form
 the water separator bowl, open the drain (A). See Maintenance—As Required
 (Engine Fluids and Filters) section for further information.
 
 # Maintenance—Every 50 Hours
-## Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers,
+#### Rotary Screen, Charge Air Cooler, Oil Cooler, Radiator, Condensers,
 and Fuel Cooler
 In heavy debris or windy conditions, clean the cooling
 system every 10 hours.
@@ -15423,13 +15423,13 @@ Condensers (D)
 Fuel cooler (E)
 
 # Maintenance—Every 50 Hours
-## Mass Flow Sensor
+#### Mass Flow Sensor
 Lower the grain tank loading auger.
 Clean the mass flow sensor
 plate.
 
 # Maintenance—Every 50 Hours
-## Cab Fresh Air Filter
+#### Cab Fresh Air Filter
 Turn the knob (A) and lower the access cover.
 Remove the fresh air
 filter (B).
@@ -15437,7 +15437,7 @@ Clean or replace the
 fresh air filter.
 
 # Maintenance—Every 50 Hours
-## Moisture Sensor
+#### Moisture Sensor
 The moisture sensor has internal components that can loosen
 when dropped, which might not be immediately detectable. Handle the
 moisture sensor with care when working on or cleaning.
@@ -15452,7 +15452,7 @@ See Calibrations Application Help or Operator’s Station Help for further
 information.
 
 # Maintenance—Every 50 Hours
-## Moisture Sensor Bypass Auger (If Required)
+#### Moisture Sensor Bypass Auger (If Required)
 Remove pins (A) and end cap (B).
 Remove auger (C) from
 the moisture sensor bypass.
@@ -15464,7 +15464,7 @@ Install end cap and retain
 with pins.
 
 # Maintenance—First 100 Hours
-## Service Interval Chart—First 100 Hours
+#### Service Interval Chart—First 100 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—First 100 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15499,7 +15499,7 @@ with pins.
 </table>
 
 # Maintenance—First 100 Hours
-## Final Drive Oil (Wheel Machines)
+#### Final Drive Oil (Wheel Machines)
 Allow the final drive
 oil to drain.
 Install the drain plug
@@ -15512,7 +15512,7 @@ Install the previously
 removed plugs.
 
 # Maintenance—First 100 Hours
-## Transmission Filter
+#### Transmission Filter
 Coat the seal on the
 replacement transmission filter with oil.
 Install the transmission
@@ -15520,7 +15520,7 @@ filter and tighten to specification.
 Transmission Filter
 
 # Maintenance—First 100 Hours
-## Main Engine Gear Case/Rotor Lube Filter
+#### Main Engine Gear Case/Rotor Lube Filter
 Coat the seal on the
 replacement main engine gear case/rotor lube filter with oil.
 Install the main engine
@@ -15528,7 +15528,7 @@ gear case/rotor lube filter and tighten to specification.
 Main Engine Gear Case/Rotor Lube Filter
 
 # Maintenance—First 100 Hours
-## Transmission Return Filter
+#### Transmission Return Filter
 Remove cap (C).
 Use the wire handle on
 the transmission return filter to remove.
@@ -15548,7 +15548,7 @@ Install previously removed
 hose and retain with clamp.
 
 # Maintenance—Every 100 Hours
-## Service Interval Chart—Every 100 Hours
+#### Service Interval Chart—Every 100 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 100 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15578,11 +15578,11 @@ hose and retain with clamp.
 </table>
 
 # Maintenance—Every 100 Hours
-## Tire Pressure and Wheel Bolt Torque
+#### Tire Pressure and Wheel Bolt Torque
 
 
 # Maintenance—Every 100 Hours
-## Cleaning Fan Variable Speed Driven/Driver Sheaves (Normal Conditions)
+#### Cleaning Fan Variable Speed Driven/Driver Sheaves (Normal Conditions)
 When operating consistently in hilly conditions, grease
 the cleaning fan variable speed driven/driver sheaves every 50 hours.
 In normal conditions, grease every 100 hours.
@@ -15591,7 +15591,7 @@ speed to distribute the grease if operated at constant speed all the
 time.
 
 # Maintenance—Every 100 Hours
-## Feeder House Conveyor Chain
+#### Feeder House Conveyor Chain
 One offset link on each
 chain strand must be removed when bushing (B) aligns with the inner
 edge of the front embossment (C) as shown.
@@ -15602,7 +15602,7 @@ Close the access door
 on both sides of the feeder house shield.
 
 # Maintenance—Every 200 Hours
-## Service Interval Chart—Every 200 Hours
+#### Service Interval Chart—Every 200 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 200 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15642,14 +15642,14 @@ on both sides of the feeder house shield.
 </table>
 
 # Maintenance—Every 200 Hours
-## Recirculating Filter
+#### Recirculating Filter
 Remove the recirculating
 filter (A).
 Clean or replace the
 recirculating filter.
 
 # Maintenance—Every 200 Hours
-## Separator Variable Speed Driven Sheave
+#### Separator Variable Speed Driven Sheave
 To access both fittings, rotate the sheaves.
 Use only John Deere Corn Head Grease when greasing fitting
 (A). See Fuels and Lubricants section for further information on grease
@@ -15661,7 +15661,7 @@ Lubricants section for further information on grease recommendations.
 Grease fitting (B).
 
 # Maintenance—Every 200 Hours
-## Separator Variable Speed Driver Sheave
+#### Separator Variable Speed Driver Sheave
 To distribute the grease evenly, start the machine and
 cycle the separator through the full speed range a couple of times.
 Close the sheaves (high speed) before greasing. If operated
@@ -15669,7 +15669,7 @@ at a constant speed all the time, cycle the separator speed to distribute
 the grease.
 
 # Maintenance—Every 200 Hours
-## Front End Variable Speed Driven Sheave (If Equipped)
+#### Front End Variable Speed Driven Sheave (If Equipped)
 To access both fittings, rotate the sheaves.
 Use only John Deere Corn Head Grease when greasing fitting
 (A). See Fuels and Lubricants section for further information on grease
@@ -15681,7 +15681,7 @@ Lubricants section for further information on grease recommendations.
 Grease fitting (B).
 
 # Maintenance—Every 200 Hours
-## Front End Variable Speed Driver Sheave (If Equipped)
+#### Front End Variable Speed Driver Sheave (If Equipped)
 To distribute the grease evenly, start the machine and
 cycle the separator through the full speed range a couple of times.
 Close the sheaves (high speed) before greasing. If operated
@@ -15689,7 +15689,7 @@ at a constant speed all the time, cycle the separator speed to distribute
 the grease.
 
 # Maintenance—Every 400 Hours
-## Service Interval Chart—Every 400 Hours
+#### Service Interval Chart—Every 400 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15729,15 +15729,15 @@ the grease.
 </table>
 
 # Maintenance—Every 400 Hours
-## Unloading Auger Elbow Gear Case
+#### Unloading Auger Elbow Gear Case
 Grease the fitting.
 
 # Maintenance—Every 400 Hours
-## Vertical Unloading Auger Upper Gear Case
+#### Vertical Unloading Auger Upper Gear Case
 Grease the fittings.
 
 # Maintenance—Every 400 Hours
-## Final Drive Oil
+#### Final Drive Oil
 The oil level should
 be within 12 mm (1/2 in) of the bottom of the hole.
 Add oil as needed.
@@ -15745,7 +15745,7 @@ Install the previously
 removed plug.
 
 # Maintenance—Every 400 Hours
-## Chopper Gear Case Oil
+#### Chopper Gear Case Oil
 Remove the drain plug
 (B) from the two-speed chopper gear case.
 Allow the two-speed chopper
@@ -15779,7 +15779,7 @@ Move the chopper shifter handle back to the original
 speed position.
 
 # Maintenance—Every 400 Hours
-## Feeder House Dust Fan (If Equipped)
+#### Feeder House Dust Fan (If Equipped)
 Remove the access door (A) on the feeder house dust
 fan.
 Grease fitting (B).
@@ -15787,7 +15787,7 @@ Install the access door
 on the feeder house dust fan.
 
 # Maintenance—Every 400 Hours
-## Service Interval Chart—Every 400 Hours (Continued)
+#### Service Interval Chart—Every 400 Hours (Continued)
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 400 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15837,7 +15837,7 @@ on the feeder house dust fan.
 </table>
 
 # Maintenance—Every 400 Hours
-## Batteries
+#### Batteries
 Clean the top of the
 batteries.
 Visually check the water
@@ -15848,29 +15848,29 @@ Clean the battery posts,
 cables, and tighten the connections as needed.
 
 # Maintenance—Every 400 Hours
-## Fire Extinguishers
+#### Fire Extinguishers
 Inspect the fire extinguishers (A) by following the
 maintenance instructions on the fire extinguisher label.
 Recharge or replace as
 necessary.
 
 # Maintenance—Every 400 Hours
-## Seat Belts
+#### Seat Belts
 Inspect seat belt (operator's seat and instructional seat) for
 damage.
 
 # Maintenance—Every 400 Hours
-## Loading Auger Fixed Gear Case Oil
+#### Loading Auger Fixed Gear Case Oil
 Remove dipstick (A) and check oil level.
 Add oil as needed.
 
 # Maintenance—Every 400 Hours
-## Loading Auger Pivoting Gear Case Oil
+#### Loading Auger Pivoting Gear Case Oil
 Remove dipstick (A) and check oil level.
 Add oil as needed.
 
 # Maintenance—Every 400 Hours
-## Air Filter Elements
+#### Air Filter Elements
 Remove the primary air filter and service.
 Check the safety filter
 for plugging.
@@ -15878,7 +15878,7 @@ Check for leaks and for
 collapse of the aspirator tube.
 
 # Maintenance—Every 400 Hours
-## Moisture Sensor
+#### Moisture Sensor
 The moisture sensor has internal components that can loosen
 when dropped, which might not be immediately detectable. Handle the
 moisture sensor with care when working on or cleaning.
@@ -15893,7 +15893,7 @@ See Calibrations Application Help or Operator’s Station Help for further
 information.
 
 # Maintenance—Every 400 Hours
-## Moisture Sensor Bypass Auger (If Required)
+#### Moisture Sensor Bypass Auger (If Required)
 Remove pins (A) and end cap (B).
 Remove auger (C) from
 the moisture sensor bypass.
@@ -15905,7 +15905,7 @@ Install end cap and retain
 with pins.
 
 # Maintenance—Every 400 Hours
-## ActiveVision™ Camera Desiccant Cartridge (If Equipped)
+#### ActiveVision™ Camera Desiccant Cartridge (If Equipped)
 Crop material and other debris may accumulate around
 the desiccant cartridge. Inspect and clean the area around the desiccant
 cartridge before removing.
@@ -15939,7 +15939,7 @@ screws to specification.
 Hex Socket Screws
 
 # Maintenance—Every 500 Hours
-## Service Interval Chart—Every 500 Hours
+#### Service Interval Chart—Every 500 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 500 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -15979,7 +15979,7 @@ Hex Socket Screws
 </table>
 
 # Maintenance—Every 500 Hours
-## Engine Oil and Filter
+#### Engine Oil and Filter
 Change
 the oil every 500 hours when using John Deere
 Final Tier 4/Stage V engines require Plus-50™
@@ -16003,7 +16003,7 @@ is parked on level ground. An oil level reading within the cross-hatch
 area is acceptable.
 
 # Maintenance—Every 500 Hours
-## Primary and Secondary Fuel Filter
+#### Primary and Secondary Fuel Filter
 Before
 performing maintenance work on the fuel filter, shut OFF engine, set
 park brake, and remove key.
@@ -16048,7 +16048,7 @@ turn the key switch to the ON position. See Maintenance—As Required
 (Engine Fluids and Filters) section for further information.
 
 # Maintenance—Every 500 Hours
-## Fuel Precleaner Filter (Style A)
+#### Fuel Precleaner Filter (Style A)
 Close the valve on the fuel precleaner.
 Remove the fuel precleaner
 filter (A) and clean the screen.
@@ -16058,7 +16058,7 @@ To fill the bowl, open
 the valve on the fuel precleaner.
 
 # Maintenance—Every 500 Hours
-## Fuel Precleaner Filter (Heavy-Duty Option) (Style B)
+#### Fuel Precleaner Filter (Heavy-Duty Option) (Style B)
 Close the valve on the fuel precleaner.
 Remove and replace the
 fuel precleaner filter (A) when performance decline is noticed or
@@ -16071,19 +16071,19 @@ Open the valve on the
 fuel precleaner.
 
 # Maintenance—Every 500 Hours
-## Fuel Tank Breather
+#### Fuel Tank Breather
 Visually inspect the fuel tank breather (A).
 Remove the fuel tank
 breather and clean.
 
 # Maintenance—Every 500 Hours
-## Fuel Tank Breather (Fast Fill Fuel System) (If Equipped)
+#### Fuel Tank Breather (Fast Fill Fuel System) (If Equipped)
 Visually inspect the fuel tank breather (A).
 Remove the fuel tank
 breather and clean.
 
 # Maintenance—Every 500 Hours
-## Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4/Stage
+#### Diesel Exhaust Fluid (DEF) Tank Breather (Final Tier 4/Stage
 V)
 Visually inspect the diesel exhaust fluid (DEF) tank
 breather (A).
@@ -16091,7 +16091,7 @@ Remove the diesel exhaust
 fluid (DEF) tank breather from the hose and clean.
 
 # Maintenance—Every 1000 Hours
-## Service Interval Chart—Every 1000 Hours
+#### Service Interval Chart—Every 1000 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1000 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -16151,7 +16151,7 @@ fluid (DEF) tank breather from the hose and clean.
 </table>
 
 # Maintenance—Every 1000 Hours
-## Transmission Filter
+#### Transmission Filter
 Coat the seal on the
 replacement transmission filter with oil.
 Install the transmission
@@ -16159,7 +16159,7 @@ filter and tighten to specification.
 Transmission Filter
 
 # Maintenance—Every 1000 Hours
-## Hydrostatic Cooler Return Filter
+#### Hydrostatic Cooler Return Filter
 Remove the hydrostatic
 cooler return filter and discard.
 Coat the seal on the
@@ -16171,7 +16171,7 @@ removed filter bowl and tighten to specification.
 Filter Bowl
 
 # Maintenance—Every 1000 Hours
-## Auxiliary Hydraulic Return Filter
+#### Auxiliary Hydraulic Return Filter
 Allow the filter bowl
 hydraulic oil to drain.
 Install the plug in the
@@ -16188,7 +16188,7 @@ removed filter bowl and tighten to specification.
 Filter Bowl
 
 # Maintenance—Every 1000 Hours
-## Main Engine Gear Case/Rotor Lube Filter
+#### Main Engine Gear Case/Rotor Lube Filter
 Coat the seal on the
 replacement main engine gear case/rotor lube filter with oil.
 Install the main engine
@@ -16196,7 +16196,7 @@ gear case/rotor lube filter and tighten to specification.
 Main Engine Gear Case/Rotor Lube Filter
 
 # Maintenance—Every 1000 Hours
-## Hydrostatic Charge Filter
+#### Hydrostatic Charge Filter
 Coat the seal on the
 replacement hydrostatic charge filter with oil.
 Install the hydrostatic
@@ -16204,7 +16204,7 @@ charge filter and tighten to specification.
 Hydrostatic Charge Filter
 
 # Maintenance—Every 1000 Hours
-## Transmission Return Filter
+#### Transmission Return Filter
 Remove cap (C).
 Use the wire handle on
 the transmission return filter to remove.
@@ -16224,11 +16224,11 @@ Install previously removed
 hose and retain with clamp.
 
 # Maintenance—Every 1000 Hours
-## Main Engine Gear Case Breather
+#### Main Engine Gear Case Breather
 
 
 # Maintenance—Every 1000 Hours
-## Feed Accelerator Gear Case
+#### Feed Accelerator Gear Case
 Allow the feed accelerator
 gear case oil to drain.
 Install the drain plug
@@ -16247,7 +16247,7 @@ to specification.
 Fill Plug
 
 # Maintenance—Every 1000 Hours
-## Cleaning Fan Variable Speed Driven Sheave
+#### Cleaning Fan Variable Speed Driven Sheave
 Remove the drain plug
 (A) from the cleaning fan variable speed driven sheave.
 Install the drain plug
@@ -16265,7 +16265,7 @@ to specification.
 Fill Plug
 
 # Maintenance—Every 1500 Hours or Three Years
-## Service Interval Chart—Every 1500 Hours or Three Years
+#### Service Interval Chart—Every 1500 Hours or Three Years
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 1500 Hours or Three Years</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -16290,7 +16290,7 @@ Fill Plug
 </table>
 
 # Maintenance—Every 1500 Hours or Three Years
-## Change Diesel Exhaust Fluid (DEF) Dosing Unit Filter
+#### Change Diesel Exhaust Fluid (DEF) Dosing Unit Filter
 If DEF is spilled or contacts any surface other than
 the storage tank, immediately clean the surface with clear water.
 DEF is corrosive to painted and unpainted metallic surfaces and can
@@ -16333,7 +16333,7 @@ Install previously removed
 cover.
 
 # Maintenance—Every 1500 Hours or Three Years
-## Replace Diesel Exhaust Fluid (DEF) In-Line Filter
+#### Replace Diesel Exhaust Fluid (DEF) In-Line Filter
 If DEF is spilled or contacts any surface other than
 the storage tank, immediately clean the surface with clear water.
 DEF is corrosive to painted and unpainted metallic surfaces and can
@@ -16370,7 +16370,7 @@ filter cover and tighten to specification.
 Drain Plug
 
 # Maintenance—Every 2000 Hours
-## Service Interval Chart—Every 2000 Hours
+#### Service Interval Chart—Every 2000 Hours
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—Every 2000 Hours</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -16395,7 +16395,7 @@ Drain Plug
 </table>
 
 # Maintenance—Every 2000 Hours
-## Final Drive Oil
+#### Final Drive Oil
 Allow the final drive
 oil to drain.
 Install the drain plug
@@ -16408,7 +16408,7 @@ Install the previously
 removed plugs.
 
 # Maintenance—Every 2000 Hours
-## Hydraulic System Oil and Hydraulic Filters
+#### Hydraulic System Oil and Hydraulic Filters
 To prevent system contamination, clean hydraulic
 reservoir area.
 Install a drain hose onto the hydraulic reservoir
@@ -16506,7 +16506,7 @@ as needed until the oil level remains at the "FULL" mark
 on the main engine gear case dipstick.
 
 # Maintenance—Every 6000 Hours or Six Years
-## Service Interval Chart—Every 6000 Hours or Six Years
+#### Service Interval Chart—Every 6000 Hours or Six Years
 SCHEDULED coolant change interval is six years or 6000
 hours if John Deere
 <table style='border-collapse: collapse; width: 100%;'>
@@ -16528,7 +16528,7 @@ hours if John Deere
 </table>
 
 # Maintenance—Every 6000 Hours or Six Years
-## Engine Cooling System
+#### Engine Cooling System
 If a coolant other than Cool-Gard™
 II or Cool-Gard™ II PG is used, reduce the drain interval to two years
 or 2000 hours of operation.
@@ -16542,7 +16542,7 @@ level in the surge tank with the engine cold. The level must be up
 to the "Max Cold" line.
 
 # Maintenance—As Required
-## Service Interval Chart—As Required
+#### Service Interval Chart—As Required
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Service Interval Chart—As Required</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -16592,14 +16592,14 @@ to the "Max Cold" line.
 </table>
 
 # Maintenance—As Required
-## Recirculating Filter
+#### Recirculating Filter
 Remove the recirculating
 filter (A).
 Clean or replace the
 recirculating filter.
 
 # Maintenance—As Required
-## Cab Fresh Air Filter
+#### Cab Fresh Air Filter
 Turn the knob (A) and lower the access cover.
 Remove the fresh air
 filter (B).
@@ -16607,16 +16607,16 @@ Clean or replace the
 fresh air filter.
 
 # Maintenance—As Required
-## Windshield Washer Reservoir
+#### Windshield Washer Reservoir
 Fill the windshield washer
 reservoir.
 
 # Maintenance—As Required
-## Alternator Screen
+#### Alternator Screen
 
 
 # Maintenance—As Required
-## Moisture Sensor
+#### Moisture Sensor
 The moisture sensor has internal components that can loosen
 when dropped, which might not be immediately detectable. Handle the
 moisture sensor with care when working on or cleaning.
@@ -16631,7 +16631,7 @@ See Calibrations Application Help or Operator’s Station Help for further
 information.
 
 # Maintenance—As Required
-## Moisture Sensor Bypass Auger
+#### Moisture Sensor Bypass Auger
 Remove pins (A) and end cap (B).
 Remove auger (C) from
 the moisture sensor bypass.
@@ -16643,15 +16643,15 @@ Install end cap and retain
 with pins.
 
 # Maintenance—As Required
-## ActiveVision™ Clean Grain Elevator Camera (If Equipped)
+#### ActiveVision™ Clean Grain Elevator Camera (If Equipped)
 Open the latch and clean the
 
 # Maintenance—As Required
-## ActiveVision™ Tailings System Camera (If Equipped)
+#### ActiveVision™ Tailings System Camera (If Equipped)
 Open the latch and clean the
 
 # Maintenance—As Required
-## ActiveVision™ Camera Desiccant Cartridge (If Equipped)
+#### ActiveVision™ Camera Desiccant Cartridge (If Equipped)
 Crop material and other debris may accumulate around
 the desiccant cartridge. Inspect and clean the area around the desiccant
 cartridge before removing.
@@ -16685,11 +16685,11 @@ screws to specification.
 Hex Socket Screws
 
 # Maintenance—As Required
-## Fire Extinguisher Bracket Straps (If Equipped)
+#### Fire Extinguisher Bracket Straps (If Equipped)
 Inspect the fire extinguisher (A) bracket straps.
 
 # Maintenance—As Required
-## Clean Windows, Mirrors, and Lights
+#### Clean Windows, Mirrors, and Lights
 Be sure that there is good visibility in all directions. Clean
 windows, mirrors, and lights to ensure good visibility.
 Do not use solvents or other cleaners. John Deere Glass
@@ -16697,7 +16697,7 @@ Cleaner or equivalent is recommended.
 A soft, non-abrasive rag or towel is preferred for cleaning.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Required Emission-Related Information
+#### Required Emission-Related Information
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Required Emission-Related Information</caption>
 <tbody>
@@ -16708,17 +16708,17 @@ A soft, non-abrasive rag or towel is preferred for cleaning.
 </table>
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Rear Ladder
+#### Rear Ladder
 Turn latch (A) to unlock the ladder.
 Use handle (B) to lower/raise
 the ladder fully.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Engine Access Covers
+#### Engine Access Covers
 Open engine access covers.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Changing Starting Fluid Can
+#### Changing Starting Fluid Can
 Open the engine access cover. Remove the safety cap
 and spray button from starting fluid can (A). Loosen the thumb wheel
 enough to change the cans and then tighten.
@@ -16733,7 +16733,7 @@ To prevent possible injury from exploding container,
 do not carry extra or empty cans inside cab.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Do Not Modify Engine Power or Fuel/Air System
+#### Do Not Modify Engine Power or Fuel/Air System
 Increasing horsepower, or altering any aspect of
 fuel and air delivery on emissions certified engines beyond factory
 settings, will cause emission levels beyond what is allowed by engine
@@ -16745,13 +16745,13 @@ Do not attempt to service injection pump or fuel injectors. Special
 training and special tools are required. See your John Deere dealer.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel System
+#### Fuel System
 If ANY fluid is injected
 into the skin, it must be surgically removed within a few hours by
 a doctor familiar with this type injury or gangrene may result.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Diesel Exhaust Fluid (DEF) Tank—Filling
+#### Diesel Exhaust Fluid (DEF) Tank—Filling
 Using incorrect or unapproved aftertreatment components
 can damage the vehicle’s aftertreatment system and reduce ability
 of the aftertreatment system to function correctly.
@@ -16782,7 +16782,7 @@ Install the previously removed cap.
 Carefully clean any spills using distilled water.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Diesel Exhaust Fluid (DEF) Tank—Draining
+#### Diesel Exhaust Fluid (DEF) Tank—Draining
 Long-term storage of fluids in the vehicle (over
 12 months) is not recommended. If long-term storage is necessary,
 periodic testing of the fluid is recommended to ensure that the urea
@@ -16808,7 +16808,7 @@ Close the drain valve
 and remove the hose once the fluid is drained.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Access Diesel Exhaust Fluid (DEF) Dosing Unit Filter
+#### Access Diesel Exhaust Fluid (DEF) Dosing Unit Filter
 If DEF is spilled or contacts any surface other than
 the storage tank, immediately clean the surface with clear water.
 DEF is corrosive to painted and unpainted metallic surfaces and can
@@ -16823,7 +16823,7 @@ diesel exhaust fluid (DEF) dosing unit filter. See Change Diesel Exhaust
 Fluid (DEF) Dosing Unit Filter for further information.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Access Diesel Exhaust Fluid (DEF) In-Line Filter
+#### Access Diesel Exhaust Fluid (DEF) In-Line Filter
 If DEF is spilled or contacts any surface other than
 the storage tank, immediately clean the surface with clear water.
 DEF is corrosive to painted and unpainted metallic surfaces and can
@@ -16838,7 +16838,7 @@ diesel exhaust fluid (DEF) in-line filter. See Replace Diesel Exhaust
 Fluid (DEF) In-Line Filter for further information.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Cleaning Diesel Exhaust Fluid (DEF) Tank
+#### Cleaning Diesel Exhaust Fluid (DEF) Tank
 Avoid contact with eyes. In case of contact, immediately
 flush eyes with large amounts of water for a minimum of 15 minutes.
 Reference the Materials Safety Data Sheet (MSDS) for additional information.
@@ -16883,7 +16883,7 @@ specification, does not appear clear, or does not have a slight ammonia
 smell, contact your authorized dealer.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel Tank—Filling
+#### Fuel Tank—Filling
 Do not overfill the fuel tank. Bodily injury can result from
 fuel splash back. Leakage can result from expansion of the fuel. If
 the tank is too full and the temperature gets too hot (such as from
@@ -16897,15 +16897,15 @@ it does not allow the fuel tank to breathe. Remove the fuel tank breather
 from the hose and clean.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel Tank—Draining
+#### Fuel Tank—Draining
 Turn drain (A) at the bottom of the fuel tank to drain the fuel.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel Precleaner—Shutoff Valve
+#### Fuel Precleaner—Shutoff Valve
 Close valve (A) when servicing the fuel precleaner.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel Precleaner Filter—Cleaning (Style A)
+#### Fuel Precleaner Filter—Cleaning (Style A)
 Clean
 the fuel precleaner filter if buildup is visible on the filter screen
 or if a diagnostic trouble code appears. Reset the code after cleaning
@@ -16929,7 +16929,7 @@ Start the engine and
 run 3—5 minutes at low idle.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel Precleaner Filter (Heavy-Duty Option)—Replacing (Style
+#### Fuel Precleaner Filter (Heavy-Duty Option)—Replacing (Style
 B)
 Shut OFF engine and close
 valve on the fuel precleaner.
@@ -16959,7 +16959,7 @@ Start engine and run
 and Secondary Fuel Filter Element—Replacing.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Water Separator Primary Fuel Filter—Draining
+#### Water Separator Primary Fuel Filter—Draining
 When primary fuel filter (A) senses water in the fuel
 system, a diagnostic trouble code is generated.
 If a diagnostic trouble
@@ -16967,7 +16967,7 @@ code appears, drain the primary filter using drain (B) and reset the
 code.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Primary and Secondary Fuel Filter Element—Replacing
+#### Primary and Secondary Fuel Filter Element—Replacing
 Before
 performing maintenance work on the fuel filter, shut OFF engine, set
 park brake, and remove key.
@@ -17012,7 +17012,7 @@ Start the engine and
 run 3—5 minutes at low idle.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Fuel System—Bleeding
+#### Fuel System—Bleeding
 Air can enter the fuel system when changing the fuel filters
 or when the machine has run out of fuel. Air in the fuel system could
 prevent the engine from starting. If the engine does not start, turn
@@ -17020,7 +17020,7 @@ the key switch ON for 60 seconds to allow the fuel pump (A) to prime
 the fuel system.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Cooling System—Draining
+#### Cooling System—Draining
 Radiator drain is on the rear side of the radiator.
 When
 If a coolant other than Cool-Gard™
@@ -17049,7 +17049,7 @@ filling procedure. See Fuels and Lubricants section for engine coolant
 recommendations.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Cooling System—Filling
+#### Cooling System—Filling
 A special cap is used on the surge tank and radiator.
 If the cap is damaged or missing, it must be replaced by an equivalent
 cap.
@@ -17071,7 +17071,7 @@ and "Min Cold" lines. Add coolant as needed if the coolant
 is below the "Min Cold" line.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Cooling System—Winterize
+#### Cooling System—Winterize
 Do not drain cooling system to protect against freezing.
 Heater does not drain completely, so damage would result.
 Before cold weather, be sure that cooling system has enough
@@ -17084,7 +17084,7 @@ it reaches operating temperature. This mixes the solution and circulates
 it through the system.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Air Cleaner Filters—Removing
+#### Air Cleaner Filters—Removing
 Service the filters only when the engine air filter icon is displayed
 on the armrest display.
 Unsnap dust cover (A) and remove the primary air filter
@@ -17113,7 +17113,7 @@ chaff off the combine. Using such a unit can cause air filter failure,
 followed by engine failure.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Air Compressor System (If Equipped)
+#### Air Compressor System (If Equipped)
 For optimal air compressor performance, the engine must
 be running to provide continuous air supply.
 It is not
@@ -17129,7 +17129,7 @@ The air compressor hose couplers are located:
 The air compressor hose/wand (E) is on the tailings elevator.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Diesel Particulate Filter Aftertreatment Replacement (Stage
+#### Diesel Particulate Filter Aftertreatment Replacement (Stage
 V)
 As the engine owner, you are responsible for performing the
 required maintenance described in your Operator’s Manual. During normal
@@ -17161,7 +17161,7 @@ Disable the automatic exhaust filter cleaning system only when
 necessary.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Exhaust Filter / Diesel Particulate Filter Ash Handling and
+#### Exhaust Filter / Diesel Particulate Filter Ash Handling and
 Disposal (Stage V)
 Under federal, state, and/or local laws or regulations,
 diesel particulate filter (DPF) ash may be classified as a hazardous
@@ -17174,7 +17174,7 @@ handling and cleaning a DPF. See your John Deere dealer or qualified
 service provider for assistance.
 
 # Maintenance—As Required (Engine Fluids and Filters)
-## Exhaust Filter Disposal (Stage V)
+#### Exhaust Filter Disposal (Stage V)
 Proper management of an exhaust filter that has reached
 the end of its useful life is required, since the ash or catalyst
 material in the device may be classified as hazardous waste under
@@ -17183,11 +17183,11 @@ which includes the diesel particulate filter (DPF), may be exchanged
 at any John Deere dealer or qualified service provider.
 
 # Maintenance—As Required (Engine Belts)
-## Engine Belt—Routing
+#### Engine Belt—Routing
 
 
 # Maintenance—As Required (Engine Belts)
-## Rotary Screen Driven Belt—Replacing
+#### Rotary Screen Driven Belt—Replacing
 Pull lockout pin (A) and rotate handrail (B) up until
 the handrail locks into place.
 Open engine access cover
@@ -17201,7 +17201,7 @@ Install the previously
 removed shield.
 
 # Maintenance—As Required (Engine Belts)
-## Fan Drive Belt—Replacing
+#### Fan Drive Belt—Replacing
 Pull lockout pin (A) and rotate handrail (B) up until
 the handrail locks into place.
 Open engine access cover
@@ -17224,7 +17224,7 @@ Install the previously
 removed shield.
 
 # Maintenance—As Required (Engine Belts)
-## Air Conditioner Compressor/Alternator Belt—Replacing
+#### Air Conditioner Compressor/Alternator Belt—Replacing
 Pull lockout pin (A) and rotate handrail (B) up until
 the handrail locks into place.
 Open engine access cover
@@ -17242,11 +17242,11 @@ Install the previously
 removed shield.
 
 # Maintenance—As Required (Engine Belts)
-## Rotary Screen Belt—Routing
+#### Rotary Screen Belt—Routing
 
 
 # Maintenance—As Required (Engine Belts)
-## Rotary Screen Drive Belt—Replacing
+#### Rotary Screen Drive Belt—Replacing
 Raise the rear gull wing door on the right-hand side
 of the machine.
 To detension the rotary
@@ -17263,11 +17263,11 @@ Tension the rotary screen
 drive belt by lifting the handle into the upper position.
 
 # Maintenance—As Required (Engine Belts)
-## Rotary Screen Brush—Adjustment
+#### Rotary Screen Brush—Adjustment
 
 
 # Troubleshooting
-## Feeder House
+#### Feeder House
 Uneven or Bunched Feeding of Crop to Separator
 Header auger too high.
 Adjust auger down and
@@ -17295,7 +17295,7 @@ Buildup of dirt and sap on bottom of the feeder house.
 Clean feeder house floor.
 
 # Troubleshooting
-## Separator
+#### Separator
 Slugging or Overloading of Separator
 Separator variable drive belt is slipping at the slow
 end of each gear.
@@ -17438,7 +17438,7 @@ speed (feeder house and feed accelerator) to balance straw quality
 and material handling performance.
 
 # Troubleshooting
-## Hydrostatic Ground Drive
+#### Hydrostatic Ground Drive
 System Overheats
 Oil cooler or radiator plugged.
 Perform a Service Clean
@@ -17533,7 +17533,7 @@ See your John Deere
 dealer.
 
 # Troubleshooting
-## Hydraulics
+#### Hydraulics
 Hydraulic Oil Level Too High
 Too much oil in the system.
 See Hydrostatic/Hydraulic
@@ -17604,7 +17604,7 @@ See your John Deere
 dealer.
 
 # Troubleshooting
-## Four-Wheel Drive (Optional)
+#### Four-Wheel Drive (Optional)
 Machine Will Not Move when Four-Wheel Drive is Engaged
 System detects ground drive faults.
 See your John Deere dealer.
@@ -17629,7 +17629,7 @@ See your John Deere
 dealer.
 
 # Troubleshooting
-## Steering
+#### Steering
 Rear Wheels Wander During Transport Speeds
 Toe-in out of adjustment.
 Adjust toe-in. See your
@@ -17655,7 +17655,7 @@ Issue with the steering pump or steering valve.
 See your John Deere dealer.
 
 # Troubleshooting
-## Brakes
+#### Brakes
 Loss of Service Braking Power
 Inadequate brake work pressure.
 Tighten connections
@@ -17707,7 +17707,7 @@ See your John Deere
 dealer.
 
 # Troubleshooting
-## Engine
+#### Engine
 Engine Will Not Crank
 Weak battery.
 Charge or replace battery.
@@ -18168,7 +18168,7 @@ Test thermostats; replace
 thermostats as required.
 
 # Troubleshooting
-## Electrical
+#### Electrical
 Undercharged System
 Excessive electrical load from added accessories.
 Remove accessories or
@@ -18238,7 +18238,7 @@ Blown fuse.
 Replace fuse.
 
 # Troubleshooting
-## Heater
+#### Heater
 Heater Not Blowing Warm Air (poor air flow).
 Dirty cab fresh air filter.
 Clean or replace filter.
@@ -18260,7 +18260,7 @@ Faulty blend air door.
 See your John Deere dealer.
 
 # Troubleshooting
-## Air Conditioner
+#### Air Conditioner
 Insufficient Cooling (poor airflow)
 Dirty cab fresh air filter.
 Clean or replace filter.
@@ -18341,7 +18341,7 @@ is cycling rapidly.
 Check refrigerant pressure. See your John Deere dealer.
 
 # Troubleshooting
-## Moisture Sensor
+#### Moisture Sensor
 Moisture Consistently Too Low or Too High
 Green plant sap or weed seed buildup on moisture sensor
 plate.
@@ -18369,7 +18369,7 @@ Clear obstructions from
 the bypass.
 
 # Troubleshooting
-## Mass Flow Sensor
+#### Mass Flow Sensor
 Yield Constantly Too High or Too Low
 System is out of calibration.
 Change yield calibration.
@@ -18394,7 +18394,7 @@ accumulated wet weight is increasing. If the wet weight is not increasing,
 see your John Deere dealer for further information.
 
 # Troubleshooting
-## Combine Advisor™
+#### Combine Advisor™
 Auto Maintain Faults or Diagnostic Trouble Code for Low
 Crop Flow
 Incorrect crop selection.
@@ -18408,7 +18408,7 @@ Replace the camera desiccant
 cartridge. See Maintenance—As Required section for further information.
 
 # Storage
-## Preparing Machine for Storage
+#### Preparing Machine for Storage
 Swing out condenser and oil cooler and clean radiator with air,
 water, or a vacuum cleaner.
 Clean condenser and oil cooler after cleaning radiator. Clean
@@ -18477,7 +18477,7 @@ It is recommended to lower the feeder house roughly 50 mm (2
 in) before shutting the machine off for long term storage or service.
 
 # Storage
-## Removing Machine from Storage
+#### Removing Machine from Storage
 Reconnect and/or charge batteries.
 Charge batteries completely. Specific gravity equals 1.260 volts.
 To minimize load to the batteries, remove negative lead to the batteries.
@@ -18494,7 +18494,7 @@ maintenance instructions on the fire extinguisher label. Recharge
 or replace as necessary.
 
 # Specifications
-## Operating Speeds
+#### Operating Speeds
 Speeds shown are average and can vary from machine to machine.
 Operating speed specifications and design subject to change
 without notice.
@@ -18523,7 +18523,7 @@ without notice.
 </table>
 
 # Specifications
-## Specifications
+#### Specifications
 Specifications and design subject to change without notice.
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Specifications</caption>
@@ -18612,7 +18612,7 @@ Specifications and design subject to change without notice.
 </table>
 
 # Specifications
-## Dimensions
+#### Dimensions
 Dimensions are approximate and subject to change without
 notice.
 <table style='border-collapse: collapse; width: 100%;'>
@@ -18806,11 +18806,11 @@ notice.
 </table>
 
 # Specifications
-## Dimension Reference Points
+#### Dimension Reference Points
 
 
 # Specifications
-## Emissions Control System Certification Label
+#### Emissions Control System Certification Label
 Statutes providing severe penalties for tampering with
 emissions controls may apply to the user or dealer.
 The emissions warranty applies to those engines marketed by
@@ -18839,7 +18839,7 @@ prior to or after the sale and delivery of the engines/equipment to
 the ultimate purchaser.
 
 # Specifications
-## Carbon Dioxide Emissions (CO₂)
+#### Carbon Dioxide Emissions (CO₂)
 To identify the carbon dioxide (CO₂) output, locate the engine
 emissions label. Find the appropriate family on the emissions label
 and reference the chart.
@@ -18942,7 +18942,7 @@ for family identification on the chart.
 </table>
 
 # Specifications
-## CARB Non-road Emissions Control Warranty Statement—Compression
+#### CARB Non-road Emissions Control Warranty Statement—Compression
 Ignition
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement 2019 through 2021 — 1/2</caption>
@@ -18984,7 +18984,7 @@ Ignition
 </table>
 
 # Specifications
-## EPA Non-road Emissions Control Warranty Statement—Compression
+#### EPA Non-road Emissions Control Warranty Statement—Compression
 Ignition
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Emissions Control Warranty Statement</caption>
@@ -18999,7 +18999,7 @@ Ignition
 </table>
 
 # Specifications
-## Limited Battery Warranty
+#### Limited Battery Warranty
 Applicable in North America only. For complete machine
 warranty, reference a copy of the John Deere warranty statement. Contact
 your John Deere dealer to obtain a copy.
@@ -19035,7 +19035,7 @@ John Deere, or to modify the terms or limitations of this warranty
 in any way.
 
 # Specifications
-## LICENSE AGREEMENT FOR JOHN DEERE IMAGE PROCESSING MODULE SOFTWARE
+#### LICENSE AGREEMENT FOR JOHN DEERE IMAGE PROCESSING MODULE SOFTWARE
 a. Term. This Agreement will commence as of the Effective Date
 and expire upon the earlier of i) the useful life of the IPM or ii)
 the date John Deere terminates this Agreement in accordance with the
@@ -19048,7 +19048,7 @@ to your use of the Software or John Deere's rights, including, without
 limitation, the provisions of Sections 3 and 4 above.
 
 # Specifications
-## Third-Party Software Notifications and Licenses for Image Processing
+#### Third-Party Software Notifications and Licenses for Image Processing
 Module
 The copyrights for certain portions of the Software may be owned
 or licensed by other third parties (“Third-Party Software”) and used
@@ -19093,7 +19093,7 @@ by sending a request letter to:
 </table>
 
 # Specifications
-## Unified Inch Bolt and Screw Torque Values
+#### Unified Inch Bolt and Screw Torque Values
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Unified Inch Bolt and Screw Torque Values</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -19451,7 +19451,7 @@ by sending a request letter to:
 </table>
 
 # Specifications
-## Metric Bolt and Screw Torque Values
+#### Metric Bolt and Screw Torque Values
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Metric Torque Values</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -19802,7 +19802,7 @@ by sending a request letter to:
 </table>
 
 # Machine Identification Numbers
-## Interpreting Machine Serial Number
+#### Interpreting Machine Serial Number
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Manufacturer Code</caption>
 <tbody>
@@ -19967,7 +19967,7 @@ by sending a request letter to:
 </table>
 
 # Machine Identification Numbers
-## Identification Numbers
+#### Identification Numbers
 Your machine has these various identification plates. The letters
 and numbers stamped on these plates identify a component or assembly.
 ALL of these characters are needed when ordering parts or identifying
@@ -19977,18 +19977,18 @@ it is ever stolen. ACCURATELY record these characters in the spaces
 provided in each of the following photographs.
 
 # Machine Identification Numbers
-## Machine Identification Plate
+#### Machine Identification Plate
 
 
 # Machine Identification Numbers
-## Machine Identification Plate Location
+#### Machine Identification Plate Location
 This information applies only to products which bear the
 EAC conformity mark of the Eurasian Economic Union member states.
 The compliance label (A) is located on the right-hand side of
 the machine mainframe.
 
 # Machine Identification Numbers
-## Interpreting Engine Serial Number
+#### Interpreting Engine Serial Number
 <table style='border-collapse: collapse; width: 100%;'>
 <caption style='font-weight: bold; text-align: center; margin-bottom: 10px;'>Engine Serial Numbers</caption>
 <thead style='background-color: #f2f2f2;'>
@@ -20038,55 +20038,55 @@ the machine mainframe.
 </table>
 
 # Machine Identification Numbers
-## Engine Serial Number
+#### Engine Serial Number
 
 
 # Machine Identification Numbers
-## Cab Serial Number
+#### Cab Serial Number
 
 
 # Machine Identification Numbers
-## Hydrostatic Drive Pump
+#### Hydrostatic Drive Pump
 
 
 # Machine Identification Numbers
-## Hydrostatic Drive Motor
+#### Hydrostatic Drive Motor
 
 
 # Machine Identification Numbers
-## Two-Speed Four-Wheel Drive Motor
+#### Two-Speed Four-Wheel Drive Motor
 Located on the top side of the four-wheel drive motor.
 
 # Machine Identification Numbers
-## Engine Gear Case
+#### Engine Gear Case
 
 
 # Machine Identification Numbers
-## Rotor Drive Gear Case
+#### Rotor Drive Gear Case
 Located on the left-hand side of the rotor drive gear case.
 
 # Machine Identification Numbers
-## Transmission
+#### Transmission
 
 
 # Machine Identification Numbers
-## Feeder House Reverser
+#### Feeder House Reverser
 Located on the front of the feeder house reverser.
 
 # Machine Identification Numbers
-## Feed Accelerator Gear Case
+#### Feed Accelerator Gear Case
 
 
 # Machine Identification Numbers
-## Chopper
+#### Chopper
 
 
 # Machine Identification Numbers
-## Spreader
+#### Spreader
 
 
 # Machine Identification Numbers
-## Keep Proof of Ownership
+#### Keep Proof of Ownership
 Maintain in a secure location an up-to-date inventory
 of all product and component serial numbers.
 Regularly verify that identification plates have not been
@@ -20097,7 +20097,7 @@ Mark your machine with your own numbering system
 Take color photographs from several angles of each machine
 
 # Machine Identification Numbers
-## Keep Machines Secure
+#### Keep Machines Secure
 Install vandal-proof devices.
 When machine is in storage:
 Lower equipment to the ground
@@ -20112,7 +20112,7 @@ immediately to law enforcement agencies.
 Notify your John Deere dealer of any losses.
 
 # John Deere Service Literature Available
-## Technical Information
+#### Technical Information
 Technical information can be purchased from John Deere. Publications
 are available in print or CD-ROM format.
 Orders can be made using one of the following:
@@ -20134,7 +20134,7 @@ Fundamentals of Compact Equipment manuals provide instruction
 in servicing and maintaining equipment up to 40 PTO horsepower.
 
 # John Deere Service Keeps You on the Job
-## John Deere Is At Your Service
+#### John Deere Is At Your Service
 CUSTOMER SATISFACTION is important to John Deere.
 Our dealers strive to provide you with prompt, efficient parts
 and service:
